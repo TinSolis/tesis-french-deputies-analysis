@@ -39,7 +39,6 @@ En la **raíz** solo están **README.md** y este **ESTRUCTURA.md**. Todo lo dem�
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **datos_diputados/data/**                      | deputes_twitter_rd.csv, deputes_twitter.csv, deputes_an_rd.csv, deputes_rd.csv, ZIP AN, nosdeputes (referencia). |
 | **zeeschuimer/captures/**                      | Exports ndjson de Zeeschuimer.                                                                                   |
-| **zeeschuimer/url_list.csv**, **url_list.txt** | Generados por generate_twitter_url_list.                                                                         |
 | **lois_votes/data/**                           | Scrutins_XV y Dossiers XV.                                                                                       |
 
 
@@ -53,7 +52,7 @@ En la **raíz** solo están **README.md** y este **ESTRUCTURA.md**. Todo lo dem�
 | **README.md** (raíz)                  | Visión general y subcarpetas.                    |
 | **ESTRUCTURA.md**                     | Este archivo.                                    |
 | **datos_diputados/README.md**         | Flujo diputados (fetch → build twitter → merge). |
-| **zeeschuimer/README_ZEESCHUIMER.md** | Zeeschuimer y merge con diputados.               |
+| **zeeschuimer/README.md** | Zeeschuimer y merge con diputados.               |
 | **lois_votes/README_LOIS_VOTES.md**   | Leyes y votos (Scrutins/Dossiers).               |
 
 
