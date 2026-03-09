@@ -1,0 +1,669 @@
+id,full_name,family_name,first_name,gender,birth_date,birth_place,dept_num,district_name,district_num,mandate_start,mandate_end,former_deputy,political_group_abbrev,political_group
+720916,Fiona Lazaar,Lazaar,Fiona,F,1985-09-19,,95,Val-d'Oise,5,2017-06-18,,0,LAREM,La République en Marche
+267785,Guillaume Larrivé,Larrivé,Guillaume,H,1977-01-24,Mulhouse,89,Yonne,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+337633,Annick Girardin,Girardin,Annick,F,1964-08-03,Saint-Malo,975,Saint-Pierre-et-Miquelon,1,2017-06-18,2017-07-21,1,LAREM,La République en Marche
+720830,Valérie Thomas,Thomas,Valérie,F,1968-01-21,Desertines,63,Puy-de-Dôme,1,2017-06-18,,0,LAREM,La République en Marche
+607155,Yves Daniel,Daniel,Yves,H,1954-07-31,Mouais,44,Loire-Atlantique,6,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+721726,Sereine Mauborgne,Mauborgne,Sereine,F,1972-05-03,Le Mans,83,Var,4,2017-06-18,,0,LAREM,La République en Marche
+607193,Sophie Errante,Errante,Sophie,F,1971-07-22,Nantes,44,Loire-Atlantique,10,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+267042,Yannick Favennec-Bécot,Favennec-Bécot,Yannick,H,1958-08-12,Chaudron-en-Mauges,53,Mayenne,3,2012-06-20,2017-06-20,1,UDI_I,UDI et Indépendants
+695100,Meyer Habib,Habib,Meyer,H,1961-04-28,Paris 12,099,Français établis hors de France,8,2013-06-09,2017-06-20,1,UDI-AGIR,"UDI, Agir et Indépendants"
+720030,Alexandre Freschi,Freschi,Alexandre,H,1979-05-17,Marmande,47,Lot-et-Garonne,2,2017-06-18,,0,LAREM,La République en Marche
+719866,Caroline Abadie,Abadie,Caroline,F,1976-09-07,Saint-Martin-d'Hères,38,Isère,8,2017-06-18,,0,LAREM,La République en Marche
+608083,Brigitte Bourguignon,Bourguignon,Brigitte,F,1959-03-21,Boulogne-sur-Mer,62,Pas-de-Calais,6,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+720772,Vincent Bru,Bru,Vincent,H,1955-04-29,Bayonne,64,Pyrénées-Atlantiques,6,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+721800,Fabien Matras,Matras,Fabien,H,1984-09-12,Grenoble,83,Var,8,2017-06-18,,0,LAREM,La République en Marche
+720138,Laetitia Saint-Paul,Saint-Paul,Laetitia,F,1981-01-21,Chartres,49,Maine-et-Loire,4,2017-06-18,,0,LAREM,La République en Marche
+720614,Marine Le Pen,Le Pen,Marine,F,1968-08-05,Neuilly-sur-Seine,62,Pas-de-Calais,11,2017-06-18,,0,NI,Non inscrit
+720560,Perrine Goulet,Goulet,Perrine,F,1978-03-19,Nevers,58,Nièvre,1,2017-06-18,,0,LAREM,La République en Marche
+607489,Guillaume Chevrollier,Chevrollier,Guillaume,H,1974-10-27,Chateau Gontier,53,Mayenne,2,2012-06-20,2017-06-20,1,,
+719484,Catherine Daufès-Roux,Daufès-Roux,Catherine,F,1963-04-24,Alès,30,Gard,5,2017-06-18,,0,LAREM,La République en Marche
+609726,Julien Aubert,Aubert,Julien,H,1978-06-11,Marseille,84,Vaucluse,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+267780,Agnès Firmin Le Bodo,Firmin Le Bodo,Agnès,F,1968-11-20,Le Havre,76,Seine-Maritime,7,2017-06-18,,0,UDI_I,UDI et Indépendants
+266808,Vincent Rolland,Rolland,Vincent,H,1970-02-01,Moutiers,73,Savoie,2,2017-06-18,,0,LR,Les Républicains
+721560,Benjamin Griveaux,Griveaux,Benjamin,H,1977-12-29,Saint-Rémy,75,Paris,5,2017-06-18,2021-05-12,1,LAREM,La République en Marche
+718810,Mireille Robert,Robert,Mireille,F,1962-03-01,Orthez,11,Aude,3,2017-06-18,,0,LAREM,La République en Marche
+718674,Olga Givernet,Givernet,Olga,F,1981-10-17,Saint-Germain-en-Laye,01,Ain,3,2017-06-18,,0,LAREM,La République en Marche
+719092,Frédérique Tuffnell,Tuffnell,Frédérique,F,1956-06-29,Châtellerault,17,Charente-Maritime,2,2017-06-18,,0,LAREM,La République en Marche
+605963,Éric Alauzet,Alauzet,Éric,H,1958-06-07,Nancy,25,Doubs,2,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+721946,Jacques Marilossian,Marilossian,Jacques,H,1958-07-26,LE PUY EN VELAY,92,Hauts-de-Seine,7,2017-06-18,,0,LAREM,La République en Marche
+720780,Jean-Bernard Sempastous,Sempastous,Jean-Bernard,H,1964-08-05,Bagnères-de-Bigorre,65,Hautes-Pyrénées,1,2017-06-18,,0,LAREM,La République en Marche
+337483,Serge Letchimy,Letchimy,Serge,H,1953-01-13,Gros Morne,972,Martinique,3,2017-06-18,2021-07-01,1,SOC,Socialistes et apparentés
+720516,Florence Morlighem,Morlighem,Florence,F,1970-04-10,Roubaix,59,Nord,11,2017-06-18,,0,LAREM,La République en Marche
+720146,Denis Masséglia,Masséglia,Denis,H,1981-04-11,Nice,49,Maine-et-Loire,5,2017-06-18,,0,LAREM,La République en Marche
+721032,Carine Sinaï-Bossou,Sinaï-Bossou,Carine,F,1973-02-15,,973,Guyane,1,2017-06-18,2021-08-02,1,,
+334768,Jean-Louis Touraine,Touraine,Jean-Louis,H,1945-10-08,Lyon (3ème arrondissement),69,Rhône,3,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+267306,André Chassaigne,Chassaigne,André,H,1950-07-02,Clermont-Ferrand,63,Puy-de-Dôme,5,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+332747,François de Rugy,de Rugy,François,H,1973-12-06,Nantes,44,Loire-Atlantique,1,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+721466,Gilles Le Gendre,Le Gendre,Gilles,H,1958-05-13,Neuilly-sur-Seine,75,Paris,2,2017-06-18,,0,LAREM,La République en Marche
+607619,Paul Molac,Molac,Paul,H,1962-05-21,Ploërmel,56,Morbihan,4,2012-06-20,2017-06-20,1,LT,Libertés et Territoires
+720092,Richard Ramos,Ramos,Richard,H,1968-03-23,Blois,45,Loiret,6,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+588884,Clémentine Autain,Autain,Clémentine,F,1973-05-26,Saint-Cloud,93,Seine-Saint-Denis,11,2017-06-18,,0,FI,La France insoumise
+722218,Cécile Delpirou,Delpirou,Cécile,F,1964-03-23,Saint-Maur-des-Fossés,80,Somme,2,2017-06-18,,0,LAREM,La République en Marche
+1206,Nicolas Dupont-Aignan,Dupont-Aignan,Nicolas,H,1961-03-07,Paris,91,Essonne,8,2012-06-20,2017-06-20,1,NI,Non inscrit
+340357,Michèle Victory,Victory,Michèle,F,1958-10-28,Bône,07,Ardèche,2,2017-06-18,,0,NG,Nouvelle Gauche
+720854,Stéphane Testé,Testé,Stéphane,H,1968-05-10,Aulnay-sous-Bois,93,Seine-Saint-Denis,12,2017-06-18,,0,LAREM,La République en Marche
+332614,Régis Juanico,Juanico,Régis,H,1972-02-05,Saint-Rémy,42,Loire,1,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+721644,Rodrigue Kokouendo,Kokouendo,Rodrigue,H,1974-03-08,Bangui,77,Seine-et-Marne,7,2017-06-18,,0,LAREM,La République en Marche
+331481,Bruno Le Maire,Le Maire,Bruno,H,1969-04-15,Neuilly-sur-Seine,27,Eure,1,2017-06-18,2017-07-21,1,LAREM,La République en Marche
+719006,Fabrice Le Vigoureux,Le Vigoureux,Fabrice,H,1969-08-27,Caen,14,Calvados,1,2017-06-18,,0,LAREM,La République en Marche
+336316,Jean-Claude Bouchet,Bouchet,Jean-Claude,H,1957-05-02,Cavaillon,84,Vaucluse,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+748954,Antoine Savignat,Savignat,Antoine,H,1975-07-22,Cormeilles-en-Parisis,95,Val-d'Oise,1,2018-02-04,,0,LR,Les Républicains
+720134,Elisabeth Marquet,Marquet,Elisabeth,F,1960-11-20,,49,Maine-et-Loire,3,2017-06-18,2020-08-01,1,,
+721202,Éric Coquerel,Coquerel,Éric,H,1958-12-30,Courbevoie,93,Seine-Saint-Denis,1,2017-06-18,,0,FI,La France insoumise
+1960,Maurice Leroy,Leroy,Maurice,H,1959-02-02,Paris,41,Loir-et-Cher,3,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+718706,Emmanuelle Fontaine-Domeizel,Fontaine-Domeizel,Emmanuelle,F,1973-08-28,Manosque,04,Alpes-de-Haute-Provence,2,2017-06-18,2020-08-03,1,LAREM,La République en Marche
+643103,Jean-Jacques Ferrara,Ferrara,Jean-Jacques,H,1967-06-16,Marseille,2A,Corse-du-Sud,1,2017-06-18,,0,LR,Les Républicains
+719504,Jean-Luc Lagleize,Lagleize,Jean-Luc,H,1958-09-09,Tarbes,31,Haute-Garonne,2,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+718794,Danièle Hérin,Hérin,Danièle,F,1947-01-14,Carcassonne,11,Aude,1,2017-06-18,,0,LAREM,La République en Marche
+719266,Jean-Pierre Cubertafon,Cubertafon,Jean-Pierre,H,1948-02-05,Lanouaille,24,Dordogne,3,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+342601,Pascal Brindeau,Brindeau,Pascal,H,1974-06-20,Vendôme,41,Loir-et-Cher,3,2017-06-18,,0,UDI-I,UDI et Indépendants
+719350,Marie Tamarelle-Verhaeghe,Tamarelle-Verhaeghe,Marie,F,1962-09-27,Petit-Quevilly,27,Eure,3,2017-06-18,,0,LAREM,La République en Marche
+604,Bernard Bouley,Bouley,Bernard,H,1950-07-11,Paris,91,Essonne,2,2017-06-18,,0,LR,Les Républicains
+720928,David Corceiro,Corceiro,David,H,1977-08-03,Saint-Denis,95,Val-d'Oise,6,2017-06-18,2022-04-05,1,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+719194,Yolaine de Courson,de Courson,Yolaine,F,1954-07-14,Neuilly sur Seine,21,Côte-d'Or,4,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+721984,Philippe Latombe,Latombe,Philippe,H,1975-04-21,Paris 14,85,Vendée,1,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+719778,François Jolivet,Jolivet,François,H,1966-03-21,Chateauroux,36,Indre,1,2017-06-18,,0,LAREM,La République en Marche
+2155,Gérard Menuel,Menuel,Gérard,H,1952-05-07,Jasseines,10,Aube,3,2017-06-18,,0,LR,Les Républicains
+720006,Luc Geismar,Geismar,Luc,H,1966-11-01,Colmar,44,Loire-Atlantique,5,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+720438,Christophe Di Pompeo,Di Pompeo,Christophe,H,1964-07-15,Hautmont,59,Nord,3,2017-06-18,,0,LAREM,La République en Marche
+720888,Sarah Taillebois,Taillebois,Sarah,F,1990-09-17,,94,Val-de-Marne,9,2017-06-18,2020-06-24,1,,
+346054,Emmanuel Maquet,Maquet,Emmanuel,H,1968-06-02,Dieppe,80,Somme,3,2017-06-18,,0,LR,Les Républicains
+720278,Matthieu Orphelin,Orphelin,Matthieu,H,1972-12-03,Saint-Nazaire,49,Maine-et-Loire,1,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+677483,Stéphane Mazars,Mazars,Stéphane,H,1969-03-25,Saint-Yriex-la-Perche,12,Aveyron,1,2017-06-18,,0,LAREM,La République en Marche
+774952,Philippe Benassaya,Benassaya,Philippe,H,1964-08-04,Pantin,78,Yvelines,11,2020-09-20,,0,LR,Les Républicains
+720046,Audrey Dufeu,Dufeu,Audrey,F,1980-06-03,Saint-Nazaire,44,Loire-Atlantique,8,2017-06-18,,0,LAREM,La République en Marche
+720468,Sébastien Chenu,Chenu,Sébastien,H,1973-04-13,Beauvais,59,Nord,19,2017-06-18,,0,NI,Non inscrit
+721844,Béatrice Piron,Piron,Béatrice,F,1965-08-30,Martigues,78,Yvelines,3,2017-06-18,,0,LAREM,La République en Marche
+721150,Alexandre Holroyd,Holroyd,Alexandre,H,1987-05-17,Bale,099,Français établis hors de France,3,2017-06-18,,0,LAREM,La République en Marche
+719440,Anthony Cellier,Cellier,Anthony,H,1975-06-01,Pierrelatte,30,Gard,3,2017-06-18,,0,LAREM,La République en Marche
+720362,Belkhir Belhaddad,Belhaddad,Belkhir,H,1969-07-09,Timgad,57,Moselle,1,2017-06-18,,0,LAREM,La République en Marche
+267585,Francis Vercamer,Vercamer,Francis,H,1958-05-10,Lille,59,Nord,7,2012-06-20,2017-06-20,1,UDI-AGIR,"UDI, Agir et Indépendants"
+331567,Laure de La Raudière,de La Raudière,Laure,F,1965-02-12,Neuilly-sur-Seine,28,Eure-et-Loir,3,2017-06-18,2021-01-21,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+722202,Sébastien Jumel,Jumel,Sébastien,H,1971-12-20,Saint-Adresse,76,Seine-Maritime,6,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+332523,Marie-Christine Dalloz,Dalloz,Marie-Christine,F,1958-01-10,Saint-Claude,39,Jura,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+721824,Hugues Renson,Renson,Hugues,H,1978-02-11,Paris 15,75,Paris,13,2017-06-18,,0,LAREM,La République en Marche
+719946,Guillaume Peltier,Peltier,Guillaume,H,1976-08-27,Paris 14,41,Loir-et-Cher,2,2017-06-18,,0,LR,Les Républicains
+590034,Marie-Arlette Carlotti,Carlotti,Marie-Arlette,F,1952-01-21,Béziers,13,Bouches-du-Rhône,5,2012-06-20,2017-06-20,1,,
+330909,Vincent Descoeur,Descoeur,Vincent,H,1962-12-13,Aurillac,15,Cantal,1,2017-06-18,,0,LR,Les Républicains
+722150,Sacha Houlié,Houlié,Sacha,H,1988-10-08,Bressuire,86,Vienne,2,2017-06-18,,0,LAREM,La République en Marche
+720038,Sandrine Josso,Josso,Sandrine,F,1975-09-19,Guérande,44,Loire-Atlantique,7,2017-06-18,,0,LT,Libertés et Territoires
+720488,Valérie Six,Six,Valérie,F,1963-01-11,Séclin,59,Nord,7,2017-06-18,,0,UDI_I,UDI et Indépendants
+719814,Fabienne Colboc,Colboc,Fabienne,F,1971-08-09,Thiais,37,Indre-et-Loire,4,2017-06-18,,0,LAREM,La République en Marche
+607595,Hervé Pellois,Pellois,Hervé,H,1951-04-17,La Chapelle Blanche,56,Morbihan,1,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+720210,Valérie Beauvais,Beauvais,Valérie,F,1963-03-08,Nevers,51,Marne,1,2017-06-18,,0,LR,Les Républicains
+720576,Pascal Bois,Bois,Pascal,H,1959-12-03,Paris,60,Oise,3,2017-06-18,,0,LAREM,La République en Marche
+718962,Jean-Marc Zulesi,Zulesi,Jean-Marc,H,1988-06-06,Marseille,13,Bouches-du-Rhône,8,2017-06-18,,0,LAREM,La République en Marche
+606712,Gilles Lurton,Lurton,Gilles,H,1963-07-06,Saint-Servan-sur Mer,35,Ille-et-Vilaine,7,2012-06-20,2017-06-20,1,LR,Les Républicains
+721398,Typhanie Degois,Degois,Typhanie,F,1993-01-06,Fourmies,73,Savoie,1,2017-06-18,,0,LAREM,La République en Marche
+267450,Rémi Delatte,Delatte,Rémi,H,1956-06-09,Dijon,21,Côte-d'Or,2,2017-06-18,,0,LR,Les Républicains
+330008,Xavier Breton,Breton,Xavier,H,1962-11-25,Darney,01,Ain,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+721336,Blandine Brocard,Brocard,Blandine,F,1981-11-03,Strasbourg,69,Rhône,5,2017-06-18,,0,LAREM,La République en Marche
+334843,Patrice Verchère,Verchère,Patrice,H,1973-12-29,Le Coteau,69,Rhône,8,2012-06-20,2017-06-20,1,LR,Les Républicains
+719436,Nicolas Meizonnet,Meizonnet,Nicolas,H,1983-12-22,Nîmes,30,Gard,2,2017-06-18,,0,NI,Non inscrit
+721564,Élise Fajgeles,Fajgeles,Élise,F,1970-07-06,Sartrouville,75,Paris,5,2017-06-18,2019-04-27,1,LAREM,La République en Marche
+720402,Xavier Paluszkiewicz,Paluszkiewicz,Xavier,H,1972-12-13,Villerupt,54,Meurthe-et-Moselle,3,2017-06-18,,0,LAREM,La République en Marche
+719108,Raphaël Gérard,Gérard,Raphaël,H,1968-10-17,Cirey-sur-Vezouze,17,Charente-Maritime,4,2017-06-18,,0,LAREM,La République en Marche
+223837,Bernard Brochand,Brochand,Bernard,H,1938-06-05,Nice,06,Alpes-Maritimes,8,2017-06-18,,0,LR,Les Républicains
+720622,Carole Bureau-Bonnard,Bureau-Bonnard,Carole,F,1965-08-09,La Fère,60,Oise,6,2017-06-18,,0,LAREM,La République en Marche
+722022,Laëtitia Romeiro Dias,Romeiro Dias,Laëtitia,F,1981-01-15,Paris 13ème,91,Essonne,3,2017-06-18,,0,LAREM,La République en Marche
+643184,Brigitte Klinkert,Klinkert,Brigitte,F,1956-07-22,,68,Haut-Rhin,1,2017-06-18,2020-07-29,1,,
+719736,Camille Galliard-Minier,Galliard-Minier,Camille,F,1975-05-26,La Tronche,38,Isère,1,2017-06-18,,0,LAREM,La République en Marche
+719558,Erwan Balanant,Balanant,Erwan,H,1971-02-21,Lorient,29,Finistère,8,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+719326,Séverine Gipson,Gipson,Séverine,F,1970-12-13,Évreux,27,Eure,1,2017-06-18,,0,LAREM,La République en Marche
+720178,Laurent Garcia,Garcia,Laurent,H,1970-05-31,Paris (16e),54,Meurthe-et-Moselle,2,2017-06-18,2022-01-29,1,MODEM,Mouvement Démocrate et apparentés
+746,Gilles Carrez,Carrez,Gilles,H,1948-08-29,Paris,94,Val-de-Marne,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+718736,Bénédicte Peyrol,Peyrol,Bénédicte,F,1991-03-23,Vichy,03,Allier,3,2017-06-18,,0,LAREM,La République en Marche
+709315,Arnaud Viala,Viala,Arnaud,H,1974-12-04,Millau,12,Aveyron,3,2015-09-13,2017-06-20,1,LR,Les Républicains
+713448,Marine Brenier,Brenier,Marine,F,1986-08-11,Nice,06,Alpes-Maritimes,5,2016-05-29,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+718918,Alexandra Louis,Louis,Alexandra,F,1983-09-17,Grenoble,13,Bouches-du-Rhône,3,2017-06-18,,0,LAREM,La République en Marche
+719676,Muriel Ressiguier,Ressiguier,Muriel,F,1977-12-21,Châteauroux,34,Hérault,2,2017-06-18,,0,FI,La France insoumise
+722194,Florence Provendier,Provendier,Florence,F,1965-10-28,Saint-Denis,92,Hauts-de-Seine,10,2017-06-18,,0,LAREM,La République en Marche
+719652,Véronique Hammerer,Hammerer,Véronique,F,1968-11-04,Dax,33,Gironde,11,2017-06-18,,0,LAREM,La République en Marche
+722268,Martine Wonner,Wonner,Martine,F,1964-03-27,Hayange,67,Bas-Rhin,4,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+719790,Philippe Chalumeau,Chalumeau,Philippe,H,1963-11-08,Rochefort,37,Indre-et-Loire,1,2017-06-18,,0,LAREM,La République en Marche
+720568,Agnès Thill,Thill,Agnès,F,1964-06-02,Paris 14ème,60,Oise,2,2017-06-18,,0,UDI_I,UDI et Indépendants
+720014,Huguette Tiegna,Tiegna,Huguette,F,1982-04-01,Bangassogo,46,Lot,2,2017-06-18,,0,LAREM,La République en Marche
+718868,Michel Larive,Larive,Michel,H,1966-08-22,Paris 14ème,09,Ariège,2,2017-06-18,,0,FI,La France insoumise
+334149,Daniel Fasquelle,Fasquelle,Daniel,H,1963-01-16,Saint-Omer,62,Pas-de-Calais,4,2012-06-20,2017-06-20,1,LR,Les Républicains
+718744,Delphine Bagarry,Bagarry,Delphine,F,1970-01-09,Lyon,04,Alpes-de-Haute-Provence,1,2017-06-18,,0,LAREM,La République en Marche
+718710,Pascale Boyer,Boyer,Pascale,F,1965-09-28,Saint Mandé,05,Hautes-Alpes,1,2017-06-18,,0,LAREM,La République en Marche
+718978,Mohamed Laqhila,Laqhila,Mohamed,H,1959-08-03,Oulmès,13,Bouches-du-Rhône,11,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+719146,Jean-Félix Acquaviva,Acquaviva,Jean-Félix,H,1973-03-19,Bastia,2B,Haute-Corse,2,2017-06-18,,0,LT,Libertés et Territoires
+610634,Bruno Nestor Azerot,Azerot,Bruno Nestor,H,1961-07-22,Trinité,972,Martinique,2,2012-06-20,2017-06-20,1,GDR,Gauche démocrate et républicaine
+720054,Yannick Haury,Haury,Yannick,H,1954-06-12,Nantes,44,Loire-Atlantique,9,2017-06-18,,0,LAREM,La République en Marche
+718850,Pierre Cordier,Cordier,Pierre,H,1972-05-27,Charleville-Mézières,08,Ardennes,2,2017-06-18,,0,LR,Les Républicains
+721750,Céline Calvez,Calvez,Céline,F,1979-07-24,Rennes,92,Hauts-de-Seine,5,2017-06-18,,0,LAREM,La République en Marche
+717379,Sylvain Maillard,Maillard,Sylvain,H,1974-04-28,saint maur des fossés,75,Paris,1,2017-06-11,,0,LAREM,La République en Marche
+606212,Gilbert Collard,Collard,Gilbert,H,1948-02-03,Marseille,30,Gard,2,2012-06-20,2017-06-20,1,NI,Non inscrit
+721450,Marion Lenne,Lenne,Marion,F,1974-11-20,Gardanne,74,Haute-Savoie,5,2017-06-18,,0,LAREM,La République en Marche
+720696,Béatrice Descamps,Descamps,Béatrice,F,1961-04-24,Valenciennes,59,Nord,21,2017-06-18,,0,UDI-AGIR,"UDI, Agir et Indépendants"
+721584,Jean Terlier,Terlier,Jean,H,1977-03-02,Toulon,81,Tarn,3,2017-06-18,,0,LAREM,La République en Marche
+721674,Stéphanie Atger,Atger,Stéphanie,F,1975-10-11,Sarcelles,91,Essonne,6,2017-06-18,,0,LAREM,La République en Marche
+720342,Nicole Le Peih,Le Peih,Nicole,F,1959-09-28,Pontivy,56,Morbihan,3,2017-06-18,,0,LAREM,La République en Marche
+721004,Amélia Lakrafi,Lakrafi,Amélia,F,1978-03-20,Casablanca,099,Français établis hors de France,10,2017-06-18,,0,LAREM,La République en Marche
+610775,Philippe Gomès,Gomès,Philippe,H,1958-10-27,Alger,988,Nouvelle-Calédonie,2,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+720610,Myriane Houplain,Houplain,Myriane,F,1946-06-05,Beuvry,62,Pas-de-Calais,10,2017-06-18,,0,NI,Non inscrit
+643004,Grégory Labille,Labille,Grégory,H,1968-07-10,Tourcoing,80,Somme,5,2017-06-11,,0,UDI_I,UDI et Indépendants
+610681,Ericka Bareigts,Bareigts,Ericka,F,1967-04-16,Saint-Denis,974,Réunion,1,2017-06-18,2020-07-13,1,NG,Nouvelle Gauche
+720124,Aude Amadou,Amadou,Aude,F,1980-02-29,Coutances,44,Loire-Atlantique,4,2017-06-18,,0,LAREM,La République en Marche
+1276,Michel Fanget,Fanget,Michel,H,1950-05-03,Clermont-Ferrand,63,Puy-de-Dôme,4,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+720668,Emmanuel Blairy,Blairy,Emmanuel,H,1986-03-14,Lens,62,Pas-de-Calais,3,2017-06-18,,0,NI,Non inscrit
+267204,Jean-Marie Sermier,Sermier,Jean-Marie,H,1961-03-05,Nozeroy,39,Jura,3,2012-06-20,2017-06-20,1,LR,Les Républicains
+719942,Stéphane Baudu,Baudu,Stéphane,H,1965-05-01,Blois,41,Loir-et-Cher,1,2017-06-18,2021-07-27,1,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+719242,Jean-Baptiste Moreau,Moreau,Jean-Baptiste,H,1977-02-14,Guéret,23,Creuse,1,2017-06-18,,0,LAREM,La République en Marche
+712015,Julien Dive,Dive,Julien,H,1985-05-21,Saint-Quentin,02,Aisne,2,2016-03-20,2017-06-20,1,LR,Les Républicains
+336439,Jean-Michel Clément,Clément,Jean-Michel,H,1954-10-31,Mauprevoir,86,Vienne,3,2012-06-20,2017-06-20,1,LT,Libertés et Territoires
+718954,Saïd Ahamada,Ahamada,Saïd,H,1972-11-07,Saint-Denis,13,Bouches-du-Rhône,7,2017-06-18,,0,LAREM,La République en Marche
+719616,Christophe Euzet,Euzet,Christophe,H,1967-04-02,Perpignan,34,Hérault,7,2017-06-18,,0,LAREM,La République en Marche
+721616,Pacôme Rupin,Rupin,Pacôme,H,1985-01-25,Chambray-lès-Tours,75,Paris,7,2017-06-18,,0,LAREM,La République en Marche
+719520,Mickaël Nogal,Nogal,Mickaël,H,1990-11-26,Toulouse,31,Haute-Garonne,4,2017-06-18,2022-02-28,1,LAREM,La République en Marche
+721046,Nathalie Bassire,Bassire,Nathalie,F,1968-01-22,Saint-Pierre,974,Réunion,3,2017-06-18,,0,NI,Non inscrit
+721328,Anne Brugnera,Brugnera,Anne,F,1970-11-28,Versailles,69,Rhône,4,2017-06-18,,0,LAREM,La République en Marche
+718802,Alain Perea,Perea,Alain,H,1971-06-05,Béziers,11,Aude,2,2017-06-18,,0,LAREM,La République en Marche
+608416,Patrick Hetzel,Hetzel,Patrick,H,1964-07-02,Phalsbourg,67,Bas-Rhin,7,2012-06-20,2017-06-20,1,LR,Les Républicains
+643192,Chantal Jourdan,Jourdan,Chantal,F,1958-09-02,Domfront,61,Orne,1,2017-06-18,,0,SOC,Socialistes et apparentés
+720764,Florence Lasserre,Lasserre,Florence,F,1974-06-29,Bayonne,64,Pyrénées-Atlantiques,5,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+720822,Bruno Bilde,Bilde,Bruno,H,1976-09-22,Laxou,62,Pas-de-Calais,12,2017-06-18,,0,NI,Non inscrit
+609590,Valérie Rabault,Rabault,Valérie,F,1973-04-25,L'hay les Roses,82,Tarn-et-Garonne,1,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+719718,Laurence Maillart-Méhaignerie,Maillart-Méhaignerie,Laurence,F,1967-04-05,Paris,35,Ille-et-Vilaine,2,2017-06-18,,0,LAREM,La République en Marche
+719830,Nicolas Démoulin,Démoulin,Nicolas,H,1972-07-22,Bordeaux,34,Hérault,8,2017-06-18,,0,LAREM,La République en Marche
+2828,Alain Tourret,Tourret,Alain,H,1947-12-25,Boppard,14,Calvados,6,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+759192,Jean-Luc Poudroux,Poudroux,Jean-Luc,H,1950-08-29,Saint-Leu,974,Réunion,7,2018-09-30,,0,LR,Les Républicains
+331582,Philippe Vigier,Vigier,Philippe,H,1958-02-03,Valence,28,Eure-et-Loir,4,2012-06-20,2017-06-20,1,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+643089,Jean-Louis Thiériot,Thiériot,Jean-Louis,H,1969-06-26,Paris,77,Seine-et-Marne,3,2017-06-18,,0,LR,Les Républicains
+607395,Stéphane Travert,Travert,Stéphane,H,1969-10-12,Carentan,50,Manche,3,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+720286,Caroline Fiat,Fiat,Caroline,F,1977-01-28,VERDUN,54,Meurthe-et-Moselle,6,2017-06-18,,0,FI,La France insoumise
+721410,Émilie Bonnivard,Bonnivard,Émilie,F,1980-08-02,Chambéry,73,Savoie,3,2017-06-18,,0,LR,Les Républicains
+720414,Patrice Perrot,Perrot,Patrice,H,1964-02-24,Decize,58,Nièvre,2,2017-06-18,,0,LAREM,La République en Marche
+719664,Pascal Lavergne,Lavergne,Pascal,H,1967-08-28,Limoges,33,Gironde,12,2017-06-18,2020-08-03,1,LAREM,La République en Marche
+720704,Laurence Vichnievsky,Vichnievsky,Laurence,F,1955-02-05,Boulogne-Billancourt,63,Puy-de-Dôme,3,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+720630,Maxime Minot,Minot,Maxime,H,1987-07-20,Clermont-de-l'Oise,60,Oise,7,2017-06-18,,0,LR,Les Républicains
+333818,Christian Hutin,Hutin,Christian,H,1961-01-18,Lille,59,Nord,13,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+609520,Barbara Pompili,Pompili,Barbara,F,1975-06-13,Bois-Bernard,80,Somme,2,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+722240,Pierre Venteau,Venteau,Pierre,H,1974-08-26,Saint-Yrieix-la-Perche,87,Haute-Vienne,2,2017-06-18,,0,LAREM,La République en Marche
+719952,Jean-Michel Mis,Mis,Jean-Michel,H,1967-07-28,Saint-Étienne,42,Loire,2,2017-06-18,,0,LAREM,La République en Marche
+720512,Laurent Pietraszewski,Pietraszewski,Laurent,H,1966-11-19,Saint-Denis,59,Nord,11,2017-06-18,2020-01-17,1,LAREM,La République en Marche
+719822,Sabine Thillaye,Thillaye,Sabine,F,1959-05-18,Remscheid,37,Indre-et-Loire,5,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+721158,Pieyre-Alexandre Anglade,Anglade,Pieyre-Alexandre,H,1986-11-02,Paris 16,099,Français établis hors de France,4,2017-06-18,,0,LAREM,La République en Marche
+720790,Romain Grau,Grau,Romain,H,1974-06-21,Perpignan,66,Pyrénées-Orientales,1,2017-06-18,,0,LAREM,La République en Marche
+721458,Xavier Roseren,Roseren,Xavier,H,1970-01-12,Chamonix,74,Haute-Savoie,6,2017-06-18,,0,LAREM,La République en Marche
+721514,Stéphanie Kerbarh,Kerbarh,Stéphanie,F,1975-07-31,Orléans,76,Seine-Maritime,9,2017-06-18,,0,LAREM,La République en Marche
+267289,Jean-Pierre Door,Door,Jean-Pierre,H,1942-04-01,Sully-sur-Loire,45,Loiret,4,2012-06-20,2017-06-20,1,LR,Les Républicains
+441,Huguette Bello,Bello,Huguette,F,1950-08-24,Ravine-des-Cabris,974,Réunion,2,2017-06-18,2020-07-07,1,GDR,Gauche démocrate et républicaine
+719798,Daniel Labaronne,Labaronne,Daniel,H,1955-07-16,Paris,37,Indre-et-Loire,2,2017-06-18,,0,LAREM,La République en Marche
+722162,Nicolas Turquois,Turquois,Nicolas,H,1972-07-26,Tours,86,Vienne,4,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+721062,Jean-Hugues Ratenon,Ratenon,Jean-Hugues,H,1967-06-25,Saint-Benoît,974,Réunion,5,2017-06-18,,0,FI,La France insoumise
+332228,Thierry Benoit,Benoit,Thierry,H,1966-09-13,Fougères,35,Ille-et-Vilaine,6,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+267260,Bérengère Poletti,Poletti,Bérengère,F,1959-10-14,Biencourt-sur-Orge,08,Ardennes,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+267378,Geneviève Levy,Levy,Geneviève,F,1948-02-24,Marseille,83,Var,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+672,Jean-Jacques Bridey,Bridey,Jean-Jacques,H,1953-05-07,Nice,94,Val-de-Marne,7,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+719874,Élodie Jacquier-Laforge,Jacquier-Laforge,Élodie,F,1978-04-15,Grenoble,38,Isère,9,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+718884,Valérie Bazin-Malgras,Bazin-Malgras,Valérie,F,1969-10-31,Romilly-sur-Seine,10,Aube,2,2017-06-18,,0,LR,Les Républicains
+718902,Cédric Roussel,Roussel,Cédric,H,1972-10-10,Brest,06,Alpes-Maritimes,3,2017-06-18,,0,LAREM,La République en Marche
+720924,Nathalie Elimas,Elimas,Nathalie,F,1973-06-05,Beauvais,95,Val-d'Oise,6,2017-06-18,2020-08-26,1,MODEM,Mouvement Démocrate et apparentés
+719550,Liliana Tanguy,Tanguy,Liliana,F,1967-03-12,Pancevo,29,Finistère,7,2017-06-18,,0,LAREM,La République en Marche
+755549,Sylvain Brial,Brial,Sylvain,H,1964-09-16,Sigave,986,Wallis-et-Futuna,1,2018-04-15,,0,LT,Libertés et Territoires
+719728,Gaël Le Bohec,Le Bohec,Gaël,H,1977-11-04,Saint-Brieuc,35,Ille-et-Vilaine,4,2017-06-18,,0,LAREM,La République en Marche
+330240,Éric Ciotti,Ciotti,Éric,H,1965-09-28,Nice,06,Alpes-Maritimes,1,2017-06-18,,0,LR,Les Républicains
+605694,Olivier Falorni,Falorni,Olivier,H,1972-03-27,Rochefort-sur-Mer,17,Charente-Maritime,1,2012-06-20,2017-06-20,1,LT,Libertés et Territoires
+722244,Marie-Ange Magne,Magne,Marie-Ange,F,1987-11-20,Limoges,87,Haute-Vienne,3,2017-06-18,,0,LAREM,La République en Marche
+722082,Françoise Ballet-Blu,Ballet-Blu,Françoise,F,1964-03-09,Annemasse,86,Vienne,1,2017-06-18,,0,LAREM,La République en Marche
+721932,Marie-France Lorho,Lorho,Marie-France,F,1964-12-15,Colmar,84,Vaucluse,4,2017-06-18,,0,NI,Non inscrit
+720684,Pierre-Henri Dumont,Dumont,Pierre-Henri,H,1987-10-07,Grande-Synthe,62,Pas-de-Calais,7,2017-06-18,,0,LR,Les Républicains
+336175,Sylvia Pinel,Pinel,Sylvia,F,1977-09-28,L'Union,82,Tarn-et-Garonne,2,2012-06-20,2017-06-20,1,LT,Libertés et Territoires
+610654,Jean-Philippe Nilor,Nilor,Jean-Philippe,H,1965-05-15,Fort-de-France,972,Martinique,4,2012-06-20,2017-06-20,1,GDR,Gauche démocrate et républicaine
+719692,Jean-François Eliaou,Eliaou,Jean-François,H,1956-08-13,Nice,34,Hérault,4,2017-06-18,,0,LAREM,La République en Marche
+720644,Jérôme Nury,Nury,Jérôme,H,1972-08-25,Valence,61,Orne,3,2017-06-18,,0,LR,Les Républicains
+721960,Danièle Obono,Obono,Danièle,F,1980-07-12,Libreville,75,Paris,17,2017-06-18,,0,FI,La France insoumise
+702052,Maina Sage,Sage,Maina,F,1975-05-10,Papeete,987,Polynésie Française,1,2014-06-28,2017-06-20,1,UDI-AGIR,"UDI, Agir et Indépendants"
+719372,Guillaume Kasbarian,Kasbarian,Guillaume,H,1987-02-28,Marseille,28,Eure-et-Loir,1,2017-06-18,,0,LAREM,La République en Marche
+783457,Victor Habert-Dassault,Habert-Dassault,Victor,H,1992-07-12,Paris,60,Oise,1,2021-06-06,,0,LR,Les Républicains
+721924,Michèle de Vaucouleurs,de Vaucouleurs,Michèle,F,1964-02-12,Albertville,78,Yvelines,7,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+719318,Emmanuelle Anthoine,Anthoine,Emmanuelle,F,1964-07-02,Saint-Vallier,26,Drôme,4,2017-06-18,,0,LR,Les Républicains
+721908,Yaël Braun-Pivet,Braun-Pivet,Yaël,F,1970-12-07,Nancy,78,Yvelines,5,2017-06-18,,0,LAREM,La République en Marche
+942,Charles de Courson,de Courson,Charles,H,1952-04-02,Paris,51,Marne,5,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+720546,Alain Bruneel,Bruneel,Alain,H,1952-03-07,Tourcoing,59,Nord,16,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+267233,Christophe Bouillon,Bouillon,Christophe,H,1969-03-04,Rouen,76,Seine-Maritime,5,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+1838,Jean Lassalle,Lassalle,Jean,H,1955-05-03,Lourdios-Ichère,64,Pyrénées-Atlantiques,4,2012-06-20,2017-06-20,1,LT,Libertés et Territoires
+719512,Corinne Vignon,Vignon,Corinne,F,1963-06-10,Agen,31,Haute-Garonne,3,2017-06-18,,0,LAREM,La République en Marche
+720996,M'jid El Guerrab,El Guerrab,M'jid,H,1983-04-25,Aurillac,099,Français établis hors de France,9,2017-06-18,,0,LAREM,La République en Marche
+720298,Émilie Cariou,Cariou,Émilie,F,1971-10-14,VERDUN,55,Meuse,2,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+783463,Sophie Métadier,Métadier,Sophie,F,1961-04-26,Paris,37,Indre-et-Loire,3,2021-06-06,,0,UDI_I,UDI et Indépendants
+719472,Jean-René Cazeneuve,Cazeneuve,Jean-René,H,1958-06-09,Paris,32,Gers,1,2017-06-18,,0,LAREM,La République en Marche
+721996,Patrick Loiseau,Loiseau,Patrick,H,1960-05-08,Luçon,85,Vendée,2,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+720492,Catherine Osson,Osson,Catherine,F,1974-02-07,Croix,59,Nord,8,2017-06-18,,0,LAREM,La République en Marche
+720170,Carole Grandjean,Grandjean,Carole,F,1983-05-18,Suresnes,54,Meurthe-et-Moselle,1,2017-06-18,,0,LAREM,La République en Marche
+774958,Gérard Leseul,Leseul,Gérard,H,1960-08-15,Le Mesnil-Esnard,76,Seine-Maritime,5,2020-09-20,,0,SOC,Socialistes et apparentés
+721678,Robin Reda,Reda,Robin,H,1991-05-10,Savigny-sur-Orge,91,Essonne,7,2017-06-18,,0,LR,Les Républicains
+720022,Michel Lauzzana,Lauzzana,Michel,H,1957-03-20,Castelsarrasin,47,Lot-et-Garonne,1,2017-06-18,,0,LAREM,La République en Marche
+721768,Marie Silin,Silin,Marie,F,1978-10-04,Saint-Cloud,75,Paris,12,2017-06-18,,0,LAREM,La République en Marche
+722170,Sophie Beaudouin-Hubiere,Beaudouin-Hubiere,Sophie,F,1972-11-20,Toulouse,87,Haute-Vienne,1,2017-06-18,,0,LAREM,La République en Marche
+722300,Anissa Khedher,Khedher,Anissa,F,1980-04-01,Vénissieux,69,Rhône,7,2017-06-18,,0,LAREM,La République en Marche
+719740,Jean-Charles Colas-Roy,Colas-Roy,Jean-Charles,H,1978-05-02,Montpellier,38,Isère,2,2017-06-18,,0,LAREM,La République en Marche
+719388,Annaïg Le Meur,Le Meur,Annaïg,F,1973-04-29,Brest,29,Finistère,1,2017-06-18,,0,LAREM,La République en Marche
+719154,Didier Martin,Martin,Didier,H,1956-08-20,Clichy,21,Côte-d'Or,1,2017-06-18,,0,LAREM,La République en Marche
+719640,Sophie Mette,Mette,Sophie,F,1959-09-13,Montauban,33,Gironde,9,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+643205,Anne-Christine Lang,Lang,Anne-Christine,F,1961-08-10,Mont-de-Marsan,75,Paris,10,2017-06-18,,0,LAREM,La République en Marche
+721832,Sandra Boëlle,Boëlle,Sandra,F,1961-05-26,Neuilly-sur-Seine,75,Paris,14,2017-06-18,,0,LR,Les Républicains
+267355,Antoine Herth,Herth,Antoine,H,1963-02-14,Sélestat,67,Bas-Rhin,5,2012-06-20,2017-06-20,1,UDI-I,UDI et Indépendants
+721474,Stéphane Viry,Viry,Stéphane,H,1969-10-14,Épinal,88,Vosges,1,2017-06-18,,0,LR,Les Républicains
+1008,Alain David,David,Alain,H,1949-06-02,Libourne,33,Gironde,4,2017-06-18,,0,NG,Nouvelle Gauche
+721344,Bruno Bonnell,Bonnell,Bruno,H,1958-10-06,Alger,69,Rhône,6,2017-06-18,2022-01-29,1,LAREM,La République en Marche
+721372,Damien Pichereau,Pichereau,Damien,H,1988-01-28,Mamers,72,Sarthe,1,2017-06-18,,0,LAREM,La République en Marche
+267794,Michèle Tabarot,Tabarot,Michèle,F,1962-10-13,Alicante,06,Alpes-Maritimes,9,2012-06-20,2017-06-20,1,LR,Les Républicains
+720230,Lise Magnier,Magnier,Lise,F,1984-12-31,Châlons-sur-Marne,51,Marne,4,2017-06-18,,0,UDI-A-I,"UDI, Agir et Indépendants"
+721024,Anne Genetet,Genetet,Anne,F,1963-04-20,Neuilly sur seine,099,Français établis hors de France,11,2017-06-18,,0,LAREM,La République en Marche
+719480,Olivier Gaillard,Gaillard,Olivier,H,1967-02-28,Nîmes,30,Gard,5,2017-06-18,2021-06-26,1,LAREM,La République en Marche
+720268,Olivier Damaisin,Damaisin,Olivier,H,1966-08-05,Romans-sur-Isère,47,Lot-et-Garonne,3,2017-06-18,,0,LAREM,La République en Marche
+1809,Jérôme Lambert,Lambert,Jérôme,H,1957-06-07,Vincennes,16,Charente,3,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+721296,Guillaume Gouffier-Cha,Gouffier-Cha,Guillaume,H,1986-02-01,Beauvais,94,Val-de-Marne,6,2017-06-18,,0,LAREM,La République en Marche
+267324,Jean-Jacques Gaultier,Gaultier,Jean-Jacques,H,1963-07-13,Épinal,88,Vosges,4,2017-06-18,,0,LR,Les Républicains
+721734,Philippe Michel-Kleisbauer,Michel-Kleisbauer,Philippe,H,1969-03-06,Draguignan,83,Var,5,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+643175,Stella Dupont,Dupont,Stella,F,1973-11-03,Angers,49,Maine-et-Loire,2,2017-06-18,,0,LAREM,La République en Marche
+721530,Aude Luquet,Luquet,Aude,F,1967-08-18,Melun,77,Seine-et-Marne,1,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+2492,Didier Quentin,Quentin,Didier,H,1946-12-23,Royan,17,Charente-Maritime,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+721226,Sabine Rubin,Rubin,Sabine,F,1960-08-13,Paris,93,Seine-Saint-Denis,9,2017-06-18,,0,FI,La France insoumise
+330357,Olivier Dussopt,Dussopt,Olivier,H,1978-08-16,Annonay,07,Ardèche,2,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+1327,Nicolas Forissier,Forissier,Nicolas,H,1961-02-17,Paris,36,Indre,2,2017-06-18,,0,LR,Les Républicains
+720652,Bruno Duvergé,Duvergé,Bruno,H,1957-04-03,Cambrai,62,Pas-de-Calais,1,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+767,Jacques Cattin,Cattin,Jacques,H,1958-06-04,Colmar,68,Haut-Rhin,2,2017-06-18,,0,LR,Les Républicains
+718876,Grégory Besson-Moreau,Besson-Moreau,Grégory,H,1982-07-07,Brou-sur-Chantereine,10,Aube,1,2017-06-18,,0,LAREM,La République en Marche
+719770,Florian Bachelier,Bachelier,Florian,H,1979-04-05,Thionville,35,Ille-et-Vilaine,8,2017-06-18,,0,LAREM,La République en Marche
+721600,Laurianne Rossi,Rossi,Laurianne,F,1984-05-18,Toulon,92,Hauts-de-Seine,11,2017-06-18,,0,LAREM,La République en Marche
+722336,Vincent Thiébaut,Thiébaut,Vincent,H,1972-05-23,Toulouse,67,Bas-Rhin,9,2017-06-18,,0,LAREM,La République en Marche
+1498,Claude Goasguen,Goasguen,Claude,H,1945-03-12,Toulon,75,Paris,14,2017-06-18,2020-05-28,1,LR,Les Républicains
+334654,Éric Straumann,Straumann,Éric,H,1964-08-17,Colmar,68,Haut-Rhin,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+719186,Fadila Khattabi,Khattabi,Fadila,F,1962-02-23,Montbéliard,21,Côte-d'Or,3,2017-06-18,,0,LAREM,La République en Marche
+720870,Jean François Mbaye,Mbaye,Jean François,H,1979-01-01,Dakar,94,Val-de-Marne,2,2017-06-18,,0,LAREM,La République en Marche
+721118,Moetai Brotherson,Brotherson,Moetai,H,1969-10-22,Papeete,987,Polynésie Française,3,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+720598,Marguerite Deprez-Audebert,Deprez-Audebert,Marguerite,F,1952-05-17,Béthune,62,Pas-de-Calais,9,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+722398,Rémy Rebeyrotte,Rebeyrotte,Rémy,H,1966-03-27,Autun,71,Saône-et-Loire,3,2017-06-18,,0,LAREM,La République en Marche
+721872,Brune Poirson,Poirson,Brune,F,1982-09-01,"Washington, D.C.",84,Vaucluse,3,2017-06-18,2021-04-05,1,LAREM,La République en Marche
+719960,Valéria Faure-Muntian,Faure-Muntian,Valéria,F,1984-09-02,Kilia,42,Loire,3,2017-06-18,,0,LAREM,La République en Marche
+718910,Claire Pitollat,Pitollat,Claire,F,1979-09-17,Marseille,13,Bouches-du-Rhône,2,2017-06-18,,0,LAREM,La République en Marche
+721142,Paula Forteza,Forteza,Paula,F,1986-08-08,Paris,099,Français établis hors de France,2,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+774962,Karine Lebon,Lebon,Karine,F,1985-06-09,Le Port,974,Réunion,2,2020-09-20,,0,GDR,Gauche démocrate et républicaine
+608826,Virginie Duby-Muller,Duby-Muller,Virginie,F,1979-08-16,Bonneville,74,Haute-Savoie,4,2012-06-20,2017-06-20,1,LR,Les Républicains
+1477,Jordi Ginesta,Ginesta,Jordi,H,1942-07-08,Saint-Raphaël,83,Var,5,2012-06-20,2017-06-20,1,,
+405480,François Pupponi,Pupponi,François,H,1962-07-31,Nantua,95,Val-d'Oise,8,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+719850,Cendra Motin,Motin,Cendra,F,1975-01-29,Bagnols-sur-Cèze,38,Isère,6,2017-06-18,,0,LAREM,La République en Marche
+720354,Jean-Michel Jacques,Jacques,Jean-Michel,H,1968-02-29,Metz,56,Morbihan,6,2017-06-18,,0,LAREM,La République en Marche
+642788,Olivier Véran,Véran,Olivier,H,1980-04-22,Saint-Martin-d'Hères,38,Isère,1,2017-06-18,2020-03-16,1,LAREM,La République en Marche
+719496,Pierre Cabaré,Cabaré,Pierre,H,1957-12-12,Toulouse,31,Haute-Garonne,1,2017-06-18,,0,LAREM,La République en Marche
+642868,Paul Christophe,Christophe,Paul,H,1971-02-10,Les Sables d'Olonne,59,Nord,14,2017-06-18,,0,UDI_I,UDI et Indépendants
+608011,Joaquim Pueyo,Pueyo,Joaquim,H,1950-05-30,Alençon,61,Orne,1,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+719230,Yannick Kerlogot,Kerlogot,Yannick,H,1970-05-12,Saint-Brieuc,22,Côtes-d'Armor,4,2017-06-18,,0,LAREM,La République en Marche
+719488,Philippe Berta,Berta,Philippe,H,1960-04-11,Besançon,30,Gard,6,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+266788,Pierre Morel-À-L'Huissier,Morel-À-L'Huissier,Pierre,H,1958-12-21,Strasbourg,48,Lozère,1,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+721094,Philippe Dunoyer,Dunoyer,Philippe,H,1968-01-11,Nouméa,988,Nouvelle-Calédonie,1,2017-06-18,,0,UDI-AGIR,"UDI, Agir et Indépendants"
+267336,Joël Giraud,Giraud,Joël,H,1959-10-14,Gap,05,Hautes-Alpes,2,2017-06-18,2020-08-26,1,LAREM,La République en Marche
+721852,Marie Lebec,Lebec,Marie,F,1990-12-17,Vernon,78,Yvelines,4,2017-06-18,,0,LAREM,La République en Marche
+335758,Franck Riester,Riester,Franck,H,1974-01-03,Paris 15ème,77,Seine-et-Marne,5,2012-06-20,2017-06-20,1,UDI-AGIR,"UDI, Agir et Indépendants"
+719600,Éric Poulliat,Poulliat,Éric,H,1974-07-09,Bordeaux,33,Gironde,6,2017-06-18,,0,LAREM,La République en Marche
+719396,Jean-Charles Larsonneur,Larsonneur,Jean-Charles,H,1984-01-24,Brest,29,Finistère,2,2017-06-18,,0,AGIR-E,Agir ensemble
+720242,Bérangère Abba,Abba,Bérangère,F,1976-10-22,Chaumont,52,Haute-Marne,1,2017-06-18,2020-08-26,1,LAREM,La République en Marche
+719024,Christophe Blanchet,Blanchet,Christophe,H,1973-04-09,Caen,14,Calvados,4,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+720968,Justine Benin,Benin,Justine,F,1975-03-12,Abymes,971,Guadeloupe,2,2017-06-18,,0,NI,Non inscrit
+720100,Aurélien Pradié,Pradié,Aurélien,H,1986-03-14,Cahors,46,Lot,1,2017-06-18,,0,LR,Les Républicains
+722000,Stéphane Buchou,Buchou,Stéphane,H,1974-03-14,Strasbourg,85,Vendée,3,2017-06-18,,0,LAREM,La République en Marche
+718998,Sébastien David,David,Sébastien,H,1976-06-27,,12,Aveyron,3,2017-06-18,2021-09-14,1,LR,Les Républicains
+719218,Hervé Berville,Berville,Hervé,H,1990-01-15,Madanzh-Buhimga,22,Côtes-d'Armor,2,2017-06-18,,0,LAREM,La République en Marche
+722358,Thomas Gassilloud,Gassilloud,Thomas,H,1981-05-21,Saint-Symphorien-sur-Coise,69,Rhône,10,2017-06-18,,0,AGIR-E,Agir ensemble
+267901,Mansour Kamardine,Kamardine,Mansour,H,1959-03-23,Sada,976,Mayotte,2,2017-06-18,,0,LR,Les Républicains
+720326,Brahim Hammouche,Hammouche,Brahim,H,1971-05-17,Smaoun,57,Moselle,8,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+643157,Philippe Naillet,Naillet,Philippe,H,1960-08-14,Saint-Denis de la Réunion,974,Réunion,1,2020-07-14,,0,SOC,Socialistes et apparentés
+720446,Brigitte Liso,Liso,Brigitte,F,1959-07-29,Lille,59,Nord,4,2017-06-18,,0,LAREM,La République en Marche
+718838,Fabrice Brun,Brun,Fabrice,H,1968-04-02,Avignon,07,Ardèche,3,2017-06-18,,0,LR,Les Républicains
+721286,Alain Ramadier,Ramadier,Alain,H,1958-07-08,Paris,93,Seine-Saint-Denis,10,2017-06-18,,0,LR,Les Républicains
+722308,Nathalie Serre,Serre,Nathalie,F,1968-08-17,Besançon,69,Rhône,8,2017-06-18,,0,NI,Non inscrit
+721070,Nadia Ramassamy,Ramassamy,Nadia,F,1961-05-17,Sainte-Clotilde,974,Réunion,6,2017-06-18,,0,LR,Les Républicains
+720878,Laurent Saint-Martin,Saint-Martin,Laurent,H,1985-06-22,Toulouse,94,Val-de-Marne,3,2017-06-18,,0,LAREM,La République en Marche
+719914,Geneviève Darrieussecq,Darrieussecq,Geneviève,F,1956-03-04,Dax,40,Landes,1,2017-06-18,2017-07-21,1,MODEM,Mouvement Démocrate et apparentés
+720908,Naïma Moutchou,Moutchou,Naïma,F,1980-11-04,Ermont,95,Val-d'Oise,4,2017-06-18,,0,LAREM,La République en Marche
+721174,Joachim Son-Forget,Son-Forget,Joachim,H,1983-04-15,Séoul,099,Français établis hors de France,6,2017-06-18,,0,UDI-A-I,"UDI, Agir et Indépendants"
+719286,Paul-André Colombani,Colombani,Paul-André,H,1967-08-17,Bastia,2A,Corse-du-Sud,2,2017-06-18,,0,LT,Libertés et Territoires
+719632,Sophie Panonacle,Panonacle,Sophie,F,1968-12-16,Bordeaux,33,Gironde,8,2017-06-18,,0,LAREM,La République en Marche
+721666,Edith Audibert,Audibert,Edith,F,1948-03-07,Hyères,83,Var,3,2017-06-18,,0,LR,Les Républicains
+719668,Patricia Mirallès,Mirallès,Patricia,F,1967-08-22,Montpellier,34,Hérault,1,2017-06-18,,0,LAREM,La République en Marche
+642764,Joël Aviragnet,Aviragnet,Joël,H,1956-06-16,Encausse-les-Thermes,31,Haute-Garonne,8,2017-06-18,2017-12-18,1,NG,Nouvelle Gauche
+721880,Marie Guévenoux,Guévenoux,Marie,F,1976-11-02,Amiens,91,Essonne,9,2017-06-18,,0,LAREM,La République en Marche
+720672,Robert Therry,Therry,Robert,H,1947-06-27,Marconelle,62,Pas-de-Calais,4,2017-06-18,,0,LR,Les Républicains
+720720,Josy Poueyto,Poueyto,Josy,F,1954-01-13,Paris 4ème,64,Pyrénées-Atlantiques,1,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+643127,Bruno Questel,Questel,Bruno,H,1966-12-21,Bourg-Achard,27,Eure,4,2017-06-18,,0,LAREM,La République en Marche
+721568,Pierre Person,Person,Pierre,H,1989-01-22,Nancy,75,Paris,6,2017-06-18,,0,LAREM,La République en Marche
+2150,Jean-Luc Mélenchon,Mélenchon,Jean-Luc,H,1951-08-19,Tanger,13,Bouches-du-Rhône,4,2017-06-18,,0,FI,La France insoumise
+719060,Christophe Jerretie,Jerretie,Christophe,H,1979-08-31,Tulle,19,Corrèze,1,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+720198,Grégory Galbadon,Galbadon,Grégory,H,1973-01-21,Coutances,50,Manche,3,2017-06-18,2018-11-16,1,LAREM,La République en Marche
+720960,Olivier Serva,Serva,Olivier,H,1974-06-21,Pointe-à-Pitre,971,Guadeloupe,1,2017-06-18,,0,LAREM,La République en Marche
+721888,Pierre-Alain Raphan,Raphan,Pierre-Alain,H,1983-04-06,Choisy-le-Roi,91,Essonne,10,2017-06-18,,0,LAREM,La République en Marche
+331835,Monique Iborra,Iborra,Monique,F,1945-03-08,Maison Carrée,31,Haute-Garonne,6,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+719578,Loïc Prud'homme,Prud'homme,Loïc,H,1969-08-19,Bègles,33,Gironde,3,2017-06-18,,0,FI,La France insoumise
+722236,Jean-Baptiste Djebbari,Djebbari,Jean-Baptiste,H,1982-02-26,Melun,87,Haute-Vienne,2,2017-06-18,2019-10-03,1,LAREM,La République en Marche
+721976,Bruno Millienne,Millienne,Bruno,H,1959-11-28,Argenteuil,78,Yvelines,9,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+718990,Anne Blanc,Blanc,Anne,F,1966-07-20,Rodez,12,Aveyron,2,2017-06-18,,0,LAREM,La République en Marche
+998,Olivier Dassault,Dassault,Olivier,H,1951-06-01,Boulogne-Billancourt,60,Oise,1,2017-06-18,2021-03-07,1,LR,Les Républicains
+717167,Mounir Mahjoubi,Mahjoubi,Mounir,H,1984-03-01,Paris,75,Paris,16,2017-06-18,,0,LAREM,La République en Marche
+2449,Jean-Pierre Pont,Pont,Jean-Pierre,H,1950-05-09,Le Portel,62,Pas-de-Calais,5,2017-06-18,,0,LAREM,La République en Marche
+722110,Hubert Wulfranc,Wulfranc,Hubert,H,1956-12-17,Rouen,76,Seine-Maritime,3,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+719660,Christelle Dubos,Dubos,Christelle,F,1976-03-26,Le Coteau,33,Gironde,12,2017-06-18,2018-11-16,1,LAREM,La République en Marche
+721896,Elsa Faucillon,Faucillon,Elsa,F,1981-08-06,Amiens,92,Hauts-de-Seine,1,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+429893,Luc Carvounas,Carvounas,Luc,H,1971-06-08,charenton le pont,94,Val-de-Marne,9,2017-06-18,2020-06-23,1,SOC,Socialistes et apparentés
+266797,Philippe Gosselin,Gosselin,Philippe,H,1966-10-23,Carentan,50,Manche,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+720394,Nicole Trisse,Trisse,Nicole,F,1963-06-29,Sarreguemines,57,Moselle,5,2017-06-18,,0,LAREM,La République en Marche
+267735,Claude de Ganay,de Ganay,Claude,H,1953-09-05,Paris,45,Loiret,3,2012-06-20,2017-06-20,1,LR,Les Républicains
+609332,Olivier Faure,Faure,Olivier,H,1968-08-18,La Tronche,77,Seine-et-Marne,11,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+722284,Bruno Fuchs,Fuchs,Bruno,H,1959-04-07,Colmar,68,Haut-Rhin,6,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+605036,Damien Abad,Abad,Damien,H,1980-04-05,Nîmes,01,Ain,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+720108,Valérie Oppelt,Oppelt,Valérie,F,1973-12-10,Nantes,44,Loire-Atlantique,2,2017-06-18,,0,LAREM,La République en Marche
+721270,Stéphane Peu,Peu,Stéphane,H,1962-07-24,Pau,93,Seine-Saint-Denis,2,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+605069,Jean-Louis Bricout,Bricout,Jean-Louis,H,1957-12-27,Busigny,02,Aisne,3,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+268019,Jean-Christophe Lagarde,Lagarde,Jean-Christophe,H,1967-10-24,Châtellerault,93,Seine-Saint-Denis,5,2012-06-20,2017-06-20,1,UDI_I,UDI et Indépendants
+722038,Damien Adam,Adam,Damien,H,1989-06-28,Orléans,76,Seine-Maritime,1,2017-06-18,,0,LAREM,La République en Marche
+721278,Patrice Anato,Anato,Patrice,H,1976-03-14,Lomé,93,Seine-Saint-Denis,3,2017-06-18,,0,LAREM,La République en Marche
+720334,Jimmy Pahun,Pahun,Jimmy,H,1962-05-15,Paris,56,Morbihan,2,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+722190,Gabriel Attal,Attal,Gabriel,H,1989-03-16,Clamart,92,Hauts-de-Seine,10,2017-06-18,2018-11-16,1,LAREM,La République en Marche
+719910,Mounir Belhamiti,Belhamiti,Mounir,H,1985-03-08,Nantes,44,Loire-Atlantique,1,2017-06-18,2019-08-16,1,LAREM,La République en Marche
+721968,Michel Vialay,Vialay,Michel,H,1960-01-06,Paris 20ème,78,Yvelines,8,2017-06-18,,0,LR,Les Républicains
+719858,Monique Limon,Limon,Monique,F,1953-12-05,Paris,38,Isère,7,2017-06-18,,0,LAREM,La République en Marche
+722090,Bénédicte Pételle,Pételle,Bénédicte,F,1971-06-04,Bourg-en-Bresse,92,Hauts-de-Seine,2,2017-06-18,,0,LAREM,La République en Marche
+774956,Yves Hemedinger,Hemedinger,Yves,H,1965-10-23,Colmar,68,Haut-Rhin,1,2020-09-27,,0,LR,Les Républicains
+720500,Valérie Petit,Petit,Valérie,F,1976-06-23,Meaux,59,Nord,9,2017-06-18,,0,LAREM,La République en Marche
+718944,Cathy Racon-Bouzon,Racon-Bouzon,Cathy,F,1976-11-22,Domont,13,Bouches-du-Rhône,5,2017-06-18,,0,LAREM,La République en Marche
+2960,Éric Woerth,Woerth,Éric,H,1956-01-29,Creil,60,Oise,4,2012-06-20,2017-06-20,1,LR,Les Républicains
+718768,Alexandra Valetta Ardisson,Valetta Ardisson,Alexandra,F,1976-06-07,Cannes,06,Alpes-Maritimes,4,2017-06-18,,0,LAREM,La République en Marche
+610667,Gabriel Serville,Serville,Gabriel,H,1959-09-27,Cayenne,973,Guyane,1,2012-06-20,2017-06-20,1,GDR,Gauche démocrate et républicaine
+605518,François-Michel Lambert,Lambert,François-Michel,H,1966-08-24,La Havane,13,Bouches-du-Rhône,10,2017-06-18,,0,LT,Libertés et Territoires
+722178,Jacques Maire,Maire,Jacques,H,1962-04-04,Enghien Les Bains,92,Hauts-de-Seine,8,2017-06-18,,0,LAREM,La République en Marche
+610733,Thierry Robert,Robert,Thierry,H,1977-04-01,Saint-Denis,974,Réunion,7,2012-06-20,2017-06-20,1,MODEM,Mouvement Démocrate et apparentés
+722046,Aurore Bergé,Bergé,Aurore,F,1986-11-13,Paris,78,Yvelines,10,2017-06-18,,0,LAREM,La République en Marche
+718930,Anne-Laurence Petel,Petel,Anne-Laurence,F,1970-02-08,Saint Raphaël,13,Bouches-du-Rhône,14,2017-06-18,,0,LAREM,La République en Marche
+719922,Lionel Causse,Causse,Lionel,H,1971-05-06,Toulouse,40,Landes,2,2017-06-18,,0,LAREM,La République en Marche
+267766,Guy Bricout,Bricout,Guy,H,1944-02-18,Caudry,59,Nord,18,2017-06-18,,0,UDI-A-I,"UDI, Agir et Indépendants"
+721194,Frédérique Dumas,Dumas,Frédérique,F,1963-05-18,Paris 20ème,92,Hauts-de-Seine,13,2017-06-18,,0,LAREM,La République en Marche
+721036,Lénaïck Adam,Adam,Lénaïck,H,1992-02-19,Saint Laurent du Maroni,973,Guyane,2,2018-03-11,,0,LAREM,La République en Marche
+721764,Olivia Grégoire,Grégoire,Olivia,F,1978-09-30,Paris,75,Paris,12,2017-06-18,2020-08-26,1,LAREM,La République en Marche
+721542,Marie-Christine Verdier-Jouclas,Verdier-Jouclas,Marie-Christine,F,1965-03-19,Albi,81,Tarn,2,2017-06-18,,0,LAREM,La République en Marche
+346218,Jean-Louis Masson,Masson,Jean-Louis,H,1954-02-05,La Garde,83,Var,3,2017-06-18,2020-08-02,1,LR,Les Républicains
+721418,Patrick Mignola,Mignola,Patrick,H,1971-08-08,Chambéry,73,Savoie,4,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+722292,Thomas Rudigoz,Rudigoz,Thomas,H,1971-01-11,Lyon,69,Rhône,1,2017-06-18,,0,LAREM,La République en Marche
+856,Gérard Cherpion,Cherpion,Gérard,H,1948-03-15,Dombasle-sur-Meurthe,88,Vosges,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+722252,Marie-Pierre Rixain,Rixain,Marie-Pierre,F,1977-01-18,Saint-Cyr-l'Ecole,91,Essonne,4,2017-06-18,,0,LAREM,La République en Marche
+720202,Sonia Krimi,Krimi,Sonia,F,1982-12-20,Tunis,50,Manche,4,2017-06-18,,0,LAREM,La République en Marche
+608695,Cécile Untermaier,Untermaier,Cécile,F,1951-12-28,Belley,71,Saône-et-Loire,4,2017-06-18,,0,SOC,Socialistes et apparentés
+720430,Ugo Bernalicis,Bernalicis,Ugo,H,1989-09-25,Arras,59,Nord,2,2017-06-18,,0,FI,La France insoumise
+721792,Émilie Guerel,Guerel,Émilie,F,1983-12-18,Carpentras,83,Var,7,2017-06-18,,0,LAREM,La République en Marche
+267673,Philippe Folliot,Folliot,Philippe,H,1963-07-14,Albi,81,Tarn,1,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+605131,Christophe Castaner,Castaner,Christophe,H,1966-01-03,Ollioules,04,Alpes-de-Haute-Provence,2,2017-06-18,,0,LAREM,La République en Marche
+718756,Aude Bono-Vandorme,Bono-Vandorme,Aude,F,1962-08-03,Soissons,02,Aisne,1,2017-06-18,,0,LAREM,La République en Marche
+719930,Boris Vallaud,Vallaud,Boris,H,1975-07-25,Beyrouth,40,Landes,3,2017-06-18,,0,NG,Nouvelle Gauche
+719570,Catherine Fabre,Fabre,Catherine,F,1978-09-19,Toulouse,33,Gironde,2,2017-06-18,,0,LAREM,La République en Marche
+722320,Christophe Lejeune,Lejeune,Christophe,H,1969-03-22,Luxeuil-les-Bains,70,Haute-Saône,2,2017-06-18,,0,LAREM,La République en Marche
+721126,Claire Guion-Firmin,Guion-Firmin,Claire,F,1957-09-06,Saint-Martin,977,Saint-Barthélemy et Saint-Martin,1,2017-06-18,,0,LR,Les Républicains
+719052,Loïc Kervran,Kervran,Loïc,H,1984-02-11,Moulins,18,Cher,3,2017-06-18,,0,LAREM,La République en Marche
+722260,Cédric Villani,Villani,Cédric,H,1973-10-05,Brive,91,Essonne,5,2017-06-18,,0,LAREM,La République en Marche
+719020,Nathalie Porte,Porte,Nathalie,F,1973-02-02,Rodez,14,Calvados,3,2017-06-18,,0,LR,Les Républicains
+722078,Jacques Savatier,Savatier,Jacques,H,1952-10-23,Fontenay-le-Comte,86,Vienne,1,2017-06-18,2020-08-24,1,LAREM,La République en Marche
+720422,Adrien Quatennens,Quatennens,Adrien,H,1990-05-23,Lille,59,Nord,1,2017-06-18,,0,FI,La France insoumise
+718926,Pierre Dharréville,Dharréville,Pierre,H,1975-06-15,Nanterre,13,Bouches-du-Rhône,13,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+719338,Graziella Melchior,Melchior,Graziella,F,1960-04-06,Brest,29,Finistère,5,2017-06-18,,0,LAREM,La République en Marche
+607553,Dominique Potier,Potier,Dominique,H,1964-03-17,Toul,54,Meurthe-et-Moselle,5,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+721262,Guillaume Vuilletet,Vuilletet,Guillaume,H,1967-06-20,Beauvais,95,Val-d'Oise,2,2017-06-18,,0,LAREM,La République en Marche
+722382,Benjamin Dirx,Dirx,Benjamin,H,1979-01-25,Villefranche-sur-Saone,71,Saône-et-Loire,1,2017-06-18,,0,LAREM,La République en Marche
+606675,François André,André,François,H,1967-07-19,Pontivy,35,Ille-et-Vilaine,3,2017-06-18,2020-02-11,1,LAREM,La République en Marche
+721442,Christelle Petex-Levet,Petex-Levet,Christelle,F,1980-09-02,Annecy,74,Haute-Savoie,3,2017-06-18,,0,LR,Les Républicains
+720692,Fabien Roussel,Roussel,Fabien,H,1969-04-16,Béthune,59,Nord,20,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+721784,Valérie Gomez-Bassac,Gomez-Bassac,Valérie,F,1969-07-16,Valenciennes,83,Var,6,2017-06-18,,0,LAREM,La République en Marche
+721182,Frédéric Petit,Petit,Frédéric,H,1961-02-10,Marseille,099,Français établis hors de France,7,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+722070,Pierre Henriet,Henriet,Pierre,H,1991-11-26,Fontenay-le-Comte,85,Vendée,5,2017-06-18,,0,LAREM,La République en Marche
+330788,Bernard Reynès,Reynès,Bernard,H,1953-10-18,Meknès,13,Bouches-du-Rhône,15,2012-06-20,2017-06-20,1,LR,Les Républicains
+346876,Thierry Solère,Solère,Thierry,H,1971-08-17,Nantes,92,Hauts-de-Seine,9,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+719364,Claire O'Petit,O'Petit,Claire,F,1949-10-15,Epinay-sur-Seine,27,Eure,5,2017-06-18,,0,LAREM,La République en Marche
+719032,Bertrand Bouyx,Bouyx,Bertrand,H,1970-05-26,Juvisy-sur-Orge,14,Calvados,5,2017-06-18,,0,LAREM,La République en Marche
+720738,Thierry Michels,Michels,Thierry,H,1960-08-27,Strasbourg,67,Bas-Rhin,1,2017-06-18,,0,LAREM,La République en Marche
+719080,Sandra Marsaud,Marsaud,Sandra,F,1974-01-02,Périgueux,16,Charente,2,2017-06-18,,0,LAREM,La République en Marche
+722198,Bastien Coriton,Coriton,Bastien,H,1981-09-12,,76,Seine-Maritime,5,2017-06-18,2020-06-23,1,NI,Non inscrit
+720454,Dimitri Houbron,Houbron,Dimitri,H,1991-02-12,Roubaix,59,Nord,17,2017-06-18,,0,LAREM,La République en Marche
+719624,Bérangère Couillard,Couillard,Bérangère,F,1986-07-24,Rennes,33,Gironde,7,2017-06-18,,0,LAREM,La République en Marche
+720190,Bertrand Sorre,Sorre,Bertrand,H,1965-05-08,Cherbourg,50,Manche,2,2017-06-18,,0,LAREM,La République en Marche
+721170,Stéphane Vojetta,Vojetta,Stéphane,H,1974-07-19,Nancy,099,Français établis hors de France,5,2018-04-22,,0,LAREM,La République en Marche
+718780,Laurence Trastour-Isnart,Trastour-Isnart,Laurence,F,1972-03-06,Cagnes-sur-Mer,06,Alpes-Maritimes,6,2017-06-18,,0,LR,Les Républicains
+719972,Nathalie Sarles,Sarles,Nathalie,F,1962-04-17,Valence,42,Loire,5,2017-06-18,,0,LAREM,La République en Marche
+2529,Jean-Luc Reitzer,Reitzer,Jean-Luc,H,1951-12-29,Altkirch,68,Haut-Rhin,3,2012-06-20,2017-06-20,1,LR,Les Républicains
+342935,Marianne Dubois,Dubois,Marianne,F,1957-12-17,Corbeil-Essonnes,45,Loiret,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+721218,Sylvie Charrière,Charrière,Sylvie,F,1961-05-15,Montreuil-sous-Bois,93,Seine-Saint-Denis,8,2017-06-18,,0,LAREM,La République en Marche
+721632,Patricia Lemoine,Lemoine,Patricia,F,1961-12-30,Enghien-les-Bains,77,Seine-et-Marne,5,2017-06-18,,0,AGIR-E,Agir ensemble
+720520,Anne-Laure Cattelot,Cattelot,Anne-Laure,F,1988-10-25,Maubeuge,59,Nord,12,2017-06-18,,0,LAREM,La République en Marche
+722390,Josiane Corneloup,Corneloup,Josiane,F,1959-09-30,Le Creusot,71,Saône-et-Loire,2,2017-06-18,,0,LR,Les Républicains
+643145,Hélène Vainqueur-Christophe,Vainqueur-Christophe,Hélène,F,1956-05-06,Trois-Rivières,971,Guadeloupe,4,2017-06-18,,0,SOC,Socialistes et apparentés
+719918,Fabien Lainé,Lainé,Fabien,H,1976-04-15,Arcachon,40,Landes,1,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+722054,Nadia Hai,Hai,Nadia,F,1980-03-08,Trappes,78,Yvelines,11,2017-06-18,2020-07-06,1,LAREM,La République en Marche
+330684,Valérie Boyer,Boyer,Valérie,F,1962-06-11,Bourges,13,Bouches-du-Rhône,1,2012-06-20,2017-06-20,1,LR,Les Républicains
+721916,Natalia Pouzyreff,Pouzyreff,Natalia,F,1961-02-18,Limoges,78,Yvelines,6,2017-06-18,,0,LAREM,La République en Marche
+267527,Martial Saddier,Saddier,Martial,H,1969-10-15,Bonneville,74,Haute-Savoie,3,2017-06-18,2021-07-31,1,LR,Les Républicains
+721486,Christophe Naegelen,Naegelen,Christophe,H,1983-12-30,Remiremont,88,Vosges,3,2017-06-18,,0,UDI-AGIR,"UDI, Agir et Indépendants"
+719710,Dominique David,David,Dominique,F,1963-02-27,Montpellier,33,Gironde,1,2017-06-18,,0,LAREM,La République en Marche
+719448,Annie Chapelier,Chapelier,Annie,F,1967-11-07,Windsor,30,Gard,4,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+1012,Charles de la Verpillière,de la Verpillière,Charles,H,1954-05-31,Bourg-en-Bresse,01,Ain,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+722312,Barbara Bessot Ballot,Bessot Ballot,Barbara,F,1972-04-13,Besançon,70,Haute-Saône,1,2017-06-18,,0,LAREM,La République en Marche
+421348,André Villiers,Villiers,André,H,1954-12-13,Avallon,89,Yonne,2,2017-06-18,,0,UDI-I,UDI et Indépendants
+783468,Lamia El Aaraje,El Aaraje,Lamia,F,1986-11-22,Rabat,75,Paris,15,2021-06-06,2022-01-28,1,SOC,Socialistes et apparentés
+722094,Christine Hennion,Hennion,Christine,F,1955-08-23,Roubaix,92,Hauts-de-Seine,3,2017-06-18,,0,LAREM,La République en Marche
+720116,Anne-France Brunet,Brunet,Anne-France,F,1962-06-12,Saint-Maur des Fossés,44,Loire-Atlantique,3,2017-06-18,,0,LAREM,La République en Marche
+642724,Frédéric Barbier,Barbier,Frédéric,H,1960-08-30,Audincourt,25,Doubs,4,2017-06-18,,0,LAREM,La République en Marche
+720900,Cécile Rilhac,Rilhac,Cécile,F,1974-04-21,paris 15,95,Val-d'Oise,3,2017-06-18,,0,LAREM,La République en Marche
+2952,Jean-Luc Warsmann,Warsmann,Jean-Luc,H,1965-10-22,Villers-Semeuse,08,Ardennes,3,2012-06-20,2017-06-20,1,UDI-AGIR,"UDI, Agir et Indépendants"
+721314,Raphaël Schellenberger,Schellenberger,Raphaël,H,1990-02-14,Mulhouse,68,Haut-Rhin,4,2017-06-18,,0,LR,Les Républicains
+719890,Danielle Brulebois,Brulebois,Danielle,F,1947-07-04,Longwy sur le Doubs,39,Jura,1,2017-06-18,,0,LAREM,La République en Marche
+340343,Hervé Saulignac,Saulignac,Hervé,H,1970-11-06,Privas,07,Ardèche,1,2017-06-18,,0,SOC,Socialistes et apparentés
+2377,Bernard Perrut,Perrut,Bernard,H,1957-01-24,Villefranche-sur-Saône,69,Rhône,9,2012-06-20,2017-06-20,1,LR,Les Républicains
+720680,Ludovic Loquet,Loquet,Ludovic,H,1965-02-04,Ardres,62,Pas-de-Calais,6,2017-06-18,2020-09-27,1,NI,Non inscrit
+606098,Olivier Marleix,Marleix,Olivier,H,1971-02-06,Boulogne-Billancourt,28,Eure-et-Loir,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+719456,Sandrine Mörch,Mörch,Sandrine,F,1961-11-13,Issy-les-Moulineaux,31,Haute-Garonne,9,2017-06-18,,0,LAREM,La République en Marche
+719608,Emmanuelle Ménard,Ménard,Emmanuelle,F,1968-08-15,Lille,34,Hérault,6,2017-06-18,,0,NI,Non inscrit
+335532,George Pau-Langevin,Pau-Langevin,George,F,1948-10-19,Pointe-à-Pitre,75,Paris,15,2017-06-18,2020-11-20,1,NG,Nouvelle Gauche
+784314,Christophe Leclercq,Leclercq,Christophe,H,1967-02-26,Boulogne sur Mer,62,Pas-de-Calais,6,2021-07-07,,0,LAREM,La République en Marche
+719302,Alice Thourot,Thourot,Alice,F,1985-10-12,Bar-le-Duc,26,Drôme,2,2017-06-18,,0,LAREM,La République en Marche
+720386,Fabien Di Filippo,Di Filippo,Fabien,H,1986-08-23,Sarrebourg,57,Moselle,4,2017-06-18,,0,LR,Les Républicains
+720664,José Evrard,Evrard,José,H,1945-07-17,Cauchy-à-la-Tour,62,Pas-de-Calais,3,2017-06-18,2022-01-07,1,NI,Non inscrit
+343493,Gwendal Rouillard,Rouillard,Gwendal,H,1976-04-20,Pontivy,56,Morbihan,5,2017-06-18,,0,LAREM,La République en Marche
+267622,Manuel Valls,Valls,Manuel,H,1962-08-13,Barcelone,91,Essonne,1,2017-06-18,2018-10-03,1,LAREM,La République en Marche
+718728,Laurence Vanceunebrock,Vanceunebrock,Laurence,F,1970-05-06,Avion,03,Allier,2,2017-06-18,,0,LAREM,La République en Marche
+267728,Christophe Priou,Priou,Christophe,H,1958-05-02,Nantes,44,Loire-Atlantique,7,2012-06-20,2017-06-20,1,,
+340853,Sébastien Leclerc,Leclerc,Sébastien,H,1970-03-28,Lisieux,14,Calvados,3,2017-06-18,2020-07-27,1,LR,Les Républicains
+2086,Franck Marlin,Marlin,Franck,H,1964-09-30,Orléans,91,Essonne,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+609245,Valérie Lacroute,Lacroute,Valérie,F,1965-10-29,Chalon-sur-Saône,77,Seine-et-Marne,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+721210,Alexis Corbière,Corbière,Alexis,H,1968-08-17,Béziers,93,Seine-Saint-Denis,7,2017-06-18,,0,FI,La France insoumise
+721234,Maud Petit,Petit,Maud,F,1971-11-15,Paris,94,Val-de-Marne,4,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+719330,Fabien Gouttefarde,Gouttefarde,Fabien,H,1978-09-27,Versailles,27,Eure,2,2017-06-18,,0,LAREM,La République en Marche
+721808,Michèle Crouzet,Crouzet,Michèle,F,1967-08-31,Lormes,89,Yonne,3,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+642847,Thibault Bazin,Bazin,Thibault,H,1984-10-27,Nancy,54,Meurthe-et-Moselle,4,2017-06-18,,0,LR,Les Républicains
+342415,Marie-Noëlle Battistel,Battistel,Marie-Noëlle,F,1956-08-20,Grenoble,38,Isère,4,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+721690,Buon Tan,Tan,Buon,H,1967-03-10,Phnom Penh,75,Paris,9,2017-06-18,,0,LAREM,La République en Marche
+267762,Jean-Pierre Decool,Decool,Jean-Pierre,H,1952-10-19,Bourbourg,59,Nord,14,2012-06-20,2017-06-20,1,,
+721438,Jacques Rey,Rey,Jacques,H,1942-10-17,Sevrier,74,Haute-Savoie,2,2017-06-18,,0,LAREM,La République en Marche
+720802,Catherine Pujol,Pujol,Catherine,F,1960-04-06,Perpignan,66,Pyrénées-Orientales,2,2017-06-18,,0,NI,Non inscrit
+719528,Jean-François Portarrieu,Portarrieu,Jean-François,H,1965-10-14,Toulouse,31,Haute-Garonne,5,2017-06-18,,0,LAREM,La République en Marche
+720862,Frédéric Descrozaille,Descrozaille,Frédéric,H,1967-04-16,Neuilly-sur-Seine,94,Val-de-Marne,1,2017-06-18,,0,LAREM,La République en Marche
+722030,Pierre-Yves Bournazel,Bournazel,Pierre-Yves,H,1977-08-31,Riom-Ès-Montagne,75,Paris,18,2017-06-18,,0,AGIR-E,Agir ensemble
+267200,Sébastien Huyghe,Huyghe,Sébastien,H,1969-10-25,Béthune,59,Nord,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+722008,Martine Leguille-Balloy,Leguille-Balloy,Martine,F,1957-09-06,La Guerche,85,Vendée,4,2017-06-18,,0,LAREM,La République en Marche
+719842,Mustapha Laabid,Laabid,Mustapha,H,1969-03-29,Rennes,35,Ille-et-Vilaine,1,2017-06-18,2021-09-07,1,LAREM,La République en Marche
+608016,Véronique Louwagie,Louwagie,Véronique,F,1961-03-20,Buis sur Damville,61,Orne,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+721864,Souad Zitouni,Zitouni,Souad,F,1974-04-23,Boukadir,84,Vaucluse,1,2017-06-18,,0,LAREM,La République en Marche
+608292,Jeanine Dubié,Dubié,Jeanine,F,1958-01-03,Lourdes,65,Hautes-Pyrénées,2,2012-06-20,2017-06-20,1,LT,Libertés et Territoires
+721134,Roland Lescure,Lescure,Roland,H,1966-11-26,Paris 11ème,099,Français établis hors de France,1,2017-06-18,,0,LAREM,La République en Marche
+719130,Monica Michel-Brassart,Michel-Brassart,Monica,F,1955-04-16,Victoria,13,Bouches-du-Rhône,16,2017-06-18,,0,LAREM,La République en Marche
+720728,Jean-Paul Mattei,Mattei,Jean-Paul,H,1954-03-21,SAARBURG,64,Pyrénées-Atlantiques,2,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+721166,Samantha Cazebonne,Cazebonne,Samantha,F,1971-08-10,La Rochelle,099,Français établis hors de France,5,2018-04-22,2021-10-01,1,LAREM,La République en Marche
+721670,Amélie de Montchalin,de Montchalin,Amélie,F,1985-06-19,Lyon 08,91,Essonne,6,2017-06-18,2019-04-30,1,LAREM,La République en Marche
+720074,Caroline Janvier,Janvier,Caroline,F,1982-03-09,Nantes,45,Loiret,2,2017-06-18,,0,LAREM,La République en Marche
+719272,Frédérique Meunier,Meunier,Frédérique,F,1960-12-08,Paris,19,Corrèze,2,2017-06-18,,0,LR,Les Républicains
+719118,François Cormier-Bouligeon,Cormier-Bouligeon,François,H,1972-11-19,Bourges,18,Cher,1,2017-06-18,,0,LAREM,La République en Marche
+719382,Luc Lamirault,Lamirault,Luc,H,1962-05-12,nc,28,Eure-et-Loir,3,2017-06-18,,0,AGIR-E,Agir ensemble
+721816,Ian Boucard,Boucard,Ian,H,1988-05-05,Belfort,90,Territoire de Belfort,1,2017-06-18,2017-12-08,1,LR,Les Républicains
+718894,Loïc Dombreval,Dombreval,Loïc,H,1966-04-16,Boulogne-Billancourt,06,Alpes-Maritimes,2,2017-06-18,,0,LAREM,La République en Marche
+1695,Christian Jacob,Jacob,Christian,H,1959-12-04,Rozay-en-Brie,77,Seine-et-Marne,4,2012-06-20,2017-06-20,1,LR,Les Républicains
+721576,Sylvie Bouchet Bellecourt,Bouchet Bellecourt,Sylvie,F,1957-07-03,Bondy,77,Seine-et-Marne,2,2017-06-18,,0,LR,Les Républicains
+702054,Stéphane Claireaux,Claireaux,Stéphane,H,1964-06-23,Saint-Pierre-et-Miquelon,975,Saint-Pierre-et-Miquelon,1,2017-06-18,,0,LAREM,La République en Marche
+508,Gisèle Biémouret,Biémouret,Gisèle,F,1952-06-16,Fleurance,32,Gers,2,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+719202,Didier Paris,Paris,Didier,H,1954-02-14,Paris,21,Côte-d'Or,5,2017-06-18,,0,LAREM,La République en Marche
+718682,Stéphane Trompille,Trompille,Stéphane,H,1982-12-01,Bourg en Bresse,01,Ain,4,2017-06-18,,0,LAREM,La République en Marche
+722142,François Ruffin,Ruffin,François,H,1975-10-18,Calais,80,Somme,1,2017-06-18,,0,FI,La France insoumise
+721992,Patricia Gallerneau,Gallerneau,Patricia,F,1954-09-09,Paris,85,Vendée,2,2017-06-18,2019-07-07,1,MODEM,Mouvement Démocrate et apparentés
+693008,Napole Polutele,Polutele,Napole,H,1964-06-25,Mua,986,Wallis-et-Futuna,1,2013-03-24,2017-06-20,1,NI,Non inscrit
+267440,Éric Diard,Diard,Éric,H,1965-07-21,Marseille,13,Bouches-du-Rhône,12,2017-06-18,,0,LR,Les Républicains
+333421,Bertrand Pancher,Pancher,Bertrand,H,1958-06-05,Saint-Mihiel,55,Meuse,1,2012-06-20,2017-06-20,1,UDI-AGIR,"UDI, Agir et Indépendants"
+719310,Célia de Lavergne,de Lavergne,Célia,F,1979-11-21,Clamart,26,Drôme,3,2017-06-18,,0,LAREM,La République en Marche
+719170,Fannette Charvier,Charvier,Fannette,F,1984-12-31,Annecy,25,Doubs,1,2017-06-18,,0,LAREM,La République en Marche
+720214,Aina Kuric,Kuric,Aina,F,1987-05-15,Creil,51,Marne,2,2017-06-18,,0,LAREM,La République en Marche
+719464,Sébastien Nadot,Nadot,Sébastien,H,1972-07-08,Fleurance,31,Haute-Garonne,10,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+718720,Jean-Paul Dufrègne,Dufrègne,Jean-Paul,H,1958-03-28,Saint-Menoux,03,Allier,1,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+1029,Bernard Deflesselles,Deflesselles,Bernard,H,1953-10-16,Paris 6ème,13,Bouches-du-Rhône,9,2017-06-18,,0,LR,Les Républicains
+720814,Sébastien Cazenove,Cazenove,Sébastien,H,1976-12-28,Perpignan,66,Pyrénées-Orientales,4,2017-06-18,,0,LAREM,La République en Marche
+1198,Laurence Dumont,Dumont,Laurence,F,1958-06-02,Vincennes,14,Calvados,2,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+718694,Marc Delatte,Delatte,Marc,H,1961-05-24,Soissons,02,Aisne,4,2017-06-18,,0,LAREM,La République en Marche
+719756,Christine Cloarec-Le Nabour,Cloarec-Le Nabour,Christine,F,1964-10-28,Noisy-le-Sec,35,Ille-et-Vilaine,5,2017-06-18,,0,LAREM,La République en Marche
+719100,Jean-Philippe Ardouin,Ardouin,Jean-Philippe,H,1964-03-05,Saintes,17,Charente-Maritime,3,2017-06-18,,0,LAREM,La République en Marche
+717151,Marielle de Sarnez,de Sarnez,Marielle,F,1951-03-27,Paris,75,Paris,11,2017-06-18,2021-01-13,1,MODEM,Mouvement Démocrate et apparentés
+605084,Jacques Krabal,Krabal,Jacques,H,1948-04-10,Epieds,02,Aisne,5,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+266774,Laurent Furst,Furst,Laurent,H,1965-05-19,Colmar,67,Bas-Rhin,6,2012-06-20,2017-06-20,1,LR,Les Républicains
+720944,Zivka Park,Park,Zivka,F,1985-01-22,Aubervilliers,95,Val-d'Oise,9,2017-06-18,,0,LAREM,La République en Marche
+345722,Constance Le Grip,Le Grip,Constance,F,1960-11-14,Chatou,92,Hauts-de-Seine,6,2017-06-18,,0,LR,Les Républicains
+721742,Isabelle Florennes,Florennes,Isabelle,F,1967-08-02,Arras,92,Hauts-de-Seine,4,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+760658,Francis Chouat,Chouat,Francis,H,1948-12-20,Argenteuil,91,Essonne,1,2018-11-18,,0,NI,Non inscrit
+719700,Philippe Huppé,Huppé,Philippe,H,1968-02-12,Mazamet,34,Hérault,5,2017-06-18,,0,LAREM,La République en Marche
+719258,Michel Delpon,Delpon,Michel,H,1949-08-13,Lafitte,24,Dordogne,2,2017-06-18,,0,LAREM,La République en Marche
+335612,Jean-Paul Lecoq,Lecoq,Jean-Paul,H,1958-10-13,Le Havre,76,Seine-Maritime,8,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+267337,Claire Bouchet,Bouchet,Claire,F,1954-01-09,Gap,05,Hautes-Alpes,2,2017-06-18,,0,LAREM,La République en Marche
+721254,Isabelle Muller-Quoy,Muller-Quoy,Isabelle,F,1967-11-08,Agen,95,Val-d'Oise,1,2017-06-18,2017-11-16,1,LAREM,La République en Marche
+719980,Julien Borowczyk,Borowczyk,Julien,H,1979-05-02,Montbrison,42,Loire,6,2017-06-18,,0,LAREM,La République en Marche
+643134,Isabelle Valentin,Valentin,Isabelle,F,1962-01-20,Le Puy-en-Velay,43,Haute-Loire,1,2017-06-18,,0,LR,Les Républicains
+719412,Sandrine Le Feur,Le Feur,Sandrine,F,1991-03-18,Saint Brieuc,29,Finistère,4,2017-06-18,,0,LAREM,La République en Marche
+720846,Bastien Lachaud,Lachaud,Bastien,H,1980-08-05,Vitry sur Seine,93,Seine-Saint-Denis,6,2017-06-18,,0,FI,La France insoumise
+721624,Laetitia Avia,Avia,Laetitia,F,1985-10-29,Livry-Gargan,75,Paris,8,2017-06-18,,0,LAREM,La République en Marche
+720066,Stéphanie Rist,Rist,Stéphanie,F,1973-08-06,Athis-Mons,45,Loiret,1,2017-06-18,,0,LAREM,La République en Marche
+334116,Jacqueline Maquet,Maquet,Jacqueline,F,1949-05-13,Estrée-Blanche,62,Pas-de-Calais,2,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+719002,Julien Ravier,Ravier,Julien,H,1978-02-16,Marseille,13,Bouches-du-Rhône,1,2017-06-18,,0,LR,Les Républicains
+721636,Jean-François Parigi,Parigi,Jean-François,H,1960-01-25,Châtenay-Malabry,77,Seine-et-Marne,6,2017-06-18,2021-07-27,1,LR,Les Républicains
+720222,Éric Girardin,Girardin,Éric,H,1962-02-12,Sézanne,51,Marne,3,2017-06-18,,0,LAREM,La République en Marche
+267429,Dino Cinieri,Cinieri,Dino,H,1955-07-09,Firminy,42,Loire,4,2012-06-20,2017-06-20,1,LR,Les Républicains
+720378,Richard Lioger,Lioger,Richard,H,1957-09-18,Paris 10,57,Moselle,3,2017-06-18,,0,LAREM,La République en Marche
+719162,Jacqueline Dubois,Dubois,Jacqueline,F,1957-05-28,Fréjus,24,Dordogne,4,2017-06-18,,0,LAREM,La République en Marche
+721352,Danièle Cazarian,Cazarian,Danièle,F,1965-08-31,Lyon 7ème,69,Rhône,13,2017-06-18,,0,LAREM,La République en Marche
+720892,Mathilde Panot,Panot,Mathilde,F,1989-01-15,Tours,94,Val-de-Marne,10,2017-06-18,,0,FI,La France insoumise
+720162,Philippe Bolo,Bolo,Philippe,H,1967-03-25,Limoges,49,Maine-et-Loire,7,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+606507,Florent Boudié,Boudié,Florent,H,1973-09-22,Sainte-Foy-la-Grande,33,Gironde,10,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+718784,Éric Pauget,Pauget,Éric,H,1970-08-18,Antibes,06,Alpes-Maritimes,7,2017-06-18,,0,LR,Les Républicains
+722062,Florence Granjus,Granjus,Florence,F,1962-05-17,Nanterre,78,Yvelines,12,2017-06-18,,0,LAREM,La République en Marche
+563,Jacques Bompard,Bompard,Jacques,H,1943-02-24,Montpellier,84,Vaucluse,4,2012-06-20,2017-06-20,1,NI,Non inscrit
+1630,Michel Herbillon,Herbillon,Michel,H,1951-03-06,Saint-Mandé,94,Val-de-Marne,8,2012-06-20,2017-06-20,1,LR,Les Républicains
+722280,Philippe Meyer,Meyer,Philippe,H,1969-04-29,Mulhouse,67,Bas-Rhin,6,2017-06-18,,0,LR,Les Républicains
+721640,Bernadette Beauvais,Beauvais,Bernadette,F,1949-06-18,Moissy Cramayel,77,Seine-et-Marne,6,2017-06-18,2021-08-25,1,NI,Non inscrit
+720586,Pierre Vatin,Vatin,Pierre,H,1967-08-21,Saint-Quentin,60,Oise,5,2017-06-18,,0,LR,Les Républicains
+266793,Jean-Yves Bony,Bony,Jean-Yves,H,1955-03-11,Aurillac,15,Cantal,2,2017-06-18,,0,LR,Les Républicains
+608741,Sylvie Tolmont,Tolmont,Sylvie,F,1962-10-09,Le Mans,72,Sarthe,4,2017-06-18,,0,NG,Nouvelle Gauche
+642935,Olivier Becht,Becht,Olivier,H,1976-04-28,Strasbourg,68,Haut-Rhin,5,2017-06-18,,0,UDI_I,UDI et Indépendants
+605888,Annie Le Houerou,Le Houerou,Annie,F,1960-03-31,Plougonver,22,Côtes-d'Armor,4,2012-06-20,2017-06-20,1,,
+342196,Claudia Rouaux,Rouaux,Claudia,F,1963-10-13,Sainte-Gemmes-d'Andigné,35,Ille-et-Vilaine,3,2017-06-18,,0,SOC,Socialistes et apparentés
+267801,Yves Jégo,Jégo,Yves,H,1961-04-17,Besançon,77,Seine-et-Marne,3,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+720154,Nicole Dubré-Chirat,Dubré-Chirat,Nicole,F,1951-12-18,Felletin,49,Maine-et-Loire,6,2017-06-18,,0,LAREM,La République en Marche
+720310,Christophe Arend,Arend,Christophe,H,1975-08-12,Forbach,57,Moselle,6,2017-06-18,,0,LAREM,La République en Marche
+719250,Philippe Chassaing,Chassaing,Philippe,H,1972-05-18,Albi,24,Dordogne,1,2017-06-18,,0,LAREM,La République en Marche
+335999,Delphine Batho,Batho,Delphine,F,1973-03-23,Paris 12ème,79,Deux-Sèvres,2,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+722102,Annie Vidal,Vidal,Annie,F,1956-09-17,La Bohalle,76,Seine-Maritime,2,2017-06-18,,0,LAREM,La République en Marche
+721384,Pascale Fontenel-Personne,Fontenel-Personne,Pascale,F,1962-05-26,Le Mans,72,Sarthe,3,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+720552,Isabelle Rauch,Rauch,Isabelle,F,1968-08-10,Villers-Semeuse,57,Moselle,9,2017-06-18,,0,LAREM,La République en Marche
+719072,Thomas Mesnier,Mesnier,Thomas,H,1986-03-04,Barbezieux-Saint-Hilaire,16,Charente,1,2017-06-18,,0,LAREM,La République en Marche
+333285,Guillaume Garot,Garot,Guillaume,H,1966-05-29,Laval,53,Mayenne,1,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+721506,Brigitte Kuster,Kuster,Brigitte,F,1959-04-12,Saint-Cloud,75,Paris,4,2017-06-18,,0,LR,Les Républicains
+335054,Marietta Karamanli,Karamanli,Marietta,F,1964-12-18,Athènes,72,Sarthe,2,2012-06-20,2017-06-20,1,SOC,Socialistes et apparentés
+642695,Éric Bothorel,Bothorel,Éric,H,1966-10-20,Paimpol,22,Côtes-d'Armor,5,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+721836,Jean-Noël Barrot,Barrot,Jean-Noël,H,1983-05-13,Paris,78,Yvelines,2,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+720480,Charlotte Parmentier-Lecocq,Parmentier-Lecocq,Charlotte,F,1977-07-17,Pointe-à-Pitre,59,Nord,6,2017-06-18,,0,LAREM,La République en Marche
+719806,Sophie Auconie,Auconie,Sophie,F,1963-08-19,Dugny,37,Indre-et-Loire,3,2017-06-18,2021-03-05,1,UDI-AGIR,"UDI, Agir et Indépendants"
+923,François Cornut-Gentille,Cornut-Gentille,François,H,1958-05-22,Saint-Mandé,52,Haute-Marne,2,2012-06-20,2017-06-20,1,LR,Les Républicains
+721538,Muriel Roques-Etienne,Roques-Etienne,Muriel,F,1979-03-05,Albi,81,Tarn,1,2017-06-18,,0,LAREM,La République en Marche
+720806,Laurence Gayte,Gayte,Laurence,F,1965-09-25,Paris 13ème,66,Pyrénées-Orientales,3,2017-06-18,,0,LAREM,La République en Marche
+720932,Dominique Da Silva,Da Silva,Dominique,H,1968-06-30,L'Isle-Adam,95,Val-d'Oise,7,2017-06-18,,0,LAREM,La République en Marche
+719748,Émilie Chalas,Chalas,Émilie,F,1977-10-18,Échirolles,38,Isère,3,2017-06-18,,0,LAREM,La République en Marche
+608172,Christine Pires Beaune,Pires Beaune,Christine,F,1964-10-06,Saint-Georges-de-Mons,63,Puy-de-Dôme,2,2017-06-18,,0,SOC,Socialistes et apparentés
+719420,Denis Sommer,Sommer,Denis,H,1957-09-23,Lure,25,Doubs,3,2017-06-18,,0,LAREM,La République en Marche
+719210,Bruno Joncour,Joncour,Bruno,H,1953-11-25,Bizerte,22,Côtes-d'Armor,1,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+588886,Stéphane Le Foll,Le Foll,Stéphane,H,1960-02-03,Le Mans,72,Sarthe,4,2017-06-18,2018-07-11,1,NG,Nouvelle Gauche
+721012,Manuéla Kéclard-Mondésir,Kéclard-Mondésir,Manuéla,F,1971-05-06,Le Lamentin,972,Martinique,2,2017-06-18,,0,GDR,Gauche démocrate et républicaine
+722228,Jean-Claude Leclabart,Leclabart,Jean-Claude,H,1954-12-04,Lawarde-Mauger-l'Hortoy,80,Somme,4,2017-06-18,,0,LAREM,La République en Marche
+719684,Coralie Dubost,Dubost,Coralie,F,1983-03-04,Montpellier,34,Hérault,3,2017-06-18,,0,LAREM,La République en Marche
+720988,Josette Manin,Manin,Josette,F,1950-03-16,Lamentin,972,Martinique,1,2017-06-18,,0,SOC,Socialistes et apparentés
+607919,Anne-Lise Dufour-Tonini,Dufour-Tonini,Anne-Lise,F,1970-03-02,Denain,59,Nord,19,2012-06-20,2017-06-20,1,,
+721956,Delphine O,O,Delphine,F,1985-12-25,Mont-Saint-Aignan,75,Paris,16,2017-06-18,2019-04-27,1,LAREM,La République en Marche
+718860,Bénédicte Taurine,Taurine,Bénédicte,F,1976-06-18,Lavelanet,09,Ariège,1,2017-06-18,,0,FI,La France insoumise
+724827,Ramlati Ali,Ali,Ramlati,F,1961-05-28,Pamandzi,976,Mayotte,1,2018-03-25,,0,LAREM,La République en Marche
+722374,Cyrille Isaac-Sibille,Isaac-Sibille,Cyrille,H,1958-04-30,Lyon 6,69,Rhône,12,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+1874,Marc Le Fur,Le Fur,Marc,H,1956-11-28,Dakar,22,Côtes-d'Armor,3,2012-06-20,2017-06-20,1,LR,Les Républicains
+267318,Jean-Carles Grelier,Grelier,Jean-Carles,H,1966-03-15,Le Mans,72,Sarthe,5,2017-06-18,,0,LR,Les Républicains
+721702,Jean-Michel Fauvergue,Fauvergue,Jean-Michel,H,1957-01-31,Bages,77,Seine-et-Marne,8,2017-06-18,,0,LAREM,La République en Marche
+721434,Frédérique Lardet,Lardet,Frédérique,F,1966-09-01,Annecy,74,Haute-Savoie,2,2017-06-18,2022-01-29,1,LAREM,La République en Marche
+268048,Victorin Lurel,Lurel,Victorin,H,1951-08-20,Vieux-Habitants,971,Guadeloupe,4,2012-06-20,2017-06-20,1,,
+720798,Louis Aliot,Aliot,Louis,H,1969-09-04,Toulouse,66,Pyrénées-Orientales,2,2017-06-18,2020-08-02,1,NI,Non inscrit
+720002,Sarah El Haïry,El Haïry,Sarah,F,1989-03-16,,44,Loire-Atlantique,5,2017-06-18,2020-08-26,1,MODEM,Mouvement Démocrate et apparentés
+720318,Hélène Zannier,Zannier,Hélène,F,1972-09-19,Saint-Avold,57,Moselle,7,2017-06-18,,0,LAREM,La République en Marche
+719882,Marjolaine Meynier-Millefert,Meynier-Millefert,Marjolaine,F,1982-09-30,Échirolles,38,Isère,10,2017-06-18,,0,LAREM,La République en Marche
+608641,Yves Blein,Blein,Yves,H,1954-10-12,Lyon,69,Rhône,14,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+719592,Benoit Simian,Simian,Benoit,H,1983-05-27,Bordeaux,33,Gironde,5,2017-06-18,,0,LAREM,La République en Marche
+712014,Vincent Ledoux,Ledoux,Vincent,H,1966-06-21,Watermael-Boitsfort,59,Nord,10,2016-03-20,2017-06-20,1,UDI-A-I,"UDI, Agir et Indépendants"
+720182,Pascale Cesar,Cesar,Pascale,F,1967-01-15,Boulogne sur mer,54,Meurthe-et-Moselle,2,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+721718,Stéphanie Do,Do,Stéphanie,F,1979-12-20,Hô Chi Minh Ville,77,Seine-et-Marne,10,2017-06-18,,0,LAREM,La République en Marche
+266776,Frédéric Reiss,Reiss,Frédéric,H,1949-11-12,Haguenau,67,Bas-Rhin,8,2012-06-20,2017-06-20,1,LR,Les Républicains
+719044,Nadia Essayan,Essayan,Nadia,F,1957-06-06,Dimbokro,18,Cher,2,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+342240,Jean-Luc Bourgeaux,Bourgeaux,Jean-Luc,H,1963-04-10,Paramé-Saint-Malo,35,Ille-et-Vilaine,7,2017-06-18,,0,LR,Les Républicains
+721860,Jean-François Cesarini,Cesarini,Jean-François,H,1970-09-30,Avignon,84,Vaucluse,1,2017-06-18,2020-03-29,1,LAREM,La République en Marche
+607090,Jean-Pierre Vigier,Vigier,Jean-Pierre,H,1969-10-22,Brioude,43,Haute-Loire,2,2017-06-18,,0,LR,Les Républicains
+721246,Albane Gaillot,Gaillot,Albane,F,1971-07-07,Paris 13,94,Val-de-Marne,11,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+719294,Mireille Clapot,Clapot,Mireille,F,1963-10-14,Belley,26,Drôme,1,2017-06-18,,0,LAREM,La République en Marche
+689,Marie-George Buffet,Buffet,Marie-George,F,1949-05-07,Sceaux,93,Seine-Saint-Denis,4,2012-06-20,2017-06-20,1,GDR,Gauche démocrate et républicaine
+606171,Richard Ferrand,Ferrand,Richard,H,1962-07-01,Rodez,29,Finistère,6,2017-06-18,,0,LAREM,La République en Marche
+267241,Stéphane Demilly,Demilly,Stéphane,H,1963-06-26,Albert,80,Somme,5,2012-06-20,2017-06-20,1,UDI_I,UDI et Indépendants
+721498,Stanislas Guerini,Guerini,Stanislas,H,1982-05-14,Paris 15ème,75,Paris,3,2017-06-18,,0,LAREM,La République en Marche
+2792,Jean-Charles Taugourdeau,Taugourdeau,Jean-Charles,H,1953-07-17,Dreux,49,Maine-et-Loire,3,2012-06-20,2017-06-20,1,LR,Les Républicains
+720754,Bruno Studer,Studer,Bruno,H,1978-06-18,Colmar,67,Bas-Rhin,3,2017-06-18,,0,LAREM,La République en Marche
+721656,Cécile Muschotti,Muschotti,Cécile,F,1987-10-30,Toulon,83,Var,2,2017-06-18,,0,LAREM,La République en Marche
+721776,Didier Baichère,Baichère,Didier,H,1970-08-20,Limoux,78,Yvelines,1,2017-06-18,,0,LAREM,La République en Marche
+721876,Adrien Morenas,Morenas,Adrien,H,1982-01-01,Carpentras,84,Vaucluse,3,2017-06-18,,0,LAREM,La République en Marche
+719994,Catherine Kamowski,Kamowski,Catherine,F,1958-04-08,Valenciennes,38,Isère,5,2017-06-18,,0,LAREM,La République en Marche
+606639,Patrick Vignal,Vignal,Patrick,H,1958-01-22,Montpellier,34,Hérault,9,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+719938,Marc Fesneau,Fesneau,Marc,H,1971-01-11,Paris 15ème,41,Loir-et-Cher,1,2017-06-18,2018-11-16,1,MODEM,Mouvement Démocrate et apparentés
+720746,Sylvain Waserman,Waserman,Sylvain,H,1967-12-08,Paris 07,67,Bas-Rhin,2,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+722344,Hubert Julien-Laferrière,Julien-Laferrière,Hubert,H,1966-02-27,Boulogne Billancourt,69,Rhône,2,2017-06-18,,0,LAREM,La République en Marche
+605991,Annie Genevard,Genevard,Annie,F,1956-09-07,Audincourt,25,Doubs,5,2012-06-20,2017-06-20,1,LR,Les Républicains
+720370,Ludovic Mendes,Mendes,Ludovic,H,1987-04-11,Metz,57,Moselle,2,2017-06-18,,0,LAREM,La République en Marche
+720976,Max Mathiasin,Mathiasin,Max,H,1956-02-24,Deshaies,971,Guadeloupe,3,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+721608,Jean-Louis Bourlanges,Bourlanges,Jean-Louis,H,1946-07-13,Neuilly-Sur-Seine,92,Hauts-de-Seine,12,2017-06-18,,0,MODEM,Mouvement Démocrate et apparentés
+720606,Ludovic Pajot,Pajot,Ludovic,H,1993-11-18,Beuvry,62,Pas-de-Calais,10,2017-06-18,2021-04-21,1,NI,Non inscrit
+721110,Nicole Sanquer,Sanquer,Nicole,F,1972-06-16,Papeete,987,Polynésie Française,2,2017-06-18,,0,UDI-I,UDI et Indépendants
+721426,Véronique Riotton,Riotton,Véronique,F,1969-11-02,Bonneville,74,Haute-Savoie,1,2017-06-18,,0,LAREM,La République en Marche
+721054,David Lorion,Lorion,David,H,1964-10-15,Saint-Pierre,974,Réunion,4,2017-06-18,,0,LR,Les Républicains
+720538,Jennifer De Temmerman,De Temmerman,Jennifer,F,1977-02-16,Valenciennes,59,Nord,15,2017-06-18,,0,LT,Libertés et Territoires
+721760,Maud Gatel,Gatel,Maud,F,1979-04-06,Saint-Maur-des-Fossés,75,Paris,11,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+606202,Françoise Dumas,Dumas,Françoise,F,1960-04-12,Alès,30,Gard,1,2012-06-20,2017-06-20,1,LAREM,La République en Marche
+774954,Anne-Laure Blin,Blin,Anne-Laure,F,1983-06-12,,49,Maine-et-Loire,3,2020-09-20,,0,LR,Les Républicains
+719404,Didier Le Gac,Le Gac,Didier,H,1965-07-19,Castres,29,Finistère,3,2017-06-18,,0,LAREM,La République en Marche
+774960,Isabelle Santiago,Santiago,Isabelle,F,1965-09-20,Neuilly-sur-Seine,94,Val-de-Marne,9,2020-09-20,,0,SOC,Socialistes et apparentés
+722086,Adrien Taquet,Taquet,Adrien,H,1977-01-03,Paris 16,92,Hauts-de-Seine,2,2017-06-18,2019-02-25,1,LAREM,La République en Marche
+720246,Sylvain Templier,Templier,Sylvain,H,1971-12-27,Soissons,52,Haute-Marne,1,2017-06-18,,0,LAREM,La République en Marche
+719540,Élisabeth Toutut-Picard,Toutut-Picard,Élisabeth,F,1954-12-17,Blida,31,Haute-Garonne,7,2017-06-18,,0,LAREM,La République en Marche
+719138,Michel Castellani,Castellani,Michel,H,1945-09-28,Bastia,2B,Haute-Corse,1,2017-06-18,,0,LT,Libertés et Territoires
+722126,Guillaume Chiche,Chiche,Guillaume,H,1986-03-30,Niort,79,Deux-Sèvres,1,2017-06-18,,0,LAREM,La République en Marche
+1592,David Habib,Habib,David,H,1961-03-16,Paris,64,Pyrénées-Atlantiques,3,2012-06-20,2017-06-20,1,NG,Nouvelle Gauche
+1001,Marc-Philippe Daubresse,Daubresse,Marc-Philippe,H,1953-08-01,Lille,59,Nord,4,2012-06-20,2017-06-20,1,,
+722118,Sira Sylla,Sylla,Sira,F,1980-03-14,Rouen,76,Seine-Maritime,4,2017-06-18,,0,LAREM,La République en Marche
+267330,Michel Zumkeller,Zumkeller,Michel,H,1966-01-21,Belfort,90,Territoire de Belfort,2,2012-06-20,2017-06-20,1,LC,"Les Constructifs : républicains, UDI, indépendants"
+721364,Raphaël Gauvain,Gauvain,Raphaël,H,1973-04-10,Paris 14ème,71,Saône-et-Loire,5,2017-06-18,,0,LAREM,La République en Marche
+721710,Michèle Peyron,Peyron,Michèle,F,1961-07-22,Nîmes,77,Seine-et-Marne,9,2017-06-18,,0,LAREM,La République en Marche
+720256,Géraldine Bannier,Bannier,Géraldine,F,1979-11-22,Laval,53,Mayenne,2,2017-06-18,,0,DEM,Mouvement Démocrate (MoDem) et Démocrates apparentés
+722366,Jean-Luc Fugit,Fugit,Jean-Luc,H,1969-11-27,Rodez,69,Rhône,11,2017-06-18,,0,LAREM,La République en Marche
+2796,Guy Teissier,Teissier,Guy,H,1945-04-04,Marseille,13,Bouches-du-Rhône,6,2017-06-18,,0,LR,Les Républicains
+720952,Aurélien Taché,Taché,Aurélien,H,1984-05-26,Niort,95,Val-d'Oise,10,2017-06-18,,0,EDS,Écologie Démocratie Solidarité
+722134,Jean-Marie Fiévet,Fiévet,Jean-Marie,H,1964-06-19,Bressuire,79,Deux-Sèvres,3,2017-06-18,,0,LAREM,La République en Marche
+721522,Xavier Batut,Batut,Xavier,H,1976-12-26,Créteil,76,Seine-Maritime,10,2017-06-18,,0,LAREM,La République en Marche
+720590,Benoit Potterie,Potterie,Benoit,H,1967-07-23,Calais,62,Pas-de-Calais,8,2017-06-18,,0,LAREM,La République en Marche
