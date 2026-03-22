@@ -13,7 +13,7 @@ En la raíz de **francia_deputies** solo están este README y **ESTRUCTURA.md**;
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **datos_diputados/** | Armé el CSV consolidado de diputados: fuentes Twitter (twitter-parlementaires) y AN (open data 15e), scripts de limpieza y merge. La salida que uso en todo lo demás es **processed/deputes_2017_2022.csv**. Detalle en **datos_diputados/README.md**.                                                      |
 | **zeeschuimer/**     | Capturo tweets de las cuentas de los diputados con Zeeschuimer (cuenta por cuenta, ~15 min de scroll por cuenta, ~400 tweets). Los scripts generan la lista de URLs y luego unifican los ndjson con el CSV de diputados; me quedo con el texto para el análisis. Ver **zeeschuimer/README.md**. |
-| **lois_votes/**      | Uso los open data de la AN (Scrutins XV y Dossiers législatifs) para unas 50 leyes y el voto de cada diputado (a favor/en contra); cruzo con deputes_2017_2022 para análisis de valores. Ver **lois_votes/README_LOIS_VOTES.md**.                                                                           |
+| **lois_votes/**      | Open data AN (Scrutins XV): todas las leyes (adopción) 2017-2022 y todos los votos por diputado; versión cohorte filtrada a `deputes_2017_2022.csv`. Ver **lois_votes/README_LOIS_VOTES.md**. |
 
 
 ---

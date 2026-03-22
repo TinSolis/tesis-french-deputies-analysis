@@ -18,3 +18,6 @@ env/
 # Opcional: descomenta si no quieres versionar estos (pesados)
 # *.zip
 # *.ndjson
+
+# Caché local (índice dossiers AN)
+francia_deputies/lois_votes/votes_rd/.dossier_index_cache.pkl
