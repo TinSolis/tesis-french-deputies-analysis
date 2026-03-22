@@ -17,7 +17,16 @@ env/
 
 # Opcional: descomenta si no quieres versionar estos (pesados)
 # *.zip
-# *.ndjson
+
+# Capturas Zeeschuimer: suelen superar el límite de 100 MB de GitHub
+francia_deputies/zeeschuimer/captures/*.ndjson
+
+# Datos masivos (descargar de nuevo con los scripts si hace falta)
+francia_deputies/datos_diputados/data/*.zip
+francia_deputies/lois_votes/votes_rd/*.json.zip
+francia_deputies/lois_votes/votes_rd/json/
+francia_deputies/lois_votes/votes_rd/Dossiers_Legislatifs_XV.json
+francia_deputies/lois_votes/votes_rd/Scrutins_XV.json
 
 # Caché local (índice dossiers AN)
 francia_deputies/lois_votes/votes_rd/.dossier_index_cache.pkl
