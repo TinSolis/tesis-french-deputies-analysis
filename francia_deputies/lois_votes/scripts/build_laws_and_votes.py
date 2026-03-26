@@ -210,7 +210,7 @@ def get_dossier_ref(s):
         if v:
             return str(v).strip()
     return ""
-
+           
 
 def is_law_adoption_scrutin(titre: str) -> bool:
     """
