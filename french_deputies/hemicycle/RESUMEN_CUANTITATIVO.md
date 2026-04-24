@@ -1,0 +1,99 @@
+# Resumen cuantitativo (hemiciclo)
+
+Yo calculé estas cifras a partir de **`interventions_xv_2017_2022_meta.csv.gz`** (XVe / ND15), más el conteo de otras legislaturas y de filas en mis leyes votadas cuando existía el archivo.
+
+
+## Narrativa breve
+
+Tengo **949,718** intervenciones en el hemiciclo para la **XVe legislatura (2017–2022)** en esta exportación. En **949,718** el acta marca al menos una palabra (`nb_mots` > 0), que es lo que uso como señal de que hay texto analizable. En **661,690** filas pude enlazar el orador con mi `deputes_2017_2022.csv` (columna `deputy_id`); eso son **646** diputados distintos con al menos una intervención en este corpus. Vi **1,561** `seance_id` distintos y **737** días (`date`) distintos con actividad en el acta.
+
+Los **tipos** de tramo más frecuentes en `type` los dejé en la tabla de abajo; a mí me sirve ver cuánto cae bajo `loi` vs. `question`, pero eso **no reemplaza** leer el texto ni la sección.
+
+En **`section`** conté **18,547** títulos distintos no vacíos. **5,132** de esos títulos contienen palabras que yo asocié a legislación («loi», «projet», «budget», etc.): es una **heurística mía** para ver cuánto del debate va explícitamente etiquetado en esa lógica, no un conteo oficial de leyes del AN.
+
+Para comparar con mis votos: en `lois_votes/.../leyes_votadas_2017_2022.csv` tengo **373** filas (scrutins de adopción en mi filtro). El vínculo hemiciclo ↔ ley concreta no viene como ID en esta tabla: lo tengo que pensar yo con fechas, dossiers o lectura manual.
+
+## Tipos (`type`) más frecuentes (XV)
+
+| Tipo | Intervenciones |
+|------|----------------:|
+| loi | 839,970 |
+| question | 109,748 |
+
+---
+
+## Tres ejemplos concretos de la data
+
+Para entender qué es una fila en este corpus, acá van tres intervenciones reales con campos seleccionados.
+
+### Ejemplo 1 — Apertura protocolar (tipo `loi`, función presidencial)
+
+| Campo | Valor |
+|-------|-------|
+| `intervention_id` | 4 |
+| `seance_id` | 1 |
+| `date` | 2017-06-27 |
+| `type` | loi |
+| `section` | ouverture de la xve législature |
+| `intervention_plain` | *«Je déclare ouverte la XVe législature de l'Assemblée nationale.»* |
+| `nb_mots` | 14 |
+| `parlementaire` | Bernard Brochand |
+| `fonction` | président, doyen d'âge |
+| `parlementaire_groupe` | NI |
+| `deputy_id` | 223837 |
+| `political_group_abbrev` | LR |
+| `source_url` | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017/20170124.asp#P980120) |
+
+Es la primera frase del primer día de la legislatura. Muestra una intervención corta de **protocolo**: el presidente de edad abre la sesión. `fonction` = "président, doyen d'âge" y `deputy_id` está enlazado porque Bernard Brochand aparece en `deputes_2017_2022.csv`.
+
+---
+
+### Ejemplo 2 — Pregunta al gobierno (tipo `question`)
+
+| Campo | Valor |
+|-------|-------|
+| `intervention_id` | 1586 |
+| `seance_id` | 16 |
+| `date` | 2017-07-05 |
+| `type` | question |
+| `section` | questions au gouvernement > engagements du gouvernement |
+| `sous_section` | engagements du gouvernement |
+| `intervention_plain` | *«Monsieur le président, avant de poser ma question à M. le Premier ministre, je voudrais saluer l'entrée au Panthéon de Simone Veil, cette femme admirable qui incarne la grandeur morale, et dont le message de tolérance et d'humanisme doit guider notre engagement.»* |
+| `nb_mots` | 47 |
+| `parlementaire` | Damien Abad |
+| `fonction` | *(vacío)* |
+| `parlementaire_groupe` | LR |
+| `deputy_id` | 605036 |
+| `political_group_abbrev` | LR |
+| `twitter_handle` | damienabad |
+| `source_url` | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017-extra/20171002.asp#P982182) |
+
+Acá cambia el `type` a **question** y la `section` muestra la jerarquía con `>`. El diputado no tiene `fonction` especial (es un backbencher hablando). Nótese que `twitter_handle` viene del cruce con mi CSV de diputados — eso me permite vincular este turno de palabra con su actividad en Twitter.
+
+---
+
+### Ejemplo 3 — Debate legislativo sobre el estado de emergencia (tipo `loi`, argumentación sustantiva)
+
+| Campo | Valor |
+|-------|-------|
+| `intervention_id` | 2657 |
+| `seance_id` | 27 |
+| `date` | 2017-07-06 |
+| `type` | loi |
+| `section` | prorogation de l'état d'urgence > article 1er |
+| `sous_section` | article 1er |
+| `intervention_plain` | *«Mon amendement, mes chers collègues, tend à supprimer l'article 1er. Nous pensons en effet, plusieurs de mes collègues l'ont dit, que la prorogation de l'état d'urgence, telle que proposée, ne correspond pas à ce qu'il faudrait faire, ni sur le court terme ni sur le long terme. (…) Refuser la prorogation de l'état d'urgence, c'est prendre acte que ce qui a été fait au cours des derniers mois a remis en cause l'équilibre des pouvoirs et a entamé les libertés publiques et les droits démocratiques.»* |
+| `nb_mots` | 164 |
+| `parlementaire` | Danièle Obono |
+| `parlementaire_sexe` | F |
+| `parlementaire_groupe` | LFI |
+| `deputy_id` | 721960 |
+| `political_group_abbrev` | FI |
+| `district_name` | Paris |
+| `twitter_handle` | Deputee_Obono |
+| `source_url` | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017-extra/20171003.asp#P983279) |
+
+Este es el tipo de fila que más me interesa para la tesis: una intervención **argumentativa** dentro de un debate sobre un texto de ley concreto. La `section` indica el proyecto legislativo (prorogation de l'état d'urgence) y la `sous_section` el artículo en discusión. Con 164 palabras es un turno de palabra sustantivo donde la diputada defiende su enmienda de supresión — el texto plano es lo que le paso al pipeline de NLP.
+
+---
+*Generado con `hemicycle/scripts/report_hemicycle_stats.py`.*

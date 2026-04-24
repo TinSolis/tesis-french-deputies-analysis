@@ -20,6 +20,7 @@ Tesis/
     │── PRINCIPAL (para análisis y tesis)
     │   ├── deputes_2017_2022.csv        Lista consolidada de diputados + Twitter
     │   ├── zeeschuimer/processed/       Tweets asociados a diputados (CSV)
+    │   ├── hemicycle/processed/         Intervenciones hemiciclo (XV + diputados; ver hemicycle/README.md)
     │   └── lois_votes/processed/        Leyes y votos por diputado (cuando se generen)
     │
     │── Scripts y guías

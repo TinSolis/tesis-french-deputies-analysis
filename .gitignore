@@ -19,14 +19,26 @@ env/
 # *.zip
 
 # Capturas Zeeschuimer: suelen superar el límite de 100 MB de GitHub
-francia_deputies/zeeschuimer/captures/*.ndjson
+french_deputies/zeeschuimer/captures/*.ndjson
 
 # Datos masivos (descargar de nuevo con los scripts si hace falta)
-francia_deputies/datos_diputados/data/*.zip
-francia_deputies/lois_votes/votes_rd/*.json.zip
-francia_deputies/lois_votes/votes_rd/json/
-francia_deputies/lois_votes/votes_rd/Dossiers_Legislatifs_XV.json
-francia_deputies/lois_votes/votes_rd/Scrutins_XV.json
+french_deputies/datos_diputados/data/*.zip
+french_deputies/lois_votes/votes_rd/*.json.zip
+french_deputies/lois_votes/votes_rd/json/
+french_deputies/lois_votes/votes_rd/Dossiers_Legislatifs_XV.json
+french_deputies/lois_votes/votes_rd/Scrutins_XV.json
 
 # Caché local (índice dossiers AN)
-francia_deputies/lois_votes/votes_rd/.dossier_index_cache.pkl
+french_deputies/lois_votes/votes_rd/.dossier_index_cache.pkl
+
+# Hemiciclo: TSV fuente Regards Citoyens (regenerar con scripts)
+french_deputies/hemicycle/fuente/*.tsv.gz
+
+# Hemiciclo: processed pesados (regenerar con build_interventions_with_deputies.py)
+french_deputies/hemicycle/processed/interventions_xv_2017_2022_with_deputies.csv.gz
+french_deputies/hemicycle/processed/interventions_xv_2017_2022_texts.csv.gz
+french_deputies/hemicycle/processed/interventions_xv_2017_2022_meta.csv.gz
+
+# Zeeschuimer: CSVs procesados pesados (regenerar con merge_zeeschuimer_with_deputies.py)
+french_deputies/zeeschuimer/processed/tweets_with_deputies.csv
+french_deputies/zeeschuimer/processed/tweets_text_only.csv
