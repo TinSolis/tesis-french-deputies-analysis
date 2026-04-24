@@ -13,6 +13,7 @@ Yo dejé en la **raíz** solo **README.md** y este **ESTRUCTURA.md**. Todo lo de
 | **zeeschuimer/processed/**                          | Tweets ya cruzados con diputados: texto, menciones, resúmenes por cuenta.                                                                                           |
 | **lois_votes/votes_rd/processed/**                  | Leyes votadas (por scrutin), votos por diputado, cohorte, y cuando lo generé, **leyes_texto_oficial.csv** con NOR/Légifrance y texto si lo pegué en `textes_lois/`. |
 | **hemicycle/processed/**                            | Intervenciones XV (ND15) con texto y columnas de diputado; también meta y textos separados. Detalle en **hemicycle/README.md**.                                     |
+| **manifestos/processed/**                           | Manifiestos MARPOR Francia 2017: textos quasi-sentence codificados y posiciones por partido. Detalle en **manifestos/README.md**.                                   |
 
 
 ---
@@ -32,6 +33,7 @@ Yo dejé en la **raíz** solo **README.md** y este **ESTRUCTURA.md**. Todo lo de
 | **lois_votes/scripts/build_leyes_texte_oficial.py**         | NOR / URL JORF y texto opcional desde `textes_lois/`          |
 | **hemicycle/scripts/build_interventions_with_deputies.py**  | TSV en `hemicycle/fuente/` → tablas en `hemicycle/processed/` |
 | **hemicycle/scripts/report_hemicycle_stats.py**             | Actualizo **RESUMEN_CUANTITATIVO.md**                         |
+| **manifestos/scripts/download_manifestos.py**              | API MARPOR → dataset + textos Francia 2017 en `manifestos/`  |
 
 
 ---
@@ -62,6 +64,7 @@ Yo dejé en la **raíz** solo **README.md** y este **ESTRUCTURA.md**. Todo lo de
 | **hemicycle/README.md**                     | Hemiciclo: carpetas, comandos, resumen cuantitativo.         |
 | **hemicycle/GUIA_IDENTIFICADORES_TESIS.md** | Diccionario de columnas y enlaces con el resto del proyecto. |
 | **hemicycle/RESUMEN_CUANTITATIVO.md**       | Cifras (lo regenero con el script de reporte).               |
+| **manifestos/README.md**                    | Cómo bajé los manifiestos, mapeo grupos → partidos, códigos. |
 
 
 ---
@@ -71,5 +74,6 @@ Yo dejé en la **raíz** solo **README.md** y este **ESTRUCTURA.md**. Todo lo de
 - **Diputados y Twitter:** `datos_diputados/processed/deputes_2017_2022.csv` y `zeeschuimer/processed/`.
 - **Leyes y votos:** `lois_votes/votes_rd/processed/`.
 - **Hemiciclo:** `hemicycle/processed/` (después de correr el build con archivos en `hemicycle/fuente/`).
-- **Reproducir:** diputados primero (orden en su README) → después zeeschuimer, lois_votes o hemicycle según lo que esté actualizando.
+- **Manifiestos:** `manifestos/processed/` (correr con API key de MARPOR; ver `manifestos/README.md`).
+- **Reproducir:** diputados primero (orden en su README) → después zeeschuimer, lois_votes, hemicycle o manifestos según lo que esté actualizando.
 

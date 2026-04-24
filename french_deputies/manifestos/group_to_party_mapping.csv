@@ -1,0 +1,18 @@
+political_group_abbrev;party_name_marpor;party_country_code;party_election_date;note
+LAREM;La République en Marche!;31;201706;nuevo en MARPOR 2017b
+LR;Les Républicains;31;201706;ex-UMP (31626)
+MODEM;Mouvement Démocrate;31;201706;ex-UDF (31624)
+DEM;Mouvement Démocrate;31;201706;mismo que MODEM, renombrado en 2020
+SOC;Parti Socialiste;31;201706;31320
+NG;Parti Socialiste;31;201706;Nouvelle Gauche = grupo PS en la AN
+FI;La France Insoumise;31;201706;nuevo en MARPOR 2017b
+GDR;Parti Communiste Français;31;201706;31220 - GDR incluye también aliados menores
+NI;Front National;31;201706;31720 - solo aplica a diputados FN (Le Pen etc.)
+LT;;;grupo mixto: varios partidos menores sin manifiesto único
+UDI_I;Union des Démocrates et Indépendants;31;201706;puede estar en MARPOR
+UDI-AGIR;Union des Démocrates et Indépendants;31;201706;UDI + Agir
+UDI-I;Union des Démocrates et Indépendants;31;201706;mismo que UDI_I
+UDI-A-I;Union des Démocrates et Indépendants;31;201706;mismo que UDI-AGIR
+LC;Les Républicains;31;201706;Constructifs = disidentes LR, mismo programa base
+EDS;;;escisión LREM 2020, no existía en 2017
+AGIR-E;;;escisión LR 2017, partido menor
