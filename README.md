@@ -1,62 +1,106 @@
-# Tesis – Diputados Francia 2017-2022, Twitter y votaciones
+# Tesis — Diputados franceses, discursos, votos, Twitter y manifiestos (2017-2022)
 
-Proyecto de datos para la tesis: diputados de la Assemblée nationale (XVª legislatura 2017-2022), sus cuentas de Twitter, captura de tweets con Zeeschuimer, y leyes/votos para análisis de valores.
+Proyecto de datos para la tesis: diputados de la Assemblée nationale (XVe legislatura 2017-2022), sus intervenciones en el hemiciclo, votaciones sobre leyes, actividad en Twitter y programas electorales de sus partidos.
 
-**Documento de referencia:** [Propuesta_Memoria.pdf](Propuesta_Memoria.pdf)
+**Documento de referencia:** [Propuesta Memoria .pdf](Propuesta%20Memoria%20.pdf)
 
 ---
 
-## Estructura del repositorio
+## Estructura real del repositorio
 
 ```
 Tesis/
-├── README.md                 ← Estás aquí (índice general)
-├── Propuesta_Memoria.pdf     ← Propuesta / memoria de la tesis
+├── README.md                          ← Estás aquí
+├── Propuesta Memoria .pdf             ← Propuesta / memoria de la tesis
 │
-└── francia_deputies/         ← Todo el trabajo empírico
-    ├── README.md             ← Fuentes de datos y flujo de los CSV de diputados
-    ├── ESTRUCTURA.md         ← Qué es cada carpeta/archivo (principal vs apoyo)
+└── french_deputies/
+    ├── README.md
+    ├── ESTRUCTURA.md
     │
-    │── PRINCIPAL (para análisis y tesis)
-    │   ├── deputes_2017_2022.csv        Lista consolidada de diputados + Twitter
-    │   ├── zeeschuimer/processed/       Tweets asociados a diputados (CSV)
-    │   ├── hemicycle/processed/         Intervenciones hemiciclo (XV + diputados; ver hemicycle/README.md)
-    │   └── lois_votes/processed/        Leyes y votos por diputado (cuando se generen)
+    ├── datos_diputados/
+    │   ├── data/                      ← CSVs fuente (AN, Twitter, nosdeputes)
+    │   ├── processed/
+    │   │   └── deputes_2017_2022.csv  ← 668 diputados con grupo, circunscripción, Twitter
+    │   └── scripts/                   ← fetch, build, merge
     │
-    │── Scripts y guías
-    │   ├── fetch_an_15e_deputes.py      Diputados desde Assemblée nationale
-    │   ├── merge_deputes_2017_2022.py   Merge AN + Twitter → deputes_2017_2022
-    │   ├── build_deputes_twitter_csv.py Limpieza Twitter
-    │   ├── zeeschuimer/                 Captura Twitter (Zeeschuimer + merge)
-    │   │   ├── README_ZEESCHUIMER.md
-    │   │   └── scripts/
-    │   └── lois_votes/                  Leyes y votos (Scrutins AN)
-    │       ├── README_LOIS_VOTES.md
-    │       └── scripts/
+    ├── hemicycle/
+    │   ├── fuente/                    ← TSV.gz de Regards Citoyens (pesado, no en GitHub)
+    │   ├── processed/
+    │   │   ├── interventions_xv_*.csv.gz  ← ~950k intervenciones (pesados, no en GitHub)
+    │   │   └── interventions_xv_sample5000.csv
+    │   ├── scripts/                   ← build + reporte
+    │   ├── GUIA_IDENTIFICADORES_TESIS.md
+    │   └── RESUMEN_CUANTITATIVO.md
     │
-    └── Datos intermedios y raw
-        ├── deputes_twitter_rd.csv, deputes_an_rd.csv, deputes_rd.csv, etc.
-        ├── zeeschuimer/captures/        Exports ndjson de Zeeschuimer
-        └── lois_votes/data/             Scrutins/Dossiers (ZIP o JSON)
+    ├── lois_votes/
+    │   ├── votes_rd/
+    │   │   └── processed/
+    │   │       ├── leyes_votadas_2017_2022.csv    ← 373 scrutins
+    │   │       ├── votos_por_diputado.csv
+    │   │       ├── votos_por_diputado_cohorte.csv
+    │   │       └── leyes_texto_oficial.csv
+    │   ├── scripts/                   ← download, build, texte oficial
+    │   └── README_LOIS_VOTES.md
+    │
+    ├── twitter_zeeschuimer/
+    │   ├── captures/                  ← Exports .ndjson (pesados, no en GitHub)
+    │   ├── processed/
+    │   │   ├── tweets_with_deputies.csv   ← (pesado, no en GitHub)
+    │   │   ├── tweets_text_only.csv       ← (pesado, no en GitHub)
+    │   │   └── deputies_capture_summary.csv
+    │   ├── scripts/                   ← generate URLs, merge
+    │   └── README.md
+    │
+    └── manifestos/
+        ├── data/
+        │   ├── marpor_core_france_2017.csv    ← dataset MARPOR (10 partidos)
+        │   └── marpor_corpus_metadata.json
+        ├── processed/
+        │   ├── textos_por_partido/            ← un .txt por partido (manifiesto completo)
+        │   ├── manifesto_full_texts.csv       ← lo mismo en CSV
+        │   ├── manifesto_texts.csv            ← 3,801 frases con código temático
+        │   └── party_positions.csv            ← score izquierda-derecha (rile)
+        ├── group_to_party_mapping.csv         ← grupo parlamentario → partido MARPOR
+        ├── scripts/                           ← download vía API
+        └── README.md
 ```
 
 ---
 
-## Qué es lo importante
+## Qué hay en cada carpeta
 
-| Para qué | Dónde |
-|----------|--------|
-| **Lista de diputados con Twitter y grupo político** | `francia_deputies/deputes_2017_2022.csv` |
-| **Tweets capturados por diputado (texto, menciones)** | `francia_deputies/zeeschuimer/processed/` (tweets_with_deputies.csv, deputies_capture_summary.csv, tweets_text_only.csv) |
-| **Leyes y votos (a favor/en contra por diputado)** | `francia_deputies/lois_votes/processed/` (leyes_50.csv, votos_por_diputado.csv) — se generan con los scripts |
+| Carpeta | Qué contiene | Diputados cubiertos |
+|---|---|---|
+| **`datos_diputados/`** | Lista base de 668 diputados (id, nombre, grupo político, circunscripción, Twitter) | Todos |
+| **`hemicycle/`** | ~950,000 intervenciones en el hemiciclo (texto de debates, tipo, sección, fecha) | 646 enlazados |
+| **`lois_votes/`** | 373 leyes votadas y el voto de cada diputado (a favor / en contra / abstención) | Según scrutin |
+| **`twitter_zeeschuimer/`** | Tweets capturados con Zeeschuimer, cruzados con diputados | Los que tienen cuenta |
+| **`manifestos/`** | Programas electorales 2017 de 10 partidos (texto completo + codificación MARPOR) | ~85% por grupo |
 
-El resto son **fuentes raw**, **CSV intermedios** o **scripts** para reproducir o ampliar los datos.
+Todos se enlazan por **`deputy_id`** o **`political_group_abbrev`** del CSV base `deputes_2017_2022.csv`.
 
 ---
 
-## Orden sugerido
+## Cómo se conectan los datos
 
-1. Leer **francia_deputies/README.md** para entender el origen de los datos de diputados.
-2. Para Twitter: **zeeschuimer/README_ZEESCHUIMER.md** y ejecutar los scripts de `zeeschuimer/scripts/` cuando haya nuevos exports en `zeeschuimer/captures/`.
-3. Para leyes y votos: **lois_votes/README_LOIS_VOTES.md** y ejecutar los scripts de `lois_votes/scripts/` (descarga Scrutins, luego build_laws_and_votes).
-4. Detalle de cada archivo/carpeta: **francia_deputies/ESTRUCTURA.md**.
+```
+deputes_2017_2022.csv (id, grupo, Twitter)
+       │
+       ├── hemicycle/        → qué dice cada diputado en la Asamblea
+       ├── lois_votes/       → cómo vota cada diputado
+       ├── twitter/          → qué publica en Twitter
+       └── manifestos/       → qué promete su partido
+```
+
+---
+
+## Dónde sigo leyendo
+
+| Necesito… | Abro… |
+|---|---|
+| Entender la estructura completa | [`french_deputies/ESTRUCTURA.md`](french_deputies/ESTRUCTURA.md) |
+| Cómo armé la lista de diputados | [`french_deputies/datos_diputados/README.md`](french_deputies/datos_diputados/README.md) |
+| Intervenciones en el hemiciclo | [`french_deputies/hemicycle/README.md`](french_deputies/hemicycle/README.md) |
+| Leyes y votaciones | [`french_deputies/lois_votes/README_LOIS_VOTES.md`](french_deputies/lois_votes/README_LOIS_VOTES.md) |
+| Twitter / Zeeschuimer | [`french_deputies/twitter_zeeschuimer/README.md`](french_deputies/twitter_zeeschuimer/README.md) |
+| Manifiestos electorales (MARPOR) | [`french_deputies/manifestos/README.md`](french_deputies/manifestos/README.md) |
