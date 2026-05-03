@@ -42,3 +42,10 @@ french_deputies/hemicycle/processed/interventions_xv_2017_2022_meta.csv.gz
 # Zeeschuimer: CSVs procesados pesados (regenerar con merge_zeeschuimer_with_deputies.py)
 french_deputies/zeeschuimer/processed/tweets_with_deputies.csv
 french_deputies/zeeschuimer/processed/tweets_text_only.csv
+french_deputies/twitter_zeeschuimer/processed/tweets_with_deputies.csv
+french_deputies/twitter_zeeschuimer/processed/tweets_text_only.csv
+french_deputies/twitter_zeeschuimer/captures/*.ndjson
+
+# BERTopic: resultados generados (regenerar con los scripts en bertopic_analysis/scripts/)
+french_deputies/**/bertopic_analysis/results/*.csv
+french_deputies/**/bertopic_analysis/results/*.html

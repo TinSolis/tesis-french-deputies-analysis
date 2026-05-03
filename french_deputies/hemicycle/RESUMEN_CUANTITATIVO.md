@@ -9,7 +9,7 @@ Tengo **949,718** intervenciones en el hemiciclo para la **XVe legislatura (2017
 
 Los **tipos** de tramo más frecuentes en `type` los dejé en la tabla de abajo; a mí me sirve ver cuánto cae bajo `loi` vs. `question`, pero eso **no reemplaza** leer el texto ni la sección.
 
-En **`section`** conté **18,547** títulos distintos no vacíos. **5,132** de esos títulos contienen palabras que yo asocié a legislación («loi», «projet», «budget», etc.): es una **heurística mía** para ver cuánto del debate va explícitamente etiquetado en esa lógica, no un conteo oficial de leyes del AN.
+En **`section`** conté **18,547** títulos distintos no vacíos. **5,132** de esos títulos contienen palabras que yo asocié a legislación («loi» *(ley)*, «projet» *(proyecto)*, «budget» *(presupuesto)*, etc.): es una **heurística mía** para ver cuánto del debate va explícitamente etiquetado en esa lógica, no un conteo oficial de leyes del AN.
 
 Para comparar con mis votos: en `lois_votes/.../leyes_votadas_2017_2022.csv` tengo **373** filas (scrutins de adopción en mi filtro). El vínculo hemiciclo ↔ ley concreta no viene como ID en esta tabla: lo tengo que pensar yo con fechas, dossiers o lectura manual.
 
@@ -34,17 +34,17 @@ Para entender qué es una fila en este corpus, acá van tres intervenciones real
 | `seance_id` | 1 |
 | `date` | 2017-06-27 |
 | `type` | loi |
-| `section` | ouverture de la xve législature |
-| `intervention_plain` | *«Je déclare ouverte la XVe législature de l'Assemblée nationale.»* |
+| `section` | ouverture de la xve législature *(apertura de la XV legislatura)* |
+| `intervention_plain` | *«Je déclare ouverte la XVe législature de l'Assemblée nationale.»* *(«Declaro abierta la XV legislatura de la Asamblea Nacional.»)* |
 | `nb_mots` | 14 |
 | `parlementaire` | Bernard Brochand |
-| `fonction` | président, doyen d'âge |
+| `fonction` | président, doyen d'âge *(presidente, decano de edad)* |
 | `parlementaire_groupe` | NI |
 | `deputy_id` | 223837 |
 | `political_group_abbrev` | LR |
 | `source_url` | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017/20170124.asp#P980120) |
 
-Es la primera frase del primer día de la legislatura. Muestra una intervención corta de **protocolo**: el presidente de edad abre la sesión. `fonction` = "président, doyen d'âge" y `deputy_id` está enlazado porque Bernard Brochand aparece en `deputes_2017_2022.csv`.
+Es la primera frase del primer día de la legislatura. Muestra una intervención corta de **protocolo**: el presidente de edad abre la sesión. `fonction` = "président, doyen d'âge" *(presidente, decano de edad)* y `deputy_id` está enlazado porque Bernard Brochand aparece en `deputes_2017_2022.csv`.
 
 ---
 
@@ -56,9 +56,9 @@ Es la primera frase del primer día de la legislatura. Muestra una intervención
 | `seance_id` | 16 |
 | `date` | 2017-07-05 |
 | `type` | question |
-| `section` | questions au gouvernement > engagements du gouvernement |
-| `sous_section` | engagements du gouvernement |
-| `intervention_plain` | *«Monsieur le président, avant de poser ma question à M. le Premier ministre, je voudrais saluer l'entrée au Panthéon de Simone Veil, cette femme admirable qui incarne la grandeur morale, et dont le message de tolérance et d'humanisme doit guider notre engagement.»* |
+| `section` | questions au gouvernement > engagements du gouvernement *(preguntas al gobierno > compromisos del gobierno)* |
+| `sous_section` | engagements du gouvernement *(compromisos del gobierno)* |
+| `intervention_plain` | *«Monsieur le président, avant de poser ma question à M. le Premier ministre, je voudrais saluer l'entrée au Panthéon de Simone Veil, cette femme admirable qui incarne la grandeur morale, et dont le message de tolérance et d'humanisme doit guider notre engagement.»* *(«Señor presidente, antes de formular mi pregunta al Primer Ministro, quisiera saludar la entrada al Panteón de Simone Veil, esa mujer admirable que encarna la grandeza moral, y cuyo mensaje de tolerancia y humanismo debe guiar nuestro compromiso.»)* |
 | `nb_mots` | 47 |
 | `parlementaire` | Damien Abad |
 | `fonction` | *(vacío)* |
@@ -80,9 +80,9 @@ Acá cambia el `type` a **question** y la `section` muestra la jerarquía con `>
 | `seance_id` | 27 |
 | `date` | 2017-07-06 |
 | `type` | loi |
-| `section` | prorogation de l'état d'urgence > article 1er |
-| `sous_section` | article 1er |
-| `intervention_plain` | *«Mon amendement, mes chers collègues, tend à supprimer l'article 1er. Nous pensons en effet, plusieurs de mes collègues l'ont dit, que la prorogation de l'état d'urgence, telle que proposée, ne correspond pas à ce qu'il faudrait faire, ni sur le court terme ni sur le long terme. (…) Refuser la prorogation de l'état d'urgence, c'est prendre acte que ce qui a été fait au cours des derniers mois a remis en cause l'équilibre des pouvoirs et a entamé les libertés publiques et les droits démocratiques.»* |
+| `section` | prorogation de l'état d'urgence > article 1er *(prórroga del estado de emergencia > artículo 1°)* |
+| `sous_section` | article 1er *(artículo 1°)* |
+| `intervention_plain` | *«Mon amendement, mes chers collègues, tend à supprimer l'article 1er. Nous pensons en effet, plusieurs de mes collègues l'ont dit, que la prorogation de l'état d'urgence, telle que proposée, ne correspond pas à ce qu'il faudrait faire, ni sur le court terme ni sur le long terme. (…) Refuser la prorogation de l'état d'urgence, c'est prendre acte que ce qui a été fait au cours des derniers mois a remis en cause l'équilibre des pouvoirs et a entamé les libertés publiques et les droits démocratiques.»* *(«Mi enmienda, queridos colegas, busca suprimir el artículo 1°. Consideramos, como varios de mis colegas ya lo han dicho, que la prórroga del estado de emergencia tal como se propone no corresponde a lo que debería hacerse, ni a corto ni a largo plazo. (…) Rechazar la prórroga del estado de emergencia es tomar nota de que lo hecho en los últimos meses ha puesto en cuestión el equilibrio de poderes y ha menoscabado las libertades públicas y los derechos democráticos.»)* |
 | `nb_mots` | 164 |
 | `parlementaire` | Danièle Obono |
 | `parlementaire_sexe` | F |
@@ -93,7 +93,7 @@ Acá cambia el `type` a **question** y la `section` muestra la jerarquía con `>
 | `twitter_handle` | Deputee_Obono |
 | `source_url` | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017-extra/20171003.asp#P983279) |
 
-Este es el tipo de fila que más me interesa para la tesis: una intervención **argumentativa** dentro de un debate sobre un texto de ley concreto. La `section` indica el proyecto legislativo (prorogation de l'état d'urgence) y la `sous_section` el artículo en discusión. Con 164 palabras es un turno de palabra sustantivo donde la diputada defiende su enmienda de supresión — el texto plano es lo que le paso al pipeline de NLP.
+Este es el tipo de fila que más me interesa para la tesis: una intervención **argumentativa** dentro de un debate sobre un texto de ley concreto. La `section` indica el proyecto legislativo (prorogation de l'état d'urgence = *prórroga del estado de emergencia*) y la `sous_section` el artículo en discusión. Con 164 palabras es un turno de palabra sustantivo donde la diputada defiende su enmienda de supresión — el texto plano es lo que le paso al pipeline de NLP.
 
 ---
 *Generado con `hemicycle/scripts/report_hemicycle_stats.py`.*

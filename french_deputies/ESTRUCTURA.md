@@ -36,6 +36,23 @@ Yo dejé en la **raíz** solo **README.md** y este **ESTRUCTURA.md**. Todo lo de
 | **manifestos/scripts/download_manifestos.py**              | API MARPOR → dataset + textos Francia 2017 en `manifestos/`  |
 
 
+
+---
+
+## Análisis BERTopic (topic modeling)
+
+
+| Ubicación                                                  | Para qué lo uso                                                       |
+| ---------------------------------------------------------- | --------------------------------------------------------------------- |
+| **twitter_zeeschuimer/bertopic_analysis/scripts/**         | Topic modeling sobre tweets con BERTopic + embeddings multilingües    |
+| **twitter_zeeschuimer/bertopic_analysis/results/**         | CSV de temas, palabras clave y visualizaciones HTML interactivas      |
+| **hemicycle/bertopic_analysis/scripts/**                   | Topic modeling sobre intervenciones parlamentarias                    |
+| **hemicycle/bertopic_analysis/results/**                   | CSV de temas del hemiciclo y visualizaciones                          |
+| **manifestos/bertopic_analysis/scripts/**                  | Topic modeling sobre manifiestos electorales 2017                     |
+| **manifestos/bertopic_analysis/results/**                  | CSV de temas por partido, frecuencias de palabras, visualizaciones    |
+| **requirements_bertopic.txt**                              | Dependencias para los tres análisis BERTopic                          |
+
+
 ---
 
 ## Datos intermedios y raw (lo que no es “tabla final”)
