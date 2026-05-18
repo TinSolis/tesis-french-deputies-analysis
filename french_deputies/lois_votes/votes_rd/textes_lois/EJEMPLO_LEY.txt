@@ -1,0 +1,64 @@
+===========================================================================
+EJEMPLO DE TEXTO DE LEY ALMACENADO
+Formato: texto plano limpio, listo para NLP
+Origen: API Légifrance (PISTE) — Fuente oficial JORF
+===========================================================================
+
+NOR: INTX1716366L
+JORF Text ID: JORFTEXT000035168168
+Scrutin ID: 2 (votación de adopción en la Assemblée nationale)
+Bytes: 2.324
+Estado: ok (bajado correctamente por NOR)
+Fuente: PISTE_NOR (confianza: alta)
+
+---------------------------------------------------------------------------
+TEXTO COMPLETO:
+---------------------------------------------------------------------------
+
+LOI | NOR: INTX1716366L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2017-1154 du 11 juillet 2017 prorogeant l'application de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence (1)
+
+I. - Est prorogé, à compter du 16 juillet 2017, jusqu'au 1er novembre 2017, l'état d'urgence :
+
+- déclaré par le décret n° 2015-1475 du 14 novembre 2015 portant application de la loi n° 55-385 du 3 avril 1955 et le décret n° 2015-1493 du 18 novembre 2015 portant application outre-mer de la loi n° 55-385 du 3 avril 1955 ;
+- et prorogé en dernier lieu par la loi n° 2016-1767 du 19 décembre 2016 prorogeant l'application de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence.
+
+II. - Il emporte, pour sa durée, application du I de l'article 11 de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence.
+
+III. - Il peut y être mis fin par décret en conseil des ministres avant l'expiration du délai mentionné au I du présent article. En ce cas, il en est rendu compte au Parlement.
+
+L'article 5 de la loi n° 55-385 du 3 avril 1955 relative à l'état d'urgence est ainsi modifié :
+1° Le premier alinéa est complété par les mots : «, dans le but de prévenir des troubles à la sécurité et à l'ordre publics » ;
+2° Le 3° est ainsi rédigé : «...»
+3° Il est ajouté un alinéa ainsi rédigé : «...»
+
+La présente loi sera exécutée comme loi de l'Etat.
+
+===========================================================================
+NOTAS SOBRE EL FORMATO GENERAL
+===========================================================================
+
+Cada archivo <NOR>.txt en esta carpeta sigue la misma estructura:
+  - Encabezado con NOR y fecha de promulgación
+  - VISA: fórmula de promulgación ("L'Assemblée nationale et le Sénat ont adopté...")
+  - NOTICE (si existe): resumen en pocas líneas del objeto de la ley
+  - Artículos numerados (I, II, III... o Art. 1, Art. 2...)
+  - Signatarios (Presidente, Primer Ministro, Ministros firmantes)
+
+Los textos más extensos (ej. TERB2105196L = 490 KB, ley de hidrocarburos) incluyen
+decenas de artículos con modificaciones de otros códigos. El formato siempre es
+texto plano UTF-8, sin HTML, listo para tokenizar.
+
+===========================================================================
+ÍNDICE DE TODOS LOS TEXTOS: _index.csv y _index_titles.csv
+===========================================================================
+
+_index.csv          → 184 leyes bajadas por NOR (alta confianza)
+_index_titles.csv   → leyes adicionales bajadas por búsqueda de título
+
+Total con texto: ~337 de 373 scrutins (90%)
+                  184 de 212 dossiers únicos (87%)

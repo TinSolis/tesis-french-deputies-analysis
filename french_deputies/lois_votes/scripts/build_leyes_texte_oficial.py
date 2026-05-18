@@ -212,11 +212,19 @@ def best_dossier_for_scrutin(titre_scrutin: str, index: list[dict]) -> tuple[dic
     return best, best_s
 
 
-def load_text_for_row(scrutin_id: str, nor: str) -> str:
+def load_text_for_row(scrutin_id: str, nor: str, dossier_uid: str = "") -> str:
+    """Carga texto desde textes_lois/. Busca en orden:
+       1) <scrutin_id>.txt
+       2) <NOR>.txt              (de fetch_legifrance_texts_piste.py)
+       3) <dossier_uid>.txt      (de fetch_missing_by_title.py)
+    """
     TEXTES_DIR.mkdir(parents=True, exist_ok=True)
-    for name in (f"{scrutin_id}.txt", f"{nor}.txt" if nor else ""):
-        if not name:
-            continue
+    candidates = [f"{scrutin_id}.txt"]
+    if nor:
+        candidates.append(f"{nor}.txt")
+    if dossier_uid:
+        candidates.append(f"{dossier_uid}.txt")
+    for name in candidates:
         path = TEXTES_DIR / name
         if path.is_file():
             try:
@@ -224,6 +232,28 @@ def load_text_for_row(scrutin_id: str, nor: str) -> str:
             except OSError:
                 pass
     return ""
+
+
+def load_title_search_index() -> dict:
+    """Carga el _index_titles.csv que produce fetch_missing_by_title.py
+    para anotar la fuente y la confianza del texto."""
+    idx_path = TEXTES_DIR / "_index_titles.csv"
+    out = {}
+    if not idx_path.is_file():
+        return out
+    try:
+        with open(idx_path, newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                k = row.get("storage_key", "")
+                if k and row.get("status") == "ok":
+                    out[k] = {
+                        "jorf_text_id": row.get("jorf_text_id", ""),
+                        "match_score": row.get("match_score", "0"),
+                        "title_matched": row.get("title_matched", ""),
+                    }
+    except OSError:
+        pass
+    return out
 
 
 def main():
@@ -234,6 +264,9 @@ def main():
     index = load_dossier_index()
     print(f"  {len(index)} dossiers con título.")
 
+    title_idx = load_title_search_index()
+    print(f"  {len(title_idx)} textos rescatados vía PISTE search por título.")
+
     out_rows = []
     with open(LEYES_CSV, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -242,6 +275,8 @@ def main():
     n_matched = 0
     n_prom = 0
     n_text = 0
+    n_text_via_nor = 0
+    n_text_via_title = 0
 
     for row in laws:
         sid = (row.get("scrutin_id") or "").strip()
@@ -267,16 +302,39 @@ def main():
         if prom:
             n_prom += 1
 
-        texto = load_text_for_row(sid, nor)
+        match_uid = (match or {}).get("uid", "")
+        texto = load_text_for_row(sid, nor, match_uid)
+
+        # Fuente del texto y confianza
+        texto_fuente = ""
+        texto_confianza = ""
         if texto.strip():
             n_text += 1
+            nor_txt_exists = nor and (TEXTES_DIR / f"{nor}.txt").is_file()
+            if nor_txt_exists:
+                texto_fuente = "PISTE_NOR"
+                texto_confianza = "alta"
+                n_text_via_nor += 1
+            elif match_uid and match_uid in title_idx:
+                texto_fuente = "PISTE_TITLE_SEARCH"
+                ms = float(title_idx[match_uid]["match_score"])
+                if ms >= 0.7:
+                    texto_confianza = "alta"
+                elif ms >= 0.5:
+                    texto_confianza = "media"
+                else:
+                    texto_confianza = "baja"
+                n_text_via_title += 1
+            else:
+                texto_fuente = "manual"
+                texto_confianza = "alta"
 
         out_rows.append(
             {
                 "scrutin_id": sid,
                 "titulo_scrutin": tit,
                 "fecha": fecha,
-                "dossier_uid": (match or {}).get("uid", ""),
+                "dossier_uid": match_uid,
                 "dossier_titre": (match or {}).get("titre", ""),
                 "match_score": f"{score:.3f}",
                 "code_loi": p0.get("code_loi", ""),
@@ -286,6 +344,8 @@ def main():
                 "nor_jo_rectificatif": p0.get("nor_rect", ""),
                 "url_legifrance_rectificatif": p0.get("url_rect", ""),
                 "texto_oficial": texto,
+                "texto_fuente": texto_fuente,
+                "texto_confianza": texto_confianza,
             }
         )
 
@@ -304,20 +364,25 @@ def main():
         "nor_jo_rectificatif",
         "url_legifrance_rectificatif",
         "texto_oficial",
+        "texto_fuente",
+        "texto_confianza",
     ]
     with open(OUT_CSV, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_MINIMAL)
         w.writeheader()
         w.writerows(out_rows)
 
-    print(f"Escrito {OUT_CSV}")
-    print(f"  Leyes (filas): {len(out_rows)}")
-    print(f"  Con dossier emparejado: {n_matched}")
-    print(f"  Con acto de promulgación (NOR/URL): {n_prom}")
-    print(f"  Con texto local en textes_lois/: {n_text}")
-    print("\nPara rellenar texto_oficial:")
-    print(f"  - Añade archivos .txt en {TEXTES_DIR}")
-    print("  - O usa la API Légifrance (PISTE). Véase README_LOIS_VOTES.md")
+    print(f"\nEscrito {OUT_CSV}")
+    print(f"  Filas (scrutins): {len(out_rows)}")
+    print(f"  Con dossier emparejado:                       {n_matched}")
+    print(f"  Con acto de promulgación (NOR/URL):           {n_prom}")
+    print(f"  Con texto local incrustado:                   {n_text}")
+    print(f"     - vía NOR directo (PISTE):                 {n_text_via_nor}")
+    print(f"     - vía búsqueda por título (PISTE):         {n_text_via_title}")
+    print("\nPara rellenar más texto_oficial:")
+    print(f"  - python3 lois_votes/scripts/fetch_legifrance_texts_piste.py   (por NOR)")
+    print(f"  - python3 lois_votes/scripts/fetch_missing_by_title.py         (por título)")
+    print(f"  - O añade .txt a mano en {TEXTES_DIR}/")
 
 
 if __name__ == "__main__":

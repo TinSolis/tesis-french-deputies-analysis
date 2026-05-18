@@ -1,9 +1,38 @@
-# votes_rd — dónde guardé los datos brutos de votaciones (AN 2017–2022)
+# votes_rd — datos brutos y textos oficiales (AN 2017–2022)
 
-Yo usé esta carpeta como **caja** para todo lo que bajé de la Asamblea antes de generar mis tablas finales en **`processed/`**. Así no mezclo ZIPs gigantes con los CSV que abro en Stata o Python todos los días.
+Esta carpeta contiene todo lo que se bajó de la Asamblea nacional y de Légifrance antes de generar las tablas finales en `processed/`.
 
-- **Raíz de `votes_rd/`:** los ZIP que descargué (`Scrutins_XV.json.zip`, `Dossiers_Legislatifs_XV.json.zip`), si no los ignoré en Git por tamaño.
-- **`json/`:** después de descomprimir Scrutins, la AN me dejó **un JSON por scrutin** (`VTANR5L15V*.json`); mi `build_laws_and_votes.py` los lee **todos**. El ZIP de Dossiers aporta sobre todo material para el paso de textos oficiales (`build_leyes_texte_oficial.py`), no es obligatorio solo para armar la tabla de votos.
-- **`processed/`:** acá escribí yo los CSV que salen de `build_laws_and_votes.py` (y el otro script si lo corrí).
+## Estructura
 
-La explicación completa del flujo (qué es un scrutin, qué columnas tienen los CSV, comandos) la escribí en **`../README_LOIS_VOTES.md`** para tenerla en un solo lugar.
+```
+votes_rd/
+├── Scrutins_XV.json.zip           ← ZIP original de la AN (gitignored por tamaño)
+├── Dossiers_Legislatifs_XV.json.zip
+├── json/                          ← ZIPs descomprimidos (gitignored)
+│   ├── scrutin/VTANR5L15V*.json  ← un JSON por votación
+│   └── dossierParlementaire/DLR*.json
+├── processed/                     ← CSV finales que se usan en el análisis
+│   ├── leyes_votadas_2017_2022.csv
+│   ├── votos_por_diputado.csv
+│   ├── votos_por_diputado_cohorte.csv
+│   └── leyes_texto_oficial.csv    ← 33 MB, texto de las leyes incrustado
+└── textes_lois/                   ← textos descargados de Légifrance vía PISTE
+    ├── _index.csv                 ← 184 leyes bajadas por NOR
+    ├── _index_titles.csv          ← leyes adicionales bajadas por título
+    ├── EJEMPLO_LEY.txt            ← ejemplo anotado del formato (leer esto primero)
+    ├── <NOR>.txt                  ← texto plano listo para NLP (ej. INTX1716366L.txt)
+    └── <NOR>.json                 ← respuesta cruda de PISTE (gitignored)
+```
+
+## Estado actual
+
+- **373 scrutins** de adopción identificados en la XVe législature
+- **337 / 373 (90%)** con texto oficial incrustado en `leyes_texto_oficial.csv`
+- **184 / 212 (87%)** dossiers únicos con texto
+- Los textos más extensos son varios cientos de KB (leyes de presupuesto, etc.)
+
+## Cómo usar
+
+Ver la explicación completa del flujo (qué es un scrutin, cómo reproducir, qué significa cada columna) en **`../README_LOIS_VOTES.md`**.
+
+Para entender el formato de los textos: leer **`textes_lois/EJEMPLO_LEY.txt`**.
