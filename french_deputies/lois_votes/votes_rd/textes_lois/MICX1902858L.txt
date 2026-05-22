@@ -1,0 +1,57 @@
+LOI | NOR: MICX1902858L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse (1)
+L'article L. 211-3 du code de la propriété intellectuelle est ainsi modifié :
+1° Aux 6° et 7°, les mots : « ou d'un programme » sont remplacés par les mots : «, d'un programme ou d'une publication de presse » ;
+2° Au dernier alinéa, les mots : « ou du programme » sont remplacés par les mots : «, du programme ou de la publication de presse » et, à la fin, les mots : « ou de l'entreprise de communication audiovisuelle » sont remplacés par les mots : «, de l'entreprise de communication audiovisuelle, de l'éditeur de presse ou de l'agence de presse ».
+Après l'article L. 211-3 du code de la propriété intellectuelle, il est inséré un article L. 211-3-1 ainsi rédigé :
+
+« Art. L. 211-3-1.-Les bénéficiaires des droits ouverts à l'article L. 218-2 ne peuvent interdire :
+« 1° Les actes d'hyperlien ;
+« 2° L'utilisation de mots isolés ou de très courts extraits d'une publication de presse. Cette exception ne peut affecter l'efficacité des droits ouverts au même article L. 218-2. Cette efficacite ́ est notamment affectée lorsque l'utilisation de très courts extraits se substitue a ̀ la publication de presse elle-même ou dispense le lecteur de s'y référer. »
+L'article L. 211-4 du code de la propriété intellectuelle est complété par un V ainsi rédigé :
+« V.-La durée des droits patrimoniaux des éditeurs de presse et des agences de presse est de deux ans à compter du 1er janvier de l'année civile suivant celle de la première publication d'une publication de presse. »
+Le titre unique du livre II de la première partie du code de la propriété intellectuelle est complété par un chapitre VIII ainsi rédigé :
+
+« Chapitre VIII
+« Droits des éditeurs de presse et des agences de presse
+
+« Art. L. 218-1.-I.-On entend par publication de presse au sens du présent chapitre une collection composée principalement d'œuvres littéraires de nature journalistique, qui peut également comprendre d'autres œuvres ou objets protégés, notamment des photographies ou des vidéogrammes, et qui constitue une unité au sein d'une publication périodique ou régulièrement actualisée portant un titre unique, dans le but de fournir au public des informations sur l'actualité ou d'autres sujets publiées, sur tout support, à l'initiative, sous la responsabilité éditoriale et sous le contrôle des éditeurs de presse ou d'une agence de presse.
+« Les périodiques qui sont publiés à des fins scientifiques ou universitaires, tels que les revues scientifiques, ne sont pas couverts par la présente définition.
+« II.-On entend par agence de presse au sens du présent chapitre toute entreprise mentionnée à l'article 1er de l'ordonnance n° 45-2646 du 2 novembre 1945 portant réglementation des agences de presse ayant pour activité principale la collecte, le traitement et la mise en forme, sous sa propre responsabilité, de contenus journalistiques.
+« III.-On entend par éditeur de presse au sens du présent chapitre la personne physique ou morale qui édite une publication de presse ou un service de presse en ligne au sens de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse.
+« IV.-Le présent chapitre s'applique aux éditeurs de presse et agences de presse établis sur le territoire d'un Etat membre de l'Union européenne.
+
+« Art. L. 218-2.-L'autorisation de l'éditeur de presse ou de l'agence de presse est requise avant toute reproduction ou communication au public totale ou partielle de ses publications de presse sous une forme numérique par un service de communication au public en ligne.
+
+« Art. L. 218-3.-Les droits des éditeurs de presse et des agences de presse résultant de l'article L. 218-2 peuvent être cédés ou faire l'objet d'une licence.
+« Ces titulaires de droits peuvent confier la gestion de leurs droits à un ou plusieurs organismes de gestion collective régis par le titre II du livre III de la présente partie.
+
+« Art. L. 218-4.-La rémunération due au titre des droits voisins pour la reproduction et la communication au public des publications de presse sous une forme numérique est assise sur les recettes de l'exploitation de toute nature, directes ou indirectes ou, à défaut, évaluée forfaitairement, notamment dans les cas prévus à l'article L. 131-4.
+« La fixation du montant de cette rémunération prend en compte des éléments tels que les investissements humains, matériels et financiers réalisés par les éditeurs et les agences de presse, la contribution des publications de presse à l'information politique et générale et l'importance de l'utilisation des publications de presse par les services de communication au public en ligne.
+« Les services de communication au public en ligne sont tenus de fournir aux éditeurs de presse et aux agences de presse tous les éléments d'information relatifs aux utilisations des publications de presse par leurs usagers ainsi que tous les autres éléments d'information nécessaires à une évaluation transparente de la rémunération mentionnée au premier alinéa du présent article et de sa répartition.
+
+« Art. L. 218-5.-I.-Les journalistes professionnels ou assimilés, au sens des articles L. 7111-3 à L. 7111-5 du code du travail, et les autres auteurs des œuvres présentes dans les publications de presse mentionnées à l'article L. 218-1 du présent code ont droit à une part appropriée et équitable de la rémunération mentionnée à l'article L. 218-4. Cette part ainsi que les modalités de sa répartition entre les auteurs concernés sont fixées dans des conditions déterminées par un accord d'entreprise ou, à défaut, par tout autre accord collectif au sens de l'article L. 2222-1 du code du travail. S'agissant des autres auteurs, cette part est déterminée par un accord spécifique négocié entre, d'une part, les organisations professionnelles d'entreprises de presse et d'agences de presse représentatives et, d'autre part, les organisations professionnelles d'auteurs ou les organismes de gestion collective mentionnés au titre II du livre III de la présente partie. Dans tous les cas, cette rémunération complémentaire n'a pas le caractère de salaire.
+« II.-A défaut d'accord dans un délai de six mois à compter de la publication de la loi n° 2019-775 du 24 juillet 2019 tendant à créer un droit voisin au profit des agences de presse et des éditeurs de presse et en l'absence de tout autre accord applicable, l'une des parties à la négociation de l'accord d'entreprise ou de l'accord spécifique mentionnés au I du présent article peut saisir la commission prévue au III. La commission recherche avec les parties une solution de compromis afin de parvenir à un accord. En cas de désaccord persistant, elle fixe la part appropriée prévue au I ainsi que les modalités de sa répartition entre les auteurs concernés.
+« III.-Pour la mise en œuvre du II, il est créé une commission présidée par un représentant de l'Etat et composée, en outre, pour moitié de représentants des organisations professionnelles d'entreprises de presse et d'agences de presse représentatives et pour moitié de représentants des organisations représentatives des journalistes et autres auteurs mentionnées au I. Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes, par arrêté du ministre chargé de la communication.
+« A défaut de solution de compromis trouvée entre les parties, la commission rend sa décision dans un délai de quatre mois à compter de sa saisine.
+« L'intervention de la décision de la commission ne fait pas obstacle à ce que s'engage dans les entreprises concernées une nouvelle négociation collective. L'accord collectif issu de cette négociation se substitue à la décision de la commission, après son dépôt par la partie la plus diligente auprès de l'autorité administrative, conformément à l'article L. 2231-6 du code du travail.
+« IV.-Les journalistes professionnels ou assimilés et les autres auteurs mentionnés au I du présent article reçoivent au moins une fois par an, le cas échéant par un procédé de communication électronique, des informations actualisées, pertinentes et complètes sur les modalités de calcul de la part appropriée et équitable de rémunération qui leur est due en application du même I.
+« V.-Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment la composition et les modalités de saisine et de fonctionnement de la commission, les voies de recours juridictionnel contre ses décisions et leurs modalités de publicité. »
+Au premier alinéa de l'article L. 331-5 du code de la propriété intellectuelle, les mots : « ou d'un programme » sont remplacés par les mots : «, d'un programme ou d'une publication de presse ».
+Au second alinéa de l'article L. 331-7 du code de la propriété intellectuelle, les mots : « ou à un programme » sont remplacés par les mots : «, à un programme ou à une publication de presse ».
+A l'article L. 331-10 du code de la propriété intellectuelle, les mots : « ou d'un phonogramme » sont remplacés par les mots : «, d'un phonogramme ou d'une publication de presse ».
+L'article L. 331-11 du code de la propriété intellectuelle est ainsi modifié :
+1° Au premier alinéa, les mots : « ou un programme » sont remplacés par les mots : «, un programme ou une publication de presse » et les mots : « ou du programme » sont remplacés par les mots : «, du programme ou de la publication de presse » ;
+2° Au second alinéa, après la première occurrence du mot : « programme », sont insérés les mots : «, une publication de presse » et les mots : « ou d'un programme » sont remplacés par les mots : «, d'un programme ou d'une publication de presse ».
+A la fin du 1° de l'article L. 331-31 du code de la propriété intellectuelle, les mots : « ou un programme » sont remplacés par les mots : «, un programme ou une publication de presse ».
+A la seconde phrase de l'article L. 331-37 du code de la propriété intellectuelle, les mots : « ou d'un phonogramme » sont remplacés par les mots : «, d'un phonogramme ou d'une publication de presse ».
+Au premier alinéa de l'article L. 335-4 du code de la propriété intellectuelle, les mots : « ou d'un programme » sont remplacés par les mots : «, d'un programme ou d'une publication de presse » et, à la fin, les mots : « ou de l'entreprise de communication audiovisuelle » sont remplacés par les mots : «, de l'entreprise de communication audiovisuelle, de l'éditeur de presse ou de l'agence de presse ».
+Au I de l'article L. 335-4-1 du code de la propriété intellectuelle, les mots : « ou d'un programme » sont remplacés par les mots : «, d'un programme ou d'une publication de presse ».
+Au III de l'article L. 335-4-2 du code de la propriété intellectuelle, les mots : « ou un programme » sont remplacés par les mots : «, un programme ou une publication de presse ».
+La présente loi s'applique trois mois après sa promulgation. Elle ne s'applique pas aux publications de presse publiées pour la première fois avant la date d'entrée en vigueur de la directive du Parlement européen et du Conseil sur le droit d'auteur dans le marché unique numérique.
+La présente loi est applicable dans les îles Wallis et Futuna.
+La présente loi sera exécutée comme loi de l'Etat.

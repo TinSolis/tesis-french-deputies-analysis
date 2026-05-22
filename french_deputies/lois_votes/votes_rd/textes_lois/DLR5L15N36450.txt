@@ -1,0 +1,1993 @@
+LOI | NOR: CPAX1913078L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont délibéré,
+L'Assemblée nationale a adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2019-811 du 1er août 2019 de règlement du budget et d'approbation des comptes de l'année 2018 (1)
+Le solde structurel et le solde effectif de l'ensemble des administrations publiques résultant de l'exécution de l'année 2018 s'établissent comme suit :
+
+(En points de produit intérieur brut)
+
+Exécution 2018
+Loi de finances initiale 2018
+Loi de programmation
+
+     des finances publiques 2018-2022
+Soldes prévus
+Ecart
+Soldes prévus pour 2018
+Ecart
+Solde structurel (1)
+-2,3
+-2,1
+-0,1
+-2,1
+-0,1
+Solde conjoncturel (2)
+0,0
+-0,4
+0,3
+-0,4
+0,3
+Mesures ponctuelles et temporaires (3)
+-0,2
+-0,2
+0,0
+-0,2
+0,0
+Solde effectif (1 + 2 + 3)
+-2,5
+-2,8
+0,2
+-2,8
+0,2
+I. - Le résultat budgétaire de l'Etat en 2018, hors opérations avec le Fonds monétaire international, est arrêté à la somme de -76 001 599 014,97 €.
+II. - Le montant définitif des recettes et des dépenses du budget de l'année 2018 est arrêté aux sommes mentionnées dans le tableau ci-après :
+
+(En euros)
+
+Dépenses
+Recettes
+Soldes
+Budget général
+Recettes
+Recettes fiscales brutes
+421 118 983 586,55
+A déduire : Remboursements et dégrèvements d'impôts
+125 727 052 623,00
+Recettes fiscales nettes (a)
+295 391 930 963,55
+Recettes non fiscales (b)
+13 885 666 029,88
+Montant net des recettes, hors fonds de concours (c = a + b)
+309 277 596 993,43
+A déduire : Prélèvements sur recettes au profit des collectivités territoriales et de l'Union européenne (d)
+60 969 872 183,40
+Total net des recettes, hors prélèvements sur recettes (e = c - d)
+248 307 724 810,03
+Fonds de concours (f)
+4 508 478 062,82
+Montant net des recettes, y compris fonds de concours (g = e + f)
+252 816 202 872,85
+Dépenses
+Dépenses brutes, hors fonds de concours
+450 940 555 141,51
+A déduire : Remboursements et dégrèvements d'impôts
+125 727 052 623,00
+Montant net des dépenses (h)
+325 213 502 518,51
+Fonds de concours (i)
+4 508 478 062,82
+Montant net des dépenses, y compris fonds de concours (j = h + i)
+329 721 980 581,33
+Total du budget général, y compris fonds de concours
+329 721 980 581,33
+252 816 202 872,85
+-76 905 777 708,48
+Budgets annexes
+Contrôle et exploitation aériens
+2 125 744 487,28
+2 157 398 571,96
+Publications officielles et information administrative
+146 554 721,03
+196 428 182,59
+Fonds de concours
+48 473 017,98
+48 473 017,98
+Total des budgets annexes, y compris fonds de concours
+2 320 772 226,29
+2 402 299 772,53
+81 527 546,24
+Comptes spéciaux
+Comptes d'affectation spéciale
+74 444 667 330,98
+74 609 200 835,03
+164 533 504,05
+Comptes de concours financiers
+124 104 453 571,60
+124 722 496 108,94
+618 042 537,34
+Comptes de commerce (solde)
+18 972 204,31
+-18 972 204,31
+Comptes d'opérations monétaires, hors opérations avec le Fonds monétaire international (solde)
+-59 047 310,19
+59 047 310,19
+Total des comptes spéciaux, hors opérations avec le Fonds monétaire international
+198 509 045 796,70
+199 331 696 943,97
+822 651 147,27
+Résultat budgétaire de l'Etat, hors opérations avec le Fonds monétaire international
+-76 001 599 014,97
+Le montant définitif des ressources et des charges de trésorerie ayant concouru à la réalisation de l'équilibre financier de l'année 2018 est arrêté aux sommes présentées dans le tableau de financement ci-après :
+
+(En milliards d'euros)
+
+Exécution 2018
+Besoin de financement
+Amortissement de la dette à moyen et long termes
+116,6
+Dont remboursement du nominal à valeur faciale
+115,9
+Dont suppléments d'indexation versés à l'échéance (titres indexés)
+0,7
+Amortissement des autres dettes
+0,0
+Déficit à financer
+76,0
+Autres besoins de trésorerie
+-0,6
+Total du besoin de financement
+191,9
+Ressources de financement
+Emission de dette à moyen et long termes, nettes des rachats
+195,0
+Ressources affectées à la Caisse de la dette publique et consacrées au désendettement
+0,0
+Variation nette de l'encours des titres d'Etat à court terme
+-13,6
+Variation des dépôts des correspondants
+9,8
+Variation des disponibilités du Trésor à la Banque de France et des placements de trésorerie de l'Etat
+-11,1
+Autres ressources de trésorerie
+11,8
+Total des ressources de financement
+191,9
+I. - Le compte de résultat de l'exercice 2018 est approuvé tel que présenté dans le tableau ci-après. Le résultat comptable de l'exercice 2018 s'établit à -51 873 259 751,09 € :
+
+Charges nettes
+
+(En millions d'euros)
+
+2018
+Charges de fonctionnement nettes
+Charges de personnel
+145 914
+Achats, variations de stocks et prestations externes
+23 044
+Dotations aux amortissements, aux provisions et aux dépréciations
+55 483
+Autres charges de fonctionnement
+7 833
+Total des charges de fonctionnement direct (I)
+232 275
+Subventions pour charges de service public
+30 648
+Dotations aux provisions
+0
+Autres charges de fonctionnement indirect
+3 037
+Total des charges de fonctionnement indirect (II)
+33 685
+Total des charges de fonctionnement (III = I + II)
+265 960
+Ventes de produits et prestations de service
+3 470
+Production stockée et immobilisée
+180
+Reprises sur provisions et sur dépréciations
+50 627
+Autres produits de fonctionnement
+22 795
+Total des produits de fonctionnement (IV)
+77 072
+Total des charges de fonctionnement nettes (V = III - IV)
+188 888
+Charges d'intervention nettes
+Transferts aux ménages
+48 144
+Transferts aux entreprises
+18 051
+Transferts aux collectivités territoriales
+67 207
+Transferts aux autres collectivités
+23 033
+Charges résultant de la mise en jeu de garanties
+173
+Dotations aux provisions et aux dépréciations
+36 456
+Total des charges d'intervention (VI)
+193 064
+Contributions reçues de tiers
+2 940
+Reprises sur provisions et sur dépréciations
+35 414
+Total des produits d'intervention (VII)
+38 353
+Total des charges d'intervention nettes (VIII = VI - VII)
+154 711
+Charges financières nettes
+Intérêts
+39 072
+Pertes de change liées aux opérations financières
+177
+Dotations aux amortissements, aux provisions et aux dépréciations
+3 899
+Autres charges financières
+14 159
+Total des charges financières (IX)
+57 308
+Produits des immobilisations financières
+16 911
+Gains de change liés aux opérations financières
+186
+Reprises sur provisions et sur dépréciations
+10 954
+Autres intérêts et produits assimilés
+6 715
+Total des produits financiers (X)
+34 766
+Total des charges financières nettes (XI = IX - X)
+22 542
+Total des charges nettes (XII = V + VIII + XI)
+366 140
+
+Produits régaliens nets
+
+(En millions d'euros)
+
+2018
+Impôt sur le revenu
+78 030
+Impôt sur les sociétés
+27 353
+Taxe intérieure de consommation sur les produits énergétiques
+18 623
+Taxe sur la valeur ajoutée
+156 977
+Enregistrement, timbre, autres contributions et taxes indirectes
+30 808
+Autres produits de nature fiscale et assimilés
+13 598
+Total des produits fiscaux nets (XIII)
+325 390
+Amendes, prélèvements divers et autres pénalités
+9 519
+Total des autres produits régaliens nets (XIV)
+9 519
+Ressource propre de l'Union européenne basée sur le revenu national brut
+-16 124
+Ressource propre de l'Union européenne basée sur la taxe sur la valeur ajoutée
+-4 518
+Total ressources propres du budget de l'Union européenne basées sur le revenu national brut et la taxe sur la valeur ajoutée (XV)
+-20 642
+Total des produits régaliens nets (XVI = XIII + XIV- XV)
+314 267
+
+Solde des opérations de l'exercice
+
+(En millions d'euros)
+
+2018
+Charges de fonctionnement nettes (V)
+188 888
+Charges d'intervention nettes (VIII)
+154 711
+Charges financières nettes (XI)
+22 542
+Charges nettes (XII)
+366 140
+Produits fiscaux nets (XIII)
+325 390
+Autres produits régaliens nets (XIV)
+9 519
+Ressources propres de l'Union européenne basées sur le revenu national brut et la taxe sur la valeur ajoutée (XV)
+-20 642
+Produits régaliens nets (XVI)
+314 267
+Solde des opérations de l'exercice (XVI - XII)
+-51 873
+
+II. - Le résultat comptable de l'exercice 2018 est affecté au bilan à la ligne « Report des exercices antérieurs ».
+III. - Le bilan, après affectation du résultat comptable, s'établit comme suit :
+
+(En millions d'euros)
+
+31 décembre 2018
+Brut
+Amortissements,
+
+     dépréciations
+Net
+Actif immobilisé
+Immobilisations incorporelles
+50 770
+21 992
+28 779
+Immobilisations corporelles
+572 358
+75 497
+496 861
+Immobilisations financières
+381 402
+28 130
+353 273
+Total actif immobilisé
+1 004 531
+125 618
+878 913
+Actif circulant (hors trésorerie)
+Stocks
+37 536
+8 053
+29 483
+Créances
+122 688
+34 582
+88 106
+Redevables
+102 804
+33 450
+69 354
+Clients
+2 716
+952
+1 764
+Autres créances
+17 169
+180
+16 989
+Charges constatées d'avance
+9 249
+0
+9 249
+Total actif circulant (hors trésorerie)
+169 474
+42 635
+126 839
+Trésorerie
+Fonds bancaires et fonds en caisse
+31 464
+31 464
+Valeurs escomptées, en cours d'encaissement et de décaissement
+8
+8
+Autres composantes de trésorerie
+9 900
+9 900
+Valeurs mobilières de placement
+4 600
+1
+4 599
+Total trésorerie
+45 971
+1
+45 971
+Comptes de régularisation
+164
+164
+Total actif (I)
+1 220 140
+168 254
+1 051 886
+Dettes financières
+Titres négociables
+1 773 621
+Titres non négociables
+0
+Dettes financières et autres emprunts
+7 039
+Total dettes financières
+1 780 660
+Dettes non financières (hors trésorerie)
+Dettes de fonctionnement
+7 552
+Dettes d'intervention
+13 195
+Produits constatés d'avance
+85 728
+Autres dettes non financières
+138 759
+Total dettes non financières
+245 234
+Provisions pour risques et charges
+Provisions pour risques
+28 800
+Provisions pour charges
+117 208
+Total provisions pour risques et charges
+146 008
+Autres passifs (hors trésorerie)
+36 218
+Trésorerie
+Correspondants du Trésor et personnes habilitées
+116 914
+Autres
+1
+Total trésorerie
+116 915
+Comptes de régularisation
+22 477
+Total passif (hors situation nette) (II)
+2 347 514
+Report des exercices antérieurs
+-1 663 382
+Ecarts de réévaluation et d'intégration
+367 754
+Solde des opérations de l'exercice
+Situation nette (III = I - II)
+-1 295 628
+
+IV. - L'annexe au compte général de l'Etat de l'exercice 2018 est approuvée.
+I. - Le montant des autorisations d'engagement consommées sur le budget général au titre de l'année 2018 est arrêté par mission et programme aux sommes mentionnées dans le tableau ci-après. Les autorisations d'engagement ouvertes sont modifiées comme indiqué dans ce même tableau.
+
+(En euros)
+
+Désignation des missions et des programmes
+Autorisations
+
+     d'engagement
+
+     consommées
+Ajustements de la loi de règlement
+Ouvertures
+
+    d'autorisations
+
+     d'engagement
+
+     complémentaires
+Annulations
+
+    d'autorisations
+
+     d'engagement
+
+     non consommées
+
+     et non reportées
+Action et transformation publiques
+25 766 955,04
+0,99
+- Rénovation des cités administratives et autres sites domaniaux multi-occupants
+5 620 958,68
+0,35
+- Fonds pour la transformation de l'action publique
+20 145 996,36
+0,64
+Action extérieure de l'Etat
+2 962 743 297,83
+4 079 433,15
+- Action de la France en Europe et dans le monde
+1 880 001 658,90
+1 733 983,77
+- Diplomatie culturelle et d'influence
+719 760 504,47
+535 084,71
+- Français à l'étranger et affaires consulaires
+362 801 036,25
+1 810 363,88
+- Présidence française du G7
+180 098,21
+0,79
+Administration générale et territoriale de l'Etat
+2 756 420 977,20
+37 818 782,45
+- Administration territoriale
+1 726 910 401,89
+29 122 009,79
+- Vie politique, cultuelle et associative
+171 395 185,28
+5 001 090,37
+- Conduite et pilotage des politiques de l'intérieur
+858 115 390,03
+3 695 682,29
+Agriculture, alimentation, forêt et affaires rurales
+2 755 782 332,51
+530 331 900,47
+- Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture
+1 565 396 122,98
+507 693 657,38
+- Sécurité et qualité sanitaires de l'alimentation
+550 763 143,68
+9 414 343,68
+- Conduite et pilotage des politiques de l'agriculture
+639 623 065,85
+13 223 899,41
+Aide publique au développement
+2 901 310 644,80
+171 855 289,45
+- Aide économique et financière au développement
+1 100 024 509,50
+160 853 822,50
+- Solidarité à l'égard des pays en développement
+1 801 286 135,30
+11 001 466,95
+Anciens combattants, mémoire et liens avec la Nation
+2 432 434 811,18
+1 063 452,72
+- Liens entre la Nation et son armée
+40 901 570,00
+717 885,38
+- Reconnaissance et réparation en faveur du monde combattant
+2 295 685 751,15
+166 304,37
+- Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale
+95 847 490,03
+179 262,97
+Cohésion des territoires
+17 716 960 790,42
+454 669 192,36
+- Hébergement, parcours vers le logement et insertion des personnes vulnérables
+2 075 213 819,06
+76 736,94
+- Aide à l'accès au logement
+14 346 210 000,00
+- Urbanisme, territoires et amélioration de l'habitat
+694 009 064,71
+412 459 919,07
+- Impulsion et coordination de la politique d'aménagement du territoire
+152 174 369,58
+39 872 134,42
+- Interventions territoriales de l'Etat
+49 191 525,38
+1 400 475,62
+- Politique de la ville
+400 162 011,69
+859 926,31
+Conseil et contrôle de l'Etat
+664 267 068,32
+13 615 149,47
+- Conseil d'Etat et autres juridictions administratives
+406 096 402,96
+8 078 045,19
+- Conseil économique, social et environnemental
+42 456 458,16
+18 574,00
+- Cour des comptes et autres juridictions financières
+215 368 668,03
+5 409 564,45
+- Haut Conseil des finances publiques
+345 539,17
+108 965,83
+Crédits non répartis
+310 651 620,00
+- Provision relative aux rémunérations publiques
+- Dépenses accidentelles et imprévisibles
+310 651 620,00
+Culture
+2 975 513 672,70
+35 718 775,77
+- Patrimoines
+899 760 960,82
+27 353 645,00
+- Création
+850 313 075,37
+5 031 684,72
+- Transmission des savoirs et démocratisation de la culture
+1 225 439 636,51
+3 333 446,05
+Défense
+45 681 011 826,84
+1 243 622 329,28
+- Environnement et prospective de la politique de défense
+1 435 018 485,11
+6 940 042,26
+- Préparation et emploi des forces
+8 728 665 882,34
+855 809 293,70
+- Soutien de la politique de la défense
+23 034 105 871,44
+166 206 996,54
+- Equipement des forces
+12 483 221 587,95
+214 665 996,78
+Direction de l'action du Gouvernement
+1 337 214 184,38
+192 017 642,08
+- Coordination du travail gouvernemental
+615 198 828,62
+7 942 649,06
+- Protection des droits et libertés
+91 873 370,02
+3 160 671,98
+- Moyens mutualisés des administrations déconcentrées
+630 141 985,74
+180 914 321,04
+Ecologie, développement et mobilité durables
+13 086 007 958,86
+73 334 428,73
+- Infrastructures et services de transports
+4 950 103 697,74
+13 824 771,77
+- Affaires maritimes
+160 420 326,04
+1 506 634,16
+- Paysages, eau et biodiversité
+150 114 687,98
+3 661 462,81
+- Expertise, information géographique et météorologie
+512 194 748,51
+457 208,39
+- Prévention des risques
+794 606 775,53
+10 920 679,65
+- Energie, climat et après-mines
+442 793 339,36
+384 800,20
+- Service public de l'énergie
+3 096 139 628,93
+0,07
+- Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables
+2 979 634 754,77
+42 578 871,68
+Economie
+2 021 988 669,72
+44 090 477,96
+- Développement des entreprises et régulations
+981 177 061,52
+6 947 240,01
+- Plan « France Très haut débit »
+158 518 734,49
+18 692 208,51
+- Statistiques et études économiques
+456 994 047,18
+12 823 296,86
+- Stratégie économique et fiscale
+425 298 826,53
+5 627 732,58
+Engagements financiers de l'Etat
+41 679 418 390,81
+429 684 332,19
+- Charge de la dette et trésorerie de l'Etat (crédits évaluatifs)
+41 541 283 308,97
+108 716 691,03
+- Appels en garantie de l'Etat (crédits évaluatifs)
+44 631 400,90
+59 458 599,10
+- Epargne
+101 003 931,78
+22,22
+- Majoration de rentes
+142 478 768,56
+0,44
+- Dotation en capital du Mécanisme européen de stabilité
+100 000 000,00
+- Augmentation de capital de la Banque européenne d'investissement
+- Fonds de soutien relatif aux prêts et contrats financiers structurés à risque
+-249 979 019,40
+261 509 019,40
+Enseignement scolaire
+71 657 515 239,53
+94 144 367,12
+- Enseignement scolaire public du premier degré
+22 001 026 280,96
+34 599 868,04
+- Enseignement scolaire public du second degré
+32 916 385 644,36
+4 181 320,37
+- Vie de l'élève
+5 418 342 616,17
+3 909 111,54
+- Enseignement privé du premier et du second degrés
+7 564 274 306,07
+2 590 456,93
+- Soutien de la politique de l'éducation nationale
+2 327 309 147,56
+37 633 314,65
+- Enseignement technique agricole
+1 430 177 244,41
+11 230 295,59
+Gestion des finances publiques et des ressources humaines
+10 773 775 320,18
+86 042 315,22
+- Gestion fiscale et financière de l'Etat et du secteur public local
+8 103 574 831,91
+24 566 478,60
+- Conduite et pilotage des politiques économiques et financières
+931 283 641,93
+52 467 739,55
+- Facilitation et sécurisation des échanges
+1 535 883 261,77
+8 051 557,12
+- Fonction publique
+203 033 584,57
+956 539,95
+Immigration, asile et intégration
+1 524 088 892,59
+1 388 222,13
+- Immigration et asile
+1 221 097 287,94
+1 322 123,53
+- Intégration et accès à la nationalité française
+302 991 604,65
+66 098,60
+Investissements d'avenir
+4 003 500 000,00
+- Soutien des progrès de l'enseignement et de la recherche
+650 000 000,00
+- Valorisation de la recherche
+2 370 000 000,00
+- Accélération de la modernisation des entreprises
+983 500 000,00
+Justice
+8 453 362 478,39
+167 336 907,70
+- Justice judiciaire
+3 354 018 618,95
+40 202 276,32
+- Administration pénitentiaire
+3 405 322 667,72
+81 852 103,21
+- Protection judiciaire de la jeunesse
+835 870 515,66
+11 918 375,31
+- Accès au droit et à la justice
+430 142 747,79
+5 200,25
+- Conduite et pilotage de la politique de la justice
+424 037 078,66
+33 074 431,22
+- Conseil supérieur de la magistrature
+3 970 849,61
+284 521,39
+Médias, livre et industries culturelles
+515 430 186,31
+23 259 210,69
+- Presse et médias
+263 919 764,75
+21 139 099,25
+- Livre et industries culturelles
+251 510 421,56
+2 120 111,44
+Outre-mer
+2 217 480 619,74
+72 477 249,17
+- Emploi outre-mer
+1 433 326 708,34
+11 797 070,51
+- Conditions de vie outre-mer
+784 153 911,40
+60 680 178,66
+Pouvoirs publics
+991 742 491,00
+- Présidence de la République
+103 000 000,00
+- Assemblée nationale
+517 890 000,00
+- Sénat
+323 584 600,00
+- La Chaîne parlementaire
+34 687 162,00
+- Indemnités des représentants français au Parlement européen
+- Conseil constitutionnel
+11 719 229,00
+- Haute Cour
+- Cour de justice de la République
+861 500,00
+Recherche et enseignement supérieur
+27 474 149 973,30
+45 195 139,00
+- Formations supérieures et recherche universitaire
+13 420 741 617,19
+11 164 249,61
+- Vie étudiante
+2 643 752 791,40
+357 140,07
+- Recherches scientifiques et technologiques pluridisciplinaires
+6 649 809 838,03
+2 218 853,47
+- Recherche spatiale
+1 597 664 579,00
+- Recherche dans les domaines de l'énergie, du développement et de la mobilité durables
+1 743 903 239,86
+3 522 490,14
+- Recherche et enseignement supérieur en matière économique et industrielle
+793 538 041,04
+26 452 294,96
+- Recherche duale (civile et militaire)
+174 680 656,00
+- Recherche culturelle et culture scientifique
+110 884 644,76
+195 305,77
+- Enseignement supérieur et recherche agricoles
+339 174 566,02
+1 284 804,98
+Régimes sociaux et de retraite
+6 447 953 082,00
+- Régimes sociaux et de retraite des transports terrestres
+4 246 823 343,00
+- Régimes de retraite et de sécurité sociale des marins
+824 315 764,00
+- Régime de retraite des mines, de la SEITA et divers
+1 376 813 975,00
+Relations avec les collectivités territoriales
+3 686 650 886,59
+131 027 721,47
+- Concours financiers aux collectivités territoriales et à leurs groupements
+3 495 818 065,74
+111 220 917,26
+- Concours spécifiques et administration
+190 832 820,85
+19 806 804,21
+Remboursements et dégrèvements
+125 727 456 764,26
+1 372 307 056,41
+259 928 292,15
+- Remboursements et dégrèvements d'impôts d'Etat (crédits évaluatifs)
+110 022 385 056,41
+1 372 307 056,41
+- Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)
+15 705 071 707,85
+259 928 292,15
+Santé
+1 335 797 190,06
+4 261 007,94
+- Prévention, sécurité sanitaire et offre de soins
+424 741 508,27
+4 260 897,73
+- Protection maladie
+911 055 681,79
+110,21
+Sécurités
+20 531 852 071,79
+79 623 718,54
+- Police nationale
+10 808 820 224,38
+12 312 945,29
+- Gendarmerie nationale
+8 916 238 066,40
+61 109 460,90
+- Sécurité et éducation routières
+38 280 016,49
+204 551,56
+- Sécurité civile
+768 513 764,52
+5 996 760,79
+Solidarité, insertion et égalité des chances
+19 825 879 278,48
+8 973 500,90
+- Inclusion sociale et protection des personnes
+6 987 302 040,40
+40 828,60
+- Handicap et dépendance
+11 332 190 741,28
+0,72
+- Egalité entre les femmes et les hommes
+29 352 857,28
+41 313,72
+- Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative
+1 477 033 639,52
+8 891 357,86
+Sport, jeunesse et vie associative
+961 804 438,93
+1 140 995,33
+- Sport
+343 003 057,50
+1 117 126,84
+- Jeunesse et vie associative
+560 801 381,43
+23 868,49
+- Jeux olympiques et paralympiques 2024
+58 000 000,00
+Travail et emploi
+11 708 566 418,24
+2 357 937 061,08
+- Accès et retour à l'emploi
+4 862 103 298,27
+2 175 237 192,25
+- Accompagnement des mutations économiques et développement de l'emploi
+6 025 984 163,58
+163 876 483,28
+- Amélioration de la qualité de l'emploi et des relations du travail
+139 985 067,29
+5 294 744,71
+- Conception, gestion et évaluation des politiques de l'emploi et du travail
+680 493 889,10
+13 528 640,84
+Total
+456 833 846 912,00
+1 372 307 056,41
+6 875 288 515,51
+
+II. - Le montant des dépenses relatives au budget général au titre de l'année 2018 est arrêté par mission et programme aux sommes mentionnées dans le tableau ci-après. Les crédits de paiement ouverts sont modifiés comme indiqué dans ce même tableau.
+
+(En euros)
+
+Désignation des missions et des programmes
+Dépenses
+Ajustements de la loi de règlement
+Ouvertures de crédits
+
+     complémentaires
+Annulations de crédits
+
+     non consommés
+
+     et non reportés
+Action et transformation publiques
+1 844 467,66
+0,34
+- Rénovation des cités administratives et autres sites domaniaux multi-occupants
+1 844 467,66
+0,34
+- Fonds pour la transformation de l'action publique
+Action extérieure de l'Etat
+2 963 387 268,17
+4 795 872,92
+- Action de la France en Europe et dans le monde
+1 880 055 527,33
+2 554 608,45
+- Diplomatie culturelle et d'influence
+719 861 281,06
+682 478,12
+- Français à l'étranger et affaires consulaires
+363 395 390,80
+1 558 786,33
+- Présidence française du G7
+75 068,98
+0,02
+Administration générale et territoriale de l'Etat
+2 821 617 457,44
+33 646 201,95
+- Administration territoriale
+1 718 779 440,93
+28 370 596,90
+- Vie politique, cultuelle et associative
+175 507 216,17
+3 933 928,83
+- Conduite et pilotage des politiques de l'intérieur
+927 330 800,34
+1 341 676,22
+Agriculture, alimentation, forêt et affaires rurales
+3 442 254 534,33
+19 600 105,09
+- Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture
+2 244 009 530,55
+0,52
+- Sécurité et qualité sanitaires de l'alimentation
+552 423 738,48
+7 143 590,41
+- Conduite et pilotage des politiques de l'agriculture
+645 821 265,30
+12 456 514,16
+Aide publique au développement
+2 632 804 604,11
+31 587 809,14
+- Aide économique et financière au développement
+929 189 062,61
+24 636 541,39
+- Solidarité à l'égard des pays en développement
+1 703 615 541,50
+6 951 267,75
+Anciens combattants, mémoire et liens avec la Nation
+2 432 817 081,56
+1 065 101,34
+- Liens entre la Nation et son armée
+40 355 064,35
+848 310,03
+- Reconnaissance et réparation en faveur du monde combattant
+2 296 562 590,46
+89 465,06
+- Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale
+95 899 426,75
+127 326,25
+Cohésion des territoires
+17 825 968 724,42
+13 338 214,02
+- Hébergement, parcours vers le logement et insertion des personnes vulnérables
+2 099 472 593,12
+0,88
+- Aide à l'accès au logement
+14 346 216 500,00
+- Urbanisme, territoires et amélioration de l'habitat
+684 955 061,55
+0,89
+- Impulsion et coordination de la politique d'aménagement du territoire
+240 410 514,54
+12 300 357,46
+- Interventions territoriales de l'Etat
+55 716 412,65
+564 539,35
+- Politique de la ville
+399 197 642,56
+473 315,44
+Conseil et contrôle de l'Etat
+665 041 280,97
+5 549 411,89
+- Conseil d'Etat et autres juridictions administratives
+404 231 819,25
+3 841 956,10
+- Conseil économique, social et environnemental
+42 456 458,16
+18 574,00
+- Cour des comptes et autres juridictions financières
+218 021 002,62
+1 566 377,73
+- Haut Conseil des finances publiques
+332 000,94
+122 504,06
+Crédits non répartis
+10 651 620,00
+- Provision relative aux rémunérations publiques
+- Dépenses accidentelles et imprévisibles
+10 651 620,00
+Culture
+2 912 996 780,07
+1 159 724,23
+- Patrimoines
+898 248 281,73
+21 734,31
+- Création
+795 783 728,24
+20 458,50
+- Transmission des savoirs et démocratisation de la culture
+1 218 964 770,10
+1 117 531,42
+Défense
+43 286 557 871,65
+102 054 970,91
+- Environnement et prospective de la politique de défense
+1 394 974 329,66
+0,69
+- Préparation et emploi des forces
+8 962 768 821,21
+1,80
+- Soutien de la politique de la défense
+22 919 129 379,27
+102 054 966,68
+- Equipement des forces
+10 009 685 341,51
+1,74
+Direction de l'action du Gouvernement
+1 386 333 291,16
+12 118 267,86
+- Coordination du travail gouvernemental
+635 356 023,65
+6 564 616,87
+- Protection des droits et libertés
+92 798 036,18
+3 060 891,82
+- Moyens mutualisés des administrations déconcentrées
+658 179 231,33
+2 492 759,17
+Ecologie, développement et mobilité durables
+13 517 423 802,50
+33 505 557,40
+- Infrastructures et services de transports
+5 399 084 899,49
+1,33
+- Affaires maritimes
+162 789 974,07
+1,46
+- Paysages, eau et biodiversité
+150 834 333,33
+1,69
+- Expertise, information géographique et météorologie
+507 415 549,74
+1,16
+- Prévention des risques
+792 862 576,39
+343 635,69
+- Energie, climat et après-mines
+502 587 474,70
+0,64
+- Service public de l'énergie
+2 976 675 074,55
+0,45
+- Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables
+3 025 173 920,23
+33 161 914,98
+Economie
+1 812 103 293,91
+27 928 949,76
+- Développement des entreprises et régulations
+950 740 048,09
+1 352 994,08
+- Plan « France Très haut débit »
+-10 900 000,00
+- Statistiques et études économiques
+449 172 278,64
+18 720 189,75
+- Stratégie économique et fiscale
+423 090 967,18
+7 855 765,93
+Engagements financiers de l'Etat
+42 119 295 393,49
+168 175 792,51
+- Charge de la dette et trésorerie de l'Etat (crédits évaluatifs)
+41 541 283 308,97
+108 716 691,03
+- Appels en garantie de l'Etat (crédits évaluatifs)
+44 631 400,90
+59 458 599,10
+- Epargne
+101 003 453,05
+500,95
+- Majoration de rentes
+142 478 768,56
+0,44
+- Dotation en capital du Mécanisme européen de stabilité
+100 000 000,00
+- Augmentation de capital de la Banque européenne d'investissement
+- Fonds de soutien relatif aux prêts et contrats financiers structurés à risque
+189 898 462,01
+0,99
+Enseignement scolaire
+71 661 103 530,67
+89 962 989,50
+- Enseignement scolaire public du premier degré
+22 000 915 126,20
+34 701 121,80
+- Enseignement scolaire public du second degré
+32 916 816 427,20
+4 086 125,53
+- Vie de l'élève
+5 418 027 808,02
+3 848 193,69
+- Enseignement privé du premier et du second degrés
+7 564 521 046,74
+2 589 903,26
+- Soutien de la politique de l'éducation nationale
+2 331 142 225,40
+33 516 291,33
+- Enseignement technique agricole
+1 429 680 897,11
+11 221 353,89
+Gestion des finances publiques et des ressources humaines
+10 761 923 263,12
+22 306 862,52
+- Gestion fiscale et financière de l'Etat et du secteur public local
+8 020 128 963,84
+7 750 768,98
+- Conduite et pilotage des politiques économiques et financières
+1 009 387 181,52
+955 148,75
+- Facilitation et sécurisation des échanges
+1 530 785 037,40
+8 584 088,40
+- Fonction publique
+201 622 080,36
+5 016 856,39
+Immigration, asile et intégration
+1 554 919 648,96
+1 393 133,20
+- Immigration et asile
+1 251 875 912,73
+1 360 781,18
+- Intégration et accès à la nationalité française
+303 043 736,23
+32 352,02
+Investissements d'avenir
+1 113 000 000,00
+- Soutien des progrès de l'enseignement et de la recherche
+142 500 000,00
+- Valorisation de la recherche
+227 000 000,00
+- Accélération de la modernisation des entreprises
+743 500 000,00
+Justice
+8 605 886 101,54
+53 574 533,41
+- Justice judiciaire
+3 432 466 112,56
+13 265 789,95
+- Administration pénitentiaire
+3 497 633 916,96
+21 793 224,42
+- Protection judiciaire de la jeunesse
+824 856 817,13
+10 281 958,71
+- Accès au droit et à la justice
+430 139 025,28
+8 922,76
+- Conduite et pilotage de la politique de la justice
+416 689 735,09
+7 709 144,09
+- Conseil supérieur de la magistrature
+4 100 494,52
+515 493,48
+Médias, livre et industries culturelles
+547 398 275,57
+1,43
+- Presse et médias
+279 597 573,05
+0,95
+- Livre et industries culturelles
+267 800 702,52
+0,48
+Outre-mer
+2 113 521 145,88
+73 800 158,48
+- Emploi outre-mer
+1 429 992 598,50
+3 340 954,31
+- Conditions de vie outre-mer
+683 528 547,38
+70 459 204,17
+Pouvoirs publics
+991 742 491,00
+- Présidence de la République
+103 000 000,00
+- Assemblée nationale
+517 890 000,00
+- Sénat
+323 584 600,00
+- La Chaîne parlementaire
+34 687 162,00
+- Indemnités des représentants français au Parlement européen
+- Conseil constitutionnel
+11 719 229,00
+- Haute Cour
+- Cour de justice de la République
+861 500,00
+Recherche et enseignement supérieur
+27 578 629 027,11
+13 414 098,97
+- Formations supérieures et recherche universitaire
+13 404 384 946,08
+10 193 657,69
+- Vie étudiante
+2 650 574 099,16
+1,87
+- Recherches scientifiques et technologiques pluridisciplinaires
+6 696 858 582,44
+1,06
+- Recherche spatiale
+1 597 664 579,00
+- Recherche dans les domaines de l'énergie, du développement et de la mobilité durables
+1 717 515 928,87
+0,13
+- Recherche et enseignement supérieur en matière économique et industrielle
+886 208 610,32
+1 899 416,68
+- Recherche duale (civile et militaire)
+174 680 656,00
+- Recherche culturelle et culture scientifique
+110 889 356,24
+36 017,54
+- Enseignement supérieur et recherche agricoles
+339 852 269,00
+1 285 004,00
+Régimes sociaux et de retraite
+6 447 953 082,00
+- Régimes sociaux et de retraite des transports terrestres
+4 246 823 343,00
+- Régimes de retraite et de sécurité sociale des marins
+824 315 764,00
+- Régime de retraite des mines, de la SEITA et divers
+1 376 813 975,00
+Relations avec les collectivités territoriales
+3 571 858 637,10
+103 242 136,36
+- Concours financiers aux collectivités territoriales et à leurs groupements
+3 304 833 372,62
+102 573 909,38
+- Concours spécifiques et administration
+267 025 264,48
+668 226,98
+Remboursements et dégrèvements
+125 727 052 623,00
+1 371 423 097,15
+259 448 474,15
+- Remboursements et dégrèvements d'impôts d'Etat (crédits évaluatifs)
+110 021 501 097,15
+1 371 423 097,15
+- Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)
+15 705 551 525,85
+259 448 474,15
+Santé
+1 337 776 879,34
+2 480 950,66
+- Prévention, sécurité sanitaire et offre de soins
+426 721 073,00
+2 480 950,00
+- Protection maladie
+911 055 806,34
+0,66
+Sécurités
+19 884 464 273,56
+27 244 961,71
+- Police nationale
+10 595 745 415,20
+1 896 169,08
+- Gendarmerie nationale
+8 734 983 503,98
+20 482 738,06
+- Sécurité et éducation routières
+38 636 897,32
+0,72
+- Sécurité civile
+515 098 457,06
+4 866 053,85
+Solidarité, insertion et égalité des chances
+19 846 628 536,70
+7 627 068,06
+- Inclusion sociale et protection des personnes
+6 985 811 323,48
+0,52
+- Handicap et dépendance
+11 332 552 031,64
+0,36
+- Egalité entre les femmes et les hommes
+29 076 721,28
+0,72
+- Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative
+1 499 188 460,30
+7 627 066,46
+Sport, jeunesse et vie associative
+935 993 352,28
+2 841 136,44
+- Sport
+327 747 893,21
+2 841 134,59
+- Jeunesse et vie associative
+560 245 459,07
+1,85
+- Jeux olympiques et paralympiques 2024
+48 000 000,00
+Travail et emploi
+14 948 736 485,06
+14 248 427,51
+- Accès et retour à l'emploi
+7 476 738 013,96
+0,56
+- Accompagnement des mutations économiques et développement de l'emploi
+6 724 355 015,79
+1,07
+- Amélioration de la qualité de l'emploi et des relations du travail
+71 576 663,45
+2 413 089,55
+- Conception, gestion et évaluation des politiques de l'emploi et du travail
+676 066 791,86
+11 835 336,33
+Total
+455 449 033 204,33
+1 371 423 097,15
+1 136 762 531,76
+I. - Le montant des autorisations d'engagement consommées sur les budgets annexes au titre de l'année 2018 est arrêté par mission et programme aux sommes mentionnées dans le tableau ci-après. Les autorisations d'engagement ouvertes sont modifiées comme indiqué dans ce même tableau.
+
+(En euros)
+
+Désignation des budgets annexes
+Autorisations
+
+     d'engagement
+
+     consommées
+Ajustements de la loi de règlement
+Ouvertures
+
+    d'autorisations
+
+     d'engagement
+
+     complémentaires
+Annulations
+
+    d'autorisations
+
+     d'engagement
+
+     non engagées
+
+     et non reportées
+Contrôle et exploitation aériens
+2 178 813 742,59
+10 504 449,80
+- Soutien aux prestations de l'aviation civile
+1 521 722 830,63
+10 335 869,70
+- Navigation aérienne
+607 638 010,12
+- Transports aériens, surveillance et certification
+49 452 901,84
+168 580,10
+Publications officielles et information administrative
+149 154 604,57
+17 024 285,79
+- Edition et diffusion
+37 622 206,86
+12 313 436,50
+- Pilotage et ressources humaines
+111 532 397,71
+4 710 849,29
+
+II. - Les résultats relatifs aux budgets annexes au titre de l'année 2018 sont arrêtés par mission et programme aux sommes mentionnées dans le tableau ci-après. Les crédits ouverts sont modifiés comme indiqué dans ce même tableau.
+
+(En euros)
+
+Désignation des budgets annexes
+Opérations de l'année
+Ajustements de la loi de règlement
+Dépenses
+Recettes
+Ouvertures
+
+     de crédits
+
+     complémentaires
+Annulations
+
+     des crédits
+
+     non consommés
+
+     et non reportés
+Contrôle et exploitation aériens
+2 174 217 505,26
+2 205 871 589,94
+14 428 032,72
+- Soutien aux prestations de l'aviation civile
+1 517 373 616,08
+14 293 844,84
+- Navigation aérienne
+606 826 189,40
+0,33
+- Transports aériens, surveillance et certification
+50 017 699,78
+134 187,55
+Publications officielles et information administrative
+146 554 721,03
+196 428 182,59
+11 805 484,97
+- Edition et diffusion
+35 596 102,28
+4 094 736,72
+- Pilotage et ressources humaines
+110 958 618,75
+7 710 748,25
+I. - Le montant des autorisations d'engagement consommées sur les comptes spéciaux est arrêté, au 31 décembre 2018, par mission et programme aux sommes mentionnées dans le tableau ci-après. Les autorisations d'engagement ouvertes sont modifiées comme indiqué dans ce même tableau.
+
+(En euros)
+
+Désignation des comptes spéciaux
+Autorisations
+
+     d'engagement
+
+     consommées
+Ajustements de la loi de règlement
+Ouvertures
+
+    d'autorisations
+
+     d'engagement
+
+     complémentaires
+Annulations
+
+    d'autorisations
+
+     d'engagement
+
+     non consommées
+
+     et non reportées
+Comptes d'affectation spéciale
+Aides à l'acquisition de véhicules propres
+548 577 066,06
+38 572 117,94
+- Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres
+183 577 066,06
+38 572 117,94
+- Contribution au financement de l'attribution d'aides au retrait de véhicules polluants
+365 000 000,00
+Contrôle de la circulation et du stationnement routiers
+1 494 159 223,78
+20 975 160,69
+- Structures et dispositifs de sécurité routière
+292 175 225,55
+20 975 159,92
+- Contrôle et modernisation de la politique de la circulation et du stationnement routiers
+26 200 000,00
+- Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières
+689 213 985,23
+0,77
+- Désendettement de l'Etat
+486 570 013,00
+Développement agricole et rural
+131 655 785,03
+4 061 538,97
+- Développement et transfert en agriculture
+63 030 122,43
+2 008 985,57
+- Recherche appliquée et innovation en agriculture
+68 625 662,60
+2 052 553,40
+Financement des aides aux collectivités pour l'électrification rurale
+387 316 909,27
+6 865 907,73
+- Electrification rurale
+387 517 667,74
+5 734 224,26
+- Opérations de maîtrise de la demande d'électricité, de production d'électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées, déclarations d'utilité publique et intempéries
+-200 758,47
+1 131 683,47
+Financement national du développement et de la modernisation de l'apprentissage
+1 689 905 029,09
+32 802,91
+- Répartition régionale de la ressource consacrée au développement de l'apprentissage
+1 389 937 832,00
+- Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage
+299 967 197,09
+32 802,91
+Gestion du patrimoine immobilier de l'Etat
+362 550 704,54
+206 603 960,56
+- Contributions des cessions immobilières au désendettement de l'Etat
+- Opérations immobilières et entretien des bâtiments de l'Etat
+362 550 704,54
+206 603 960,56
+Participation de la France au désendettement de la Grèce
+- Versement de la France à la Grèce au titre de la restitution à cet Etat des revenus perçus sur les titres grecs
+- Rétrocessions de trop-perçus à la Banque de France
+Participations financières de l'Etat
+3 991 964 442,96
+2 388 272 383,04
+- Opérations en capital intéressant les participations financières de l'Etat
+3 891 964 442,96
+1 488 272 383,04
+- Désendettement de l'Etat et d'établissements publics de l'Etat
+100 000 000,00
+900 000 000,00
+Pensions
+58 505 162 561,87
+4,13
+- Pensions civiles et militaires de retraite et allocations temporaires d'invalidité
+54 742 753 179,74
+1,26
+- Ouvriers des établissements industriels de l'Etat
+1 918 262 150,31
+1,69
+- Pensions militaires d'invalidité et des victimes de guerre et autres pensions
+1 844 147 231,82
+1,18
+Services nationaux de transport conventionnés de voyageurs
+739 004 527,30
+52 097,70
+- Exploitation des services nationaux de transport conventionnés
+576 404 527,30
+52 097,70
+- Matériel roulant des services nationaux de transport conventionnés
+162 600 000,00
+Transition énergétique
+6 571 405 139,52
+0,48
+- Soutien à la transition énergétique
+4 943 413 136,00
+- Engagements financiers liés à la transition énergétique
+1 627 992 003,52
+0,48
+Total des comptes d'affectation spéciale
+74 421 701 389,42
+2 665 435 974,15
+Comptes de concours financiers
+Accords monétaires internationaux
+- Relations avec l'Union monétaire ouest-africaine
+- Relations avec l'Union monétaire d'Afrique centrale
+- Relations avec l'Union des Comores
+Avances à divers services de l'Etat ou organismes gérant des services publics
+14 150 190 991,66
+2 318 349 646,34
+- Avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune
+14 012 815 336,66
+1 987 184 663,34
+- Avances à des organismes distincts de l'Etat et gérant des services publics
+143 375 655,00
+222 924 345,00
+- Avances à des services de l'Etat
+-6 000 000,00
+93 240 638,00
+- Avances à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du Benfluorex
+15 000 000,00
+Avances à l'audiovisuel public
+3 894 620 069,00
+- France Télévisions
+2 567 907 594,00
+- ARTE France
+285 372 563,00
+- Radio France
+608 791 670,00
+- France Médias Monde
+263 162 750,00
+- Institut national de l'audiovisuel
+90 411 142,00
+- TV5 Monde
+78 974 350,00
+Avances aux collectivités territoriales
+103 928 999 430,52
+3 135 429 505,48
+- Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie
+6 000 000,00
+- Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes
+103 928 999 430,52
+3 129 429 505,48
+Prêts à des Etats étrangers
+545 072 550,42
+403 577 449,58
+- Prêts à des Etats étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France
+120 072 550,42
+279 927 449,58
+- Prêts à des Etats étrangers pour consolidation de dettes envers la France
+3 650 000,00
+- Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers
+425 000 000,00
+120 000 000,00
+- Prêts aux Etats membres de l'Union européenne dont la monnaie est l'euro
+Prêts et avances à des particuliers ou à des organismes privés
+1 792 623 359,00
+162 641,00
+- Prêts et avances pour le logement des agents de l'Etat
+87 359,00
+162 641,00
+- Prêts pour le développement économique et social
+92 536 000,00
+- Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle
+1 700 000 000,00
+- Prêts à Bpifrance pour le développement du crédit-export vers l'Iran
+Total des comptes de concours financiers
+124 311 506 400,60
+5 857 519 242,40
+
+II. - Les résultats des comptes spéciaux sont arrêtés, au 31 décembre 2018, par mission et programme aux sommes mentionnées dans les tableaux ci-après. Les crédits de paiement ouverts et les découverts autorisés sont modifiés comme indiqué dans ces tableaux.
+
+(En euros)
+
+Désignation des comptes spéciaux
+Opérations de l'année
+Ajustements de la loi de règlement
+Dépenses
+Recettes
+Ouvertures de crédits complémentaires
+Annulations de crédits
+
+     non consommés
+
+     et non reportés
+Comptes d'affectation spéciale
+Aides à l'acquisition de véhicules propres
+550 818 093,30
+596 939 284,04
+34 060 716,70
+- Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres
+185 818 093,30
+34 060 716,70
+- Contribution au financement de l'attribution d'aides au retrait de véhicules polluants
+365 000 000,00
+Contrôle de la circulation et du stationnement routiers
+1 466 396 141,06
+1 462 852 893,58
+0,94
+- Structures et dispositifs de sécurité routière
+263 750 624,74
+0,26
+- Contrôle et modernisation de la politique de la circulation et du stationnement routiers
+26 200 000,00
+- Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières
+689 875 503,32
+0,68
+- Désendettement de l'Etat
+486 570 013,00
+Développement agricole et rural
+131 220 394,26
+136 532 959,84
+0,74
+- Développement et transfert en agriculture
+62 209 683,58
+0,42
+- Recherche appliquée et innovation en agriculture
+69 010 710,68
+0,32
+Financement des aides aux collectivités pour l'électrification rurale
+349 443 393,85
+376 847 595,50
+0,15
+- Electrification rurale
+348 443 454,88
+0,12
+- Opérations de maîtrise de la demande d'électricité, de production d'électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées, déclarations d'utilité publique et intempéries
+999 938,97
+0,03
+Financement national du développement et de la modernisation de l'apprentissage
+1 689 937 831,09
+1 703 911 316,87
+0,91
+- Répartition régionale de la ressource consacrée au développement de l'apprentissage
+1 389 937 832,00
+- Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage
+299 999 999,09
+0,91
+Gestion du patrimoine immobilier de l'Etat
+480 626 958,99
+370 493 775,35
+148 059 658,28
+- Contributions des cessions immobilières au désendettement de l'Etat
+- Opérations immobilières et entretien des bâtiments de l'Etat
+480 626 958,99
+148 059 658,28
+Participation de la France au désendettement de la Grèce
+148 000 000,00
+- Versement de la France à la Grèce au titre de la restitution à cet Etat des revenus perçus sur les titres grecs
+- Rétrocessions de trop-perçus à la Banque de France
+Participations financières de l'Etat
+3 991 964 442,96
+2 611 727 617,23
+2 388 272 383,04
+Opérations en capital intéressant les participations financières de l'Etat
+3 891 964 442,96
+1 488 272 383,04
+- Désendettement de l'Etat et d'établissements publics de l'Etat
+100 000 000,00
+900 000 000,00
+Pensions
+58 505 080 924,53
+59 962 950 612,01
+81 641,47
+- Pensions civiles et militaires de retraite et allocations temporaires d'invalidité
+54 742 682 389,14
+70 791,86
+- Ouvriers des établissements industriels de l'Etat
+1 918 262 150,31
+1,69
+- Pensions militaires d'invalidité et des victimes de guerre et autres pensions
+1 844 136 385,08
+10 847,92
+Services nationaux de transport conventionnés de voyageurs
+707 982 823,16
+649 273 724,61
+0,84
+- Exploitation des services nationaux de transport conventionnés
+545 382 823,16
+0,84
+- Matériel roulant des services nationaux de transport conventionnés
+162 600 000,00
+Transition énergétique
+6 571 196 327,78
+6 589 671 056,00
+1,22
+- Soutien à la transition énergétique
+4 943 204 324,26
+0,74
+- Engagements financiers liés à la transition énergétique
+1 627 992 003,52
+0,48
+Total des comptes d'affectation spéciale
+74 444 667 330,98
+74 609 200 835,03
+2 570 474 404,29
+Comptes de concours financiers
+Accords monétaires internationaux
+- Relations avec l'Union monétaire ouest-africaine
+- Relations avec l'Union monétaire d'Afrique centrale
+- Relations avec l'Union des Comores
+Avances à divers services de l'Etat ou organismes gérant des services publics
+14 996 191 084,36
+15 099 253 338,55
+1 472 349 553,64
+- Avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune
+14 859 091 083,36
+1 140 908 916,64
+- Avances à des organismes distincts de l'Etat et gérant des services publics
+137 100 001,00
+229 199 999,00
+- Avances à des services de l'Etat
+87 240 638,00
+- Avances à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du Benfluorex
+15 000 000,00
+Avances à l'audiovisuel public
+3 894 620 069,00
+3 894 677 204,25
+- France Télévisions
+2 567 907 594,00
+- ARTE France
+285 372 563,00
+- Radio France
+608 791 670,00
+- France Médias Monde
+263 162 750,00
+- Institut national de l'audiovisuel
+90 411 142,00
+- TV5 Monde
+78 974 350,00
+Avances aux collectivités territoriales
+103 929 798 421,52
+104 510 449 360,14
+3 134 630 514,48
+- Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie
+6 000 000,00
+- Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes
+103 929 798 421,52
+3 128 630 514,48
+Prêts à des Etats étrangers
+1 216 220 637,72
+1 181 759 085,37
+56 429 362,28
+- Prêts à des Etats étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France
+208 220 637,72
+27 779 362,28
+- Prêts à des Etats étrangers pour consolidation de dettes envers la France
+3 650 000,00
+- Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers
+1 008 000 000,00
+25 000 000,00
+- Prêts aux Etats membres de l'Union européenne dont la monnaie est l'euro
+Prêts et avances à des particuliers ou à des organismes privés
+67 623 359,00
+36 357 120,63
+162 641,00
+- Prêts et avances pour le logement des agents de l'Etat
+87 359,00
+162 641,00
+- Prêts pour le développement économique et social
+67 536 000,00
+- Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle
+- Prêts à Bpifrance pour le développement du crédit-export vers l'Iran
+Total des comptes de concours financiers
+124 104 453 571,60
+124 722 496 108,94
+4 663 572 071,40
+
+(En euros)
+
+Désignation des comptes spéciaux
+Opérations de l'année
+Ajustements de la loi
+
+     de règlement
+Dépenses
+Recettes
+Majorations du découvert
+Comptes de commerce
+- Approvisionnement de l'Etat et des forces armées en produits pétroliers, biens et services complémentaires
+702 825 123,29
+660 050 247,62
+- Cantine et travail des détenus dans le cadre pénitentiaire
+172 229 075,39
+168 746 885,17
+- Couverture des risques financiers de l'Etat
+1 341 265 426,34
+1 341 265 426,34
+- Exploitations industrielles des ateliers aéronautiques de l'Etat
+603 861 544,03
+570 794 544,00
+- Gestion de la dette et de la trésorerie de l'Etat
+43 298 123 253,62
+43 322 943 472,50
+- Lancement de certains matériels aéronautiques et de certains matériels d'armement complexes
+6 122 689,00
+9 676 891,89
+- Opérations commerciales des domaines
+45 109 640,80
+70 298 139,97
+- Régie industrielle des établissements pénitentiaires
+25 707 155,47
+26 852 419,74
+- Renouvellement des concessions hydroélectriques
+30 132,97
+291 681,34
+- Soutien financier au commerce extérieur
+805 404 731,98
+810 786 860,01
+Total des comptes de commerce
+47 000 678 772,89
+46 981 706 568,58
+Comptes d'opérations monétaires
+- Emission des monnaies métalliques
+166 599 777,39
+230 161 513,37
+- Opérations avec le Fonds monétaire international
+978 205 953,23
+3 271 439 070,47
+20 092 731 791,95
+- Pertes et bénéfices de change
+25 081 762,70
+20 567 336,91
+Total des comptes d'opérations monétaires
+1 169 887 493,32
+3 522 167 920,75
+20 092 731 791,95
+
+III. - Les soldes des comptes spéciaux dont les opérations se poursuivent en 2019 sont arrêtés, à la date du 31 décembre 2018, aux sommes ci-après :
+
+(En euros)
+
+Désignation des comptes spéciaux
+Soldes au 31 décembre 2018
+Débiteurs
+Créditeurs
+Comptes d'affectation spéciale
+11 592 889 948,68
+Aide à l'acquisition de véhicules propres
+46 121 190,74
+Contrôle de la circulation et du stationnement routiers
+1 039 819 431,40
+Développement agricole et rural
+67 624 614,79
+Financement des aides aux collectivités pour l'électrification rurale
+339 194 017,79
+Financement national du développement et de la modernisation de l'apprentissage
+30 183 837,11
+Gestion du patrimoine immobilier de l'Etat
+702 282 848,70
+Participation de la France au désendettement de la Grèce
+1 177 800 000,00
+Participations financières de l'Etat
+1 543 618 500,78
+Pensions
+6 559 376 114,33
+Services nationaux de transport conventionnés de voyageurs
+38 603 819,27
+Transition énergétique
+48 265 573,77
+Comptes de concours financiers
+23 202 093 096,62
+443 941 664,23
+Accords monétaires internationaux
+Avances à divers services de l'Etat ou organismes gérant des services publics
+1 896 470 573,02
+Avances à l'audiovisuel public
+3 883 714,38
+Avances aux collectivités territoriales
+440 057 949,85
+Prêts à des Etats étrangers
+18 759 210 395,31
+Prêts et avances à des particuliers ou à des organismes privés
+2 546 412 128,29
+Comptes de commerce
+17 936 540,50
+8 187 282 701,80
+Approvisionnement de l'Etat et des forces armées en produits pétroliers, biens et services complémentaires
+75 785 633,66
+Cantine et travail des détenus dans le cadre pénitentiaire
+14 849 610,80
+Couverture des risques financiers de l'Etat
+0,02
+Exploitations industrielles des ateliers aéronautiques de l'Etat
+54 951 256,25
+Gestion de la dette et de la trésorerie de l'Etat
+3 947 820 706,78
+Lancement de certains matériels aéronautiques et de certains matériels d'armement complexes
+98 595 451,19
+Opérations commerciales des domaines
+93 188 499,17
+Régie industrielle des établissements pénitentiaires
+34 062 181,35
+Renouvellement des concessions hydroélectriques
+3 086 929,68
+Soutien financier au commerce extérieur
+3 882 878 973,40
+Comptes d'opérations monétaires
+20 097 246 217,74
+63 561 735,98
+Emission des monnaies métalliques
+63 561 735,98
+Opérations avec le Fonds monétaire international
+20 092 731 791,95
+Pertes et bénéfices de change
+4 514 425,79
+Total général
+43 317 275 854,86
+20 287 676 050,69
+
+IV. - Les soldes arrêtés au III sont reportés à la gestion 2019, à l'exception :
+1° D'un solde débiteur de 14 984 382,40 € concernant le compte de concours financiers « Prêts à des Etats étrangers » ;
+2° D'un solde créditeur de 63 561 735,98 € concernant le compte d'opérations monétaires « Émission des monnaies métalliques » ;
+3° D'un solde débiteur de 4 514 425,79 € concernant le compte d'opérations monétaires « Pertes et bénéfices de change ».
+Est autorisée, au delà de l'entrée en vigueur de la présente loi, la perception des rémunérations de services instituées ou modifiées par les décrets suivants :
+1° Décret n° 2018-1073 du 3 décembre 2018 relatif à la rémunération de services rendus par le ministère de la défense et par les formations musicales de la gendarmerie nationale ;
+2° Décret n° 2018-1274 du 26 décembre 2018 relatif aux redevances des services de navigation aérienne.
+Le dernier alinéa de l'article 14 de la loi n° 2006-888 du 19 juillet 2006 portant règlement définitif du budget de 2005 est complété par une phrase ainsi rédigée : « Elle dresse la liste des opérateurs qui ne sont pas considérés comme des organismes divers d'administration centrale et la liste des opérateurs qui sont considérés comme des organismes divers d'administration centrale. »
+La présente loi sera exécutée comme loi de l'Etat.

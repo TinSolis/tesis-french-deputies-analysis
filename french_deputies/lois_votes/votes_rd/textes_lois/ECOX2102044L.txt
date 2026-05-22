@@ -1,0 +1,156 @@
+LOI | NOR: ECOX2102044L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2021-1485 du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France (1)
+
+## Chapitre Ier : Faire prendre conscience aux utilisateurs de l'impact environnemental du numérique
+Le deuxième alinéa de l'article L. 312-9 du code de l'éducation est complété par une phrase ainsi rédigée : « Cette formation comporte également une sensibilisation à l'impact environnemental des outils numériques ainsi qu'un volet relatif à la sobriété numérique. »
+Le deuxième alinéa de l'article L. 611-8 du code de l'éducation est complété par une phrase ainsi rédigée : « Cette formation comporte une sensibilisation à l'impact environnemental des outils numériques ainsi qu'un volet relatif à la sobriété numérique. »
+I.-Le premier alinéa de l'article L. 642-3 du code de l'éducation est complété par une phrase ainsi rédigée : « Elle vérifie que les formations d'ingénieur comportent un module relatif à l'écoconception des services numériques et à la sobriété numérique. »
+II.-Le I du présent article entre en vigueur le premier jour de la rentrée scolaire 2022.
+Un observatoire des impacts environnementaux du numérique analyse et quantifie les impacts directs et indirects du numérique sur l'environnement ainsi que la contribution apportée par le numérique, notamment l'intelligence artificielle, à la transition écologique et solidaire. Il élabore une définition de la sobriété numérique.
+Les travaux de l'observatoire des impacts environnementaux du numérique sont rendus publics et peuvent comporter des propositions visant à réduire les impacts environnementaux du numérique.
+Cet observatoire est placé auprès de l'Agence de l'environnement et de la maîtrise de l'énergie ainsi que de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, qui en assurent le secrétariat. Dans le cadre de ses missions, l'observatoire peut faire appel à des chercheurs et à des personnalités qualifiées.
+
+## Chapitre III : Faire émerger et développer des usages du numérique écologiquement vertueux
+Le livre II du code des postes et des communications électroniques est ainsi modifié :
+1° L'article L. 32 est complété par un 32° ainsi rédigé :
+« 32° Système automatisé d'appels et d'envois de messages.
+« On entend par système automatisé d'appels et d'envois de messages les systèmes émettant des appels ou des messages de manière automatique vers plusieurs utilisateurs finals conformément aux instructions établies pour ce système. » ;
+2° L'article L. 44 est ainsi modifié :
+a) Le V est ainsi modifié :
+
+-au premier alinéa et à la fin du deuxième alinéa, les mots : « de l'Union européenne » sont remplacés par le mot : « national » ;
+-après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Le deuxième alinéa du présent V ne s'applique pas à l'acheminement des appels et messages reçus par des utilisateurs finals en situation d'itinérance internationale sur le territoire national présentant, comme identifiant d'appelant, un numéro issu du plan de numérotation établi par l'autorité. » ;
+
+-après le troisième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Les mêmes deux premiers alinéas ne s'appliquent pas à l'acheminement des appels et messages pour lesquels l'opérateur attributaire, dépositaire ou receveur du numéro utilisé en tant qu'identifiant d'appelant est en mesure de garantir, notamment aux autres opérateurs, pour chaque appel ou message, que l'utilisateur final émettant l'appel ou le message est bien l'affectataire dudit numéro ou que l'affectataire dudit numéro a préalablement donné son accord pour cette utilisation. » ;
+b) Le VI est ainsi rétabli :
+« VI.-L'autorité peut préciser les catégories de numéros du plan national de numérotation téléphonique qu'il est interdit d'utiliser comme identifiant de l'appelant présenté à l'appelé ou de l'expéditeur présenté au destinataire pour des appels ou des messages émis par des systèmes automatisés d'appels et d'envois de messages, ainsi que les conditions dans lesquelles cette interdiction s'applique.
+« L'autorité peut préciser les mesures que les opérateurs mettent en œuvre pour interrompre l'acheminement des appels et des messages émis au départ de leurs réseaux, transitant à travers ceux-ci ou terminés sur ceux-ci qui ne respectent pas cette interdiction. »
+I.-Le chapitre IV du titre Ier du livre II du code des postes et des communications électroniques est complété par une section 3 ainsi rédigée :
+
+« Section 3
+« Régulation environnementale des communications électroniques
+
+« Art. L. 38-5.-L'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse et le Conseil supérieur de l'audiovisuel, en lien avec l'Agence de l'environnement et de la maîtrise de l'énergie, définissent le contenu d'un référentiel général de l'écoconception des services numériques. Ce référentiel, s'appuyant notamment sur la définition de l'écoconception prévue à l'article 2 de la directive 2009/125/ CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie, vise à définir des critères de conception durable des services numériques afin d'en réduire l'empreinte environnementale.
+« Ces critères concernent notamment l'affichage et la lecture des contenus multimédias pour permettre de limiter le recours aux stratégies de captation de l'attention des utilisateurs des services numériques. »
+
+II.-Le I entre en vigueur le 1er janvier 2024.
+I.-La section 3 du chapitre IV du titre Ier du livre II du code des postes et des communications électroniques, telle qu'elle résulte de l'article 25 de la présente loi, est complétée par un article L. 38-6 ainsi rédigé :
+
+« Art. L. 38-6.-Le Conseil supérieur de l'audiovisuel, en lien avec l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse et l'Agence de l'environnement et de la maîtrise de l'énergie, publie une recommandation quant à l'information des consommateurs par les services de télévision, les services de médias audiovisuels à la demande et les services de plateforme de partage de vidéos, définis à l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, en matière de consommation d'énergie et d'équivalents d'émissions de gaz à effet de serre de la consommation de données liée à l'utilisation de ces services, en tenant compte notamment des modalités d'accès à ces contenus et de la qualité de leur affichage. »
+
+II.-Le I entre en vigueur le 1er janvier 2023.
+Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur le développement des cryptomonnaies, sur ses enjeux et sur ses impacts environnementaux actuels et à venir.
+Ce rapport, dans le cadre de l'élaboration de la stratégie numérique responsable, s'attache notamment à estimer l'impact environnemental de l'hébergement sur du “hardware” de particuliers par des sociétés spécialisées dans le minage, aux fins de leur permettre de miner rentablement des cryptomonnaies à l'étranger, organisant ainsi une exportation de consommation d'énergie fossile et d'émissions de gaz à effet de serre.
+
+## Chapitre II : Limiter le renouvellement des terminaux
+Après le mot : « vie », la fin de l'article L. 441-2 du code de la consommation est supprimée.
+A l'article L. 441-2 du code de la consommation, après le mot : « techniques », sont insérés les mots : «, y compris logicielles, ».
+Au premier alinéa de l'article L. 441-3 du code de la consommation, après le mot : « appareil », sont insérés les mots : « ou à limiter la restauration de l'ensemble des fonctionnalités d'un tel appareil ».
+Le chapitre unique du titre IV du livre IV du code de la consommation est complété par un article L. 441-6 ainsi rédigé :
+
+« Art. L. 441-6.-Toute technique, y compris logicielle, dont l'objet est de restreindre la liberté du consommateur d'installer les logiciels ou les systèmes d'exploitation de son choix sur son terminal, à l'issue du délai prévu à l'article L. 217-12, est interdite, sauf si elle vise à assurer la conformité de ce terminal aux exigences essentielles mentionnées à l'article L. 34-9 du code des postes et des communications électroniques. »
+L'article L. 217-22 du code de la consommation est ainsi modifié :
+1° Les trois dernières phrases sont supprimées ;
+2° Il est ajouté un alinéa ainsi rédigé :
+« Le vendeur informe le consommateur, de façon lisible et compréhensible, des caractéristiques essentielles de chaque mise à jour des éléments numériques du bien, notamment l'espace de stockage qu'elle requiert, son impact sur les performances du bien et l'évolution des fonctionnalités qu'elle comporte. »
+L'article L. 217-23 du code de la consommation est ainsi modifié :
+1° Au début, est ajoutée la mention : « I.-» ;
+2° Sont ajoutés quatre alinéas ainsi rédigés :
+« Lorsque le contrat prévoit que le contenu numérique ou le service numérique est fourni pendant une durée supérieure à deux ans, le vendeur veille à ce que le consommateur soit informé de telles mises à jour et à ce qu'il les reçoive durant la période pendant laquelle le contenu numérique ou le service numérique est fourni en vertu du contrat.
+« II.-Lorsque le consommateur n'installe pas, dans un délai raisonnable, les mises à jour prévues au I, le vendeur n'est pas responsable des défauts de conformité résultant uniquement de la non-installation des mises à jour concernées, à condition que :
+« 1° Le vendeur ait informé le consommateur de la disponibilité des mises à jour et des conséquences de leur non-installation par le consommateur ;
+« 2° Et que la non-installation ou l'installation incorrecte par le consommateur des mises à jour ne soit pas due à des lacunes dans les instructions d'installation fournies au consommateur. »
+La section 5 du chapitre VII du titre Ier du livre II du code de la consommation est complétée par un article L. 217-33 ainsi rédigé :
+
+« Art. L. 217-33.-S'agissant des mises à jour de logiciel qui ne sont pas nécessaires au maintien de la conformité du bien, le vendeur respecte les conditions suivantes :
+« 1° Le contrat autorise le principe de telles mises à jour et en fournit une raison valable ;
+« 2° Le vendeur informe le consommateur, de manière claire et compréhensible, de chaque mise à jour envisagée, en lui précisant la date à laquelle elle intervient, et ce, raisonnablement en avance et sur un support durable ;
+« 3° Chaque mise à jour est effectuée sans coût supplémentaire pour le consommateur ;
+« 4° Le vendeur informe le consommateur que celui-ci est en droit de refuser chaque mise à jour ou, le cas échéant, de la désinstaller, si la mise à jour a une incidence négative sur son accès au contenu numérique ou au service numérique ou sur l'utilisation de ce contenu ou de ce service.
+« Dans ce dernier cas, la résolution du contrat est de droit et sans frais pour le consommateur, dans un délai de trente jours, à moins que la mise à jour n'ait qu'une incidence mineure pour lui. Le consommateur ne peut toutefois résoudre le contrat si le vendeur lui a proposé de conserver le contenu numérique ou le service numérique sans modification, y compris au moyen d'une désinstallation de la mise à jour, et si ce dernier demeure en conformité dans les conditions prévues à la présente section. »
+L'article L. 541-10-20 du code de l'environnement est complété par un III ainsi rédigé :
+« III.-Les objectifs de recyclage, de réemploi et de réparation fixés par les cahiers des charges des éco-organismes ou des systèmes individuels agréés en application de l'article L. 541-10 sont déclinés de manière spécifique pour certains biens comportant des éléments numériques, au plus tard le 1er janvier 2028. »
+Le II de l'article L. 541-10-20 du code de l'environnement est ainsi rédigé :
+« II.-Lorsque cela est nécessaire pour atteindre les objectifs de collecte qui leur sont fixés en application de la présente section et afin de réduire les stocks d'équipements usagés inutilisés, les producteurs d'équipements électriques et électroniques ou leur éco-organisme mènent, chaque année, des opérations de collecte nationale accompagnées d'une prime au retour pour les particuliers qui rapportent les équipements dont ils souhaitent se défaire, pour les téléphones, les tablettes et les ordinateurs portables. »
+Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les mesures qui pourraient être envisagées afin d'améliorer le recyclage, le réemploi et la réutilisation des équipements numériques et sur la faisabilité de ces mesures.
+L'article 55 de la loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire est complété par deux alinéas ainsi rédigés :
+« A compter du 1er janvier 2023, lors de l'achat public de produits numériques disposant d'un indice de réparabilité, les services de l'Etat ainsi que les collectivités territoriales et leurs groupements prennent en compte l'indice de réparabilité défini à l'article L. 541-9-2 du code de l'environnement.
+« A compter du 1er janvier 2026, lors de l'achat public de produits numériques disposant d'un indice de durabilité, les services de l'Etat ainsi que les collectivités territoriales et leurs groupements prennent en compte l'indice de durabilité défini au même article L. 541-9-2. »
+Les équipements informatiques fonctionnels dont les services de l'Etat ou les collectivités territoriales et leurs groupements se séparent sont orientés vers le réemploi ou la réutilisation, y compris selon les modalités définies à l'article L. 3212-2 du code général de la propriété des personnes publiques, dans des proportions, selon un calendrier et suivant des modalités définis par décret.
+Les équipements informatiques de plus de dix ans ne sont pas concernés par cette obligation. Ils sont orientés vers le recyclage.
+A la première phrase du 3° de l'article L. 3212-2 du code général de la propriété des personnes publiques, après le mot : « publique », sont insérés les mots : «, aux organismes de réutilisation et de réemploi agréés “ entreprise solidaire d'utilité sociale ” ».
+Le code de la consommation est ainsi modifié :
+1° L'article L. 111-4, dans sa rédaction résultant de l'article 19 de la loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire, est ainsi modifié :
+a) A la troisième phrase du premier alinéa, après le mot : « réparateurs », sont insérés les mots : « et les reconditionneurs » ;
+b) Au deuxième alinéa, après le mot : « ouvrables », sont insérés les mots : «, dans des conditions non discriminatoires » et, après le mot : « professionnels », sont insérés les mots : «, aux reconditionneurs » ;
+c) Au troisième alinéa, après le mot : « professionnels », sont insérés les mots : «, aux reconditionneurs » ;
+2° A l'article L. 441-4, après la première occurrence du mot : « réparation », sont insérés les mots : «, du réemploi ou de la réutilisation ».
+L'article L. 311-4 du code de la propriété intellectuelle est complété par deux alinéas ainsi rédigés :
+« Pour les supports d'enregistrement d'occasion et ceux intégrés dans un appareil d'occasion au sens de l'article L. 321-1 du code de commerce qui font l'objet d'une mise en circulation après avoir subi des tests portant sur leurs fonctionnalités et établissant qu'ils répondent aux obligations légales de sécurité et à l'usage auquel le consommateur peut légitimement s'attendre et, le cas échéant, après avoir été l'objet d'une ou de plusieurs interventions afin de leur restituer leurs fonctionnalités initiales, notamment leurs capacités d'enregistrement, la rémunération due doit être spécifique et différenciée de celle établie pour les supports d'enregistrements neufs de même nature. La rémunération n'est pas due pour les supports d'enregistrement d'occasion ou intégrés dans un appareil d'occasion dont le reconditionnement a été effectué par une personne morale de droit privé remplissant les conditions prévues à l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire. Pour établir le montant de la rémunération, la commission définie à l'article L. 311-5 du présent code tient compte des différences de capacité d'enregistrement des supports, des usages ainsi que de la durée d'utilisation des appareils.
+« Le montant de la rémunération fixée pour les supports mentionnés à l'avant-dernier alinéa du présent article ne peut être modifié avant le 31 décembre 2022. »
+Le Gouvernement remet au Parlement, au plus tard le 31 décembre 2021, un rapport portant sur la rémunération pour copie privée définie au titre Ier du livre III du code de la propriété intellectuelle. Ce rapport détaille notamment l'évolution progressive de son assiette et de son barème depuis sa création. Il analyse sa dynamique, l'attribution effective de sa recette et les modalités de publication en libre accès de l'ensemble des données afférentes à cette dernière. Il formule des propositions visant à améliorer la transparence et l'efficacité du fonctionnement de la commission prévue à l'article L. 311-5 du même code et des pratiques de remboursement de ladite rémunération à destination des professionnels.
+Le Gouvernement remet également au Parlement, au plus tard le 31 décembre 2022, une étude des impacts économiques de la rémunération pour copie privée, en particulier sur les supports d'enregistrement d'occasion au sens de l'article L. 321-1 du code de commerce. Cette étude formule des scénarii d'évolution possible de cette rémunération.
+Le code de la consommation est ainsi modifié :
+1° La section 3 du chapitre II du titre II du livre Ier est complétée par une sous-section 8 ainsi rédigée :
+
+« Sous-section 8
+« Information sur l'existence d'offres reconditionnées
+
+« Art. L. 122-25.-Tout professionnel qui propose à la vente ou à la location des équipements terminaux mobiles neufs informe le consommateur de l'existence d'offres d'équipements terminaux mobiles reconditionnés. » ;
+
+2° La sous-section 2 de la section 3 du chapitre IV du titre II du livre II est complétée par un article L. 224-27-3 ainsi rédigé :
+
+« Art. L. 224-27-3.-Préalablement à la conclusion d'un contrat, les fournisseurs de services d'accès à l'internet et de communications électroniques interpersonnelles accessibles au public communiquent, dans le cadre des informations sur les prix, pour une offre groupée de services ou une offre groupée de services et d'équipements terminaux, le prix des différents éléments de l'offre groupée dans la mesure où ils sont également commercialisés séparément. » ;
+
+3° Au 2° de l'article L. 511-5, la référence : « et 3 » est remplacée par les références : «, 3 et 7 ».
+Après l'article L. 541-9-3 du code de l'environnement, dans sa rédaction résultant de la loi n° 2020-105 du 10 février 2020 précitée, il est inséré un article L. 541-9-3-1 ainsi rédigé :
+
+« Art. L. 541-9-3-1.-Les distributeurs d'équipements informatiques communiquent sans frais aux consommateurs de leurs produits, au cours de leur utilisation, des alertes et conseils d'usage ou d'opérations d'entretien, de maintenance ou de nettoyage informatique afin d'optimiser leur performance, notamment la gestion de la mémoire et du stockage, dans le but d'allonger leur durée de vie. »
+Le dernier alinéa du I de l'article L. 34-9 du code des postes et des communications électroniques est ainsi rédigé :
+« Les fabricants ou les importateurs de terminaux radioélectriques destinés à être connectés à un réseau ouvert au public pour la fourniture du service de téléphonie assurent la disponibilité d'écouteurs compatibles avec le modèle de terminal pendant sa période de commercialisation. »
+
+## Chapitre V : Promouvoir une stratégie numérique responsable dans les territoires
+I.-Le 2° du II de l'article L. 229-26 du code de l'environnement est ainsi modifié :
+1° Après le mot : « récupération », sont insérés les mots : «, y compris le potentiel de récupération de chaleur à partir des centres de données » ;
+2° Après le mot : « positive », sont insérés les mots : «, de réduire l'empreinte environnementale du numérique ».
+II.-Le I s'applique aux plans climat-air-énergie territoriaux dont l'élaboration ou la révision est décidée après la publication de la présente loi.
+I.-Les communes de plus de 50 000 habitants définissent, au plus tard le 1er janvier 2025, une stratégie numérique responsable qui indique notamment les objectifs de réduction de l'empreinte environnementale du numérique et les mesures mises en place pour les atteindre.
+Elles élaborent, au plus tard le 1er janvier 2023, un programme de travail préalable à l'élaboration de la stratégie mentionnée au premier alinéa du présent I, qui comporte notamment un état des lieux recensant les acteurs concernés et rappelant, le cas échéant, les mesures menées pour réduire l'empreinte environnementale du numérique.
+La stratégie numérique responsable fait l'objet d'un bilan annuel dans le cadre du rapport sur la situation en matière de développement durable prévu à l'article L. 2311-1-1 du code général des collectivités territoriales.
+Le contenu de cette stratégie et les modalités de son élaboration sont précisés par décret.
+Le présent I est applicable aux établissements publics de coopération intercommunale à fiscalité propre regroupant plus de 50 000 habitants.
+II.-A la seconde phrase du premier alinéa de l'article L. 2311-1-1 du code général des collectivités territoriales, après le mot : « rapport », sont insérés les mots : «, qui comprend notamment le bilan annuel de la stratégie numérique responsable mentionnée au I de l'article 35 de la loi n° 2021-1485 du 15 novembre 2021 visant à réduire l'empreinte environnementale du numérique en France, ».
+III.-Le I entre en vigueur le 1er janvier 2025.
+Le Gouvernement remet au Parlement, dans un délai de six mois à compter de la promulgation de la présente loi, un rapport sur l'impact environnemental de la pratique du jeu à la demande. Le rapport s'attache à faire un bilan coûts-avantages de la pratique afin d'en mesurer au moins les effets nuisibles et bénéfiques.
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Chapitre IV : Promouvoir des centres de données et des réseaux moins énergivores
+Le I de l'article 167 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021 est ainsi modifié :
+1° A la première phrase du premier alinéa, le mot : « sept » est remplacé par le mot : « neuf » ;
+2° Sont ajoutés des 3° et 4° ainsi rédigés :
+« 3° Le centre de stockage de données numériques valorise la chaleur fatale, notamment à travers un réseau de chaleur ou de froid, ou respecte un indicateur chiffré déterminé par décret sur un horizon pluriannuel en matière d'efficacité dans l'utilisation de la puissance ;
+« 4° Le centre de stockage de données numériques respecte un indicateur chiffré déterminé par décret sur un horizon pluriannuel en matière de limitation d'utilisation de l'eau à des fins de refroidissement. »
+La section 1 du chapitre II du titre Ier du livre II du code des postes et des communications électroniques est complétée par un article L. 33-16 ainsi rédigé :
+
+« Art. L. 33-16.-Les opérateurs de communications électroniques publient des indicateurs clefs sur leurs politiques de réduction de leur empreinte environnementale, notamment en matière de réduction des émissions de gaz à effet de serre, de renouvellement et de collecte des terminaux mobiles portables, d'écoconception des produits et des services numériques qu'ils proposent, de recyclage et de réemploi des boîtiers de connexion internet et des décodeurs ainsi que de sensibilisation aux usages responsables du numérique.
+« Un décret précise le contenu et les modalités d'application de l'obligation prévue au premier alinéa ainsi que le seuil de chiffre d'affaires annuel réalisé en France en deçà duquel les opérateurs de communications électroniques n'y sont pas assujettis. Les indicateurs mentionnés au même premier alinéa doivent notamment s'inscrire en cohérence avec les objectifs fixés par la stratégie nationale de développement à faible intensité de carbone mentionnée à l'article L. 222-1 B du code de l'environnement. »
+Le D du II de l'article L. 34-9-1 du code des postes et des communications électroniques est complété par une phrase ainsi rédigée : « Dans les zones rurales et à faible densité d'habitation et de population définies par un décret pris après avis de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, il comprend également, pour information et à la demande du maire, la justification du choix de ne pas recourir à une solution de partage de site ou de pylône. »
+Après le 5° de l'article L. 135 du code des postes et des communications électroniques, il est inséré un 5° bis ainsi rédigé :
+« 5° bis Fait état du niveau de partage actif et passif des infrastructures de téléphonie mobile sur le territoire national ; ».
+I.-Après le mot : « discriminatoires », la fin de la première phrase du premier alinéa du I de l'article L. 42-1 du code des postes et des communications électroniques est ainsi rédigée : « en tenant compte des objectifs mentionnés à l'article L. 32-1, notamment des besoins d'aménagement du territoire et de l'objectif de protection de l'environnement. »
+II.-Le I du présent article entre en vigueur le 1er janvier 2023.
+I.-Après l'article L. 34-9-1 du code des postes et des communications électroniques, il est inséré un article L. 34-9-1-1 ainsi rédigé :
+
+« Art. L. 34-9-1-1.-Tout acquéreur ou preneur d'un contrat de bail ou de réservation d'un terrain qui, sans être soumis lui-même à l'article L. 33-1, destine ce terrain à l'édification de poteaux, de pylônes ou de toute autre construction supportant des antennes d'émission ou de réception de signaux radioélectriques aux fins de fournir au public un service de communications électroniques en informe par écrit le maire de la commune où se situe ce terrain ou le président de l'établissement public de coopération intercommunale. Il joint à cette information un document attestant d'un mandat de l'opérateur de téléphonie mobile ayant vocation à exploiter ces installations. »
+
+II.-La section 4 du chapitre V du titre II du livre IV du code de l'urbanisme est complétée par un article L. 425-17 ainsi rédigé :
+
+« Art. L. 425-17.-Les travaux destinés à l'aménagement de terrains, à l'édification de poteaux, de pylônes ou de toute autre construction supportant des antennes d'émission ou de réception de signaux radioélectriques aux fins de fournir au public un service de communications électroniques ne peuvent être réalisés avant, s'il y a lieu, l'information mentionnée à l'article L. 34-9-1-1 du code des postes et des communications électroniques. »

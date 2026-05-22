@@ -1,0 +1,709 @@
+LOI | NOR: INTX2028939L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Vu la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés (1)
+
+## Titre III : VIDÉOPROTECTION ET CAPTATION D'IMAGES
+Le titre V du livre II du code de la sécurité intérieure est ainsi modifié :
+1° Le second alinéa de l'article L. 252-2 est ainsi modifié :
+a) Les mots : « de l'autorité publique » sont supprimés ;
+b) A la fin, le mot : « nationale » est remplacé par les mots : « nationales et des services de police municipale ainsi que par les agents individuellement désignés et dûment habilités mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1 » ;
+2° L'article L. 252-3 est ainsi modifié :
+a) A la première phrase, les mots : « ainsi que des douanes et des services d'incendie et de secours » sont remplacés par les mots : «, des douanes, des services d'incendie et de secours, des services de police municipale ainsi que les agents individuellement désignés et dûment habilités mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1 » ;
+b) À la troisième phrase, les mots : « ainsi que des douanes et des services d'incendie et de secours » sont remplacés par les mots : «, des douanes, des services d'incendie et de secours, des services de police municipale ainsi qu'aux agents individuellement désignés et dûment habilités mentionnés aux articles L. 531-1, L. 532-1 et L. 533-1 » ;
+3° L'article L. 255-1 est ainsi modifié :
+a) A la première phrase, après la première occurrence du mot : « vidéoprotection », sont insérés les mots : « et de la Commission nationale de l'informatique et des libertés » ;
+b) A la seconde phrase, après le mot : « mentionnés », sont insérés les mots : « au second alinéa de l'article L. 252-2 et » et, après le mot : « enregistrements », la fin est ainsi rédigée : « pour les seuls besoins de leur mission, ainsi que les exigences de formation et de mise à jour régulière des connaissances en matière de protection des données à caractère personnel auxquelles ils doivent satisfaire pour être habilités. » ;
+c) Est ajoutée une phrase ainsi rédigée : « Ce même décret précise les mesures techniques mises en œuvre pour garantir la sécurité des enregistrements et assurer la traçabilité des accès aux images. »
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+La section 4 du chapitre II du titre III du livre Ier du code de la sécurité intérieure est ainsi modifiée :
+1° L'article L. 132-14 est ainsi rédigé :
+
+« Art. L. 132-14.-I.-Lorsqu'un établissement public de coopération intercommunale exerce la compétence relative aux dispositifs locaux de prévention de la délinquance, il peut décider, sous réserve de l'accord de la commune d'implantation, autorité publique compétente au sens de l'article L. 251-2, d'acquérir, d'installer et d'entretenir des dispositifs de vidéoprotection.
+« Il peut mettre à disposition des communes concernées du personnel pour visionner les images, dans les conditions prévues à l'article L. 512-2 s'agissant des agents de police municipale, et dans les conditions prévues à l'article L. 132-14-1 s'agissant des autres agents.
+« II.-Lorsqu'un syndicat mixte défini à l'article L. 5711-1 du code général des collectivités territoriales est composé exclusivement de communes et d'établissements publics de coopération intercommunale qui exercent la compétence relative aux dispositifs locaux de prévention de la délinquance, il peut décider, sous réserve de leur accord et de celui de la commune d'implantation, autorité publique compétente au sens de l'article L. 251-2 du présent code, d'acquérir, d'installer et d'entretenir des dispositifs de vidéoprotection.
+« Il peut mettre à disposition des communes ou des établissements publics de coopération intercommunale concernés du personnel pour visionner les images, dans les conditions prévues à l'article L. 132-14-1.
+« III.-Lorsqu'un syndicat mixte défini à l'article L. 5721-8 du code général des collectivités territoriales est composé exclusivement de communes et d'établissements publics de coopération intercommunale qui exercent la compétence relative aux dispositifs locaux de prévention de la délinquance et d'un ou deux départements limitrophes, il peut décider, sous réserve de leur accord et de celui de la commune d'implantation, autorité publique compétente au sens de l'article L. 251-2 du présent code, d'acquérir, d'installer et d'entretenir des dispositifs de vidéoprotection.
+« Il peut mettre à disposition des communes ou des établissements publics de coopération intercommunale et du ou des départements concernés du personnel pour visionner les images, dans les conditions prévues à l'article L. 132-14-1.
+« Dans ce cas, par dérogation à l'article L. 5721-2 du code général des collectivités territoriales, il est présidé par le maire d'une des communes ou par le président d'un des établissements publics de coopération intercommunale membres.
+« IV.-Dans les cas prévus aux I à III du présent article, une convention conclue entre l'établissement public de coopération intercommunale ou le syndicat mixte et chacun de ses membres concernés fixe les modalités d'acquisition, d'installation, d'entretien et de mise à disposition des dispositifs de vidéoprotection et les modalités de mise à disposition du personnel chargé du visionnage.
+« V.-Dans les cas prévus aux I à III, une convention est conclue entre l'établissement public de coopération intercommunale ou le syndicat mixte et l'Etat pour définir les modalités d'intervention des forces de sécurité de l'Etat. » ;
+
+2° Il est ajouté un article L. 132-14-1 ainsi rédigé :
+
+« Art. L. 132-14-1.-Sans préjudice de la compétence des agents de police municipale, les agents des communes et les agents des établissements publics de coopération intercommunale et des syndicats mixtes mentionnés aux I à III de l'article L. 132-14 peuvent être chargés du visionnage des images prises sur la voie publique au moyen d'un dispositif de vidéoprotection dont la mise en œuvre est prévue à l'article L. 251-2, dès lors que ce visionnage ne nécessite pas de leur part d'actes de police judiciaire.
+« Ils sont agréés par le représentant de l'Etat dans les départements concernés. L'agrément peut être retiré ou suspendu par le représentant de l'Etat après consultation du maire, du président de l'établissement public de coopération intercommunale ou du président du syndicat mixte. Toutefois, en cas d'urgence, l'agrément peut être suspendu sans qu'il soit procédé à cette consultation.
+« Pendant le visionnage des images prises sur le territoire d'une commune, ces agents sont placés sous l'autorité exclusive du maire de cette commune. Pendant le visionnage des images prises sur le domaine public départemental, les agents des syndicats mixtes mentionnés au III de l'article L. 132-14 sont placés sous l'autorité exclusive du président du conseil départemental. »
+L'article L. 126-1-1 du code de la construction et de l'habitation est ainsi modifié :
+1° A la première phrase du premier alinéa, les mots : « lors de circonstances faisant redouter la commission imminente d'une atteinte grave aux biens ou aux personnes » sont remplacés par les mots : « en cas d'occupation empêchant l'accès ou la libre circulation des personnes ou le bon fonctionnement des dispositifs de sécurité et de sûreté » ;
+2° Au deuxième alinéa, les mots : « et est » sont remplacés par les mots : «, dès que les circonstances l'exigent et pour une durée » ;
+3° Après le même deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« En cas d'urgence, la transmission des images peut être décidée par les services de la police ou de la gendarmerie nationales ou, le cas échéant, par les agents de la police municipale, à la suite d'une alerte déclenchée par le gestionnaire de l'immeuble. »
+Après l'article L. 2251-4-1 du code des transports, il est inséré un article L. 2251-4-2 ainsi rédigé :
+
+« Art. L. 2251-4-2.-I.-Dans le cadre de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens, les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens mentionnés à l'article L. 2251-1 peuvent, lorsqu'ils sont affectés au sein de salles d'information et de commandement relevant de l'Etat et sous l'autorité et en présence des agents de la police nationale ou des militaires de la gendarmerie nationale, visionner les images des systèmes de vidéoprotection transmises en temps réel dans ces salles depuis les véhicules et emprises immobilières des transports publics de voyageurs relevant respectivement de leur compétence, aux seules fins de faciliter la coordination avec ces derniers lors des interventions de leurs services au sein desdits véhicules et emprises.
+« II.-Afin de visionner les images dans les conditions prévues au I, les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens doivent être individuellement désignés et dûment habilités par le représentant de l'Etat dans le département.
+« III.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat. Ce dernier précise les conditions d'exercice des agents affectés au sein de la salle de commandement, ainsi que les exigences de formation et de mise à jour régulière des connaissances en matière de protection des données à caractère personnel auxquelles ils doivent satisfaire pour être habilités. Il précise également les mesures techniques mises en œuvre pour garantir la sécurité des enregistrements et assurer la traçabilité des accès. »
+Le titre IV du livre II du code de la sécurité intérieure est ainsi modifié :
+1° Le chapitre unique devient le chapitre Ier et son intitulé est ainsi rédigé : « Caméras individuelles » ;
+2° Le quatrième alinéa de l'article L. 241-1 est remplacé par trois alinéas ainsi rédigés :
+« Les caméras sont fournies par le service et portées de façon apparente par les agents et les militaires. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de l'intérieur.
+« Lorsque la sécurité des agents de la police nationale ou des militaires de la gendarmerie nationale ou la sécurité des biens et des personnes est menacée, les images captées et enregistrées au moyen de caméras individuelles peuvent être transmises en temps réel au poste de commandement du service concerné et aux personnels impliqués dans la conduite et l'exécution de l'intervention.
+« Lorsque cette consultation est nécessaire pour faciliter la recherche d'auteurs d'infractions, la prévention d'atteintes imminentes à l'ordre public, le secours aux personnes ou l'établissement fidèle des faits lors des comptes rendus d'interventions, les personnels auxquels les caméras individuelles sont fournies peuvent avoir accès directement aux enregistrements auxquels ils procèdent dans le cadre d'une procédure judiciaire ou d'une intervention. Les caméras sont équipées de dispositifs techniques permettant de garantir l'intégrité des enregistrements et la traçabilité des consultations lorsqu'il y est procédé dans le cadre de l'intervention. » ;
+3° L'article L. 241-2 est ainsi modifié :
+a) Le quatrième alinéa est remplacé par trois alinéas ainsi rédigés :
+« Les caméras sont fournies par le service et portées de façon apparente par les agents. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le maire de chaque commune sur le territoire de laquelle ces agents sont affectés.
+« Lorsque la sécurité des agents ou la sécurité des biens et des personnes est menacée, les images captées et enregistrées au moyen de caméras individuelles peuvent être transmises en temps réel au poste de commandement du service concerné et aux personnels impliqués dans la conduite et l'exécution de l'intervention.
+« Lorsque cette consultation est nécessaire pour faciliter la recherche d'auteurs d'infractions, la prévention d'atteintes imminentes à l'ordre public, le secours aux personnes ou l'établissement fidèle des faits lors des comptes rendus d'interventions, les personnels auxquels les caméras individuelles sont fournies peuvent avoir accès directement aux enregistrements auxquels ils procèdent dans le cadre d'une procédure judiciaire ou d'une intervention. Les caméras sont équipées de dispositifs techniques permettant de garantir l'intégrité des enregistrements et la traçabilité des consultations lorsqu'il y est procédé dans le cadre de l'intervention. » ;
+b) Au dernier alinéa, après le mot : « article », sont insérés les mots : «, notamment les informations transmises au ministère de l'intérieur par les communes mettant en œuvre des caméras individuelles, ».
+I. - A titre expérimental, dans l'exercice de leurs missions de police des campagnes, les gardes champêtres peuvent être autorisés par le représentant de l'Etat dans le département à procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+L'enregistrement n'est pas permanent.
+Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des gardes champêtres, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves ainsi que la formation et la pédagogie des agents.
+Les caméras sont fournies par le service et portées de façon apparente par les agents. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de l'intérieur. Les personnels auxquels les caméras individuelles sont fournies ne peuvent avoir accès directement aux enregistrements auxquels ils procèdent.
+Hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, les enregistrements comportant des données à caractère personnel sont effacés au bout de six mois.
+L'autorisation mentionnée au premier alinéa du présent I est subordonnée à la demande préalable du maire.
+Lorsque l'agent est employé dans les conditions prévues à l'article L. 522-2 du code de la sécurité intérieure, cette demande est établie conjointement par l'ensemble des maires des communes où il est affecté.
+Les modalités d'application du présent I et d'utilisation des données collectées sont précisées par décret en Conseil d'Etat, pris après avis publié et motivé de la Commission nationale de l'informatique et des libertés.
+II. - L'expérimentation prévue au I s'applique pour une durée de trois ans à compter de l'entrée en vigueur du décret mentionné au dernier alinéa du même I, et au plus tard six mois après la publication de la présente loi.
+L'expérimentation est éligible au fonds interministériel pour la prévention de la délinquance défini à l'article 5 de la loi n° 2007-297 du 5 mars 2007 relative à la prévention de la délinquance.
+Au plus tard six mois avant le terme de l'expérimentation, le Gouvernement remet au Parlement un rapport d'évaluation de sa mise en œuvre. Les observations des collectivités territoriales et établissements publics participant à l'expérimentation sont annexées au rapport.
+I.-Le titre IV du livre II du code de la sécurité intérieure est complété par un chapitre II ainsi rédigé :
+
+« Chapitre II
+« Caméras installées sur des aéronefs circulant sans personne à bord
+
+« Art. L. 242-1.-Les dispositions du présent chapitre déterminent les conditions dans lesquelles les services mentionnés à l'article L. 242-6 peuvent procéder au traitement d'images au moyen de caméras installées sur des aéronefs circulant sans personne à bord et opérés par un télépilote ou sur des aéronefs captifs.
+« Sont prohibés la captation du son depuis ces aéronefs, l'analyse des images issues de leurs caméras au moyen de dispositifs automatisés de reconnaissance faciale, ainsi que les interconnexions, rapprochements ou mises en relation automatisés des données à caractère personnel issues de ces traitements avec d'autres traitements de données à caractère personnel.
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+
+« Art. L. 242-3.-Le public est informé par tout moyen approprié de la mise en œuvre de dispositifs aéroportés de captation d'images et de l'autorité responsable, sauf lorsque les circonstances l'interdisent ou que cette information entrerait en contradiction avec les objectifs poursuivis. Une information générale du public sur l'emploi de dispositifs aéroportés de captation d'images est organisée par le ministre de l'intérieur.
+
+« Art. L. 242-4.-La mise en œuvre des traitements prévus à L. 242-6 doit être justifiée au regard des circonstances de chaque intervention, pour une durée adaptée auxdites circonstances et qui ne peut être permanente. Elle ne peut donner lieu à la collecte et au traitement que des seules données à caractère personnel strictement nécessaires à l'exercice des missions concernées et s'effectue dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+« L'autorité responsable tient un registre des traitements mis en œuvre précisant la finalité poursuivie, la durée des enregistrements réalisés ainsi que les personnes ayant accès aux images, y compris, le cas échéant, au moyen d'un dispositif de renvoi en temps réel.
+« Les enregistrements peuvent être utilisés à des fins de pédagogie et de formation des agents.
+« Hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, les enregistrements comportant des données à caractère personnel sont effacés au bout de trente jours.
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+
+« Art. L. 242-6.-Dans l'exercice de leurs missions de prévention, de protection et de lutte contre les risques de sécurité civile, de protection des personnes et des biens et de secours d'urgence, les sapeurs-pompiers professionnels et volontaires des services d'incendie et de secours, les personnels des services de l'Etat et les militaires des unités investis à titre permanent de missions de sécurité civile ou les membres des associations agréées de sécurité civile au sens de l'article L. 725-1 peuvent procéder en tous lieux, au moyen de caméras installées sur des aéronefs circulant sans personne à bord et opérés par un télépilote, à la captation, à l'enregistrement et à la transmission d'images aux fins d'assurer :
+« 1° La prévention des risques naturels ou technologiques ;
+« 2° Le secours aux personnes et la lutte contre l'incendie.
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+
+« Art. L. 242-8.-Les modalités d'application du présent chapitre et d'utilisation des données collectées sont précisées par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. »
+
+II.-Le code de la défense est ainsi modifié :
+1° Après la section 1 du chapitre II du titre III du livre III de la première partie, est insérée une section 1 bis ainsi rédigée :
+
+« Section 1 bis
+« Dispositifs techniques concourant à la protection des installations d'importance vitale
+
+« Art. L. 1332-6-1.-A.-A des fins de protection des établissements, installations et ouvrages d'importance vitale mentionnés aux articles L. 1332-1 et L. 1332-2, les services de l'Etat concourant à la défense nationale, à la sûreté de l'Etat et à la sécurité intérieure peuvent procéder, au moyen de caméras installées sur des aéronefs, à la captation, à l'enregistrement et à la transmission d'images dans les conditions définies aux articles L. 2364-2 à L. 2364-4. » ;
+
+2° Le titre VI du livre III de la deuxième partie est complété par un chapitre IV ainsi rédigé :
+
+« Chapitre IV
+« Dispositifs techniques concourant à la protection des installations militaires
+
+« Art. L. 2364-1.-A des fins de protection des installations militaires, les services de l'Etat concourant à la défense nationale, à la sûreté de l'Etat et à la sécurité intérieure peuvent procéder, au moyen de caméras installées sur des aéronefs, à la captation, à l'enregistrement et à la transmission d'images.
+
+« Art. L. 2364-2.-La mise en œuvre des traitements prévus aux articles L. 1332-6-1 A et L. 2364-1 doit être justifiée au regard des circonstances de chaque intervention, pour une durée adaptée auxdites circonstances. Elle ne peut donner lieu à la collecte et au traitement que des seules données à caractère personnel strictement nécessaires à l'exercice des missions concernées et s'effectue dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+« L'autorité responsable tient un registre des traitements mis en œuvre précisant la finalité poursuivie, la durée des enregistrements réalisés ainsi que les personnes ayant accès aux images, y compris, le cas échéant, au moyen d'un dispositif de renvoi en temps réel.
+« Les opérations de captation d'images sont réalisées de telle sorte qu'elles ne visualisent pas les images de l'intérieur des domiciles ni, de façon spécifique, celles de leurs entrées.
+
+« Art. L. 2364-3.-Hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, les enregistrements comportant des données à caractère personnel sont effacés au bout de trente jours.
+
+« Art. L. 2364-4.-Le public est informé par l'autorité responsable, par tout moyen approprié, de la mise en œuvre de dispositifs de captation d'images au titre du présent chapitre, sauf lorsque les circonstances l'interdisent ou que cette information entrerait en contradiction avec les objectifs poursuivis. Une information générale du public sur l'emploi de dispositifs aéroportés de captation d'images est organisée par le ministre de la défense. »
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+Le code de la défense est ainsi modifié :
+1° Après l'article L. 1521-2, il est inséré un article L. 1521-2-1 ainsi rédigé :
+
+« Art. L. 1521-2-1.-Pour l'exécution de la mission définie à l'article L. 1521-2, les commandants des bâtiments de l'Etat ou les commandants de bord des aéronefs de l'Etat peuvent procéder, au moyen de caméras équipant leur bâtiment ou leur aéronef, à la captation, à l'enregistrement et à la transmission d'images pour faciliter et sécuriser la conduite des opérations.
+« Aux mêmes fins, il peut également être procédé à la captation, à l'enregistrement et à la transmission d'images au moyen de caméras installées sur des aéronefs circulant sans personne à bord et opérés par un télépilote ou installées sur des navires ou engins flottants de surface maritimes ou sous-marins, autonomes ou commandés à distance, sans personne embarquée.
+« La mise en œuvre du traitement prévu au présent article doit être justifiée au regard des circonstances de chaque intervention, pour une durée adaptée auxdites circonstances et qui ne peut être permanente. Elle ne peut donner lieu à la collecte et au traitement que des seules données à caractère personnel strictement nécessaires à l'exercice des missions concernées et s'effectue dans le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+« L'autorité responsable tient un registre des traitements mis en œuvre précisant la finalité poursuivie, la durée des enregistrements réalisés ainsi que les personnes ayant accès aux images, y compris, le cas échéant, au moyen d'un dispositif de renvoi en temps réel.
+« Les opérations de captation d'images sont réalisées de telle sorte qu'elles ne visualisent pas les images de locaux affectés à un usage privé ou d'habitation.
+« Hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, les enregistrements comportant des données à caractère personnel sont effacés au bout de trente jours.
+« Le public est informé par tout moyen approprié de la mise en œuvre de l'équipement des bâtiments ou des aéronefs par une caméra, sauf lorsque les circonstances l'interdisent ou que cette information entrerait en contradiction avec les objectifs poursuivis. Une information générale du public sur l'emploi de dispositifs aéroportés de captation d'images est organisée par le ministre de la défense. » ;
+
+2° L'article L. 1521-4 est complété par quatre alinéas ainsi rédigés :
+« Dans le cadre de la visite, cette équipe peut procéder à l'enregistrement audiovisuel de son intervention, au moyen de caméras individuelles aux seules fins de faciliter et de sécuriser la conduite des opérations.
+« La durée d'enregistrement est adaptée aux circonstances de chaque intervention et ne peut être permanente.
+« Hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, les enregistrements comportant des données à caractère personnel sont effacés au bout de trente jours.
+« Les caméras sont fournies par le service et portées de façon apparente. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de la défense. »
+
+## Titre II : DISPOSITIONS RELATIVES AU SECTEUR DE LA SÉCURITÉ PRIVÉE
+
+### Chapitre Ier : Dispositions relatives à l'encadrement du secteur de la sécurité privée
+I.-Le titre Ier du livre VI du code de la sécurité intérieure est ainsi modifié :
+1° La section 1 du chapitre II est complétée par un article L. 612-5-1 ainsi rédigé :
+
+« Art. L. 612-5-1.-Par dérogation à l'article 1er de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance, l'entreprise qui entend exécuter un contrat ou un marché relevant de l'une des activités de surveillance humaine ou de gardiennage de biens meubles ou immeubles mentionnées aux 1° et 1° bis de l'article L. 611-1 du présent code ne peut, sous sa responsabilité, sous-traiter l'exécution que d'une partie des prestations de son contrat ou marché.
+« L'exécution de ces prestations ne peut être confiée qu'à des sous-traitants de premier et de deuxième rangs.
+« Sans préjudice de la loi n° 75-1334 du 31 décembre 1975 précitée, l'entreprise qui s'est vue confier une opération de sous-traitance par un sous-traité relevant de l'une des activités mentionnées à l'article L. 611-1 du présent code ne peut elle-même en confier une partie de l'exécution à un ou plusieurs sous-traitants qu'à la double condition :
+« 1° De justifier de l'absence d'un savoir-faire particulier, du manque de moyens ou de capacités techniques ou d'une insuffisance ponctuelle d'effectifs ;
+« 2° De soumettre la justification mentionnée au 1° du présent article à la validation de l'entrepreneur principal ayant contracté avec le donneur d'ordre. L'entrepreneur principal vérifie qu'elle n'est pas manifestement infondée.
+« Préalablement à l'acceptation du sous-traitant dans les conditions prévues à l'article 3 de la loi n° 75-1334 du 31 décembre 1975 précitée, le donneur d'ordre s'assure que les motifs de recours à la sous-traitance ont été validés par l'entrepreneur principal ayant contracté avec lui, conformément au 2° du présent article.
+« Chaque sous-traité comporte la mention de l'identité de l'ensemble des entreprises s'étant vues confier ou sous-traiter la prestation de sécurité sur lequel il porte. » ;
+
+2° La sous-section 1 de la section 1 du chapitre VII est complétée par un article L. 617-2-1 ainsi rédigé :
+
+« Art. L. 617-2-1.-Est puni d'une amende de 45 000 euros le non-respect des obligations prévues à l'article L. 612-5-1. »
+
+II.-Les dispositions du I du présent article entrent en vigueur douze mois après la publication de la présente loi. Les contrats conclus avant cette entrée en vigueur ne sont pas soumis à ces dispositions.
+I.-Le titre III du livre VI du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase de l'article L. 632-3, les mots : « des salariés soumis aux dispositions du code du travail, » sont supprimés ;
+2° La section 1 du chapitre IV est complétée par des articles L. 634-3-2 et L. 634-3-3 ainsi rédigés :
+
+« Art. L. 634-3-2.-Les agents du Conseil national des activités privées de sécurité qui sont commissionnés par son directeur et assermentés sont habilités à rechercher et à constater par procès-verbal, à l'occasion des contrôles qu'ils réalisent, les infractions prévues au présent livre.
+« Les procès-verbaux qu'ils établissent, qui peuvent comporter les déclarations spontanées des personnes présentes lors du contrôle, sont transmis au procureur de la République territorialement compétent.
+« Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+« Art. L. 634-3-3.-Pour l'établissement des procès-verbaux mentionnés à l'article L. 634-3-2, les agents du Conseil national des activités privées de sécurité mentionnés au même article L. 634-3-2 sont habilités à recueillir ou à relever l'identité et l'adresse de l'auteur présumé de l'infraction.
+« Si ce dernier refuse ou se trouve dans l'impossibilité de justifier de son identité, l'agent qui dresse le procès-verbal en rend compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée ou de la retenir pendant le temps nécessaire à son arrivée ou à celle d'un agent de police judiciaire agissant sous son contrôle. A défaut d'un tel ordre, l'agent du Conseil national des activités privées de sécurité ne peut retenir la personne concernée.
+« Pendant le temps nécessaire à l'information et à la décision de l'officier de police judiciaire, la personne concernée est tenue de demeurer à la disposition de l'agent du Conseil national des activités privées de sécurité. La violation de cette obligation est punie de deux mois d'emprisonnement et de 7 500 € d'amende. Le refus d'obtempérer à l'ordre de suivre l'agent pour se voir présenter à l'officier de police judiciaire est puni de la même peine. »
+
+II.-Le chapitre Ier du titre VII du livre II de la huitième partie du code du travail est ainsi modifié :
+1° L'article L. 8271-1-2 est complété par un 9° ainsi rédigé :
+« 9° Les agents du Conseil national des activités privées de sécurité commissionnés par son directeur et assermentés. » ;
+2° Au premier alinéa de l'article L. 8271-17, après le mot : « douanes », sont insérés les mots : « et les agents du Conseil national des activités privées de sécurité commissionnés par son directeur et assermentés ».
+Le second alinéa de l'article L. 634-4 du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase, le mot : « cinq » est remplacé par le mot : « sept » ;
+2° A la deuxième phrase, les mots : « non salariées » sont supprimés ;
+3° La troisième phrase est complétée par les mots : « pour les personnes morales et les personnes physiques non salariées et 7 500 € pour les personnes physiques salariées ».
+Le titre III du livre VI du code de la sécurité intérieure est ainsi modifié :
+1° A la fin du 3° de l'article L. 633-1, la référence : « à l'article L. 634-4 » est remplacée par les références : « aux articles L. 634-4 et L. 634-4-1 » ;
+2° La section 2 du chapitre IV est complétée par un article L. 634-4-1 ainsi rédigé :
+
+« Art. L. 634-4-1.-Sur décision de la commission d'agrément et de contrôle territorialement compétente, la sanction consistant en une sanction pécuniaire prononcée à l'encontre des personnes physiques ou morales exerçant les activités définies aux titres Ier, II et II bis du présent livre peut également, compte tenu de la gravité des faits reprochés, être publiée en tout ou partie sur le site internet du Conseil national des activités privées de sécurité, sans que la durée de cette publication puisse excéder cinq ans.
+« Sauf si la commission d'agrément et de contrôle territorialement compétente en décide autrement, la sanction consistant en une interdiction temporaire d'exercer est publiée sur le site internet du Conseil national des activités privées de sécurité. La commission peut décider de ne publier qu'une partie de la décision. Elle décide de la durée de publication, qui ne peut excéder celle de l'interdiction temporaire d'exercer.
+« Les sanctions mentionnées aux deux premiers alinéas sont publiées après avoir fait l'objet d'un traitement permettant de rendre impossible l'identification des tiers.
+« La décision de la commission d'agrément et de contrôle peut également prévoir, dans les mêmes conditions, la publication de la sanction mentionnée aux mêmes deux premiers alinéas aux frais de la personne sanctionnée, sur les supports qu'elle désigne.
+« Les publications mentionnées aux premier, deuxième et quatrième alinéas ne peuvent intervenir qu'à l'expiration du délai de recours administratif préalable obligatoire prévu à l'article L. 633-3 ou, le cas échéant, à l'issue de ce recours.
+« En cas d'inexécution par la personne sanctionnée de la mesure de publicité dans le délai qui lui a été imparti, le Conseil national des activités privées de sécurité peut la mettre en demeure de procéder à cette publication. Cette mise en demeure peut être assortie d'une astreinte journalière pouvant aller jusqu'à 300 €.
+« Lorsque la décision de sanction rendue publique fait l'objet d'un recours contentieux, le Conseil national des activités privées de sécurité publie sans délai, sur son site internet, cette information ainsi que toute information ultérieure sur l'issue de ce recours. »
+
+### Chapitre II : Dispositions relatives aux conditions et aux modalités d'exercice de la profession
+Le livre VI du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 612-20 est ainsi modifié :
+a) Après le 4°, il est inséré un 4° bis ainsi rédigé :
+« 4° bis Pour un ressortissant étranger ne relevant pas de l'article L. 233-1 du même code, s'il n'est pas titulaire, depuis au moins cinq ans, d'un titre de séjour ; »
+b) Au 5°, après le mot : « professionnelle », sont insérés les mots : «, notamment d'une connaissance des principes de la République, » ;
+c) Après le même 5°, il est inséré un 6° ainsi rédigé :
+« 6° Pour un ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou pour un ressortissant d'un pays tiers, s'il ne justifie pas d'une connaissance de la langue française suffisante pour l'exercice d'une activité privée de sécurité mentionnée à l'article L. 611-1 du présent code, selon les modalités définies par décret en Conseil d'Etat. » ;
+d) A la fin de la première phrase du huitième alinéa, la référence : « et 3° » est remplacée par les références : «, 3°, 4° et 5° du présent article » ;
+2° A l'article L. 612-22 et au premier alinéa de l'article L. 612-23, la référence : « et 3° » est remplacée par les références : «, 3°, 4° et 4° bis » ;
+3° L'article L. 622-19 est ainsi modifié :
+a) Après le 2°, il est inséré un 2° bis ainsi rédigé :
+« 2° bis Pour un ressortissant étranger ne relevant pas de l'article L. 233-1 du même code, s'il n'est pas titulaire, depuis au moins cinq ans, d'un titre de séjour ; »
+b) Au 5°, après le mot : « professionnelle », sont insérés les mots : «, notamment d'une connaissance des principes de la République, » ;
+c) Après le même 5°, il est inséré un 6° ainsi rédigé :
+« 6° Pour un ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou pour un ressortissant d'un pays tiers, s'il ne justifie pas d'une connaissance de la langue française suffisante pour l'exercice de l'activité mentionnée à l'article L. 621-1, selon les modalités définies par décret en Conseil d'Etat. » ;
+d) A la fin de la seconde phrase de l'avant-dernier alinéa, les références : « 4° ou 5° » sont remplacées par les références : « 2°, 3°, 4° et 5° » ;
+4° A l'article L. 622-21 et au premier alinéa de l'article L. 622-22, les références : « 4° et 5° » sont remplacées par les références : « 2°, 2° bis, 3° et 4° ».
+A la fin du 2° des articles L. 612-7 et L. 622-7 du code de la sécurité intérieure, les mots : «, pour des motifs incompatibles avec l'exercice des fonctions » sont supprimés.
+I.-Le livre VI du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 612-6 est complété par un alinéa ainsi rédigé :
+« Nul ne peut diriger ou gérer un établissement secondaire autorisé dans les conditions fixées à l'article L. 612-9 s'il n'est titulaire de l'agrément prévu au premier alinéa du présent article. » ;
+2° L'article L. 612-7 est ainsi modifié :
+a) Après le mot : « Etat », la fin du 7° est supprimée ;
+b) Il est ajouté un alinéa ainsi rédigé :
+« Lorsque ces personnes exercent effectivement les activités mentionnées à l'article L. 611-1 du présent code, elles doivent également être titulaires de la carte professionnelle mentionnée à l'article L. 612-20. » ;
+3° Au 2° de l'article L. 612-16, après le mot : « morale », sont insérés les mots : « ou à l'établissement secondaire » ;
+4° A la première phrase du second alinéa de l'article L. 612-17, après le mot : « morale », sont insérés les mots : « ou de l'établissement secondaire » ;
+5° L'article L. 612-25 est complété par un alinéa ainsi rédigé :
+« Toutefois, nul ne peut diriger ou gérer le service interne de sécurité de l'entreprise mentionnée au premier alinéa du présent article s'il n'est pas titulaire de l'agrément mentionné à l'article L. 612-6. » ;
+6° L'article L. 617-3 est ainsi rédigé :
+
+« Art. L. 617-3.-Est puni de trois ans d'emprisonnement et de 45 000 € d'amende :
+« 1° Le fait d'exercer à titre individuel, en violation des articles L. 612-6 à L. 612-8, une activité mentionnée à l'article L. 611-1 ;
+« 2° Le fait de diriger ou gérer, en violation des articles L. 612-6 à L. 612-8, une personne morale exerçant une activité mentionnée à l'article L. 611-1 ou d'exercer de fait, directement ou par personne interposée, la direction ou la gestion d'une telle personne morale, en lieu et place de ses représentants légaux ;
+« 3° Le fait de diriger ou gérer, en violation des articles L. 612-6 à L. 612-8, un établissement secondaire autorisé à exercer une activité mentionnée à l'article L. 611-1 dans les conditions prévues à l'article L. 612-9 ;
+« 4° Le fait de diriger ou gérer, en violation de l'article L. 612-25, le service interne de sécurité d'une personne morale chargé d'une activité mentionnée à l'article L. 611-1. » ;
+
+7° L'article L. 622-6 est complété par un alinéa ainsi rédigé :
+« Nul ne peut diriger ou gérer un établissement secondaire autorisé dans les conditions fixées à l'article L. 622-9 s'il n'est pas titulaire de l'agrément prévu au premier alinéa du présent article. » ;
+8° L'article L. 622-7 est ainsi modifié :
+a) Le 6° est ainsi rédigé :
+« 6° Justifier d'une aptitude professionnelle dans des conditions définies par décret en Conseil d'Etat. » ;
+b) Après le même 6°, il est inséré un alinéa ainsi rédigé :
+« Lorsque ces personnes exercent effectivement l'activité mentionnée à l'article L. 621-1, elles doivent également être titulaires de la carte professionnelle mentionnée à l'article L. 622-19. » ;
+9° Au 2° de l'article L. 622-14, après le mot : « morale », sont insérés les mots : « ou à l'établissement secondaire » ;
+10° A la première phrase du second alinéa de l'article L. 622-15, après le mot : « morale », sont insérés les mots : « ou de l'établissement secondaire » ;
+11° L'article L. 624-4 est ainsi rédigé :
+
+« Art. L. 624-4.-Est puni de trois ans d'emprisonnement et de 45 000 € d'amende :
+« 1° Le fait d'exercer à titre individuel, en violation des articles L. 622-6 à L. 622-8, l'activité mentionnée à l'article L. 621-1 ;
+« 2° Le fait de diriger ou gérer, en violation des articles L. 622-6 à L. 622-8, une personne morale exerçant l'activité mentionnée à l'article L. 621-1, ou d'exercer de fait, directement ou par personne interposée, la direction ou la gestion d'une telle personne morale, en lieu et place de ses représentants légaux ;
+« 3° Le fait de diriger ou gérer, en violation des articles L. 622-6 à L. 622-8, un établissement secondaire autorisé à exercer l'activité mentionnée à l'article L. 621-1 dans les conditions prévues à l'article L. 622-9. »
+
+II.-Le présent article entre en vigueur dix-huit mois après la publication de la présente loi.
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+Le code pénal est ainsi modifié :
+1° Les articles 222-8,222-10,222-12 et 222-13 sont ainsi modifiés :
+a) Après le 4°, il est inséré un 4° bis A ainsi rédigé :
+« 4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611-1 ou L. 621-1 du code de la sécurité intérieure dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ; »
+b) Au 4° ter, après la référence : «, 4° », est insérée la référence : «, 4° bis A » ;
+c) Après le 7°, il est inséré un 7° bis ainsi rédigé :
+« 7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611-1 ou L. 621-1 du code de la sécurité intérieure dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ; »
+2° L'article 433-3 est ainsi modifié :
+a) Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à l'encontre d'une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611-1 ou L. 621-1 du code de la sécurité intérieure dans l'exercice de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur. » ;
+b) Au troisième alinéa, le mot : « deux » est remplacé par le mot : « trois » ;
+c) Au dernier alinéa, les mots : « au premier ou au deuxième alinéa » sont remplacés par les mots : « aux trois premiers alinéas ».
+I.-Le titre Ier du livre VI du code de la sécurité intérieure est ainsi modifié :
+1° La première phrase des articles L. 613-4 et L. 613-8 est complétée par les mots : « sur laquelle est apposé de façon visible un numéro d'identification individuel et comprenant un ou plusieurs éléments d'identification communs, selon des modalités déterminées par arrêté du ministre de l'intérieur » ;
+2° Le premier alinéa de l'article L. 614-3 est complété par une phrase ainsi rédigée : « La tenue, sur laquelle est apposé de façon visible un numéro d'identification individuel, comprend un ou plusieurs éléments d'identification communs, selon des modalités déterminées par arrêté du ministre de l'intérieur. »
+II.-La sous-section 4 de la section 1 du chapitre III du titre Ier du livre VI du code de la sécurité intérieure est complétée par un article L. 613-6-1 ainsi rédigé :
+
+« Art. L. 613-6-1.-Le port d'une tenue particulière n'est pas obligatoire pour les agents exerçant des activités de surveillance à distance des biens meubles ou immeubles lorsqu'ils ne sont pas au contact du public. »
+Au second alinéa de l'article L. 613-1 du code de la sécurité intérieure, les mots : « et effractions » sont remplacés par les mots : «, effractions et actes de terrorisme ».
+Le chapitre IV du titre Ier du livre VI du code de la sécurité intérieure est complété par une section 5 ainsi rédigée :
+
+« Section 5
+« Constatation des infractions visant les immeubles à usage d'habitation surveillés
+
+« Art. L. 614-6.-Les agents mentionnés au dernier alinéa de l'article L. 614-2 et commissionnés par leur employeur sont habilités à constater par procès-verbal, dans l'exercice de leur mission, les contraventions qui portent atteinte aux immeubles ou groupes d'immeubles à usage collectif d'habitation au sein desquels ils assurent des fonctions de surveillance et de gardiennage, dès lors que ces constatations ne nécessitent pas de leur part d'actes d'enquête.
+« Un décret en Conseil d'Etat fixe la liste des contraventions mentionnées au premier alinéa du présent article ainsi que les conditions dans lesquelles ces agents sont agréés par le représentant de l'Etat dans le département et assermentés.
+« Les procès-verbaux qu'ils établissent sont transmis au procureur de la République par l'intermédiaire des officiers de police judiciaire territorialement compétents. Cette transmission doit avoir lieu, à peine de nullité, dans les cinq jours suivant celui de la constatation ayant fait l'objet du procès-verbal. »
+Après le I de l'article L. 86 du code des pensions civiles et militaires de retraite, il est inséré un I bis ainsi rédigé :
+« I bis.-Par dérogation au premier alinéa de l'article L. 161-22 du code de la sécurité sociale ainsi qu'au deuxième alinéa de l'article L. 84 et à l'article L. 85 du présent code, les revenus perçus à l'occasion de l'exercice d'une activité mentionnée à l'article L. 611-1 du code de la sécurité intérieure peuvent être entièrement cumulés avec la pension s'agissant des personnels des services actifs de police qui peuvent être admis à la retraite dans les conditions prévues au premier alinéa de l'article 2 de la loi n° 57-444 du 8 avril 1957 instituant un régime particulier de retraites en faveur des personnels actifs de police. »
+Après l'article L. 625-2 du code de la sécurité intérieure, il est inséré un article L. 625-2-1 ainsi rédigé :
+
+« Art. L. 625-2-1.-Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 625-1 s'il a fait l'objet d'un retrait de carte professionnelle dans les conditions prévues à l'article L. 612-20 ou d'une interdiction temporaire d'exercice de l'activité privée de sécurité en application de l'article L. 634-4. »
+Le livre VI du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 612-22 est complété par deux alinéas ainsi rédigés :
+« Les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et les ressortissants de pays tiers doivent également justifier d'une connaissance de la langue française suffisante pour l'exercice d'une activité privée de sécurité mentionnée à l'article L. 611-1, selon les modalités définies par décret en Conseil d'Etat.
+« Pour l'accès à une formation en vue d'acquérir l'aptitude professionnelle à exercer les activités qui relèvent de l'article L. 6342-4 du code des transports et dont l'exercice requiert une certification au titre du règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile ou pour l'accès à une formation à l'activité mentionnée au 1° bis de l'article L. 611-1 du présent code lorsque celle-ci est exercée au sein de certains périmètres définis par décret en Conseil d'Etat, l'autorisation préalable mentionnée au premier alinéa du présent article est en outre subordonnée à la production d'une lettre d'intention d'embauche se rapportant à l'une de ces activités, émise par une entreprise titulaire de l'autorisation d'exercice mentionnée à l'article L. 612-9 ou par la personne morale mentionnée à l'article L. 612-25 et exerçant ces activités. » ;
+2° L'article L. 622-21 est complété par un alinéa ainsi rédigé :
+« Les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et les ressortissants de pays tiers doivent également justifier d'une connaissance de la langue française suffisante pour l'exercice d'une activité d'agence de recherches privées mentionnée à l'article L. 621-1, selon des modalités définies par décret en Conseil d'Etat. »
+Le chapitre III du titre Ier du livre VI du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase du second alinéa de l'article L. 613-2, les mots : «, spécialement habilitées à cet effet et agréées par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police dans les conditions prévues par décret en Conseil d'Etat, » sont supprimés ;
+2° A la première phrase du premier alinéa de l'article L. 613-3, les mots : «, agréées par la commission d'agrément et de contrôle territorialement compétente dans les conditions prévues par décret en Conseil d'Etat, » sont supprimés.
+Dans un délai de dix-huit mois à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport examinant l'opportunité de réglementer, au titre du livre VI du code de la sécurité intérieure, certaines activités en vue de contrôler la moralité et l'aptitude professionnelle des personnes qui les exercent, en particulier :
+1° La conception, l'installation et la maintenance des dispositifs de sécurité électronique ;
+2° La fourniture de services de conseil dans les domaines de la sécurité et de la sûreté ;
+3° La fourniture de services de sécurité à l'étranger ;
+4° La sécurité incendie.
+Le chapitre Ier du titre Ier du livre VI du code de la sécurité intérieure est complété par un article L. 611-3 ainsi rédigé :
+
+« Art. L. 611-3.-Les agents mentionnés à l'article L. 611-1 peuvent utiliser des moyens radioélectriques, électroniques ou numériques permettant la détection, aux abords des biens dont ils ont la garde, des aéronefs circulant sans personne à bord susceptibles de représenter une menace pour la sécurité de ces biens et des personnes qui s'y trouvent. Ils peuvent exploiter et, si besoin, transmettre les informations recueillies aux services de l'Etat concourant à la sécurité intérieure et à la défense nationale. »
+I.-Le titre Ier du livre VI du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 612-20 est ainsi modifié :
+a) Après le mot : « Etat », la fin du 5° est supprimée ;
+b) La seconde phrase du huitième alinéa est complétée par les mots : « ou s'il ne satisfait pas au contrôle régulier de ses compétences en application de l'article L. 613-7-1 A du présent code » ;
+2° La sous-section 5 de la section 1 du chapitre III est complétée par un article L. 613-7-1 A ainsi rédigé :
+
+« Art. L. 613-7-1.-A.-Sans préjudice de l'article L. 733-1 et sous réserve d'avoir fait l'objet d'une certification technique et de satisfaire au contrôle régulier de leurs compétences, les agents exerçant l'activité de surveillance mentionnée à l'article L. 611-1 peuvent utiliser un chien afin de mettre en évidence l'existence d'un risque lié à la présence de matières explosives.
+« L'exercice de la mission prévue au présent article, dans un lieu déterminé et pour une durée donnée, est conditionné à une déclaration préalable au représentant de l'Etat dans le département par la personne titulaire de l'autorisation mentionnée à l'article L. 612-9 employant ces agents.
+« Un décret en Conseil d'Etat fixe les conditions d'exercice et les modalités de déclaration préalable de cette mission ainsi que les conditions de formation, de certification technique et de contrôle des compétences applicables aux agents et aux chiens mentionnés au premier alinéa du présent article. Il prévoit également les règles propres à garantir la conformité des conditions de détention et d'utilisation des chiens aux exigences des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime.
+« Les agents mentionnés au premier alinéa du présent article ne peuvent exercer simultanément cette mission et les prérogatives mentionnées aux articles L. 613-2 et L. 613-3. Cette mission ne peut s'exercer sur des personnes physiques.
+« Les chiens mentionnés au présent article ne peuvent être utilisés à d'autres fins que l'identification d'un risque lié à la présence de matières explosives.
+« Le présent article ne s'applique pas aux activités de détection d'explosifs mentionnées au 12.9.2 de l'annexe au règlement d'exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile, qui font l'objet de dispositions particulières. » ;
+
+3° L'article L. 617-1 est complété par des 5° à 7° ainsi rédigés :
+« 5° Le fait d'utiliser un chien mentionné à l'article L. 613-7-1 A à une autre fin que la mise en évidence de l'existence d'un risque lié à la présence de matières explosives en violation du même article L. 613-7-1 A ;
+« 6° Le fait d'exercer l'activité mentionnée audit article L. 613-7-1 A sans remplir les conditions de formation, de certification technique et de contrôle prévues au même article L. 613-7-1 A ou d'utiliser un chien n'ayant pas satisfait à ces conditions en violation du même article L. 613-7-1 A ;
+« 7° Le fait d'exercer la mission mentionnée au même article L. 613-7-1 A sur des personnes physiques en violation du même article L. 613-7-1 A. » ;
+4° L'article L. 617-7 est complété par un 3° ainsi rédigé :
+« 3° Le fait d'employer une personne ne remplissant pas les conditions de formation ou ne justifiant pas de la certification technique prévue à l'article L. 613-7-1 A, en vue de la faire participer à la mission prévue au même article L. 613-7-1 A, en violation de celui-ci. »
+II.-Le chapitre IV du titre III du livre VI de la première partie du code des transports est complété par un article L. 1634-4 ainsi rédigé :
+
+« Art. L. 1634-4.-Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende :
+« 1° Le fait de recourir à une équipe cynotechnique mentionnée à l'article L. 1632-3 à une autre fin que la mise en évidence de l'existence d'un risque lié à la présence de matières explosives ou dans un autre domaine que celui des transports ferroviaires ou guidés en violation du même article L. 1632-3 ;
+« 2° Le fait, pour un agent des services internes de sécurité de la SNCF ou de la Régie autonome des transports parisiens mentionnés à l'article L. 2251-1, d'exercer l'activité mentionnée à l'article L. 1632-3 sans que l'équipe cynotechnique ne remplisse les conditions de formation et de qualification ou ne justifie de la certification technique prévues au même article L. 1632-3 en violation dudit article L. 1632-3 ;
+« 3° Le fait, pour un agent des services internes de sécurité de la SNCF ou de la Régie autonome des transports parisiens mentionnés à l'article L. 2251-1, d'exercer l'activité mentionnée à l'article L. 1632-3 sur une personne physique en violation du même article L. 1632-3. »
+
+III.-Le dernier alinéa de l'article L. 1632-3 du code des transports est remplacé par deux alinéas ainsi rédigés :
+« L'exercice de la mission prévue au présent article, dans un lieu déterminé et pour une durée donnée, est conditionné à une déclaration préalable au représentant de l'Etat dans le département par l'employeur de l'équipe cynotechnique.
+« Les conditions de formation, de qualification et d'exercice des équipes cynotechniques, les conditions de délivrance et de contrôle de la certification technique prévue au premier alinéa ainsi que les modalités de la déclaration préalable prévue au troisième alinéa sont fixées par décret en Conseil d'Etat. »
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par voie d'ordonnance, dans un délai de douze mois à compter de la publication de la présente loi, toute mesure relevant du domaine de la loi visant :
+1° A adapter les modalités d'organisation, de fonctionnement et d'exercice des missions du Conseil national des activités privées de sécurité, afin [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.] de modifier la composition de son collège et les missions des commissions d'agrément et de contrôle et d'étendre les pouvoirs exécutifs du directeur de l'établissement public et les prérogatives de ses agents de contrôle ;
+2° A étendre, le cas échéant dans le respect des règles de partage de compétence prévues par la loi organique, l'application des dispositions prévues au 1°, selon les cas, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, avec les adaptations nécessaires.
+II. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de quatre mois à compter de la publication de l'ordonnance prévue au I.
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par voie d'ordonnance, dans un délai de vingt-quatre mois à compter de la publication de la présente loi, toute mesure relevant du domaine de la loi visant :
+1° A modifier, d'une part, les modalités de formation à une activité privée de sécurité relevant du livre VI du code de la sécurité intérieure ainsi que les modalités d'examen et d'obtention des certifications professionnelles se rapportant à ces activités et, d'autre part, les conditions d'exercice et de contrôle des activités de formation aux activités privées de sécurité ;
+2° A étendre, le cas échéant dans le respect des règles de partage de compétence prévues par la loi organique, l'application des dispositions prévues au 1°, selon les cas, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, avec les adaptations nécessaires.
+II. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de quatre mois à compter de la publication de l'ordonnance prévue au I.
+
+## Titre IER : DISPOSITIONS RELATIVES AUX POLICES MUNICIPALES
+
+### Chapitre Ier : Dispositions relatives aux prérogatives des polices municipales et rurales
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+I. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+II. - En cas d'introduction dans un local professionnel, commercial, agricole ou industriel en violation flagrante de l'article 226-4 du code pénal, les agents de police municipale en rendent immédiatement compte à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors leur ordonner sans délai de lui présenter sur-le-champ l'auteur de l'infraction ou de retenir celui-ci pendant le temps nécessaire à son arrivée ou à celle d'un agent de police judiciaire agissant sous son contrôle.
+L'article L. 132-3 du code de la sécurité intérieure est ainsi modifié :
+1° Au deuxième alinéa, après le mot : « est », il est inséré le mot : « systématiquement » ;
+2° Au troisième alinéa, après le mot : « également », il est inséré le mot : « systématiquement », les mots : « des suites judiciaires données aux » sont remplacés par les mots : « des classements sans suite, des mesures alternatives aux poursuites, des poursuites engagées, des jugements devenus définitifs ou des appels interjetés lorsque ces décisions concernent des » et sont ajoutés les mots : « et par les gardes champêtres en application de l'article 27 du même code » ;
+3° L'avant-dernier alinéa est ainsi modifié :
+a) Après le mot : « est », il est inséré le mot : « systématiquement » ;
+b) Après le mot : « République », sont insérés les mots : « des classements sans suite, des mesures alternatives aux poursuites, des poursuites engagées, » ;
+4° Avant le dernier alinéa, il est inséré un alinéa ainsi rédigé :
+« Lorsque le procureur de la République informe au titre des deuxième à quatrième alinéas du présent article le maire d'une décision de classer sans suite une procédure, il indique les raisons juridiques ou d'opportunité qui justifient cette décision. » ;
+5° Au même dernier alinéa, les mots : « quatre alinéas précédents » sont remplacés par les mots : « cinq premiers alinéas du présent article » et, à la fin, les mots : « même code » sont remplacés par les mots : « code de procédure pénale ».
+A la première phrase du sixième alinéa de l'article L. 511-1 du code de la sécurité intérieure, les mots : « mentionnée à l'article L. 613-3 du présent code » sont supprimés et, après la référence : « L. 226-1 », sont insérés les mots : « du présent code ».
+Le premier alinéa de l'article L. 3341-1 du code de la santé publique est ainsi modifié :
+1° Après le mot : « frais », sont insérés les mots : « par des agents de la police nationale, des militaires de la gendarmerie nationale, des agents de police municipale ou des gardes champêtres, après avoir fait procéder à un examen médical, réalisé sur le territoire communal ou en dehors de celui-ci, attestant que son état de santé ne s'y oppose pas, » ;
+2° Après la seconde occurrence du mot : « police », il est inséré le mot : « nationale ».
+
+### Chapitre II : Dispositions relatives à l'organisation et au fonctionnement des polices municipales
+I.-Le livre V du code de la sécurité intérieure est ainsi modifié :
+1° Le premier alinéa de l'article L. 511-2 est complété par les mots : « et, à Paris, par des fonctionnaires de la Ville de Paris recrutés à cet effet dans les conditions fixées au chapitre III du titre III du présent livre » ;
+2° Le titre III est complété par un chapitre III ainsi rédigé :
+
+« Chapitre III
+« Agents de police municipale exerçant leurs fonctions sur le territoire de la Ville de Paris
+
+« Art. L. 533-1.-Les fonctions d'agent de police municipale ne peuvent être exercées à Paris que par des fonctionnaires de la Ville de Paris recrutés dans le cadre des dispositions prévues au présent chapitre. Le titre Ier du présent livre leur est applicable, sous réserve des dérogations prévues au présent chapitre.
+
+« Art. L. 533-2.-Par dérogation à l'article 118 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les statuts particuliers des corps de la police municipale à Paris sont définis par décret en Conseil d'Etat après avis du Conseil de Paris.
+
+« Art. L. 533-3.-Par dérogation à l'article L. 511-6, les agents mentionnés à l'article L. 533-1 bénéficient d'une formation initiale et continue assurée par la Ville de Paris. Le contenu et la durée de ces formations sont équivalents à ceux des formations dispensées aux agents des cadres d'emplois de la police municipale mentionnés à l'article L. 511-2. La Ville de Paris peut à cet effet passer une convention avec les administrations et établissements publics de l'Etat chargés de la formation des fonctionnaires de la police nationale et des militaires de la gendarmerie nationale ainsi qu'avec le Centre national de la fonction publique territoriale.
+
+« Art. L. 533-4.-À Paris, les agents mentionnés à l'article L. 533-1 peuvent constater par procès-verbal les contraventions aux arrêtés de police du préfet de police relatifs au bon ordre, à la salubrité, à la sécurité et la tranquillité publiques.
+« Le premier alinéa du présent article n'est pas applicable aux interdictions de manifestation sur la voie publique.
+
+« Art. L. 533-5.-Les attributions dévolues par le titre Ier du présent livre au représentant de l'Etat dans le département sont exercées à Paris par le préfet de police. »
+
+II.-Les statuts particuliers des corps de la police municipale à Paris sont fixés par référence aux cadres d'emplois de la police municipale. Ils fixent notamment les conditions d'intégration, de reclassement et de formation des fonctionnaires de la Ville de Paris exerçant des fonctions d'agent de police municipale.
+Dans des conditions fixées par les statuts particuliers prévus à l'article L. 533-2 du code de la sécurité intérieure, les agents intégrés au sein des corps des agents de police municipale lors de la constitution initiale de ces corps et astreints à la formation initiale peuvent être dispensés d'une partie de cette formation à raison de la reconnaissance de leurs expériences professionnelles antérieures.
+III.-Un Conseil parisien de sécurité réunit le maire de Paris, ou son représentant, les maires de chaque arrondissement, ou leur représentant, et le préfet de police, ou son représentant. Il est consulté sur les politiques municipales en matière de sécurité et de tranquillité publiques ainsi que sur la doctrine d'emploi de la police municipale. Il se réunit au moins une fois par trimestre.
+Les autorisations de port d'arme dont bénéficient les agents mentionnés aux articles L. 531-1 et L. 532-1 du code de la sécurité intérieure avant leur intégration dans les corps de la police municipale à Paris demeurent valables jusqu'à la délivrance d'une autorisation individuelle de port d'arme par le préfet de police sur le fondement de l'article L. 511-5 du même code, et en tout état de cause pendant une durée maximale d'un an à compter de la date de leur intégration.
+Le code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 512-1 est ainsi modifié :
+a) Au premier alinéa, les mots : « formant un ensemble de moins de 80 000 habitants d'un seul tenant » sont remplacés par les mots : « limitrophes ou appartenant à une même agglomération au sein d'un même département ou à un même établissement public de coopération intercommunale à fiscalité propre » ;
+b) Le troisième alinéa est complété par une phrase ainsi rédigée : « Le retrait d'une commune de la convention est sans effet sur l'application de cette convention aux autres communes participantes. » ;
+c) L'avant-dernier alinéa est ainsi rédigé :
+« Une commune appartenant à un syndicat de communes ou à un établissement public de coopération intercommunale à fiscalité propre ne peut mettre en commun des agents de police municipale lorsque ce syndicat ou cet établissement met des agents à disposition des communes dans les conditions prévues respectivement aux articles L. 512-1-2 ou L. 512-2. » ;
+2° Après l'article L. 512-1-1, il est inséré un article L. 512-1-2 ainsi rédigé :
+
+« Art. L. 512-1-2.-I.-Les communes limitrophes ou appartenant à une même agglomération au sein d'un même département ou à un même établissement public de coopération intercommunale à fiscalité propre peuvent former un syndicat de communes afin de recruter un ou plusieurs agents de police municipale en commun, compétents sur le territoire de chacune des communes.
+« Les statuts du syndicat de communes fixent les modalités d'organisation et de financement de la mise à disposition des agents et de leurs équipements. Ils sont transmis au représentant de l'Etat dans le département.
+« Le syndicat de communes et les communes membres se dotent d'une convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat dans les conditions prévues à la section 2 du présent chapitre.
+« Le cas échéant, la demande de port d'arme mentionnée à l'article L. 511-5 est établie conjointement par le président du syndicat de communes et l'ensemble des maires de ces communes.
+« II.-Les agents de police municipale recrutés en application du I du présent article et mis à disposition des communes membres du syndicat de communes exercent, sur le territoire de chaque commune où ils sont affectés, les compétences mentionnées à l'article L. 511-1, sans préjudice des compétences de police judiciaire qui leur sont attribuées par le code de procédure pénale et par les lois pénales spéciales.
+« Leur nomination en qualité de fonctionnaires stagiaires ne fait pas obstacle à leur mise à disposition des communes membres du syndicat de communes.
+« Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de celle-ci.
+« III.-Une commune appartenant à un établissement public de coopération intercommunale à fiscalité propre ne peut adhérer à un syndicat de communes mettant en œuvre les dispositions du présent article lorsque cet établissement met des agents à disposition des communes dans les conditions prévues à l'article L. 512-2.
+« IV.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article. » ;
+
+3° Au premier alinéa de l'article L. 512-4, après le mot : « prévues », est insérée la référence : « à l'article L. 512-1-2 ou » ;
+4° L'article L. 512-5 est ainsi modifié :
+a) A la première phrase, après la référence : « L. 512-2 », sont insérés les mots : « ou par un syndicat de communes en application de l'article L. 512-1-2 » ;
+b) A la seconde phrase, après le mot : « établissement », sont insérés les mots : « ou du syndicat ».
+La sous-section 1 de la section 5 du chapitre II du titre Ier du livre IV du code des communes est complétée par un article L. 412-57 ainsi rédigé :
+
+« Art. L. 412-57.-La commune ou l'établissement public qui prend en charge la formation du fonctionnaire stagiaire des cadres d'emplois de la police municipale peut lui imposer un engagement de servir pour une durée maximale de trois ans à compter de la date de sa titularisation.
+« Le fonctionnaire des cadres d'emplois de la police municipale qui rompt l'engagement prévu au premier alinéa doit rembourser à la commune ou à l'établissement public une somme correspondant au coût de sa formation. Dans ce cas, il ne peut être fait application des dispositions prévues au second alinéa de l'article 51 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+« Le fonctionnaire des cadres d'emplois de la police municipale qui rompt l'engagement prévu au premier alinéa du présent article peut être dispensé par le maire ou le président de l'établissement public de coopération intercommunale de tout ou partie du remboursement, pour des motifs impérieux, notamment tirés de son état de santé ou de nécessités d'ordre familial. Si l'exemption porte sur la totalité du remboursement, il est fait application des dispositions prévues au second alinéa de l'article 51 de la loi n° 84-53 du 26 janvier 1984 précitée.
+« Un décret détermine les conditions d'application du présent article, en particulier les modalités de calcul de la somme correspondant au coût de la formation. »
+L'article L. 512-3 du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase du premier alinéa, après le mot : « sportif, », il est inséré le mot : « ou » et les mots : « ou en cas de catastrophe naturelle » sont supprimés ;
+2° Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« En cas de catastrophe naturelle ou technologique, les maires de communes limitrophes ou appartenant à un même département ou à des départements limitrophes peuvent être autorisés, par arrêté du représentant de l'Etat dans le département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés, à utiliser en commun, sur le territoire d'une ou plusieurs communes, pour un délai déterminé, tout ou partie des moyens et des effectifs de leurs services de police municipale. Cette faculté s'exerce exclusivement en matière de police administrative. » ;
+3° Au second alinéa, après le mot : « département », sont insérés les mots : «, ou par arrêté conjoint des représentants de l'Etat dans les départements concernés, » ;
+4° Il est ajouté un alinéa ainsi rédigé :
+« Par dérogation au deuxième alinéa, l'utilisation en commun des forces de police municipale en matière administrative en cas de catastrophe naturelle ou technologique peut être autorisée par arrêtés municipaux concordants des maires des communes concernées lorsque les modalités et conditions de cette autorisation ont fait l'objet d'une convention cadre préalable entre ces communes et les représentants de l'Etat dans les départements concernés. »
+Après l'article L. 522-2 du code de la sécurité intérieure, il est inséré un article L. 522-2-1 ainsi rédigé :
+
+« Art. L. 522-2-1.-I.-Lors d'une manifestation exceptionnelle, notamment à caractère culturel, récréatif ou sportif, ou à l'occasion d'un afflux important de population, les maires de communes limitrophes ou appartenant à un même établissement public de coopération intercommunale à fiscalité propre ou à une même agglomération peuvent être autorisés à utiliser en commun, sur le territoire d'une ou plusieurs communes, pour un délai déterminé, tout ou partie des moyens et des effectifs de leurs gardes champêtres. Cette faculté s'exerce exclusivement en matière de police administrative.
+« En cas de catastrophe naturelle ou technologique, les maires de communes limitrophes ou appartenant à un même département ou à des départements limitrophes peuvent être autorisés à utiliser en commun, sur le territoire d'une ou plusieurs communes, pour un délai déterminé, tout ou partie des moyens et des effectifs de leurs gardes champêtres.
+« Cette utilisation en commun est autorisée par arrêté du représentant de l'Etat dans le département, ou par arrêté conjoint des représentants de l'Etat dans les départements concernés, qui en fixe les conditions et les modalités au vu des propositions des maires des communes concernées.
+« Par dérogation au deuxième alinéa du présent I, l'utilisation en commun des services de gardes champêtres en matière administrative en cas de catastrophe naturelle ou technologique peut être autorisée par arrêtés municipaux concordants des communes concernées lorsque les modalités et conditions de cette autorisation ont fait l'objet d'une convention cadre préalable entre ces communes et le représentant de l'Etat dans le département.
+« II.-Le présent article est applicable dans les départements de la Moselle, du Haut-Rhin et du Bas-Rhin, sous réserve des articles L. 523-1 et L. 523-2. »
+I.-Après la section 4 du chapitre Ier du titre Ier du livre V du code de la sécurité intérieure, est insérée une section 4 bis ainsi rédigée :
+
+« Section 4 bis
+« Brigades cynophiles de police municipale
+
+« Art. L. 511-5-2.-Sur décision du maire, après délibération du conseil municipal, ou, le cas échéant, sur décision conjointe du président de l'établissement public de coopération intercommunale à fiscalité propre et des maires des communes où les agents de police municipale sont affectés en application de l'article L. 512-2, une brigade cynophile de police municipale peut être créée pour l'accomplissement des missions mentionnées à l'article L. 511-1, sous réserve de l'existence d'une convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat prévue à la section 2 du chapitre II du présent titre.
+« Un décret en Conseil d'Etat précise les conditions de création, de formation et d'emploi de cette brigade ainsi que les conditions de dressage, de propriété, de garde et de réforme des chiens. »
+
+II.-Au premier alinéa de l'article L. 211-18 du code rural et de la pêche maritime, après le mot : « douanes », sont insérés les mots : «, des polices municipales ».
+A la première phrase du premier alinéa de l'article L. 513-1 du code de la sécurité intérieure, les mots : « et après avis de la commission consultative des polices municipales, » sont supprimés.
+L'article L. 512-6 du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase du premier alinéa, après le mot : « précise », sont insérés les mots : «, après réalisation d'un diagnostic préalable des problématiques de sûreté et de sécurité auxquelles est confronté le territoire, » ;
+2° A la même première phrase, après le mot : « missions », il est inséré le mot : « complémentaires » ;
+3° Au dernier alinéa, après la première occurrence du mot : « de », sont insérés les mots : « mention spécifique dans la ».
+L'article L. 514-1 du code de la sécurité intérieure est ainsi modifié :
+1° A la deuxième phrase du premier alinéa, les mots : « des communes » sont remplacés par les mots : « ou adjoints au maire des communes employant des agents de police municipale ou faisant partie d'un établissement public de coopération intercommunale » ;
+2° Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« La commission consultative des polices municipales traite de tous sujets concernant les polices municipales, à l'exception des sujets liés au statut des agents. »
+A la deuxième phrase du deuxième alinéa de l'article L. 325-2 du code de la route, après la seconde occurrence du mot : « municipale », sont insérés les mots : «, les gardes champêtres ».
+Le chapitre II du titre II du livre V du code de la sécurité intérieure est complété par un article L. 522-5 ainsi rédigé :
+
+« Art. L. 522-5.-La carte professionnelle, la tenue, la signalisation des véhicules de service et les types d'équipement dont sont dotés les gardes champêtres font l'objet d'une identification commune de nature à n'entraîner aucune confusion avec ceux utilisés par la police nationale et la gendarmerie nationale. Leurs caractéristiques et leurs normes techniques sont fixées par arrêté du ministre de l'intérieur.
+« Le port de la carte professionnelle et celui de la tenue sont obligatoires pendant le service. »
+La section 3 du chapitre Ier du titre Ier du livre V du code de la sécurité intérieure est complétée par un article L. 511-4-1 ainsi rédigé :
+
+« Art. L. 511-4-1.-Les agents de police municipale, revêtus de leurs uniformes, peuvent faire usage de matériels appropriés pour immobiliser les moyens de transport dans les cas prévus à l'article L. 214-2. Ces matériels sont conformes à des normes techniques définies par arrêté du ministre de l'intérieur. »
+
+## Titre VII : DISPOSITIONS OUTRE-MER
+Le code de la sécurité intérieure est ainsi modifié :
+1° Le titre V du livre Ier est ainsi modifié :
+a) Au premier alinéa de l'article L. 155-1, la référence mentionnée entre les mots : « dans leur rédaction résultant de » et les mots : «, les dispositions suivantes : » est remplacée par la référence : « la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+b) Au premier alinéa de l'article L. 156-1, la référence mentionnée entre les mots : « dans leur rédaction résultant de » et les mots : «, les dispositions suivantes : » est remplacée par la référence : « la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+c) Au dernier alinéa du 7° de l'article L. 155-2 et du 9° de l'article L. 156-2, le nombre : « 10 000 » est remplacé par le nombre : « 5 000 » ;
+d) Au premier alinéa de l'article L. 157-1, la référence mentionnée entre les mots : « dans leur rédaction résultant de » et les mots : «, les dispositions suivantes : » est remplacée par la référence : « la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+e) Au premier alinéa de l'article L. 158-1, la référence mentionnée entre les mots : « dans leur rédaction résultant de » et les mots : «, les dispositions suivantes : » est remplacée par la référence : « la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+2° Au premier alinéa des articles L. 285-1, L. 286-1, L. 287-1 et L. 288-1, la référence mentionnée entre les mots : « dans leur rédaction résultant de » et les mots : «, les dispositions suivantes : » est remplacée par la référence : « la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+3° Le titre IV du livre III est ainsi modifié :
+a) Au premier alinéa des articles L. 344-1, L. 345-1 et L. 346-1, la référence mentionnée entre les mots : « dans leur rédaction résultant de » et les mots : «, les dispositions suivantes : » est remplacée par la référence : « la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+b) Après le mot : « résultant », la fin du premier alinéa de l'article L. 347-1 est ainsi rédigée : « de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés. » ;
+4° Le titre IV du livre IV est ainsi modifié :
+a) Le premier alinéa de l'article L. 445-1 est ainsi rédigé :
+« Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, les dispositions du présent livre, sous réserve des adaptations suivantes : » ;
+b) Le premier alinéa de l'article L. 446-1 est ainsi rédigé :
+« Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, les dispositions du présent livre, sous réserve des adaptations suivantes : » ;
+c) Le premier alinéa de l'article L. 447-1 est ainsi rédigé :
+« Sont applicables à Wallis-et-Futuna, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, les dispositions du présent livre, sous réserve des adaptations suivantes : » ;
+d) Au 1° des articles L. 442-1, L. 445-1, L. 446-1 et L. 447-1, les mots : « adjoints de sécurité » sont remplacés par les mots : « policiers adjoints » ;
+e) Au second alinéa du 3° de l'article L. 445-1, au second alinéa du 2° de l'article L. 446-1 et au second alinéa du 2° de l'article L. 447-1, le mot : « civile » est remplacé par le mot : « opérationnelle » ;
+f) Après le mot : « résultant », la fin du premier alinéa de l'article L. 448-1 est ainsi rédigée : « de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés. » ;
+5° Le titre IV du livre V est ainsi modifié :
+a) Au premier alinéa de l'article L. 545-1, après la référence : « L. 511-5, », est insérée la référence : « L. 511-5-2, », la référence : « L. 522-4 » est remplacée par la référence : « L. 522-5 » et la référence : « n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique » est remplacée par la référence : « n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+b) L'article L. 546-1 est ainsi modifié :
+
+-au premier alinéa, après la référence : « L. 511-5, », est insérée la référence : « L. 511-5-2, » et la référence : « n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique » est remplacée par la référence : « n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » ;
+-au 5°, les mots : « formant un ensemble de moins de 80 000 habitants d'un seul tenant » sont remplacés par les mots : « limitrophes ou appartenant à une même agglomération au sein d'un même département ou à un même établissement public de coopération intercommunale à fiscalité propre » ;
+
+6° Le titre IV du livre VI est ainsi modifié :
+a) Au 2° de l'article L. 643-2, après la référence : « L. 612-7 », sont insérées les références : «, au 6° de l'article L. 612-20 et au deuxième alinéa de l'article L. 612-22 » ;
+b) Au 4° de l'article L. 644-1, après la référence : « L. 612-7 », sont insérées les références : «, au 6° de l'article L. 612-20 et au deuxième alinéa de l'article L. 612-22 » ;
+c) L'article L. 645-1 est ainsi modifié :
+
+-le premier alinéa est ainsi rédigé :
+
+« Le titre Ier, à l'exception de l'article L. 613-10, le titre II bis et le titre III sont applicables en Polynésie française, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, sous réserve des adaptations suivantes : » ;
+
+-au 4°, après la seconde occurrence de la référence : « L. 612-7 », sont insérées les références : «, au 6° de l'article L. 612-20 et au deuxième alinéa de l'article L. 612-22 » ;
+-au b du 6°, le mot : « neuvième » est remplacé par le mot : « dixième » ;
+
+-après le 7°, il est inséré un 7° bis ainsi rédigé :
+
+« 7° bis La référence au règlement (UE) 215/1198 de la Commission du 12 juillet 2019 est remplacée par la référence au droit applicable en métropole en vertu de ce règlement ; »
+
+-après le 8°, il est inséré un 8° bis ainsi rédigé :
+
+« 8° bis L'article L. 613-7-1 A est ainsi modifié :
+« a) A la fin de la seconde phrase du troisième alinéa, les mots : “ des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime ” sont remplacés par les mots : “ prévues par les dispositions applicables localement ” ;
+« b) Le dernier alinéa est supprimé ; »
+d) L'article L. 646-1 est ainsi modifié :
+
+-le premier alinéa est ainsi rédigé :
+
+« Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, sous réserve des adaptations suivantes : » ;
+
+-au 5°, après la seconde occurrence de la référence : « L. 612-7 », sont insérées les références : «, au 6° de l'article L. 612-20 et au deuxième alinéa de l'article L. 612-22 » et les mots : « des États parties » sont remplacés par les mots : « Etat partie » ;
+-au b du 7°, le mot : « neuvième » est remplacé par le mot : « dixième » ;
+
+-après le 8°, il est inséré un 8° bis ainsi rédigé :
+
+« 8° bis La référence au règlement (UE) 215/1198 de la Commission du 12 juillet 2019 est remplacée par la référence au droit applicable en métropole en vertu de ce règlement ; »
+
+-après le 9°, il est inséré un 9° bis ainsi rédigé :
+
+« 9° bis L'article L. 613-7-1 A est ainsi modifié :
+« a) A la fin de la seconde phrase du troisième alinéa, les mots : “ des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime ” sont remplacés par les mots : “ prévues par les dispositions applicables localement ” ;
+« b) Le dernier alinéa est supprimé ; »
+e) L'article L. 647-1 est ainsi modifié :
+
+-le premier alinéa est ainsi rédigé :
+
+« Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III, sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, sous réserve des adaptations suivantes : » ;
+
+-après le a du 6°, il est inséré un a bis ainsi rédigé :
+
+« a bis) Au 4° bis, la référence : “ article L. 233-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ” est remplacée par la référence : “ article 13 de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna ” ; »
+
+-au b du même 6°, le mot : « neuvième » est remplacé par le mot : « dixième » ;
+
+-après le 8°, il est inséré un 8° bis ainsi rédigé :
+
+« 8° bis L'article L. 613-7-1 A est ainsi modifié :
+« a) A la fin de la seconde phrase du troisième alinéa, les mots : “ des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime ” sont remplacés par les mots : “ prévues par les dispositions applicables localement ” ;
+« b) Le dernier alinéa est supprimé ; »
+f) L'article L. 648-1 est ainsi modifié :
+
+-au premier alinéa, après la référence : « titre Ier », sont insérés les mots : «, à l'exception des articles L. 612-5-1 et L. 617-2-1, » et la référence : « n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités » est remplacée par la référence : « n° du pour une sécurité globale préservant les libertés » ;
+-au 2°, après la référence : « L. 612-7 », sont insérées les références : «, au 6° de l'article L. 612-20 et au deuxième alinéa de l'article L. 612-22 » ;
+
+-il est ajouté un 5° ainsi rédigé :
+
+« 5° Les références au règlement (UE) 215/1198 de la Commission du 12 juillet 2019 sont remplacées par la référence au droit applicable en métropole en vertu de ce règlement. »
+I.-L'article 711-1 du code pénal est ainsi rédigé :
+
+« Art. 711-1.-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. »
+
+II.-Le premier alinéa de l'article 804 du code de procédure pénale est ainsi rédigé :
+« Le présent code est applicable, dans sa rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, sous réserve des adaptations prévues au présent titre et aux seules exceptions : ».
+III.-L'article L. 3822-1 du code de la santé publique est ainsi modifié :
+1° Au premier alinéa, la référence : « L. 3341-1, » est supprimée ;
+2° Il est ajouté un alinéa ainsi rédigé :
+« L'article L. 3341-1 est applicable à Wallis-et-Futuna dans sa rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés. »
+IV.-Aux articles L. 1863-1 et L. 1872-1 du code des transports, la référence : « et L. 1634-3 » est remplacée par les références : «, L. 1634-3 et le 1° de l'article L. 1634-4 ».
+Le titre IV du livre II du code de la route est ainsi modifié :
+1° L'article L. 243-1 est ainsi modifié :
+a) Le neuvième alinéa est ainsi modifié :
+
+-les mots : « et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints » sont supprimés et, après la deuxième occurrence du mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique qui peuvent être précédées des » ;
+-est ajoutée une phrase ainsi rédigée : « Sur l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré l'auteur présumé d'une infraction punie par le présent code de la peine complémentaire de suspension du permis de conduire ou le conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel. » ;
+
+b) Au début du dixième alinéa, le mot : « Ils » est remplacé par les mots : « Les officiers ou agents de police judiciaire et, sur l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints » ;
+c) Au onzième alinéa, après le mot : « subir », sont insérés les mots : « ou en cas d'impossibilité de subir les épreuves résultant d'une incapacité physique attestée par le médecin requis » ;
+d) Au douzième alinéa, après le mot : « dépistage », sont insérés les mots : «, ou de l'impossibilité de subir les épreuves résultant d'une incapacité physique attestée par le médecin requis, » ;
+e) Le vingt-deuxième alinéa est ainsi modifié :
+
+-les mots : « et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints » sont supprimés et, après le mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique, qui sont soit réalisées immédiatement et sur les lieux, soit précédées d'» ;
+-est ajoutée une phrase ainsi rédigée : « Sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. » ;
+
+2° L'article L. 244-1 est ainsi modifié :
+a) Au neuvième alinéa, après la première occurrence du mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique qui peuvent être précédées des » ;
+b) Au onzième alinéa, après le mot : « subir », sont insérés les mots : « ou en cas d'impossibilité de subir les épreuves résultant d'une incapacité physique attestée par le médecin requis » ;
+c) Le vingt et unième alinéa est ainsi modifié :
+
+-les mots : « et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints » sont supprimés et, après le mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique, qui sont soit réalisées immédiatement et sur les lieux, soit précédées d'» ;
+-est ajoutée une phrase ainsi rédigée : « Sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. » ;
+
+3° L'article L. 245-1 est ainsi modifié :
+a) Au neuvième alinéa, après la première occurrence du mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique qui peuvent être précédées des » ;
+b) Au onzième alinéa, après le mot : « subir », sont insérés les mots : « ou en cas d'impossibilité de subir les épreuves résultant d'une incapacité physique attestée par le médecin requis » ;
+c) Le vingt et unième alinéa est ainsi modifié :
+
+-les mots : « et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire adjoints » sont supprimés et, après le mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique, qui sont soit réalisées immédiatement et sur les lieux, soit précédées d'» ;
+-est ajoutée une phrase ainsi rédigée : « Sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. »
+L'article 31 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité est complété par un alinéa ainsi rédigé :
+« Le II de l'article 36 est applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, dans sa rédaction résultant de la loi n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés. »
+Les dispositions du II de l'article 25 de la présente loi sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+Le 1° du VI de l'article 8 de l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs est ainsi rédigé :
+« 1° Au premier alinéa des articles L. 155-1, L. 156-1, L. 157-1 et L. 158-1, la référence mentionnée entre les mots : “ dans leur rédaction résultant de ” et les mots : “, les dispositions suivantes : ” est remplacée par la référence : “ l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs ” ; ».
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Titre VI : DISPOSITIONS DIVERSES
+I.-Après l'article L. 557-10 du code de l'environnement, sont insérés des articles L. 557-10-1 et L. 557-10-2 ainsi rédigés :
+
+« Art. L. 557-10-1.-Lorsqu'une personne physique acquiert auprès d'un opérateur économique des articles pyrotechniques destinés au divertissement relevant des catégories définies par arrêté du ministre de l'intérieur, l'opérateur est tenu d'enregistrer la transaction et l'identité de l'acquéreur. Les documents consignant cet enregistrement sont tenus à la disposition des agents habilités de l'Etat.
+
+« Art. L. 557-10-2.-Les personnes physiques ou morales commercialisant des articles pyrotechniques destinés au divertissement peuvent refuser de conclure toute transaction visant à acquérir de tels articles s'il est raisonnable de considérer que cette transaction présente un caractère suspect, en raison notamment de sa nature ou des circonstances.
+« Toute tentative de transaction suspecte fait l'objet d'un signalement auprès d'un service désigné par décision du ministre de l'intérieur. »
+
+II.-Le présent article entre en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+La section 6 du chapitre VII du titre V du livre V du code de l'environnement est complétée par un article L. 557-60-1 ainsi rédigé :
+
+« Art. L. 557-60-1.-Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait :
+« 1° Pour les opérateurs économiques, de mettre des articles pyrotechniques à disposition des personnes physiques ne possédant pas les connaissances techniques particulières ou ne répondant pas aux conditions d'âge exigées par la réglementation pour les acquérir, les détenir, les manipuler ou les utiliser, en violation de l'article L. 557-9 ;
+« 2° D'acquérir, de détenir, de manipuler ou d'utiliser des articles pyrotechniques sans posséder les connaissances techniques particulières exigées par la réglementation à cet effet, en violation de l'article L. 557-8.
+« Les infractions définies au présent article sont punies d'un an d'emprisonnement et de 15 000 € d'amende lorsqu'elles sont commises au moyen de l'utilisation d'un réseau de communications électroniques. »
+L'article L. 132-4 du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase du second alinéa, le nombre : « 10 000 » est remplacé par le nombre : « 5 000 » ;
+2° Il est ajouté un alinéa ainsi rédigé :
+« Dans les communes de plus de 15 000 habitants, le maire charge un membre du conseil municipal ou un agent public territorial du suivi, de l'animation et de la coordination des travaux du conseil local de sécurité et de prévention de la délinquance. »
+Après l'article L. 2352-1 du code de la défense, il est inséré un article L. 2352-1-1 ainsi rédigé :
+
+« Art. L. 2352-1-1.-L'accès aux formations à l'emploi de produits explosifs est subordonné à l'obtention d'une autorisation préalable, qui peut être délivrée après les enquêtes administratives prévues à l'article L. 114-1 du code de la sécurité intérieure, destinée à vérifier que le comportement des personnes intéressées n'est pas incompatible avec la manipulation ou l'utilisation de ces produits.
+« La liste des formations mentionnées au premier alinéa du présent article et les modalités d'application du présent article sont définies par décret en Conseil d'Etat. »
+La section 2 du chapitre II du titre III du livre Ier du code de la sécurité intérieure est ainsi modifiée :
+1° A la fin de l'intitulé, les mots : « dans le département » sont supprimés ;
+2° Il est ajouté un article L. 132-10-2 ainsi rédigé :
+
+« Art. L. 132-10-2.-Lorsque, en application de l'article L. 132-4, un conseil local de sécurité et de prévention de la délinquance est mis en place, le procureur de la République ou son représentant peut créer et présider un ou plusieurs groupes locaux de traitement de la délinquance. Les missions et la composition de ces groupes sont précisées par décret. »
+
+## Titre V : SÉCURITÉ DANS LES TRANSPORTS ET SÉCURITÉ ROUTIÈRE
+L'article L. 2251-1-1 du code des transports est ainsi modifié :
+1° Au premier alinéa, après la seconde occurrence du mot : « service », sont insérés les mots : «, des titulaires d'une convention d'occupation du domaine public ferroviaire dans une gare de voyageurs ou une autre installation de service reliées au réseau ferré national » ;
+2° Au deuxième alinéa, après le mot : « ferroviaire », sont insérés les mots : « et routier pour les services organisés en application du 2° de l'article L. 2121-3 ».
+Dans les départements de plus d'un million d'habitants, le représentant de l'Etat réunit les autorités organisatrices de transports collectifs terrestres et leurs exploitants, aux fins d'élaborer et de conclure le contrat prévu à l'article L. 1631-4 du code des transports avant le 31 décembre 2022.
+Au premier alinéa de l'article L. 114-2 du code de la sécurité intérieure, après le mot : « sûreté », sont insérés les mots : « ou d'un gestionnaire d'infrastructure ».
+I. - A titre expérimental, les opérateurs de transport public ferroviaire de voyageurs sont autorisés à mettre en œuvre la captation, la transmission et l'enregistrement d'images prises sur la voie publique et dans des lieux ouverts au public, au moyen de caméras frontales embarquées sur les matériels roulants qu'ils exploitent.
+Les traitements prévus au présent article ont exclusivement pour finalité d'assurer la prévention et l'analyse des accidents ferroviaires ainsi que la formation des personnels de conduite et de leur hiérarchie.
+Les enregistrements comportant des données à caractère personnel, hors les cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de trente jours.
+Ces enregistrements sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ainsi qu'au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), notamment en ce qui concerne le contrôle de la Commission nationale de l'informatique et des libertés et le droit d'accès aux enregistrements.
+Le public est informé, par une signalétique spécifique, de l'équipement du moyen de transport par une caméra. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre chargé des transports.
+Les modalités d'application et d'utilisation des données collectées sont précisées par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. Ce décret précise les mesures techniques mises en œuvre pour garantir la sécurité des enregistrements et assurer la traçabilité des accès aux images.
+II. - L'expérimentation prévue au I s'applique pour une durée de trois ans à compter de la publication de la présente loi.
+III. - L'expérimentation prévue au présent article fait l'objet d'une évaluation dans les deux ans suivant son entrée en vigueur, remise par le Gouvernement au Parlement et à la Commission nationale de l'informatique et des libertés, afin d'évaluer l'opportunité du maintien des mesures qu'elle prévoit.
+L'article L. 1632-2 du code des transports est ainsi modifié :
+1° A la première phrase du premier alinéa, les mots : « imminente d'une atteinte grave » sont remplacés par les mots : « d'une atteinte » ;
+2° Le deuxième alinéa est ainsi modifié :
+a) Les mots : « s'effectue » sont remplacés par les mots : « peut s'effectuer » ;
+b) Les mots : « et est strictement » sont remplacés par les mots : «, auquel cas elle est ».
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+I.-L'article L. 2251-4-1 du code des transports est ainsi modifié :
+1° Au premier alinéa, les mots : « en tous lieux » sont supprimés ;
+2° Le sixième alinéa est ainsi rédigé :
+« L'enregistrement ne peut avoir lieu hors des emprises immobilières nécessaires à l'exploitation des services de transport mentionnées aux articles L. 2251-1-1 à L. 2251-1-3, ni hors des véhicules de transport public de personnes mentionnés aux mêmes articles L. 2251-1-1 à L. 2251-1-3 qui y sont affectés. Il ne peut avoir lieu sur la voie publique. » ;
+3° A la fin du septième alinéa, les mots : « six mois » sont remplacés par les mots : « trente jours ».
+II.-Les II et III de l'article 2 de la loi n° 2016-339 du 22 mars 2016 relative à la prévention et à la lutte contre les incivilités, contre les atteintes à la sécurité publique et contre les actes terroristes dans les transports collectifs de voyageurs sont abrogés.
+III.-A la fin de l'avant-dernier alinéa du I de l'article 113 de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités, les mots : « six mois » sont remplacés par les mots : « trente jours ».
+Le I de l'article 113 de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités est complété par un alinéa ainsi rédigé :
+« Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. »
+Le chapitre IV du titre III du livre II du code de la route est ainsi modifié :
+1° L'article L. 234-3 est ainsi modifié :
+a) Le premier alinéa est ainsi modifié :
+
+-les mots : « et, sur l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints » sont supprimés ;
+-après le mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique, qui peuvent être précédées des » ;
+-est ajoutée une phrase ainsi rédigée : « Sur l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré l'auteur présumé d'une infraction punie par le présent code de la peine complémentaire de suspension du permis de conduire ou le conducteur ou l'accompagnateur de l'élève conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel. » ;
+
+b) Au début du second alinéa, le mot : « Ils » est remplacé par les mots : « Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents et, sur l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints » ;
+2° L'article L. 234-4 est ainsi modifié :
+a) Au premier alinéa, après le mot : « subir », sont insérés les mots : « ou en cas d'impossibilité de les subir résultant d'une incapacité physique attestée par le médecin requis » ;
+b) Au deuxième alinéa, après le mot : « dépistage », sont insérés les mots : « ou de l'impossibilité de les subir résultant d'une incapacité physique attestée par le médecin requis » ;
+3° L'article L. 234-9 est ainsi modifié :
+a) Le premier alinéa est ainsi modifié :
+
+-les mots : « et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints » sont supprimés ;
+-après la seconde occurrence du mot : « des », sont insérés les mots : « vérifications destinées à établir l'état alcoolique, qui sont soit réalisées immédiatement et sur les lieux, soit précédées d'» ;
+-est ajoutée une phrase ainsi rédigée : « Sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. » ;
+
+b) Les deuxième et dernier alinéas sont supprimés.
+La seconde phrase du quatrième alinéa de l'article L. 521-1 du code de la sécurité intérieure est complétée par les mots : «, et aux épreuves de dépistage mentionnées aux deux premiers alinéas de l'article L. 235-2 dudit code, sur l'ordre et sous la responsabilité des officiers de police judiciaire, dans les conditions prévues à l'avant-dernier alinéa du même article L. 235-2 ».
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+
+## Titre IV : DISPOSITIONS RELATIVES AUX FORCES DE SÉCURITÉ INTÉRIEURE
+Après l'article 721-1-1 du code de procédure pénale, sont insérés des articles 721-1-2 et 721-1-3 ainsi rédigés :
+
+« Art. 721-1-2.-Les personnes condamnées à une peine privative de liberté pour une ou plusieurs infractions mentionnées aux articles 221-4,222-3,222-8,222-10 et 222-12 du code pénal ne bénéficient pas des crédits de réduction de peine mentionnés à l'article 721 du présent code lorsque ces infractions ont été commises au préjudice d'une personne investie d'un mandat électif public, d'un magistrat, d'un militaire de la gendarmerie nationale, d'un militaire déployé sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, d'un fonctionnaire de la police nationale, des douanes ou de l'administration pénitentiaire, d'un agent de police municipale, d'un sapeur-pompier professionnel ou volontaire ou de toute autre personne dépositaire de l'autorité publique. Elles peuvent toutefois bénéficier d'une réduction de peine dans les conditions définies à l'article 721-1 du présent code.
+« Une réduction de peine peut être accordée aux personnes condamnées mentionnées au premier alinéa du présent article qui ont donné des preuves suffisantes de bonne conduite.
+« Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne peut excéder un mois pour la première année d'incarcération, trois semaines pour les années suivantes et, pour une peine d'emprisonnement de moins d'un an ou pour la partie de peine inférieure à une année pleine, sept jours par trimestre ; pour les peines supérieures à un an, le total de la réduction correspondant aux sept jours par trimestre ne peut toutefois excéder trois semaines.
+« Elle est prononcée en une seule fois lorsque la durée de l'incarcération est inférieure à une année et par fractions annuelles dans le cas contraire. Toutefois, pour l'incarcération subie sous le régime de la détention provisoire, elle est prononcée, le cas échéant, dans un délai de deux mois à compter de la date à laquelle la condamnation est devenue définitive.
+« Dans l'année suivant son octroi, et en cas de mauvaise conduite du condamné en détention, la réduction de peine peut être rapportée en tout ou en partie par le juge de l'application des peines après avis de la commission de l'application des peines.
+« Pour l'application du présent article, la situation de chaque condamné est examinée au moins une fois par an.
+
+« Art. 721-1-3.-Lorsque plusieurs peines privatives de liberté sont confondues et qu'elles sont soumises à plus d'un des régimes de réduction de peine prévus aux articles 721,721-1-1 et 721-1-2, le régime qui s'applique est celui de la plus longue peine encourue ou, en cas de peines encourues égales, le régime le plus strict. Les crédits de réduction de peine qui correspondaient à chacune des peines confondues sont caducs. »
+Le code pénal est ainsi modifié :
+1° Après le 4° de l'article 222-14-1, il est inséré un alinéa ainsi rédigé :
+« Les mêmes peines sont applicables en cas de violences commises dans les mêmes conditions à l'encontre du conjoint, d'un ascendant ou d'un descendant en ligne directe ou de toute autre personne vivant habituellement au domicile d'une personne mentionnée au premier alinéa, en raison des fonctions exercées par cette dernière. » ;
+2° L'article 222-15-1 est ainsi modifié :
+a) Après le mot : « encontre, », la fin du premier alinéa est ainsi rédigée : « soit à l'occasion de l'exercice de ses fonctions ou de sa mission, soit en raison de sa qualité, que l'auteur connaissait ou ne pouvait ignorer, des violences avec usage ou menace d'une arme. » ;
+b) Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Constitue également une embuscade le fait d'attendre, dans les mêmes conditions, le conjoint, un ascendant ou un descendant en ligne directe ou toute autre personne vivant habituellement au domicile d'une personne mentionnée au premier alinéa dans le but, caractérisé par un ou plusieurs faits matériels, de commettre à son encontre, en raison des fonctions exercées par cette dernière, des violences avec usage ou menace d'une arme. »
+I.-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]
+II.-Après l'article 226-16-1 du code pénal, il est inséré un article 226-16-2 ainsi rédigé :
+
+« Art. 226-16-2.-Le fait de procéder ou de faire procéder à un traitement de données à caractère personnel relatives à des fonctionnaires ou à des personnes chargées d'une mission de service public en raison de leur qualité hors des finalités prévues par le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE (règlement général sur la protection des données) et par la loi n° 78-17 du 6 janvier 1978 précitée est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende. »
+Le chapitre V du titre Ier du livre III du code de la sécurité intérieure est complété par un article L. 315-3 ainsi rédigé :
+
+« Art. L. 315-3.-Le fait pour un fonctionnaire de la police nationale ou un militaire de la gendarmerie nationale de porter son arme hors service dans des conditions définies par décret en Conseil d'Etat ne peut lui être opposé lors de l'accès à un établissement recevant du public. »
+Le deuxième alinéa de l'article L. 2338-3 du code de la défense est ainsi rédigé :
+« Les militaires déployés sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du présent code peuvent faire usage de leurs armes dans les conditions prévues à l'article L. 435-1 du code de la sécurité intérieure. Ils peuvent également faire usage de matériels appropriés, conformes à des normes techniques définies par arrêté conjoint des ministres de l'intérieur et de la défense, pour immobiliser les moyens de transport dans les conditions prévues à l'article L. 214-2 du même code. »
+I.-Le chapitre Ier du titre Ier du livre IV du code de la sécurité intérieure est ainsi modifié :
+1° L'intitulé est ainsi rédigé : « Policiers adjoints » ;
+2° L'article L. 411-5 est ainsi modifié :
+a) Au premier alinéa, les mots : « d'adjoints de sécurité » sont remplacés par les mots : « de policiers adjoints » ;
+b) A la seconde phrase du second alinéa, les mots : « adjoints de sécurité » sont remplacés par les mots : « policiers adjoints » ;
+3° A la première phrase du second alinéa de l'article L. 411-6, les mots : « d'adjoint de sécurité » sont remplacés par les mots : « de policier adjoint » ;
+4° Au 2° de l'article L. 411-7, les mots : « d'adjoint de sécurité » sont remplacés par les mots : « de policier adjoint ».
+II.-Au 1° ter de l'article 21 du code de procédure pénale, les mots : « adjoints de sécurité mentionnés à l'article 36 de la loi n° 95-73 d'orientation et de programmation relative à la sécurité » sont remplacés par les mots : « policiers adjoints mentionnés à l'article L. 411-5 du code de la sécurité intérieure ».
+III.-Au premier alinéa du II de l'article 36 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, les mots : « adjoints de sécurité » sont remplacés par les mots : « policiers adjoints ».
+L'article L. 113-1 du code de la sécurité intérieure est ainsi modifié :
+1° Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« La protection prévue à l'article 11 de la loi n° 83-634 du 13 juillet 1983 précitée et à l'article L. 4123-10 du code de la défense bénéficie également aux personnes mentionnées aux deux premiers alinéas du présent article entendues dans le cadre de l'audition libre. » ;
+2° Au troisième alinéa, les mots : « alinéas précédents » sont remplacés par les mots : « premiers alinéas ».
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-817 DC du 20 mai 2021.]

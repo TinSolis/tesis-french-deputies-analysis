@@ -1,0 +1,853 @@
+LOI | NOR: SSAX1917211L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont délibéré,
+L'Assemblée nationale a adopté,
+Vu la décision du Conseil constitutionnel n° 2021-821 DC du 29 juillet 2021 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2021-1017 du 2 août 2021 relative à la bioéthique (1)
+
+## Titre VI : ASSURER UNE GOUVERNANCE BIOÉTHIQUE ADAPTÉE AU RYTHME DES AVANCÉES RAPIDES DES SCIENCES ET DES TECHNIQUES
+I.-Le chapitre II du titre Ier du livre IV de la première partie du code de la santé publique est ainsi modifié :
+1° Le premier alinéa de l'article L. 1412-1 est complété par les mots : « ou par les conséquences sur la santé des progrès de la connaissance dans tout autre domaine » ;
+2° L'article L. 1412-1-1 est ainsi modifié :
+a) Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+b) A la première phrase du même premier alinéa, les mots : « soulevés par les progrès de la connaissance dans les domaines de la biologie, de la médecine et de la santé doit être » sont remplacés par les mots : « mentionnés à l'article L. 1412-1 est » ;
+c) Il est ajouté un II ainsi rédigé :
+« II.-Le comité anime, chaque année, des débats publics sur un ou plusieurs des problèmes éthiques et des questions de société mentionnés à l'article L. 1412-1, en lien avec les espaces de réflexion éthique mentionnés à l'article L. 1412-6. » ;
+3° L'article L. 1412-2 est ainsi rédigé :
+
+« Art. L. 1412-2.-I.-Le comité est une institution indépendante qui comprend, outre son président, nommé par le Président de la République, quarante-cinq membres :
+« 1° Cinq personnalités désignées par le Président de la République et appartenant aux principales familles philosophiques et spirituelles ;
+« 2° Un député et un sénateur ;
+« 3° Un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat, et un membre de la Cour de cassation, désigné par le premier président de la Cour de cassation ;
+« 4° Quinze personnalités qualifiées choisies en raison de leur compétence et de leur intérêt pour les problèmes d'éthique, sur proposition de ministres dont la liste est fixée par décret de façon à couvrir les domaines mentionnés à l'article L. 1412-1 ;
+« 5° Quinze personnalités appartenant aux secteurs de la recherche et de la santé proposées par des organismes dont la liste est fixée par décret de façon à couvrir les domaines mentionnés au même article L. 1412-1 ;
+« 6° Six représentants d'associations de personnes malades et d'usagers du système de santé, d'associations de personnes handicapées, d'associations familiales et d'associations œuvrant dans le domaine de la protection des droits des personnes.
+« Les personnes mentionnées aux 4° à 6° du présent I sont nommées par décret.
+« II.-Le président et les autres membres du comité mentionné au I sont nommés pour une durée de trois ans, renouvelable une fois.
+« III.-Parmi les membres du comité autres que son président, l'écart entre le nombre de femmes et le nombre d'hommes ne peut être supérieur à un.
+« IV.-En cas de décès, de démission ou de cessation de fonctions pour toute autre cause, le membre désigné à la suite d'une vacance de poste pour la durée du mandat restant à courir est du même sexe que celui qu'il remplace. » ;
+
+4° L'article L. 1412-5 est ainsi rédigé :
+
+« Art. L. 1412-5.-Un décret en Conseil d'Etat précise les conditions de désignation des membres du comité mentionnés aux 1°, 3°, 4°, 5° et 6° du I de l'article L. 1412-2, notamment les modalités suivant lesquelles est respecté l'écart mentionné au III du même article L. 1412-2 et celles suivant lesquelles est organisé un renouvellement par moitié de l'instance, et définit ses modalités de saisine, d'organisation et de fonctionnement. »
+
+II.-Le 3° du I entre en vigueur le 26 décembre 2021.
+III.-Les mandats des membres du comité nommés en remplacement de ceux dont le mandat expire après la publication de la présente loi prennent fin le 25 décembre 2021.
+IV.-Les mandats des membres mentionnés au III du présent article ne sont pas comptabilisés comme un mandat pour l'application du II de l'article L. 1412-2 du code de la santé publique dans sa rédaction résultant de la présente loi.
+I.-Le chapitre VIII du titre Ier du livre IV de la première partie du code de la santé publique est ainsi modifié :
+1° L'article L. 1418-1 est ainsi modifié :
+a) Le 4° bis est complété par une phrase ainsi rédigée : « A ce titre, elle propose des règles d'attribution des gamètes et des embryons en application du dernier alinéa de l'article L. 2141-1 ; »
+b) Au 6°, les mots : « et d'ovocytes » sont remplacés par les mots : «, d'ovocytes et de cellules souches hématopoïétiques » ;
+c) A la fin du 9°, les mots : « et d'élaborer un référentiel permettant d'en évaluer la qualité » sont supprimés ;
+d) Le b du 10° est ainsi rédigé :
+« b) Au VIII de l'article L. 2131-1, à l'avant-dernier alinéa de l'article L. 2131-4 ainsi qu'aux articles L. 2131-4-1, L. 2151-5, L. 2151-8 et L. 2151-9 ; »
+e) Le 13° est ainsi rédigé :
+« 13° De gérer les traitements de données relatifs aux tiers donneurs mentionnés à l'article L. 2143-1, à leurs dons et aux enfants nés de ces dons, à l'exclusion des données médicales recueillies après le don ; »
+f) Après le même 13°, sont insérés des 14° et 15° ainsi rédigés :
+« 14° D'être destinataire des déclarations de protocoles de recherche sur les cellules souches embryonnaires humaines et sur les cellules souches pluripotentes induites ;
+« 15° D'assurer une information permanente du Parlement et du Gouvernement sur le développement des connaissances et des techniques dans le domaine des neurosciences. » ;
+2° Au premier alinéa de l'article L. 1418-2, la référence : « et 11° » est remplacée par les références : «, 11° et 14° » ;
+3° L'article L. 1418-3 est ainsi modifié :
+a) Le deuxième alinéa est remplacé par huit alinéas ainsi rédigés :
+« Le conseil d'administration de l'agence est composé, en outre de son président :
+« 1° D'une majorité de représentants :
+« a) De l'Etat ;
+« b) Des organismes d'assurance maladie ;
+« c) Des établissements publics administratifs nationaux à caractère sanitaire et des établissements publics de recherche concernés par les activités de l'agence ;
+« 2° De personnalités qualifiées choisies en raison de leurs compétences dans les domaines relevant des missions de l'agence ;
+« 3° De représentants d'associations d'usagers du système de santé agréées en application de l'article L. 1114-1 ou d'autres associations dont l'objet entre dans les domaines de compétence de l'agence ;
+« 4° De représentants du personnel de l'agence. » ;
+b) A la seconde phrase de l'avant-dernier alinéa, les mots : « interdire ou suspendre la réalisation d'un protocole de recherche autorisé, ainsi que » sont supprimés ;
+4° L'article L. 1418-4 est ainsi modifié :
+a) Le deuxième alinéa est ainsi rédigé :
+« Outre son président, le conseil d'orientation comprend : » ;
+b) Au 1°, les mots : « du Parlement, » sont supprimés ;
+c) Le début du 4° est ainsi rédigé : « 4° Des représentants d'associations d'usagers du système de santé agréées en application de l'article L. 1114-1, d'autres associations dont l'objet entre dans les domaines de compétence de l'agence, d'associations de personnes handicapées … (le reste sans changement) ; »
+d) Après le même 4°, il est inséré un 5° ainsi rédigé :
+« 5° Trois députés et trois sénateurs. »
+II.-Le 4° du I entre en vigueur le 22 juin 2021. Les mandats des membres du conseil d'orientation arrivant à expiration avant cette date sont prorogés jusqu'à celle-ci.
+
+## Titre VII : DISPOSITIONS FINALES
+I. - Dans les conditions prévues à l'article 38 de la Constitution, afin de prendre en compte les spécificités des statuts, les spécificités locales et les différences d'organisation des systèmes de santé et de sécurité sociale de Mayotte, de Saint-Pierre-et-Miquelon, de Wallis-et-Futuna, de la Polynésie française et de la Nouvelle-Calédonie, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de dix-huit mois à compter de la promulgation de la présente loi, les mesures relevant du domaine de la loi visant à :
+1° Adapter les dispositions de la présente loi et, le cas échéant, des ordonnances prises en application des II et III aux caractéristiques et contraintes en matière de santé et de sécurité sociale particulières à Saint-Pierre-et-Miquelon et à Mayotte ;
+2° Etendre et adapter les dispositions de la présente loi et, le cas échéant, des ordonnances prises en application des II et III ainsi que toutes les dispositions du code de la santé publique, du code pénal et du code civil nécessaires à son application et ayant pour objet d'assurer sa cohérence à Wallis-et-Futuna et, en tant qu'elles relèvent des compétences de l'Etat, en Nouvelle-Calédonie et en Polynésie française.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+II. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai d'un an à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi afin :
+1° D'apporter aux dispositions des livres II à IV de la cinquième partie du code de la santé publique applicables aux dispositifs médicaux et aux dispositifs médicaux de diagnostic in vitro les adaptations rendues nécessaires par le règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE et par le règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, afin de :
+a) Mettre en cohérence le système national de matériovigilance et de réactovigilance avec les exigences européennes ;
+b) Renforcer le rôle de l'Agence nationale de sécurité du médicament et des produits de santé en tant qu'autorité compétente nationale ;
+c) Préciser les modalités de traçabilité des dispositifs médicaux, notamment au sein des établissements de santé ;
+d) Procéder à toutes les mesures de coordination, d'abrogation et de simplification nécessaires ;
+2° D'apporter aux dispositions du titre II du livre Ier de la première partie du code de la santé publique, relatives aux recherches impliquant la personne humaine, les adaptations rendues nécessaires par le règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 précité et par le règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 précité, afin de préciser les modalités de réalisation des investigations cliniques et des études de performances qui devront être réalisées en application de ces mêmes règlements et de procéder à toutes les mesures de coordination, d'abrogation et de simplification nécessaires.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+III. - Dans les conditions prévues à l'article 38 de la Constitution, afin de mettre en cohérence la législation nationale en matière de médicaments avec le règlement (CE) n° 1394/2007 du Parlement européen et du Conseil du 13 novembre 2007 concernant les médicaments de thérapie innovante et modifiant la directive 2001/83/CE ainsi que le règlement (CE) n° 726/2004, le Gouvernement est habilité à prendre par voie d'ordonnance, dans un délai d'un an à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à :
+1° Supprimer le régime juridique des préparations de thérapie génique et de thérapie cellulaire xénogénique ;
+2° Exclure de la définition des produits cellulaires à finalité thérapeutique les préparations cellulaires ayant fait l'objet de modifications substantielles.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+IV. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toute mesure relevant du domaine de la loi afin de modifier, en tant que de besoin, les codes et les lois non codifiées pour les mettre en cohérence avec les dispositions de la présente loi et des ordonnances prises pour son application. L'ordonnance est prise à droit constant, sous réserve des modifications nécessaires pour assurer le respect de la hiérarchie des normes, améliorer la cohérence rédactionnelle des textes, harmoniser l'état du droit, remédier aux erreurs matérielles et aux insuffisances de codification et abroger les dispositions obsolètes ou devenues sans objet.
+L'ordonnance est prise dans un délai de dix-huit mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+La présente loi fait l'objet d'un nouvel examen par le Parlement dans un délai maximal de sept ans à compter de sa promulgation.
+Elle fait l'objet, dans un délai de quatre ans, d'une évaluation de son application par l'Office parlementaire d'évaluation des choix scientifiques et technologiques.
+Dans un délai de deux ans à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport présentant l'état des stocks de gamètes en France et les conditions de recours à ces derniers.
+Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'application des dispositions de l'arrêté du 16 août 2016 portant homologation des règles de bonnes pratiques relatives à l'entretien avec les proches en matière de prélèvement d'organes et de tissus. Ce rapport évalue notamment l'organisation des prélèvements au sein des établissements.
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Titre V : POURSUIVRE L'AMÉLIORATION DE LA QUALITÉ ET DE LA SÉCURITÉ DES PRATIQUES DU DOMAINE BIOÉTHIQUE
+
+### Chapitre Ier : Renforcer la qualité et la sécurité des pratiques
+Le chapitre Ier du titre III du livre Ier de la deuxième partie du code de la santé publique est ainsi modifié :
+1° L'article L. 2131-1 est ainsi modifié :
+a) Le I est ainsi rédigé :
+« I.-La médecine fœtale s'entend des pratiques médicales, notamment cliniques, biologiques et d'imagerie, ayant pour but le diagnostic et l'évaluation pronostique ainsi que, le cas échéant, le traitement, y compris chirurgical, d'une affection d'une particulière gravité ou susceptible d'avoir un impact sur le devenir du fœtus ou de l'enfant à naître. » ;
+b) Le III est ainsi rédigé :
+« III.-Le prescripteur, médecin ou sage-femme, communique les résultats de ces examens à la femme enceinte et, si elle le souhaite, à l'autre membre du couple, lorsque la femme vit en couple, et leur donne toute l'information nécessaire à leur compréhension.
+« En cas de risque avéré, la femme enceinte et, si elle le souhaite, l'autre membre du couple, lorsque la femme vit en couple, sont pris en charge par un médecin et orientés, si la femme enceinte ou le médecin en fait la demande, vers un centre pluridisciplinaire de diagnostic prénatal. Ils reçoivent, sauf opposition de leur part, des informations sur les caractéristiques de l'affection suspectée, les moyens de la détecter et les possibilités de prévention, de soin ou de prise en charge adaptée du fœtus puis de l'enfant. Une liste des associations spécialisées et agréées dans l'accompagnement des patients atteints de l'affection suspectée et de leur famille leur est proposée. » ;
+c) Le VI est complété par deux alinéas ainsi rédigés :
+« La femme enceinte est également informée que certains examens de biologie médicale à visée diagnostique mentionnés au IV peuvent révéler des caractéristiques génétiques fœtales sans relation certaine avec l'indication initiale de l'examen et que, dans ce cas, des investigations supplémentaires, notamment des examens des caractéristiques génétiques de chaque parent, peuvent être réalisées dans les conditions du dispositif prévu à l'article L. 1131-1.
+« Le médecin mentionné au IV du présent article communique à la femme enceinte ainsi que, si cette dernière le souhaite, à l'autre membre du couple, lorsque la femme vit en couple, sauf opposition de leur part, les résultats de ces examens et leur donne toute l'information utile à leur compréhension. Si les résultats le justifient, il les adresse à un médecin qualifié en génétique, le cas échéant membre d'une équipe pluridisciplinaire. » ;
+d) Après le même VI, il est inséré un VI bis ainsi rédigé :
+« VI bis.-Lorsqu'est diagnostiquée chez un fœtus issu d'un don de gamètes ou d'un accueil d'embryon une anomalie génétique pouvant être responsable d'une affection grave justifiant des mesures de prévention, y compris de conseil génétique, ou de soins, le médecin prescripteur saisit le responsable du centre d'assistance médicale à la procréation afin que ce dernier procède à l'information du tiers donneur dans les conditions prévues au II de l'article L. 1131-1. » ;
+e) Il est ajouté un IX ainsi rédigé :
+« IX.-Les modalités d'information de l'autre membre du couple prévues au III et au dernier alinéa du VI sont fixées par décret en Conseil d'Etat. » ;
+2° Après le même article L. 2131-1, il est inséré un article L. 2131-1-1 ainsi rédigé :
+
+« Art. L. 2131-1-1.-Le ministre chargé de la santé détermine :
+« 1° Par arrêté pris sur proposition de l'Agence de la biomédecine, les recommandations de bonnes pratiques relatives aux modalités d'accès, de prise en charge des femmes enceintes et des couples, d'organisation et de fonctionnement des centres pluridisciplinaires de diagnostic prénatal mentionnés au VIII de l'article L. 2131-1 et les recommandations de bonnes pratiques relatives au diagnostic prénatal et au diagnostic préimplantatoire ainsi que les critères médicaux justifiant la communication à la femme enceinte et, le cas échéant, à l'autre membre du couple, des caractéristiques génétiques fœtales sans relation certaine avec l'indication initiale de l'examen mentionné au VI du même article L. 2131-1 ;
+« 2° Par arrêté pris sur proposition de l'Agence de la biomédecine et après avis de l'Agence nationale de sécurité du médicament et des produits de santé, les recommandations de bonnes pratiques relatives aux modalités de prescription, de réalisation et de communication des résultats des examens de biologie médicale mentionnés aux II et VII dudit article L. 2131-1 ;
+« 3° Par arrêté pris après avis de l'Agence de la biomédecine et de l'Agence nationale de sécurité du médicament et des produits de santé, les recommandations de bonnes pratiques relatives aux modalités de réalisation des examens d'imagerie concourant au diagnostic prénatal. » ;
+
+3° Aux troisième et cinquième alinéas et à la première phrase du dernier alinéa de l'article L. 2131-4 et aux deuxième et avant-dernier alinéas de l'article L. 2131-4-1, après le mot : « couple », sont insérés les mots : « ou la femme non mariée ».
+L'article L. 2131-4-1 du code de la santé publique est ainsi modifié :
+1° Après le quatrième alinéa, il est inséré un alinéa ainsi rédigé :
+« Le dernier alinéa de l'article L. 2141-3 n'est pas opposable au diagnostic préimplantatoire autorisé dans les conditions énoncées aux quatre premiers alinéas du présent article. » ;
+2° A la première phrase du dernier alinéa, après le mot : « diagnostic », sont insérés les mots : «, accompagnée, le cas échéant, de nouvelles tentatives de fécondation in vitro, » ;
+3° La dernière phrase du même dernier alinéa est supprimée.
+Après l'article L. 1411-6 du code de la santé publique, il est inséré un article L. 1411-6-1 ainsi rédigé :
+
+« Art. L. 1411-6-1.-Le dépistage néonatal recourant à des examens de biologie médicale, y compris à des examens de caractéristiques génétiques, constitue un programme de santé national au sens de l'article L. 1411-6.
+« Les modalités d'organisation de ce dépistage et la liste des maladies sur lesquelles il porte sont fixées par arrêté des ministres chargés de la santé et de la sécurité sociale, après avis de la Haute Autorité de santé et de l'Agence de la biomédecine.
+« Le dépistage néonatal est systématiquement proposé aux titulaires de l'autorité parentale de tous les nouveau-nés et, dans certains cas, des nouveau-nés qui présentent un risque particulier de développer l'une des maladies fixées par l'arrêté mentionné au deuxième alinéa du présent article.
+« Lorsque le dépistage néonatal recourt à un examen des caractéristiques génétiques, les dispositions du chapitre Ier du titre III du livre Ier de la présente partie sont adaptées par décret en Conseil d'Etat. Ce décret adapte notamment les modalités d'information de la parentèle prévues au I de l'article L. 1131-1 et les modalités de communication des résultats de l'examen des caractéristiques génétiques prévues à l'article L. 1131-1-3, pour les rendre applicables uniquement lorsqu'est diagnostiquée une anomalie génétique pouvant être responsable de l'une des maladies fixées par l'arrêté mentionné au deuxième alinéa du présent article et pour permettre la communication des résultats de cet examen aux parents ou aux personnes titulaires de l'autorité parentale par un professionnel de santé autre que celui l'ayant prescrit. »
+L'article L. 2213-1 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 2213-1.-I.-L'interruption volontaire d'une grossesse peut, à tout moment, être pratiquée si deux médecins membres d'une équipe pluridisciplinaire attestent, après que cette équipe a rendu son avis consultatif, soit que la poursuite de la grossesse met en péril grave la santé de la femme, soit qu'il existe une forte probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable au moment du diagnostic.
+« Lorsque l'interruption de grossesse est envisagée au motif que la poursuite de la grossesse met en péril grave la santé de la femme, l'équipe pluridisciplinaire chargée d'examiner la demande de la femme comprend au moins un médecin qualifié en gynécologie-obstétrique membre d'un centre pluridisciplinaire de diagnostic prénatal, un praticien spécialiste de l'affection dont la femme est atteinte, un médecin ou une sage-femme choisi par la femme et une personne qualifiée tenue au secret professionnel, qui peut être un assistant social ou un psychologue. Le médecin qualifié en gynécologie-obstétrique et le médecin qualifié dans le traitement de l'affection dont la femme est atteinte doivent exercer leur activité dans un établissement de santé.
+« Lorsque l'interruption de grossesse est envisagée au motif qu'il existe une forte probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable au moment du diagnostic, l'équipe pluridisciplinaire chargée d'examiner la demande de la femme est celle d'un centre pluridisciplinaire de diagnostic prénatal. Lorsque l'équipe du centre précité se réunit, un médecin ou une sage-femme choisi par la femme peut, à la demande de celle-ci, être associé à la concertation.
+« II.-Lorsqu'elle permet de réduire les risques d'une grossesse dont le caractère multiple met en péril la santé de la femme, des embryons ou des fœtus, l'interruption volontaire partielle d'une grossesse multiple peut être pratiquée avant la fin de la douzième semaine de grossesse si deux médecins, membres d'une équipe pluridisciplinaire chargée d'examiner la demande de la femme, attestent, après que cette équipe a rendu son avis consultatif, que les conditions médicales, notamment obstétricales et psychologiques, sont réunies. L'équipe pluridisciplinaire chargée d'examiner la demande de la femme est celle d'un centre pluridisciplinaire de diagnostic prénatal ayant requis, si besoin, l'avis d'un médecin qualifié en psychiatrie ou, à défaut, d'un psychologue. Lorsque l'équipe du centre précité se réunit, un médecin ou une sage-femme choisi par la femme peut, à la demande de celle-ci, être associé à la concertation. Aucun critère relatif aux caractéristiques des embryons ou des fœtus, y compris leur sexe, ne peut être pris en compte pour l'interruption volontaire partielle d'une grossesse multiple.
+« III.-Dans les cas prévus aux I et II, préalablement à la réunion de l'équipe pluridisciplinaire compétente, la femme concernée ou le couple peut, à sa demande, être entendu par tout ou partie des membres de ladite équipe. »
+Le chapitre III du titre Ier du livre II de la deuxième partie du code de la santé publique est ainsi modifié :
+1° L'article L. 2213-2 est ainsi rédigé :
+
+« Art. L. 2213-2.-Si la femme est mineure non émancipée, le consentement de l'une des personnes investies de l'exercice de l'autorité parentale ou, le cas échéant, du représentant légal est recueilli avant la réalisation de l'interruption volontaire de grossesse pour motif médical mentionnée à l'article L. 2213-1.
+« Si la femme mineure non émancipée désire garder le secret, le médecin doit s'efforcer, dans l'intérêt de celle-ci, d'obtenir son consentement pour que l'une des personnes investies de l'exercice de l'autorité parentale ou, le cas échéant, le représentant légal soient consultés ou doit vérifier que cette démarche a été faite.
+« Si la mineure non émancipée ne veut pas effectuer cette démarche ou si le consentement n'est pas obtenu, l'interruption de grossesse pour motif médical ainsi que les actes médicaux et les soins qui lui sont liés peuvent être pratiqués à la demande de l'intéressée. Dans ce cas, la mineure se fait accompagner dans sa démarche par la personne majeure de son choix. » ;
+
+2° L'article L. 2213-3 est ainsi rédigé :
+
+« Art. L. 2213-3.-L'interruption de grossesse pour motif médical mentionnée à l'article L. 2213-1 ne peut être pratiquée que par un médecin.
+« Elle ne peut avoir lieu que dans un établissement de santé, public ou privé. » ;
+
+3° Sont ajoutés des articles L. 2213-4 et L. 2213-5 ainsi rédigés :
+
+« Art. L. 2213-4.-Un médecin qui refuse de pratiquer une interruption de grossesse pour motif médical doit informer, sans délai, l'intéressée de son refus et lui communiquer immédiatement le nom de praticiens susceptibles de réaliser cette intervention.
+
+« Art. L. 2213-5.-Les conditions d'application du présent chapitre sont déterminées par décret en Conseil d'Etat. »
+I.-Après le chapitre Ier du titre III du livre Ier de la deuxième partie du code de la santé publique, il est inséré un chapitre Ier bis ainsi rédigé :
+
+« Chapitre Ier bis
+« Enfants présentant une variation du développement génital
+
+« Art. L. 2131-6.-La prise en charge d'un enfant présentant une variation du développement génital est assurée après concertation des équipes pluridisciplinaires des centres de référence des maladies rares spécialisés, dans les conditions prévues à l'article L. 1151-1. Cette concertation établit le diagnostic ainsi que les propositions thérapeutiques possibles, y compris d'abstention thérapeutique, et leurs conséquences prévisibles, en application du principe de proportionnalité mentionné à l'article L. 1110-5. Ces informations et l'avis issus de la concertation sont portés au dossier médical de l'enfant. L'équipe du centre de référence chargée de la prise en charge de l'enfant assure une information complète et un accompagnement psychosocial approprié de l'enfant et de sa famille et veille à ce que ces derniers disposent du temps nécessaire pour procéder à un choix éclairé.
+« Lors de l'annonce du diagnostic, un membre de l'équipe pluridisciplinaire du centre assurant la prise en charge de l'enfant informe les titulaires de l'autorité parentale de l'existence d'associations spécialisées dans l'accompagnement des personnes présentant une variation du développement génital et, le cas échéant, de la possibilité d'accéder à un programme de préservation de la fertilité en application de l'article L. 2141-11.
+« Le consentement du mineur doit être systématiquement recherché s'il est apte à exprimer sa volonté et à participer à la décision. »
+
+II.-Le titre II du livre Ier du code civil est ainsi modifié :
+1° Après le premier alinéa de l'article 57, il est inséré un alinéa ainsi rédigé :
+« En cas d'impossibilité médicalement constatée de déterminer le sexe de l'enfant au jour de l'établissement de l'acte, le procureur de la République peut autoriser l'officier de l'état civil à ne pas faire figurer immédiatement le sexe sur l'acte de naissance. L'inscription du sexe médicalement constaté intervient à la demande des représentants légaux de l'enfant ou du procureur de la République dans un délai qui ne peut être supérieur à trois mois à compter du jour de la déclaration de naissance. Le procureur de la République ordonne de porter la mention du sexe en marge de l'acte de naissance et, à la demande des représentants légaux, de rectifier l'un des ou les prénoms de l'enfant. » ;
+2° Après le premier alinéa de l'article 99, il est inséré un alinéa ainsi rédigé :
+« La rectification de l'indication du sexe et, le cas échéant, des prénoms est ordonnée à la demande de toute personne présentant une variation du développement génital ou, si elle est mineure, à la demande de ses représentants légaux, s'il est médicalement constaté que son sexe ne correspond pas à celui figurant sur son acte de naissance. »
+III.-Dans un délai de dix-huit mois à compter de la publication de l'arrêté pris en application de l'article L. 1151-1 du code de la santé publique, le Gouvernement remet au Parlement un rapport relatif à l'activité et au fonctionnement des centres de référence des maladies rares compétents concernant la prise en charge des personnes présentant des variations du développement génital en France, au nombre d'actes médicaux réalisés en lien avec ces variations ainsi qu'au respect des recommandations internationales en matière de protocole de soins. Ce rapport peut faire l'objet d'un débat dans les conditions prévues par les règlements des assemblées parlementaires. Il s'accompagne d'éléments chiffrés quant au nombre de personnes concernées et quant à la nature des actes médicaux réalisés chaque année.
+I.-L'article L. 2141-11 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 2141-11.-I.-Toute personne dont la prise en charge médicale est susceptible d'altérer la fertilité ou dont la fertilité risque d'être prématurément altérée peut bénéficier du recueil ou du prélèvement et de la conservation de ses gamètes ou de ses tissus germinaux en vue de la réalisation ultérieure, à son bénéfice, d'une assistance médicale à la procréation, en vue de la préservation ou de la restauration de sa fertilité ou en vue du rétablissement d'une fonction hormonale.
+« Le recueil, le prélèvement et la conservation mentionnés au premier alinéa sont subordonnés au consentement de l'intéressé et, le cas échéant, à celui de l'un des parents investis de l'exercice de l'autorité parentale ou du tuteur lorsque l'intéressé est mineur, après information sur les conditions, les risques et les limites de la démarche et de ses suites. Dans l'année où elle atteint l'âge de la majorité, la personne dont les gamètes ou les tissus germinaux sont conservés en application du présent I reçoit de l'équipe pluridisciplinaire du centre où sont conservés ses gamètes ou ses tissus germinaux une information sur les conditions de cette conservation et les suites de la démarche.
+« Le consentement de la personne mineure doit être systématiquement recherché si elle est apte à exprimer sa volonté et à participer à la décision.
+« S'agissant des personnes majeures faisant l'objet d'une mesure de protection juridique avec représentation relative à la personne, l'article 458 du code civil s'applique.
+« Les procédés biologiques utilisés pour la conservation des gamètes et des tissus germinaux sont inclus dans la liste prévue à l'article L. 2141-1 du présent code, dans les conditions déterminées au même article L. 2141-1.
+« La modification de la mention du sexe à l'état civil ne fait pas obstacle à l'application du présent article.
+« II.-Les parents investis de l'exercice de l'autorité parentale d'une personne mineure dont les gamètes ou les tissus germinaux sont conservés en application du présent article sont contactés chaque année par écrit pour recueillir les informations utiles à la conservation, dont un éventuel changement de coordonnées.
+« Il ne peut être mis fin à la conservation des gamètes ou des tissus germinaux d'une personne mineure, même émancipée, qu'en cas de décès.
+« En cas de décès de la personne mineure dont les gamètes ou les tissus germinaux sont conservés, les parents investis de l'exercice de l'autorité parentale peuvent consentir par écrit :
+« 1° A ce que ses gamètes ou ses tissus germinaux fassent l'objet d'une recherche dans les conditions prévues aux articles L. 1243-3 et L. 1243-4 ;
+« 2° A ce qu'il soit mis fin à la conservation de ses gamètes ou de ses tissus germinaux.
+« Le consentement est révocable jusqu'à l'utilisation des gamètes ou des tissus germinaux ou jusqu'à ce qu'il soit mis fin à leur conservation.
+« Le délai mentionné au IV du présent article ne s'applique à la personne mineure, même émancipée, qu'à compter de sa majorité.
+« III.-La personne majeure dont les gamètes ou les tissus germinaux sont conservés en application du présent article est consultée chaque année. Elle consent par écrit à la poursuite de cette conservation.
+« Si elle ne souhaite plus poursuivre cette conservation ou si elle souhaite préciser les conditions de conservation en cas de décès, elle consent par écrit :
+« 1° A ce que ses gamètes fassent l'objet d'un don en application du chapitre IV du titre IV du livre II de la première partie ;
+« 2° A ce que ses gamètes ou ses tissus germinaux fassent l'objet d'une recherche dans les conditions prévues aux articles L. 1243-3 et L. 1243-4 ;
+« 3° A ce qu'il soit mis fin à la conservation de ses gamètes ou de ses tissus germinaux.
+« Dans tous les cas, ce consentement fait l'objet d'une confirmation par écrit à l'issue d'un délai de réflexion de trois mois à compter de la date du premier consentement.
+« Le consentement est révocable jusqu'à l'utilisation des gamètes ou des tissus germinaux ou jusqu'à ce qu'il soit mis fin à leur conservation.
+« IV.-En l'absence de réponse de la personne majeure durant dix années consécutives, il est mis fin à la conservation de ses gamètes ou de ses tissus germinaux. Le délai de dix années consécutives court à compter de la majorité de la personne.
+« Lorsque la personne atteint un âge ne justifiant plus l'intérêt de la conservation et en l'absence du consentement prévu aux 1° ou 2° du III, il est mis fin à cette conservation. Cette limite d'âge est fixée par un arrêté du ministre chargé de la santé, pris après avis de l'Agence de la biomédecine.
+« En cas de décès de la personne et en l'absence du consentement prévu aux mêmes 1° ou 2°, il est mis fin à la conservation des gamètes ou des tissus germinaux. »
+
+II.-En cas de décès de la personne et, si celle-ci est majeure, en l'absence de consentement à ce que ses gamètes fassent l'objet d'un don en application du chapitre IV du titre IV du livre II de la première partie du code de la santé publique ou à ce que ses gamètes ou ses tissus germinaux fassent l'objet d'une recherche dans les conditions prévues aux articles L. 1243-3 et L. 1243-4 du même code, il est mis fin à la conservation des gamètes et tissus germinaux conservés à la date de publication de la présente loi.
+
+### Chapitre II : Optimiser l'organisation des soins
+I.-L'article L. 1132-1 du code de la santé publique est ainsi modifié :
+1° Au premier alinéa, les mots : « sur prescription médicale et » sont supprimés ;
+2° Avant le dernier alinéa, il est inséré un alinéa ainsi rédigé :
+« Il peut prescrire certains examens de biologie médicale relevant du présent titre et du chapitre Ier du titre III du livre Ier de la deuxième partie du présent code, dont les résultats sont communiqués à la personne concernée par un médecin sous la responsabilité duquel le conseiller en génétique intervient, dans des conditions précisées par un décret en Conseil d'Etat pris après avis de l'Académie nationale de médecine. Ce décret précise également les conditions dans lesquelles le conseiller en génétique peut communiquer les résultats à la personne concernée, en accord avec le médecin sous la responsabilité duquel il intervient. »
+II.-Au dernier alinéa de l'article L. 4161-1 du code de la santé publique, après le mot : « vaccinations, », sont insérés les mots : « ni aux conseillers en génétique qui prescrivent des examens de biologie médicale en application de l'article L. 1132-1, ».
+I.-L'article L. 1131-1-3 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 1131-1-3.-I.-Par dérogation au deuxième alinéa de l'article L. 1111-2 et à l'article L. 1111-7, seul le médecin prescripteur de l'examen des caractéristiques génétiques est habilité à communiquer les résultats de cet examen à la personne concernée ou, s'agissant d'un majeur faisant l'objet d'une mesure de protection juridique avec représentation à la personne, à la personne chargée de la mesure de protection.
+« II.-Par dérogation à l'article L. 6211-11 et au II de l'article L. 6211-19, la communication du résultat de l'examen au prescripteur est faite par le laboratoire de biologie médicale autorisé en application de l'article L. 1131-2-1. Si un laboratoire de biologie médicale est intervenu pour transmettre l'échantillon, il est informé de cette communication par le laboratoire autorisé. »
+
+II.-Le VII de l'article L. 2131-1 du code de la santé publique est complété par un alinéa ainsi rédigé :
+« Si un laboratoire de biologie médicale est intervenu pour transmettre l'échantillon, la communication du résultat de l'examen au prescripteur est faite par le laboratoire de biologie médicale autorisé par dérogation à l'article L. 6211-11 et au II de l'article L. 6211-19. L'autre laboratoire est informé de cette communication par le laboratoire autorisé. »
+Le titre III du livre Ier de la première partie du code de la santé publique est ainsi modifié :
+1° Au début du chapitre préliminaire, tel qu'il résulte de l'article 14 de la présente loi, sont ajoutés des articles L. 1130-1 et L. 1130-2 ainsi rédigés :
+
+« Art. L. 1130-1.-L'examen des caractéristiques génétiques constitutionnelles consiste à analyser les caractéristiques génétiques d'une personne héritées ou acquises à un stade précoce du développement prénatal.
+« Cet examen et l'identification d'une personne par empreintes génétiques sont soumis aux articles 16-10 à 16-13 du code civil, notamment aux modalités de consentement de cette personne à de tels examens ou identifications, au présent titre ainsi que, le cas échéant, aux dispositions du titre II du présent livre relatives aux recherches impliquant la personne humaine.
+
+« Art. L. 1130-2.-L'examen des caractéristiques génétiques somatiques consiste à rechercher et à analyser les caractéristiques génétiques dont le caractère hérité ou transmissible est en première intention inconnu. Lorsque les résultats des examens des caractéristiques génétiques somatiques sont susceptibles de révéler des caractéristiques mentionnées à l'article L. 1130-1 ou rendent nécessaire la réalisation d'examens mentionnés au même article, la personne est invitée à se rendre à une consultation chez un médecin qualifié en génétique pour une prise en charge réalisée dans les conditions fixées au chapitre Ier du présent titre. La personne est informée de la possibilité d'une telle orientation avant la réalisation d'un examen destiné à analyser ses caractéristiques génétiques somatiques et susceptible de révéler des caractéristiques génétiques constitutionnelles. » ;
+
+2° Le 1° de l'article L. 1131-6 est ainsi rédigé :
+« 1° Les conditions dans lesquelles peuvent être prescrits et réalisés, dans l'intérêt des patients et de leur parentèle, les examens des caractéristiques génétiques d'une personne ou son identification par empreintes génétiques à des fins médicales ainsi que les conditions dans lesquelles peuvent être prescrits les examens des caractéristiques génétiques somatiques mentionnées à l'article L. 1130-2 ; ».
+I.-L'article L. 1211-8 du code de la santé publique est complété par un alinéa ainsi rédigé :
+« Ne sont pas non plus soumises aux dispositions du présent livre les selles collectées en application des articles L. 513-11-1 à L. 513-11-5 pour une utilisation à des fins thérapeutiques. »
+II.-Le titre III du livre Ier de la cinquième partie du code de la santé publique est complété par un chapitre XI ainsi rédigé :
+
+« Chapitre XI
+« Recueil de selles d'origine humaine destinées à une utilisation thérapeutique
+
+« Art. L. 513-11-1.-Toute activité de collecte de selles destinées à la préparation de microbiote fécal utilisé à des fins thérapeutiques est assurée par des établissements ou organismes qui sont autorisés par l'Agence nationale de sécurité du médicament et des produits de santé, à l'exception de la collecte réalisée dans le cadre de recherches impliquant la personne humaine mentionnées au 1° de l'article L. 1121-1.
+
+« Art. L. 513-11-2.-La collecte, le contrôle, la conservation, la traçabilité et le transport des selles effectués par les établissements ou organismes mentionnés à l'article L. 513-11-1, y compris dans le cadre de recherches impliquant la personne humaine, sont réalisés en conformité avec les règles de bonnes pratiques définies par décision du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé. Ces règles de bonnes pratiques comprennent notamment les règles de sélection clinique et biologique applicables à la collecte de selles.
+« L'importation de selles destinées à la préparation de microbiote fécal à des fins thérapeutiques ainsi que l'importation de préparations de microbiote fécal sont subordonnées à une autorisation délivrée par l'Agence nationale de sécurité du médicament et des produits de santé.
+
+« Art. L. 513-11-3.-En cas de méconnaissance des dispositions des articles L. 513-11-1 et L. 513-11-2 par un établissement ou organisme mentionné à l'article L. 513-11-1 ou en cas de risque pour la santé publique, l'Agence nationale de sécurité du médicament et des produits de santé peut suspendre ou interdire les activités mentionnées à l'article L. 513-11-2.
+« Sauf en cas de risque imminent, une décision de suspension ou d'interdiction ne peut intervenir qu'après que l'établissement ou l'organisme a été mis à même de présenter ses observations.
+
+« Art. L. 513-11-4.-La transplantation de microbiote fécal s'effectue dans l'intérêt du receveur et est soumise aux principes de consentement du donneur et d'anonymat du don. Les règles d'anonymat du don ne sont pas applicables en cas de don intrafamilial.
+
+« Art. L. 513-11-5.-Les modalités d'application du présent chapitre sont déterminées par décret. »
+
+III.-Le II de l'article L. 5311-1 du code de la santé publique est complété par un 21° ainsi rédigé :
+« 21° Les selles collectées par les établissements ou organismes mentionnés à l'article L. 513-11-1 et destinées à la fabrication d'un médicament. »
+I.-A la fin du dernier alinéa de l'article L. 1242-1 du code de la santé publique, les mots : « mentionnés à l'article L. 1211-8 » sont remplacés par les mots : « prélevés mentionnés à l'article L. 1211-8 et au II de l'article L. 4211-9-1 ».
+II.-L'article L. 4211-9-1 du code de la santé publique et ainsi modifié :
+1° Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+2° Au même premier alinéa, les mots : « Agence française de sécurité sanitaire des produits de santé » sont remplacés par les mots : « Agence nationale de sécurité du médicament et des produits de santé » ;
+3° Il est ajouté un II ainsi rédigé :
+« II.-Lorsque la préparation, la distribution et l'administration de ces médicaments sont faites, en établissement de santé ou dans un hôpital des armées, dans le cadre de la même intervention médicale que celle du prélèvement des tissus ou des cellules autologues entrant dans leur composition, la préparation et la distribution sont réalisées sous la responsabilité d'un établissement ou d'un organisme mentionné aux premier ou dernier alinéas du I du présent article, en conformité avec les bonnes pratiques mentionnées à l'article L. 5121-5 et dans le cadre d'un contrat écrit.
+« La nécessité de l'administration de ces médicaments dans le cadre de la même intervention médicale est vérifiée par l'Agence nationale de sécurité du médicament et des produits de santé dans le cadre de l'autorisation mentionnée au 17° de l'article L. 5121-1 ou dans le cadre de l'autorisation de la recherche impliquant la personne humaine.
+« Un décret en Conseil d'Etat précise les conditions applicables à la préparation ainsi que le type de médicaments concernés par le présent II. »
+III.-A la fin de la deuxième phrase du 17° de l'article L. 5121-1 du code de la santé publique, les mots : « Agence française de sécurité sanitaire des produits de santé » sont remplacés par les mots : « Agence nationale de sécurité du médicament et des produits de santé ».
+I.-Le dernier alinéa de l'article L. 1131-2-1 du code de la santé publique est supprimé.
+II.-Après l'article L. 1131-2-1 du code de la santé publique, il est inséré un article L. 1131-2-2 ainsi rédigé :
+
+« Art. L. 1131-2-2.-Toute violation, constatée dans un établissement, un groupement de coopération sanitaire ou un laboratoire, des prescriptions législatives et réglementaires applicables aux examens des caractéristiques génétiques à des fins médicales ou à l'identification d'une personne par empreintes génétiques entraîne la suspension ou le retrait de l'autorisation prévue à l'article L. 1131-2-1, dans les conditions fixées à l'article L. 6122-13.
+« Le retrait de l'autorisation est également encouru en cas de violation des prescriptions fixées par l'autorisation ou si le volume d'activité ou la qualité des résultats sont insuffisants au regard de critères énoncés par décret en Conseil d'Etat, après avis de l'Agence de la biomédecine. »
+
+III.-Au premier alinéa de l'article L. 1131-3 du code de la santé publique, le mot : « troisième » est remplacé par le mot : « dernier ».
+IV.-L'article L. 2131-5 du code de la santé publique est ainsi modifié :
+1° Le 2° est ainsi rédigé :
+« 2° La nature des examens de biologie médicale destinés à établir un diagnostic prénatal ; »
+2° Il est ajouté un 4° ainsi rédigé :
+« 4° Les conditions d'implantation et de fonctionnement que doivent remplir les établissements publics de santé et les laboratoires de biologie médicale pour être autorisés à exercer des activités de diagnostic prénatal. »
+V.-L'article L. 2141-1 du code de la santé publique est ainsi modifié :
+1° La dernière phrase du premier alinéa est supprimée ;
+2° Le quatrième alinéa est supprimé ;
+3° A la fin du dernier alinéa, les mots : « avec tiers donneur » sont supprimés.
+VI.-Au 2° de l'article L. 2142-4 du code de la santé publique, après le mot : « fonctionnement », sont insérés les mots : « et d'implantation ».
+VII.-Le I de l'article L. 2162-6 du code de la santé publique est ainsi modifié :
+1° Le troisième alinéa est supprimé ;
+2° Le début du quatrième alinéa est ainsi rédigé : « “ 1° Sans avoir … (le reste sans changement). » ;
+3° Au début de l'avant-dernier alinéa, la mention : « 3° » est remplacée par la mention : « “ 2° ».
+VIII.-Le I de l'article 511-25 du code pénal est ainsi modifié :
+1° Le 1° est abrogé ;
+2° Le 2° devient le 1° et, au début, les mots : « Ou sans » sont remplacés par le mot : « Sans » ;
+3° Le 3° devient le 2°.
+IX.-Le premier alinéa de l'article L. 1245-1 du code de la santé publique est ainsi modifié :
+1° Les mots : « et à la préparation » sont remplacés par les mots : «, à la préparation, à l'importation et à l'exportation » ;
+2° A la fin, la référence : « et L. 1243-6 » est remplacée par les références : « L. 1243-6, L. 1245-5 et L. 1245-5-1 ».
+X.-Le 4 de l'article 38 du code des douanes est ainsi modifié :
+1° Au 11°, la référence : « et L. 1245-5 » est remplacée par les références : «, L. 1245-5 et L. 1245-5-1 » ;
+2° Au 12°, les mots : « tissus ou cellules embryonnaires ou fœtaux mentionnés » sont remplacés par les mots : « cellules souches embryonnaires humaines mentionnées » ;
+3° Il est ajouté un 18° ainsi rédigé :
+« 18° Aux selles destinées à la préparation de microbiote fécal à des fins thérapeutiques ainsi qu'aux préparations de microbiote fécal. »
+
+## Titre III : APPUYER LA DIFFUSION DES PROGRÈS SCIENTIFIQUES ET TECHNOLOGIQUES DANS LE RESPECT DES PRINCIPES ÉTHIQUES
+L'article 16-10 du code civil est ainsi rédigé :
+
+« Art. 16-10.-I.-L'examen des caractéristiques génétiques constitutionnelles d'une personne ne peut être entrepris qu'à des fins médicales ou de recherche scientifique. Il est subordonné au consentement exprès de la personne, recueilli par écrit préalablement à la réalisation de l'examen.
+« II.-Le consentement prévu au I est recueilli après que la personne a été dûment informée :
+« 1° De la nature de l'examen ;
+« 2° De l'indication de l'examen, s'il s'agit de finalités médicales, ou de son objectif, s'il s'agit de recherches scientifiques ;
+« 3° Le cas échéant, de la possibilité que l'examen révèle incidemment des caractéristiques génétiques sans relation avec son indication initiale ou avec son objectif initial mais dont la connaissance permettrait à la personne ou aux membres de sa famille de bénéficier de mesures de prévention, y compris de conseil en génétique, ou de soins ;
+« 4° De la possibilité de refuser la révélation des résultats de l'examen de caractéristiques génétiques sans relation avec l'indication initiale ou l'objectif initial de l'examen ainsi que des risques qu'un refus ferait courir aux membres de sa famille potentiellement concernés, dans le cas où une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins serait diagnostiquée.
+« Le consentement mentionne l'indication ou l'objectif mentionné au 2° du présent II.
+« Le consentement est révocable en tout ou partie, sans forme et à tout moment.
+« La communication des résultats révélés incidemment, mentionnés au 4°, est assurée dans le respect des conditions fixées au titre II du livre Ier de la première partie du code de la santé publique, lorsque l'examen poursuit des finalités de recherche scientifique, ou au titre III du même livre Ier, lorsque les finalités de l'examen sont médicales.
+« III.-Par dérogation aux I et II, en cas d'examen des caractéristiques génétiques mentionné au I entrepris à des fins de recherche scientifique et réalisé à partir d'éléments du corps d'une personne prélevés à d'autres fins, l'article L. 1130-5 du code de la santé publique est applicable.
+« IV.-Tout démarchage à caractère publicitaire portant sur l'examen des caractéristiques génétiques constitutionnelles d'une personne est interdit. »
+Le chapitre Ier du titre préliminaire du livre préliminaire de la quatrième partie du code de la santé publique est complété par un article L. 4001-3 ainsi rédigé :
+
+« Art. L. 4001-3.-I.-Le professionnel de santé qui décide d'utiliser, pour un acte de prévention, de diagnostic ou de soin, un dispositif médical comportant un traitement de données algorithmique dont l'apprentissage a été réalisé à partir de données massives s'assure que la personne concernée en a été informée et qu'elle est, le cas échéant, avertie de l'interprétation qui en résulte.
+« II.-Les professionnels de santé concernés sont informés du recours à ce traitement de données. Les données du patient utilisées dans ce traitement et les résultats qui en sont issus leur sont accessibles.
+« III.-Les concepteurs d'un traitement algorithmique mentionné au I s'assurent de l'explicabilité de son fonctionnement pour les utilisateurs.
+« IV.-Un arrêté du ministre chargé de la santé établit, après avis de la Haute Autorité de santé et de la Commission nationale de l'informatique et des libertés, la nature des dispositifs médicaux mentionnés au I et leurs modalités d'utilisation. »
+I.-La première phrase de l'article 16-14 du code civil est ainsi rédigée : « Les techniques d'imagerie cérébrale ne peuvent être employées qu'à des fins médicales ou de recherche scientifique ou dans le cadre d'expertises judiciaires, à l'exclusion, dans ce cadre, de l'imagerie cérébrale fonctionnelle. »
+II.-La seconde phrase du 1° de l'article 225-3 du code pénal est complétée par les mots : « ou de données issues de techniques d'imagerie cérébrale ».
+I.-Le titre V du livre Ier de la première partie du code de la santé publique est ainsi modifié :
+1° A la fin de l'intitulé, le mot : « esthétiques » est remplacé par les mots : « sans finalité médicale » ;
+2° Le chapitre Ier est complété par un article L. 1151-4 ainsi rédigé :
+
+« Art. L. 1151-4.-Les actes, procédés, techniques, méthodes et équipements ayant pour effet de modifier l'activité cérébrale et présentant un danger grave ou une suspicion de danger grave pour la santé humaine peuvent être interdits par décret, après avis de la Haute Autorité de santé. Toute décision de levée de l'interdiction est prise en la même forme. »
+
+II.-Après le 17° de l'article L. 161-37 du code de la sécurité sociale, il est inséré un 19° ainsi rédigé :
+« 19° Rendre les avis mentionnés aux articles L. 1151-3 et L. 1151-4 du code de la santé publique. »
+
+## Titre IV : SOUTENIR UNE RECHERCHE LIBRE ET RESPONSABLE AU SERVICE DE LA SANTÉ HUMAINE
+
+### Chapitre Ier : Encadrer les recherches sur l'embryon, les cellules souches embryonnaires et les cellules souches pluripotentes induites
+I.-Après l'article L. 2141-3 du code de la santé publique, il est inséré un article L. 2141-3-1 ainsi rédigé :
+
+« Art. L. 2141-3-1.-Des recherches menées dans le cadre de l'assistance médicale à la procréation peuvent être réalisées sur des gamètes destinés à constituer un embryon ou sur un embryon conçu in vitro avant ou après son transfert à des fins de gestation, si chaque membre du couple ou la femme non mariée y consent. Dans ce cadre, aucune intervention ayant pour objet de modifier le génome des gamètes ou de l'embryon ne peut être entreprise. Ces recherches sont conduites dans les conditions fixées au titre II du livre Ier de la première partie. »
+
+II.-A la fin du second alinéa de l'article L. 1125-3 du code de la santé publique, la référence : « au V de l'article L. 2151-5 » est remplacée par la référence : « à l'article L. 2141-3-1 ».
+III.-Le chapitre unique du titre V du livre Ier de la deuxième partie du code de la santé publique est ainsi modifié :
+1° L'article L. 2151-5 est ainsi rédigé :
+
+« Art. L. 2151-5.-I.-Aucune recherche sur l'embryon humain ne peut être entreprise sans autorisation. Un protocole de recherche conduit sur un embryon humain ne peut être autorisé que si :
+« 1° La pertinence scientifique de la recherche est établie ;
+« 2° La recherche, fondamentale ou appliquée, s'inscrit dans une finalité médicale ou vise à améliorer la connaissance de la biologie humaine ;
+« 3° En l'état des connaissances scientifiques, cette recherche ne peut être menée sans recourir à des embryons humains ;
+« 4° Le projet et les conditions de mise en œuvre du protocole respectent les principes fondamentaux énoncés aux articles 16 à 16-8 du code civil, les principes éthiques énoncés au présent titre et ceux énoncés au titre Ier du livre II de la première partie du présent code.
+« II.-Une recherche ne peut être menée qu'à partir d'embryons conçus in vitro dans le cadre d'une assistance médicale à la procréation qui ne font plus l'objet d'un projet parental et qui sont proposés à la recherche par le couple, le membre survivant du couple ou la femme dont ils sont issus en application du 2° du II de l'article L. 2141-4, du dernier alinéa de l'article L. 2131-4 ou de l'avant-dernier alinéa de l'article L. 2141-3.
+« III.-Les protocoles de recherche sont autorisés par l'Agence de la biomédecine après que celle-ci a vérifié que les conditions posées aux I et II du présent article sont satisfaites. La décision de l'agence, assortie de l'avis de son conseil d'orientation, est communiquée aux ministres chargés de la santé et de la recherche, qui peuvent conjointement, dans un délai d'un mois, demander un nouvel examen du dossier ayant servi de fondement à la décision :
+« 1° En cas de doute sur le respect des principes mentionnés au 4° du I ou sur la pertinence scientifique d'un protocole autorisé. L'agence procède à ce nouvel examen dans un délai de trente jours, durant lequel l'autorisation est suspendue. En cas de confirmation de la décision, la validation du protocole est réputée acquise ;
+« 2° Dans l'intérêt de la santé publique ou de la recherche scientifique, lorsque le protocole a été refusé. L'agence procède à ce nouvel examen dans un délai de trente jours. En cas de confirmation de la décision, le protocole est réputé refusé.
+« En cas de violation des prescriptions législatives et réglementaires ou de celles fixées par l'autorisation, l'agence suspend l'autorisation de la recherche ou la retire. L'agence diligente des inspections comprenant un ou plusieurs experts n'ayant aucun lien avec l'équipe de recherche, dans les conditions fixées à l'article L. 1418-2.
+« IV.-Les embryons sur lesquels une recherche a été conduite en application du présent article ne peuvent être transférés à des fins de gestation. Il est mis fin à leur développement in vitro au plus tard le quatorzième jour qui suit leur constitution.
+« V.-La recherche peut porter sur les causes de l'infertilité. » ;
+
+2° Les articles L. 2151-6, L. 2151-7-1 et L. 2151-8 deviennent, respectivement, les articles L. 2151-8, L. 2151-10 et L. 2151-11 ;
+3° L'article L. 2151-6 est ainsi rétabli :
+
+« Art. L. 2151-6.-I.-Les protocoles de recherche conduits sur les cellules souches embryonnaires sont soumis à déclaration auprès de l'Agence de la biomédecine préalablement à leur mise en œuvre.
+« II.-Une recherche sur les cellules souches embryonnaires ne peut être menée qu'à partir :
+« 1° De cellules souches embryonnaires dérivées d'embryons, dans le cadre d'un protocole de recherche sur l'embryon autorisé en application de l'article L. 2151-5 ;
+« 2° De cellules souches embryonnaires ayant fait l'objet d'une autorisation d'importation en application de l'article L. 2151-8.
+« Les gamètes obtenus à partir de cellules souches embryonnaires ne peuvent en aucune façon servir à féconder un autre gamète, issu du même procédé ou recueilli par don, pour concevoir un embryon.
+« III.-Le directeur général de l'Agence de la biomédecine s'oppose, dans un délai fixé par voie réglementaire, à la réalisation du protocole de recherche mentionné au I du présent article si la recherche fondamentale ou appliquée ne s'inscrit pas dans une finalité médicale ou ne vise pas à améliorer la connaissance de la biologie humaine, si la pertinence scientifique de la recherche n'est pas établie, si le protocole ou ses conditions de mise en œuvre ne respectent pas les principes fondamentaux énoncés aux articles 16 à 16-8 du code civil ou les principes éthiques énoncés au présent titre et au titre Ier du livre II de la première partie du présent code ou en l'absence des autorisations mentionnées au II du présent article.
+« Lorsque le protocole mentionné au I a pour objet la différenciation des cellules souches embryonnaires en gamètes, l'obtention de modèles de développement embryonnaire in vitro ou l'insertion de ces cellules dans un embryon animal dans le but de son transfert chez la femelle, l'opposition formulée en application du premier alinéa du présent III est prise après avis public du conseil d'orientation de l'agence.
+« A défaut d'opposition du directeur général de l'agence, la réalisation du protocole de recherche peut débuter à l'expiration du délai mentionné au même premier alinéa.
+« IV.-Le directeur général de l'Agence de la biomédecine peut à tout moment suspendre ou interdire, après avis public du conseil d'orientation de l'agence, les recherches mentionnées au I qui ne répondent plus aux exigences mentionnées au III. » ;
+
+4° A la seconde phrase du premier alinéa de l'article L. 2151-8, tel qu'il résulte du 2° du présent III, les mots : « ces cellules souches ont été obtenues » sont remplacés par les mots : « le demandeur de l'autorisation atteste de l'obtention de ces cellules » ;
+5° Après le même article L. 2151-8, tel qu'il résulte du 2° du présent III, il est inséré un article L. 2151-9 ainsi rédigé :
+
+« Art. L. 2151-9.-Tout organisme qui assure, à des fins de recherche, la conservation d'embryons doit être titulaire d'une autorisation délivrée par l'Agence de la biomédecine.
+« Toutefois, les laboratoires de biologie médicale autorisés conformément à l'article L. 2142-1 peuvent conserver des embryons proposés à la recherche en application du 2° du II de l'article L. 2141-4 sans être titulaires de l'autorisation mentionnée au premier alinéa du présent article.
+« La délivrance de l'autorisation mentionnée au même premier alinéa est subordonnée au respect des principes fondamentaux énoncés aux articles 16 à 16-8 du code civil, des principes éthiques énoncés au présent titre et au titre Ier du livre II de la première partie du présent code, des règles en vigueur en matière de sécurité des personnes exerçant une activité professionnelle sur le site et des dispositions applicables en matière de protection de l'environnement ainsi qu'au respect des règles de sécurité sanitaire.
+« En cas de non-respect des dispositions mentionnées au troisième alinéa du présent article, l'Agence de la biomédecine peut, à tout moment, suspendre ou retirer l'autorisation.
+« L'Agence nationale de sécurité du médicament et des produits de santé est informée des activités de conservation d'embryons à des fins de recherche réalisées sur le même site que des activités autorisées par elle en application de l'article L. 1243-2.
+« Tout organisme qui souhaite assurer, à des fins de recherche, la conservation de cellules souches embryonnaires doit effectuer une déclaration à l'Agence de la biomédecine préalablement à cette conservation. Le directeur général de l'Agence de la biomédecine peut à tout moment suspendre ou interdire la conservation des cellules souches embryonnaires si cette conservation n'est pas en accord avec le respect des principes fondamentaux énoncés aux articles 16 à 16-8 du code civil, des principes éthiques énoncés au présent titre et au titre Ier du livre II de la première partie du présent code, des règles en vigueur en matière de sécurité des personnes exerçant une activité professionnelle sur le site et des dispositions applicables en matière de protection de l'environnement ainsi qu'avec le respect des règles de sécurité sanitaire.
+« Les organismes mentionnés aux deux premiers alinéas du présent article ne peuvent céder des embryons qu'à un organisme titulaire d'une autorisation délivrée en application du présent article ou de l'article L. 2151-5. Les organismes mentionnés à l'avant-dernier alinéa du présent article ne peuvent céder des cellules souches embryonnaires humaines qu'à un organisme ayant déclaré un protocole de recherche en application de l'article L. 2151-6, lorsque l'Agence de la biomédecine ne s'est pas opposée à la réalisation de celui-ci dans les conditions fixées au même article L. 2151-6. L'organisme destinataire de la cession de cellules souches embryonnaires effectue également la déclaration prévue à l'avant-dernier alinéa du présent article. L'Agence de la biomédecine est informée préalablement à toute cession. » ;
+
+6° L'article L. 2151-10, tel qu'il résulte du 2° du présent III, est complété par les mots : « ou déclarées en application de l'article L. 2151-6 ».
+IV.-Au 12° du 4 de l'article 38 du code des douanes, la référence : « L. 2151-6 » est remplacée par la référence : « L. 2151-8 ».
+V.-La section 3 du chapitre Ier du titre Ier du livre V du code pénal est ainsi modifiée :
+1° L'article 511-19-2 est ainsi rédigé :
+
+« Art. 511-19-2.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
+« 1° Le fait de conserver des embryons ou des cellules souches embryonnaires sans avoir obtenu l'une des autorisations ou sans avoir effectué l'une des déclarations mentionnées à l'article L. 2151-9 du code de la santé publique ou alors que cette autorisation est retirée ou suspendue ou que le directeur général de l'Agence de la biomédecine a suspendu ou interdit la conservation en application de l'avant-dernier alinéa du même article L. 2151-9 ;
+« 2° Le fait de conserver des embryons ou des cellules souches embryonnaires sans se conformer aux règles mentionnées aux troisième ou avant-dernier alinéas dudit article L. 2151-9 ;
+« 3° Le fait de céder des embryons ou des cellules souches embryonnaires à des organismes n'ayant pas déclaré leur projet de recherche auprès de l'Agence de la biomédecine conformément à l'article L. 2151-6 du même code ou n'étant pas titulaires de l'autorisation délivrée en application des articles L. 2151-5 ou L. 2151-9 dudit code ou n'ayant pas déclaré leurs activités de conservation de cellules souches embryonnaires conformément à l'avant-dernier alinéa du même article L. 2151-9 ;
+« 4° Le fait d'avoir cédé des embryons ou des cellules souches embryonnaires sans en avoir informé préalablement l'Agence de la biomédecine. » ;
+
+2° A l'article 511-19-3, les mots : « tissus ou des cellules embryonnaires ou fœtaux » sont remplacés par les mots : « cellules souches embryonnaires » et la référence : « L. 2151-6 » est remplacée par la référence : « L. 2151-8 ».
+VI.-Le chapitre III du titre VI du livre Ier de la deuxième partie du code de la santé publique est ainsi modifié :
+1° Les quatre derniers alinéas de l'article L. 2163-7 sont ainsi rédigés :
+« “ 1° Le fait de conserver des embryons ou des cellules souches embryonnaires sans avoir obtenu l'une des autorisations ou sans avoir effectué l'une des déclarations mentionnées à l'article L. 2151-9 du code de la santé publique ou alors que cette autorisation est retirée ou suspendue ou que le directeur général de l'Agence de la biomédecine a suspendu ou interdit la conservation en application de l'avant-dernier alinéa du même article L. 2151-9 ;
+« “ 2° Le fait de conserver des embryons ou des cellules souches embryonnaires sans se conformer aux règles mentionnées aux troisième ou avant-dernier alinéas dudit article L. 2151-9 ;
+« “ 3° Le fait de céder des embryons ou des cellules souches embryonnaires à des organismes n'ayant pas déclaré leur projet de recherche auprès de l'Agence de la biomédecine conformément à l'article L. 2151-6 du même code ou n'étant pas titulaires de l'autorisation délivrée en application des articles L. 2151-5 ou L. 2151-9 dudit code ou n'ayant pas déclaré leurs activités de conservation de cellules souches embryonnaires conformément à l'avant-dernier alinéa du même article L. 2151-9 ;
+« “ 4° Le fait d'avoir cédé des embryons ou des cellules souches embryonnaires sans en avoir informé préalablement l'Agence de la biomédecine. ” » ;
+2° Au second alinéa de l'article L. 2163-8, les mots : « tissus ou des cellules embryonnaires ou fœtaux » sont remplacés par les mots : « cellules souches embryonnaires » et la référence : « L. 2151-6 » est remplacée par la référence : « L. 2151-8 ».
+VII.-Les protocoles de recherche conduits sur des cellules souches embryonnaires déposés auprès de l'Agence de la biomédecine en vue de l'obtention d'une autorisation et en cours d'instruction à la date de la publication de la présente loi sont soumis à l'article L. 2151-6 du code de la santé publique dans sa rédaction résultant de la présente loi. Dans ce cas, le dépôt d'un dossier complet de demande d'autorisation est réputé satisfaire à l'obligation de déclaration prévue au même article L. 2151-6 et le délai mentionné au premier alinéa du III dudit article L. 2151-6 est de quatre mois à compter de la réception du dossier complet de demande d'autorisation.
+I.-L'intitulé du titre V du livre Ier de la deuxième partie du code de la santé publique est ainsi rédigé : « Recherche sur l'embryon humain, les cellules souches embryonnaires humaines et les cellules souches pluripotentes induites humaines ».
+II.-L'article L. 2151-7 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 2151-7.-I.-On entend par cellules souches pluripotentes induites humaines des cellules qui ne proviennent pas d'un embryon et qui sont capables de se multiplier indéfiniment ainsi que de se différencier en tous les types de cellules qui composent l'organisme.
+« II.-Sans préjudice de l'article L. 1243-3 et, le cas échéant, de l'article L. 1121-1, les protocoles de recherche conduits sur des cellules souches pluripotentes induites humaines ayant pour objet la différentiation de ces cellules en gamètes, l'obtention de modèles de développement embryonnaire in vitro ou l'insertion de ces cellules dans un embryon animal dans le but de son transfert chez la femelle sont soumis à déclaration auprès de l'Agence de la biomédecine préalablement à leur mise en œuvre.
+« III.-Le directeur général de l'Agence de la biomédecine s'oppose, dans un délai fixé par voie réglementaire, à la réalisation d'un protocole de recherche ainsi déclaré si le protocole ou ses conditions de mise en œuvre ne respectent pas les principes fondamentaux énoncés aux articles 16 à 16-8 du code civil, les principes éthiques énoncés au présent titre et ceux énoncés au titre Ier du livre II de la première partie du présent code. Cette décision est prise après avis public du conseil d'orientation de l'agence.
+« A défaut d'opposition du directeur général de l'Agence de la biomédecine, la réalisation du protocole de recherche peut débuter à l'expiration du délai mentionné au premier alinéa du présent III.
+« IV.-Le directeur général de l'Agence de la biomédecine peut à tout moment suspendre ou interdire, après avis public du conseil d'orientation de l'agence, les recherches mentionnées au II qui ne répondent plus aux exigences mentionnées au III. »
+
+III.-Le chapitre III du titre VI du livre Ier de la deuxième partie du code de la santé publique est ainsi modifié :
+1° L'intitulé est ainsi rédigé : « Recherche sur l'embryon humain, les cellules souches embryonnaires humaines et les cellules souches pluripotentes induites humaines » ;
+2° L'article L. 2163-6 est ainsi modifié :
+a) Les trois derniers alinéas sont ainsi rédigés :
+« “ II.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de procéder à une recherche sur des cellules souches embryonnaires :
+« “ 1° Sans avoir préalablement déclaré un protocole auprès de l'Agence de la biomédecine conformément à l'article L. 2151-6 du code de la santé publique, ou alors que le directeur général de l'Agence de la biomédecine s'est opposé à cette recherche, l'a suspendue ou l'a interdite en application du même article L. 2151-6 ;
+« “ 2° Sans se conformer aux prescriptions législatives et réglementaires. » ;
+b) Sont ajoutés trois alinéas ainsi rédigés :
+« “ III.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de procéder à une recherche sur des cellules souches pluripotentes induites humaines :
+« “ 1° Sans avoir préalablement déclaré un protocole auprès de l'Agence de la biomédecine conformément à l'article L. 2151-7 du code de la santé publique, ou alors que le directeur général de l'Agence de la biomédecine s'est opposé à cette recherche, l'a suspendue ou l'a interdite en application du même article L. 2151-7 ;
+« “ 2° Sans se conformer aux prescriptions législatives et réglementaires. ” »
+IV.-L'article 511-19 du code pénal est ainsi modifié :
+1° Le II est ainsi rédigé :
+« II.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de procéder à une recherche sur des cellules souches embryonnaires :
+« 1° Sans avoir préalablement déclaré un protocole auprès de l'Agence de la biomédecine conformément à l'article L. 2151-6 du code de la santé publique, ou alors que le directeur général de l'Agence de la biomédecine s'est opposé à cette recherche, l'a suspendue ou l'a interdite en application du même article L. 2151-6 ;
+« 2° Sans se conformer aux prescriptions législatives et réglementaires. » ;
+2° Il est ajouté un III ainsi rédigé :
+« III.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de procéder à une recherche sur des cellules souches pluripotentes induites humaines :
+« 1° Sans avoir préalablement déclaré un protocole auprès de l'Agence de la biomédecine conformément à l'article L. 2151-7 du code de la santé publique, ou alors que le directeur général de l'Agence de la biomédecine s'est opposé à cette recherche, l'a suspendue ou l'a interdite en application du même article L. 2151-7 ;
+« 2° Sans se conformer aux prescriptions législatives et réglementaires. »
+I.-L'article L. 2141-4 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 2141-4.-I.-Les deux membres du couple ou la femme non mariée dont des embryons sont conservés sont consultés chaque année sur le point de savoir s'ils maintiennent leur projet parental. S'ils confirment par écrit le maintien de leur projet parental, la conservation de leurs embryons est poursuivie.
+« II.-S'ils n'ont plus de projet parental, les deux membres du couple ou la femme non mariée consentent par écrit :
+« 1° A ce que leurs embryons soient accueillis par un autre couple ou une autre femme dans les conditions fixées aux articles L. 2141-5 et L. 2141-6 ;
+« 2° A ce que leurs embryons fassent l'objet d'une recherche dans les conditions prévues à l'article L. 2151-5 ou, dans les conditions fixées par le titre II du livre Ier de la première partie, à ce que les cellules dérivées à partir de ces embryons entrent dans une préparation de thérapie cellulaire ou un médicament de thérapie innovante à des fins exclusivement thérapeutiques ;
+« 3° A ce qu'il soit mis fin à la conservation de leurs embryons.
+« Dans tous les cas, ce consentement par écrit est confirmé à l'issue d'un délai de réflexion de trois mois à compter de la date du premier consentement mentionné au premier alinéa du présent II. L'absence de révocation par écrit du consentement dans ce délai vaut confirmation.
+« Dans le cas mentionné au 2°, le consentement des deux membres du couple ou de la femme non mariée est révocable tant qu'il n'y a pas eu d'intervention sur l'embryon dans le cadre de la recherche.
+« III.-A l'occasion de la consultation annuelle mentionnée au I, les deux membres du couple précisent si, en cas de décès de l'un d'eux, ils consentent à l'une des possibilités du devenir des embryons conservés prévues aux 1° ou 2° du II.
+« En cas de décès de l'un des membres du couple, le membre survivant est consulté, le cas échéant, sur le point de savoir s'il maintient son consentement aux possibilités prévues aux mêmes 1° ou 2°, après l'expiration d'un délai d'un an à compter du décès, sauf initiative anticipée de sa part. Si le membre survivant révoque son consentement, il est mis fin à la conservation des embryons.
+« IV.-Dans le cas où l'un des deux membres du couple ou la femme non mariée, consultés annuellement à au moins deux reprises, dans des conditions précisées par décret en Conseil d'Etat, ne répondent pas sur le point de savoir s'ils maintiennent ou non leur projet parental, il est mis fin à la conservation des embryons si la durée de celle-ci est au moins égale à cinq ans. Il en est de même en cas de désaccord des membres du couple sur le maintien du projet parental ou sur le devenir des embryons. Il en est de même en cas de révocation par écrit du consentement prévue en application de l'avant-dernier alinéa du II.
+« V.-Lorsque les deux membres du couple ou la femme non mariée ont consenti, dans les conditions prévues aux articles L. 2141-5 et L. 2141-6, à l'accueil de leurs embryons et que ceux-ci n'ont pas été accueillis dans un délai de cinq ans à compter du jour où ce consentement a été confirmé, il est mis fin à la conservation de ces embryons à l'issue de ce délai.
+« VI.-Lorsque les deux membres du couple ou la femme non mariée ont consenti à ce que leurs embryons fassent l'objet d'une recherche autorisée dans les conditions prévues à l'article L. 2151-5 et que ceux-ci n'ont pas été inclus dans un protocole de recherche à l'issue d'un délai de cinq ans à compter du jour où ce consentement a été confirmé, il est mis fin à la conservation de ces embryons à l'issue de ce délai.
+« VII.-En cas de décès des deux membres du couple, de l'un de ses membres ou de la femme non mariée en l'absence des consentements prévus aux 1° et 2° du II du présent article, il est mis fin à la conservation de leurs embryons. »
+
+II.-Il est mis fin à la conservation des embryons donnés à la recherche en application du 2° du II de l'article L. 2141-4 du code de la santé publique dans sa rédaction antérieure à la présente loi et conservés depuis plus de cinq ans à la date de publication de la présente loi, sauf à ce que ces embryons présentent un intérêt particulier pour la recherche en raison de leur conservation à un stade précoce de leur développement.
+Avant de mettre en œuvre les dispositions du premier alinéa du présent II, les établissements autorisés au titre de l'article L. 2142-1 du code de la santé publique qui conservent des embryons susceptibles de présenter un intérêt particulier pour la recherche en raison de leur conservation à un stade précoce de leur développement en font la déclaration auprès de l'Agence de la biomédecine. L'agence se prononce sur la poursuite de la conservation en application du premier alinéa du présent II.
+III.-Un décret en Conseil d'Etat, pris après avis de l'Agence de la biomédecine, fixe les conditions d'application du II.
+
+### Chapitre II : Favoriser une recherche responsable en lien avec la médecine génomique
+I.-L'article L. 2151-2 du code de la santé publique est ainsi modifié :
+1° Au premier alinéa, après la première occurrence du mot : « embryon », sont insérés les mots : « humain par fusion de gamètes » ;
+2° Le second alinéa est ainsi rédigé :
+« La modification d'un embryon humain par adjonction de cellules provenant d'autres espèces est interdite. »
+II.-Le dernier alinéa de l'article 16-4 du code civil est ainsi modifié :
+1° Après le mot : « prévention », sont insérés les mots : «, au diagnostic » ;
+2° La première occurrence du mot : « génétiques » est supprimée.
+I.-Après l'article L. 1130-4 du code de la santé publique, tel qu'il résulte de l'article 14 de la présente loi, il est inséré un article L. 1130-5 ainsi rédigé :
+
+« Art. L. 1130-5.-I.-En application du III de l'article 16-10 du code civil, l'examen des caractéristiques génétiques d'une personne à des fins de recherche scientifique peut être réalisé à partir d'éléments du corps de cette personne prélevés à d'autres fins lorsque cette personne, dûment informée du programme de recherche, au sens de l'article L. 1243-3 du présent code, n'a pas exprimé son opposition.
+« L'opposition à l'examen prévu au premier alinéa du présent I peut être exprimée sans forme tant qu'il n'y a pas eu d'intervention sur l'élément concerné dans le cadre de la recherche.
+« II.-En cas de découverte de caractéristiques génétiques pouvant être responsables d'une affection justifiant des mesures de prévention ou de soins au bénéfice de la personne ou de membres de sa famille potentiellement concernés, la personne en est informée, sauf si elle s'y est préalablement opposée.
+« Si, en cours de recherche, de telles caractéristiques génétiques sont découvertes et, le cas échéant, confirmées par un laboratoire de biologie médicale autorisé en application de l'article L. 1131-2-1, le médecin détenteur de l'identité de la personne, contacté par le responsable du programme de recherche, porte alors à la connaissance de la personne, si elle ne s'y est pas opposée, l'existence d'une information médicale la concernant et l'invite à se rendre à une consultation chez un médecin qualifié en génétique pour une prise en charge réalisée dans les conditions fixées au chapitre Ier du présent titre, sans lui faire part ni des caractéristiques génétiques en cause ni des risques qui lui sont associés. La personne peut sans forme et à tout moment s'opposer à être informée de telles découvertes.
+« Le médecin consulté par la personne est informé par le responsable du programme de recherche des caractéristiques génétiques en cause.
+« III.-Lorsque la personne est un mineur, l'opposition est exprimée par les parents investis de l'exercice de l'autorité parentale ou, le cas échéant, par le tuteur.
+« Lorsque la personne fait l'objet d'une mesure de protection juridique avec représentation relative à la personne, elle exprime seule son opposition dans la mesure où son état le permet, le cas échéant assistée de la personne chargée de la mesure de protection.
+« Lorsque la personne ne peut être retrouvée ou qu'elle est décédée ou qu'elle est hors d'état d'exprimer sa volonté et qu'il est, par voie de conséquence, impossible de procéder à l'information prévue au premier alinéa du I, la recherche est soumise à l'avis d'un comité de protection des personnes saisi par le responsable du programme de recherche dans les conditions fixées au chapitre III du titre II du présent livre. Ce comité évalue les éléments justifiant de l'impossibilité de procéder à l'information de la personne et se prononce sur l'opportunité de l'examen de ses caractéristiques génétiques au regard de cette situation ainsi que de la pertinence éthique et scientifique de la recherche.
+« IV.-Le présent article n'est pas applicable aux recherches dont la publication des résultats est susceptible de permettre la levée de l'anonymat des personnes concernées.
+« V.-Un décret fixe les modalités d'information des personnes concernées et celles permettant l'expression de leur opposition. »
+
+II.-L'article L. 1243-3 du code de la santé publique est ainsi modifié :
+1° Après le premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Le terme “ programme de recherche ” désigne un ensemble d'activités de recherche organisées en vue de faciliter et d'accélérer les découvertes dans un domaine scientifique déterminé, défini par un organisme exerçant des activités de recherche ou en assurant la promotion. » ;
+2° Le début du deuxième alinéa est ainsi rédigé : « Le terme “ collection d'échantillons biologiques humains ” désigne la réunion … (le reste sans changement). » ;
+3° Le quatrième alinéa est ainsi rédigé :
+« Le ministre chargé de la recherche et, pour les organismes relevant de sa compétence, le directeur général de l'agence régionale de santé peuvent demander à l'organisme, à tout moment, des informations leur permettant de s'assurer que les activités sont bien poursuivies dans le respect du présent article et des articles L. 1211-2 et L. 1130-5. Ils peuvent également à tout moment suspendre ou interdire les activités qui ne répondent plus à ces exigences. »
+III.-Au b du 2° de l'article L. 1542-10 du code de la santé publique, le mot : « sixième » est remplacé par le mot : « septième ».
+IV.-A la seconde phrase de l'article 75 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la référence : « L. 1131-1-1 » est remplacée par la référence : « L. 1130-5 ».
+V.-A la fin du seizième alinéa de l'article L. 1123-7 du code de la santé publique, la référence : « à l'article L. 1211-2 » est remplacée par les références : « aux articles L. 1211-2 et L. 1130-5 ».
+
+## Titre Ier : ÉLARGIR L'ACCÈS AUX TECHNOLOGIES DISPONIBLES SANS S'AFFRANCHIR DE NOS PRINCIPES ÉTHIQUES
+
+### Chapitre Ier : Permettre aux personnes d'exercer un choix éclairé en matière de procréation dans un cadre maîtrisé
+I.-Le chapitre Ier du titre IV du livre Ier de la deuxième partie du code de la santé publique est ainsi modifié :
+1° L'article L. 2141-2 est ainsi rédigé :
+
+« Art. L. 2141-2.-L'assistance médicale à la procréation est destinée à répondre à un projet parental. Tout couple formé d'un homme et d'une femme ou de deux femmes ou toute femme non mariée ont accès à l'assistance médicale à la procréation après les entretiens particuliers des demandeurs avec les membres de l'équipe médicale clinicobiologique pluridisciplinaire effectués selon les modalités prévues à l'article L. 2141-10.
+« Cet accès ne peut faire l'objet d'aucune différence de traitement, notamment au regard du statut matrimonial ou de l'orientation sexuelle des demandeurs.
+« Les deux membres du couple ou la femme non mariée doivent consentir préalablement à l'insémination artificielle ou au transfert des embryons.
+« Lorsqu'il s'agit d'un couple, font obstacle à l'insémination ou au transfert des embryons :
+« 1° Le décès d'un des membres du couple ;
+« 2° L'introduction d'une demande en divorce ;
+« 3° L'introduction d'une demande en séparation de corps ;
+« 4° La signature d'une convention de divorce ou de séparation de corps par consentement mutuel selon les modalités prévues à l'article 229-1 du code civil ;
+« 5° La cessation de la communauté de vie ;
+« 6° La révocation par écrit du consentement prévu au troisième alinéa du présent article par l'un ou l'autre des membres du couple auprès du médecin chargé de mettre en œuvre l'assistance médicale à la procréation.
+« Une étude de suivi est proposée au couple receveur ou à la femme receveuse, qui y consent par écrit.
+« Les conditions d'âge requises pour bénéficier d'une assistance médicale à la procréation sont fixées par décret en Conseil d'Etat, pris après avis de l'Agence de la biomédecine. Elles prennent en compte les risques médicaux de la procréation liés à l'âge ainsi que l'intérêt de l'enfant à naître.
+« Lorsqu'un recueil d'ovocytes par ponction a lieu dans le cadre d'une procédure d'assistance médicale à la procréation, il peut être proposé de réaliser dans le même temps une autoconservation ovocytaire. » ;
+
+2° L'article L. 2141-3 est ainsi rédigé :
+
+« Art. L. 2141-3.-Un embryon ne peut être conçu in vitro que dans le cadre et selon les objectifs d'une assistance médicale à la procréation définie à l'article L. 2141-1.
+« Compte tenu de l'état des techniques médicales, les membres du couple ou la femme non mariée peuvent consentir par écrit à ce que soit tentée la fécondation d'un nombre d'ovocytes pouvant rendre nécessaire la conservation d'embryons, dans l'intention de réaliser ultérieurement leur projet parental. Dans ce cas, ce nombre est limité à ce qui est strictement nécessaire à la réussite de l'assistance médicale à la procréation compte tenu du procédé mis en œuvre. Une information détaillée est remise aux membres du couple ou à la femme non mariée sur les possibilités de devenir de leurs embryons conservés qui ne feraient plus l'objet d'un projet parental ou en cas de décès de l'un des membres du couple.
+« Les deux membres du couple ou la femme non mariée peuvent consentir par écrit à ce que les embryons non susceptibles d'être transférés ou conservés fassent l'objet d'une recherche dans les conditions prévues à l'article L. 2151-5.
+« Un couple ou une femme non mariée dont des embryons ont été conservés ne peut bénéficier d'une nouvelle tentative de fécondation in vitro avant le transfert de ceux-ci, sauf si un problème de qualité affecte ces embryons. » ;
+
+3° Les articles L. 2141-5 et L. 2141-6 sont ainsi rédigés :
+
+« Art. L. 2141-5.-Les deux membres du couple ou la femme non mariée peuvent consentir par écrit à ce que les embryons conservés soient accueillis par un autre couple ou une autre femme non mariée dans les conditions prévues à l'article L. 2141-6, y compris, s'agissant des deux membres d'un couple, en cas de décès de l'un d'eux.
+« Les deux membres du couple ou la femme non mariée sont informés des dispositions législatives et réglementaires relatives à l'accueil d'embryons, notamment des dispositions de l'article L. 2143-2 relatives à l'accès des personnes conçues par assistance médicale à la procréation avec tiers donneur aux données non identifiantes et à l'identité du tiers donneur.
+
+« Art. L. 2141-6.-Un couple ou une femme non mariée répondant aux conditions prévues à l'article L. 2141-2 peut accueillir un embryon.
+« Les deux membres du couple ou la femme non mariée doivent préalablement donner leur consentement, devant notaire, à l'accueil de l'embryon. Les conditions et les effets de ce consentement sont régis par l'article 342-10 du code civil.
+« Le couple ou la femme non mariée accueillant l'embryon et le couple ou la femme non mariée ayant consenti à l'accueil de leur embryon ne peuvent connaître leurs identités respectives.
+« En cas de nécessité médicale, un médecin peut accéder aux informations médicales non identifiantes concernant le couple ou la femme non mariée ayant consenti à l'accueil de leur embryon, au bénéfice de l'enfant. Ces informations médicales peuvent être actualisées auprès des établissements mentionnés au dernier alinéa du présent article.
+« Aucune contrepartie, quelle qu'en soit la forme, ne peut être allouée au couple ou à la femme non mariée ayant consenti à l'accueil de leur embryon.
+« L'accueil de l'embryon est subordonné à des règles de sécurité sanitaire. Ces règles comprennent notamment des tests de dépistage des maladies infectieuses.
+« Seuls les établissements publics ou privés à but non lucratif autorisés à cet effet peuvent conserver les embryons destinés à être accueillis et mettre en œuvre la procédure d'accueil. » ;
+
+4° L'article L. 2141-7 est abrogé ;
+5° Les articles L. 2141-9 et L. 2141-10 sont ainsi rédigés :
+
+« Art. L. 2141-9.-Seuls les embryons conçus dans le respect des principes fondamentaux énoncés aux articles 16 à 16-8 du code civil et des dispositions du présent titre peuvent entrer sur le territoire où s'applique le présent code ou en sortir. Ces déplacements d'embryons sont exclusivement destinés à permettre la poursuite du projet parental du couple ou de la femme non mariée concernés. Ils sont soumis à l'autorisation préalable de l'Agence de la biomédecine.
+
+« Art. L. 2141-10.-La mise en œuvre de l'assistance médicale à la procréation est précédée d'entretiens particuliers de la femme ou du couple demandeur avec un ou plusieurs médecins et d'autres professionnels de santé de l'équipe médicale clinicobiologique pluridisciplinaire du centre, composée notamment d'un psychiatre, d'un psychologue ou d'un infirmier ayant une compétence en psychiatrie, le cas échéant extérieur au centre. L'équipe fait appel, en tant que de besoin, à un professionnel inscrit sur la liste mentionnée au deuxième alinéa de l'article L. 411-2 du code de l'action sociale et des familles.
+« Les médecins de l'équipe mentionnée au premier alinéa du présent article doivent :
+« 1° Vérifier la motivation des deux membres du couple ou de la femme non mariée ;
+« 2° Procéder à une évaluation médicale des deux membres du couple ou de la femme non mariée ;
+« 3° Informer complètement, au regard de l'état des connaissances scientifiques, les deux membres du couple ou la femme non mariée des possibilités de réussite ou d'échec des techniques d'assistance médicale à la procréation, de leurs effets secondaires et de leurs risques à court et à long termes ainsi que de leur pénibilité et des contraintes qu'elles peuvent entraîner ;
+« 4° En cas d'assistance médicale à la procréation avec tiers donneur, informer les deux membres du couple ou la femme non mariée des modalités de l'accès aux données non identifiantes et à l'identité du tiers donneur par la personne majeure issue du don ;
+« 5° Lorsqu'il s'agit d'un couple, informer celui-ci de l'impossibilité de réaliser un transfert des embryons conservés en cas de rupture du couple ainsi que des dispositions applicables en cas de décès d'un des membres du couple ;
+« 6° Remettre aux deux membres du couple ou à la femme non mariée un dossier-guide comportant notamment :
+« a) Le rappel des dispositions législatives et réglementaires relatives à l'assistance médicale à la procréation ;
+« b) Un descriptif de ces techniques ;
+« c) Le rappel des dispositions législatives et réglementaires relatives à l'adoption ainsi que l'adresse des associations et organismes susceptibles de compléter leur information sur ce sujet ;
+« d) Des éléments d'information sur l'accès aux données non identifiantes et à l'identité du tiers donneur par la personne majeure issue du don ainsi que la liste des associations et organismes susceptibles de compléter leur information sur ce sujet. Les membres du couple ou la femme non mariée sont incités à anticiper et à créer les conditions qui leur permettront d'informer l'enfant, avant sa majorité, de ce qu'il est issu d'un don.
+« Le consentement du couple ou de la femme non mariée est confirmé par écrit à l'expiration d'un délai de réflexion d'un mois à compter de la réalisation des étapes mentionnées aux 1° à 6°.
+« L'assistance médicale à la procréation est subordonnée à des règles de sécurité sanitaire.
+« Elle ne peut être mise en œuvre par le médecin ayant par ailleurs participé aux entretiens prévus au premier alinéa lorsque la femme non mariée ou le couple demandeur ne remplissent pas les conditions prévues au présent titre ou lorsque ce médecin, après concertation au sein de l'équipe clinicobiologique pluridisciplinaire, estime qu'un délai de réflexion supplémentaire est nécessaire à la femme non mariée ou au couple demandeur, dans l'intérêt de l'enfant à naître.
+« Le couple ou la femme non mariée qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers donneur doivent préalablement donner, dans les conditions prévues par le code civil, leur consentement à un notaire.
+« Les motifs du report ou du refus d'une assistance médicale à la procréation sont communiqués par écrit aux demandeurs dès lors qu'ils en font la demande auprès du centre d'assistance médicale à la procréation.
+« La composition de l'équipe clinicobiologique mentionnée au premier alinéa est fixée par décret en Conseil d'Etat. »
+
+II.-L'article L. 160-14 du code de la sécurité sociale est ainsi modifié :
+1° Le 12° est ainsi rédigé :
+« 12° Pour les investigations nécessaires au diagnostic et au traitement de l'infertilité ; »
+2° Après le 25°, il est inséré un 26° ainsi rédigé :
+« 26° Pour l'assistance médicale à la procréation réalisée dans les conditions prévues au chapitre Ier du titre IV du livre Ier de la deuxième partie du code de la santé publique. »
+III.-Avant le 31 décembre 2025, le Gouvernement remet au Parlement un rapport d'évaluation des dispositions du présent article.
+Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport relatif à la structuration des centres d'assistance médicale à la procréation, à leurs taux de réussite respectifs et à l'opportunité d'une évolution structurelle. Ce rapport peut faire l'objet d'un débat dans les conditions prévues par les règlements des assemblées parlementaires.
+I.-L'article L. 1244-2 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 1244-2.-Le donneur est majeur. Le mineur émancipé ne peut être donneur.
+« Préalablement au don, le donneur est dûment informé des dispositions législatives et réglementaires relatives au don de gamètes, notamment des dispositions de l'article L. 2143-2 relatives à l'accès des personnes conçues par assistance médicale à la procréation avec tiers donneur aux données non identifiantes et à l'identité du tiers donneur.
+« Le consentement du donneur est recueilli par écrit et peut être révoqué à tout moment jusqu'à l'utilisation des gamètes.
+« Une étude de suivi est proposée au donneur, qui y consent par écrit. »
+
+II.-Le chapitre Ier du titre IV du livre Ier de la deuxième partie du code de la santé publique est ainsi modifié :
+1° L'article L. 2141-12 devient l'article L. 2141-13 ;
+2° Il est rétabli un article L. 2141-12 ainsi rédigé ;
+
+« Art. L. 2141-12.-I.-Une personne majeure qui répond à des conditions d'âge fixées par un décret en Conseil d'Etat, pris après avis de l'Agence de la biomédecine, peut bénéficier, après une prise en charge médicale par l'équipe clinicobiologique pluridisciplinaire, du recueil, du prélèvement et de la conservation de ses gamètes en vue de la réalisation ultérieure, à son bénéfice, d'une assistance médicale à la procréation dans les conditions prévues au présent chapitre.
+« Le recueil, le prélèvement et la conservation sont subordonnés au consentement écrit de l'intéressé, recueilli par l'équipe clinicobiologique pluridisciplinaire après information sur les conditions, les risques et les limites de la démarche et de ses suites. L'équipe clinicobiologique pluridisciplinaire peut simultanément recueillir le consentement prévu au deuxième alinéa du II.
+« Lorsque les gamètes conservés sont des spermatozoïdes, l'intéressé est informé qu'il peut, à tout moment, consentir par écrit à ce qu'une partie de ses gamètes fasse l'objet d'un don en application du chapitre IV du titre IV du livre II de la première partie du présent code.
+« Les frais relatifs à la conservation des gamètes réalisée en application du présent I ne peuvent être pris en charge ou compensés, de manière directe ou indirecte, par l'employeur ou par toute personne physique ou toute personne morale de droit public ou privé vis-à-vis de laquelle la personne concernée est dans une situation de dépendance économique.
+« Seuls les établissements publics de santé ou les établissements de santé privés à but non lucratif habilités à assurer le service public hospitalier peuvent, lorsqu'ils y ont été autorisés, procéder au prélèvement, au recueil et à la conservation des gamètes mentionnés au présent I. Ces activités ne peuvent être exercées dans le cadre de l'activité libérale prévue à l'article L. 6154-1. Par dérogation, si aucun organisme ou établissement de santé public ou privé à but non lucratif n'assure ces activités dans un département, le directeur général de l'agence régionale de santé peut autoriser un établissement de santé privé à but lucratif à les pratiquer, sous réserve de la garantie par celui-ci de l'absence de facturation de dépassements des tarifs fixés par l'autorité administrative et des tarifs des honoraires prévus au 1° du I de l'article L. 162-14-1 du code de la sécurité sociale.
+« II.-La personne dont les gamètes sont conservés en application du I du présent article est consultée chaque année civile. Elle consent par écrit à la poursuite de cette conservation.
+« Si elle ne souhaite plus poursuivre cette conservation ou si elle souhaite préciser les conditions de conservation en cas de décès, elle consent par écrit :
+« 1° A ce que ses gamètes fassent l'objet d'un don en application du chapitre IV du titre IV du livre II de la première partie du présent code ;
+« 2° A ce que ses gamètes fassent l'objet d'une recherche dans les conditions prévues aux articles L. 1243-3 et L. 1243-4 ;
+« 3° A ce qu'il soit mis fin à la conservation de ses gamètes.
+« Dans tous les cas, ce consentement est confirmé à l'issue d'un délai de réflexion de trois mois à compter de la date du premier consentement. L'absence de révocation par écrit du consentement dans ce délai vaut confirmation.
+« Le consentement est révocable jusqu'à l'utilisation des gamètes ou jusqu'à ce qu'il soit mis fin à leur conservation.
+« En l'absence de réponse durant dix années civiles consécutives de la personne dont les gamètes sont conservés et en l'absence du consentement prévu aux 1° ou 2° du présent II, il est mis fin à la conservation.
+« En cas de décès de la personne et en l'absence du consentement prévu aux mêmes 1° ou 2°, il est mis fin à la conservation des gamètes. »
+
+III.-L'article L. 160-8 du code de la sécurité sociale est complété par un 7° ainsi rédigé :
+« 7° La couverture des frais relatifs aux actes et traitements liés à la préservation de la fertilité et à l'assistance médicale à la procréation, à l'exception de ceux afférents à la conservation des gamètes réalisée en application de l'article L. 2141-12 du code de la santé publique pour des assurés non atteints d'une pathologie altérant leur fertilité et ne relevant pas de l'article L. 2141-11 du même code. »
+IV.-L'article L. 2141-11-1 du code de la santé publique est ainsi modifié :
+1° Le premier alinéa est complété par une phrase ainsi rédigée : « Elles sont exclusivement destinées à permettre la poursuite d'un projet parental par la voie d'une assistance médicale à la procréation ou la restauration de la fertilité ou d'une fonction hormonale du demandeur, à l'exclusion de toute finalité commerciale. » ;
+2° Au troisième alinéa, les références : « L. 2141-7 et L. 2141-11 » sont remplacées par les références : « L. 2141-11 et L. 2141-12 ».
+V.-A compter de la publication de la présente loi, les gamètes conservés en application du dernier alinéa de l'article L. 1244-2 du code de la santé publique, dans sa rédaction antérieure à la présente loi, sont soumis au II de l'article L. 2141-12 du même code.
+Les mesures nationales et pluriannuelles d'organisation concernant la prévention et l'éducation du public, l'information sur la fertilité féminine et masculine, la formation des professionnels de santé et la coordination en matière de recherche et de protocolisation pour lutter contre toutes les causes d'infertilité, notamment comportementales et environnementales, sont définies par arrêté conjoint des ministres chargés de l'éducation nationale, de la santé, de la recherche et de l'écologie.
+
+### Chapitre II : Reconnaître et sécuriser les droits des enfants nés d'une assistance médicale à la procréation
+I.-L'article L. 1244-6 du code de la santé publique est ainsi rédigé :
+
+« Art. L. 1244-6.-Un médecin peut accéder aux informations médicales non identifiantes, en cas de nécessité médicale, au bénéfice d'une personne conçue à partir de gamètes issus d'un don ou au bénéfice d'un donneur de gamètes. »
+
+II.-Au début du second alinéa de l'article L. 1273-3 du code de la santé publique, sont ajoutés les mots : « “ Sauf dans le cas prévu à l'article 16-8-1 du code civil, » et, après la seconde occurrence du mot : « couple », sont insérés les mots : « ou la femme non mariée ».
+III.-Le titre IV du livre Ier de la deuxième partie du code de la santé publique est complété par un chapitre III ainsi rédigé :
+
+« Chapitre III
+« Accès aux données non identifiantes et à l'identité du tiers donneur
+
+« Art. L. 2143-1.-Pour l'application du présent chapitre, la notion de tiers donneur s'entend de la personne dont les gamètes ont été recueillis ou prélevés en application du chapitre IV du titre IV du livre II de la première partie du présent code ainsi que du couple, du membre survivant ou de la femme non mariée ayant consenti à ce qu'un ou plusieurs de ses embryons soient accueillis par un autre couple ou une autre femme en application de l'article L. 2141-5.
+« Lorsque le tiers donneur est un couple, son consentement s'entend du consentement exprès de chacun de ses membres.
+
+« Art. L. 2143-2.-Toute personne conçue par assistance médicale à la procréation avec tiers donneur peut, si elle le souhaite, accéder à sa majorité à l'identité et aux données non identifiantes du tiers donneur définies à l'article L. 2143-3.
+« Les personnes qui souhaitent procéder à un don de gamètes ou proposer leur embryon à l'accueil consentent expressément et au préalable à la communication de ces données et de leur identité, dans les conditions prévues au premier alinéa du présent article. En cas de refus, ces personnes ne peuvent procéder à ce don ou proposer cet accueil.
+« Le décès du tiers donneur est sans incidence sur la communication de ces données et de son identité.
+« Ces données peuvent être actualisées par le donneur.
+
+« Art. L. 2143-3.-I.-Lors du recueil du consentement prévu aux articles L. 1244-2 et L. 2141-5, le médecin collecte l'identité des personnes souhaitant procéder au don de gamètes ou proposer leur embryon à l'accueil ainsi que les données non identifiantes suivantes :
+« 1° Leur âge ;
+« 2° Leur état général tel qu'elles le décrivent au moment du don ;
+« 3° Leurs caractéristiques physiques ;
+« 4° Leur situation familiale et professionnelle ;
+« 5° Leur pays de naissance ;
+« 6° Les motivations de leur don, rédigées par leurs soins.
+« II.-Le médecin mentionné au I du présent article est destinataire des informations relatives à l'évolution de la grossesse résultant d'une assistance médicale à la procréation avec tiers donneur et à son issue. Il recueille l'identité de chaque enfant né à la suite du don d'un tiers donneur ainsi que l'identité de la personne ou du couple receveur.
+
+« Art. L. 2143-4.-Les données relatives aux tiers donneurs mentionnées à l'article L. 2143-3, les données relatives à leurs dons et aux personnes nées à la suite de ces dons ainsi que l'identité des personnes ou des couples receveurs sont conservées par l'Agence de la biomédecine dans un traitement de données dont elle est responsable en application du 13° de l'article L. 1418-1, dans des conditions garantissant strictement leur sécurité, leur intégrité et leur confidentialité, pour une durée limitée et adéquate tenant compte des nécessités résultant de l'usage auquel ces données sont destinées, fixée par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés, qui ne peut être supérieure à cent vingt ans.
+« Ces données permettent également à l'Agence de la biomédecine de s'assurer du respect des dispositions relatives aux dons de gamètes prévues à l'article L. 1244-4.
+
+« Art. L. 2143-5.-La personne qui, à sa majorité, souhaite accéder aux données non identifiantes relatives au tiers donneur ou à l'identité du tiers donneur s'adresse à la commission mentionnée à l'article L. 2143-6.
+
+« Art. L. 2143-6.-Une commission d'accès aux données non identifiantes et à l'identité du tiers donneur est placée auprès du ministre chargé de la santé. Elle est chargée :
+« 1° De faire droit aux demandes d'accès à des données non identifiantes relatives aux tiers donneurs conformes aux modalités définies par le décret en Conseil d'Etat pris en application du 3° de l'article L. 2143-9 ;
+« 2° De faire droit aux demandes d'accès à l'identité des tiers donneurs conformes aux modalités définies par le décret en Conseil d'Etat pris en application du même 3° ;
+« 3° De demander à l'Agence de la biomédecine la communication des données non identifiantes et de l'identité des tiers donneurs ;
+« 4° De se prononcer, à la demande d'un médecin, sur le caractère non identifiant de certaines données préalablement à leur transmission au responsable du traitement de données mentionné à l'article L. 2143-4 ;
+« 5° De recueillir et d'enregistrer l'accord des tiers donneurs qui n'étaient pas soumis aux dispositions du présent chapitre au moment de leur don pour autoriser l'accès à leurs données non identifiantes et à leur identité ainsi que la transmission de ces données à l'Agence de la biomédecine, qui les conserve conformément au même article L. 2143-4 ;
+« 6° De contacter les tiers donneurs qui n'étaient pas soumis aux dispositions du présent chapitre au moment de leur don, lorsqu'elle est saisie de demandes au titre de l'article L. 2143-5, afin de solliciter et de recueillir leur consentement à la communication de leurs données non identifiantes et de leur identité ainsi qu'à la transmission de ces données à l'Agence de la biomédecine. Afin d'assurer cette mission, la commission peut utiliser le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques et consulter ce répertoire. Les conditions de cette utilisation et de cette consultation sont fixées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. La commission est également autorisée à consulter le répertoire national inter-régimes des bénéficiaires de l'assurance maladie afin d'obtenir, par l'intermédiaire des organismes servant les prestations d'assurance maladie, l'adresse des tiers donneurs susmentionnés ;
+« 7° D'informer et d'accompagner les demandeurs et les tiers donneurs.
+« Les données relatives aux demandes mentionnées à l'article L. 2143-5 sont conservées par la commission dans un traitement de données dont elle est responsable, dans des conditions garantissant strictement leur sécurité, leur intégrité et leur confidentialité, pour une durée limitée et adéquate tenant compte des nécessités résultant de l'usage auquel ces données sont destinées, fixée par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés, qui ne peut être supérieure à cent vingt ans.
+
+« Art. L. 2143-7.-La commission mentionnée à l'article L. 2143-6 est composée :
+« 1° D'un magistrat de l'ordre judiciaire, qui la préside ;
+« 2° D'un membre de la juridiction administrative ;
+« 3° De quatre représentants du ministre de la justice et des ministres chargés de l'action sociale et de la santé ;
+« 4° De quatre personnalités qualifiées choisies en raison de leurs connaissances ou de leur expérience dans le domaine de l'assistance médicale à la procréation ou des sciences humaines et sociales ;
+« 5° De six représentants d'associations dont l'objet relève du champ d'intervention de la commission.
+« L'écart entre le nombre de femmes et le nombre d'hommes qui la composent ne peut être supérieur à un.
+« Chaque membre dispose d'un suppléant.
+« En cas de partage égal des voix, celle du président est prépondérante.
+« Les membres de la commission sont tenus à une obligation de confidentialité.
+« La divulgation, par un membre de la commission, d'informations sur une personne ou un couple qui a fait un don de gamètes ou a consenti à l'accueil de ses embryons ou sur une personne née à la suite de ces dons est passible des sanctions prévues à l'article 511-10 du code pénal.
+
+« Art. L. 2143-8.-L'Agence de la biomédecine est tenue de communiquer les données mentionnées à l'article L. 2143-3 à la commission, à la demande de cette dernière, pour l'exercice de ses missions mentionnées à l'article L. 2143-6.
+
+« Art. L. 2143-9.-Les modalités d'application du présent chapitre sont déterminées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés, notamment :
+« 1° La nature des données non identifiantes mentionnées aux 1° à 6° du I de l'article L. 2143-3 ;
+« 2° Les modalités du recueil de l'identité des enfants prévu au II du même article L. 2143-3 ;
+« 3° La nature des pièces à joindre à la demande mentionnée à l'article L. 2143-5 ;
+« 4° La composition et le fonctionnement de la commission mentionnée à l'article L. 2143-6. »
+
+IV.-L'article L. 147-2 du code de l'action sociale et des familles est complété par un alinéa ainsi rédigé :
+« Afin de répondre aux demandes dont il est saisi, le Conseil national pour l'accès aux origines personnelles peut utiliser le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques et consulter ce répertoire. Les conditions de cette utilisation et de cette consultation sont fixées par un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. »
+V.-Après l'article 16-8 du code civil, il est inséré un article 16-8-1 ainsi rédigé :
+
+« Art. 16-8-1.-Dans le cas d'un don de gamètes ou d'un accueil d'embryon, les receveurs sont les personnes qui ont donné leur consentement à l'assistance médicale à la procréation.
+« Le principe d'anonymat du don ne fait pas obstacle à l'accès de la personne majeure née d'une assistance médicale à la procréation avec tiers donneur, sur sa demande, à des données non identifiantes ou à l'identité du tiers donneur, dans les conditions prévues au chapitre III du titre IV du livre Ier de la deuxième partie du code de la santé publique. »
+
+VI.-A l'article 511-10 du code pénal, au début, sont ajoutés les mots : « Sauf dans le cas prévu à l'article 16-8-1 du code civil, » et, après la seconde occurrence du mot : « couple », sont insérés les mots : « ou la femme non mariée ».
+VII.-A.-Les articles L. 1244-2, L. 2141-5, L. 2143-3, L. 2143-5, L. 2143-6 et L. 2143-8 du code de la santé publique, dans leur rédaction résultant de la présente loi, entrent en vigueur le premier jour du treizième mois suivant la promulgation de la présente loi.
+B.-Les articles L. 2143-4 et L. 2143-7 du code de la santé publique, dans leur rédaction résultant de la présente loi, entrent en vigueur à une date fixée par décret, et au plus tard le premier jour du treizième mois suivant la promulgation de la présente loi.
+C.-A compter d'une date fixée par décret, ne peuvent être utilisés pour une tentative d'assistance médicale à la procréation que les gamètes et les embryons proposés à l'accueil pour lesquels les donneurs ont consenti à la transmission de leurs données non identifiantes et à la communication de leur identité en cas de demande des personnes nées de leur don.
+D.-A la veille de la date fixée par le décret prévu au C du présent VII, il est mis fin à la conservation des embryons proposés à l'accueil et des gamètes issus de dons réalisés avant le premier jour du treizième mois suivant la promulgation de la présente loi.
+VIII.-A.-L'article L. 2143-2 du code de la santé publique s'applique aux personnes conçues par assistance médicale à la procréation avec tiers donneur à compter de la date fixée par le décret prévu au C du VII du présent article.
+B.-Les tiers donneurs dont les embryons ou les gamètes sont utilisés jusqu'à la date fixée par le décret prévu au C du VII du présent article peuvent manifester auprès de la commission mentionnée à l'article L. 2143-6 du code de la santé publique leur accord à la transmission aux personnes majeures nées de leur don de leurs données non identifiantes d'ores et déjà détenues par les organismes et établissements mentionnés au troisième alinéa de l'article L. 2142-1 du même code ainsi que leur accord à la communication de leur identité en cas de demande par ces mêmes personnes.
+C.-A compter du premier jour du treizième mois suivant la promulgation de la présente loi, et au plus tard l'avant-veille de la date fixée par le décret prévu au C du VII du présent article, les tiers donneurs qui ont effectué un don avant l'entrée en vigueur de l'article L. 2143-2 du code de la santé publique peuvent également se manifester auprès des organismes et établissements mentionnés au troisième alinéa de l'article L. 2142-1 du même code pour donner leur accord à l'utilisation, à compter de la date fixée par le décret prévu au C du VII du présent article, de leurs gamètes ou embryons qui sont en cours de conservation. Ils consentent alors expressément, dans les conditions fixées par décret en Conseil d'Etat, à la communication de leurs données non identifiantes et de leur identité aux personnes majeures conçues, à partir de cette date, par assistance médicale à la procréation à partir de leurs gamètes ou de leurs embryons qui en feraient la demande.
+D.-Les personnes majeures conçues par assistance médicale à la procréation avec tiers donneur à partir des embryons ou des gamètes utilisés jusqu'à la date fixée par le décret prévu au C du VII du présent article peuvent se manifester, si elles le souhaitent, auprès de la commission mentionnée à l'article L. 2143-6 du code de la santé publique pour demander l'accès aux données non identifiantes du tiers donneur détenues par les organismes et établissements mentionnés au troisième alinéa de l'article L. 2142-1 du même code et, le cas échéant, à l'identité de ce tiers donneur.
+E.-La commission mentionnée à l'article L. 2143-6 du code de la santé publique fait droit aux demandes d'accès aux données non identifiantes et à l'identité du tiers donneur qui lui parviennent en application du D du présent VIII si le tiers donneur s'est manifesté conformément au B.
+F.-Les organismes et établissements mentionnés au troisième alinéa de l'article L. 2142-1 du code de la santé publique sont tenus de communiquer à la commission mentionnée à l'article L. 2143-6 du même code, à sa demande, les données nécessaires à l'exercice des missions de celle-ci qu'ils détiennent.
+G.-Les B et D du présent VIII sont applicables le premier jour du treizième mois suivant la promulgation de la présente loi.
+IX.-Le Gouvernement remet au Parlement, avant le 31 décembre 2025, un rapport d'évaluation sur la mise en œuvre des dispositions du présent article. Ce rapport porte notamment sur les conséquences de la reconnaissance de nouveaux droits aux enfants nés d'une assistance médicale à la procréation sur le nombre de dons de gamètes et d'embryons accueillis, sur l'évolution des profils des donneurs ainsi que sur l'efficacité des modalités d'accès aux données non identifiantes et à l'identité des tiers donneurs. »
+I.-Le code civil est ainsi modifié :
+1° Le titre préliminaire est ainsi modifié :
+a) A l'article 6-1, le mot : « au » est remplacé par les mots : « aux chapitres Ier à IV du » ;
+b) Il est ajouté un article 6-2 ainsi rédigé :
+
+« Art. 6-2.-Tous les enfants dont la filiation est légalement établie ont, dans leurs rapports avec leurs parents, les mêmes droits et les mêmes devoirs, sous réserve des dispositions particulières du chapitre II du titre VIII du livre Ier. La filiation fait entrer l'enfant dans la famille de chacun de ses parents. » ;
+
+2° Les articles 310 et 358 sont abrogés ;
+3° Le titre VII du livre Ier est ainsi modifié :
+a) Le premier alinéa de l'article 310-1 est complété par les mots : « ainsi que, dans les conditions prévues au chapitre V du présent titre, par la reconnaissance conjointe » ;
+b) La section 3 du chapitre Ier est abrogée ;
+c) La section 4 du même chapitre Ier devient la section 3 ;
+d) Au troisième alinéa de l'article 311-21, après la référence : « 311-23 », est insérée la référence : «, de l'article 342-12 » ;
+e) Au troisième alinéa de l'article 311-23, après la deuxième occurrence du mot : « article », est insérée la référence : «, de l'article 342-12 » ;
+f) Il est ajouté un chapitre V ainsi rédigé :
+
+« Chapitre V
+« De l'assistance médicale à la procréation avec tiers donneur
+
+« Art. 342-9.-En cas d'assistance médicale à la procréation nécessitant l'intervention d'un tiers donneur, aucun lien de filiation ne peut être établi entre l'auteur du don et l'enfant issu de l'assistance médicale à la procréation.
+« Aucune action en responsabilité ne peut être exercée à l'encontre du donneur.
+
+« Art. 342-10.-Les couples ou la femme non mariée qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers donneur doivent donner préalablement leur consentement à un notaire, qui les informe des conséquences de leur acte au regard de la filiation ainsi que des conditions dans lesquelles l'enfant pourra, s'il le souhaite, accéder à sa majorité aux données non identifiantes et à l'identité de ce tiers donneur.
+« Le consentement donné à une assistance médicale à la procréation interdit toute action aux fins d'établissement ou de contestation de la filiation, à moins qu'il ne soit soutenu que l'enfant n'est pas issu de l'assistance médicale à la procréation ou que le consentement a été privé d'effet.
+« Le consentement est privé d'effet en cas de décès, d'introduction d'une demande en divorce ou en séparation de corps, de signature d'une convention de divorce ou de séparation de corps par consentement mutuel selon les modalités prévues à l'article 229-1 ou de cessation de la communauté de vie, survenant avant la réalisation de l'insémination ou du transfert d'embryon. Il est également privé d'effet lorsque l'un des membres du couple le révoque, par écrit et avant la réalisation de l'assistance médicale à la procréation, auprès du médecin chargé de mettre en œuvre cette insémination ou ce transfert ou du notaire qui l'a reçu.
+
+« Art. 342-11.-Lors du recueil du consentement prévu à l'article 342-10, le couple de femmes reconnaît conjointement l'enfant.
+« La filiation est établie, à l'égard de la femme qui accouche, conformément à l'article 311-25. Elle est établie, à l'égard de l'autre femme, par la reconnaissance conjointe prévue au premier alinéa du présent article. Celle-ci est remise par l'une des deux femmes ou, le cas échéant, par la personne chargée de déclarer la naissance à l'officier de l'état civil, qui l'indique dans l'acte de naissance.
+« Tant que la filiation ainsi établie n'a pas été contestée en justice dans les conditions prévues au deuxième alinéa de l'article 342-10, elle fait obstacle à l'établissement d'une autre filiation dans les conditions prévues au présent titre.
+
+« Art. 342-12.-Lorsque la filiation est établie dans les conditions prévues à l'article 342-11 par reconnaissance conjointe, les femmes qui y sont désignées choisissent le nom de famille qui est dévolu à l'enfant au plus tard au moment de la déclaration de naissance : soit le nom de l'une d'elles, soit leurs deux noms accolés dans l'ordre choisi par elles dans la limite d'un nom de famille pour chacune d'elles. En l'absence de déclaration conjointe à l'officier de l'état civil mentionnant le choix du nom de l'enfant, celui-ci prend leurs deux noms, dans la limite du premier nom de famille de chacune d'elles, accolés selon l'ordre alphabétique.
+« En cas de naissance à l'étranger d'un enfant dont l'un au moins des parents est français, les parents qui n'ont pas usé de la faculté de choix du nom dans les conditions prévues au premier alinéa du présent article peuvent effectuer une telle déclaration lors de la demande de transcription de l'acte, au plus tard dans les trois ans suivant la naissance de l'enfant.
+« Lorsqu'il a déjà été fait application du présent article, de l'article 311-21, du deuxième alinéa de l'article 311-23 ou de l'article 357 à l'égard d'un enfant commun, le nom précédemment dévolu ou choisi vaut pour les autres enfants communs.
+« Lorsque les parents ou l'un d'entre eux portent un double nom de famille, ils peuvent, par une déclaration écrite conjointe, ne transmettre qu'un seul nom à leurs enfants.
+« Lorsqu'il est fait application du dernier alinéa de l'article 342-13 et que la filiation de l'enfant s'en trouve modifiée, le procureur de la République modifie le nom de l'enfant par application du présent article.
+
+« Art. 342-13.-Celui qui, après avoir consenti à l'assistance médicale à la procréation, ne reconnaît pas l'enfant qui en est issu engage sa responsabilité envers la mère et envers l'enfant.
+« En outre, sa paternité est judiciairement déclarée. L'action obéit aux dispositions des articles 328 et 331.
+« La femme qui, après avoir consenti à l'assistance médicale à la procréation, fait obstacle à la remise à l'officier de l'état civil de la reconnaissance conjointe mentionnée à l'article 342-10 engage sa responsabilité.
+« En cas d'absence de remise de la reconnaissance conjointe mentionnée au même article 342-10, celle-ci peut être communiquée à l'officier de l'état civil par le procureur de la République à la demande de l'enfant majeur, de son représentant légal s'il est mineur ou de toute personne ayant intérêt à agir en justice. La reconnaissance conjointe est portée en marge de l'acte de naissance de l'enfant. Toutefois, la filiation établie par la reconnaissance conjointe ne peut être portée dans l'acte de naissance tant que la filiation déjà établie à l'égard d'un tiers, par présomption, reconnaissance volontaire ou adoption plénière, n'a pas été contestée en justice dans les conditions prévues à la section 3 du chapitre III du présent titre, par une action en tierce opposition dans les conditions prévues à l'article 353-2 ou par un recours en révision dans les conditions prévues par décret. » ;
+
+4° Le titre VIII du même livre Ier est ainsi modifié :
+a) L'article 353-2 est ainsi modifié :
+
+-le premier alinéa est complété par les mots : « ou au conjoint de l'adoptant » ;
+-le second alinéa est complété par les mots : «, ainsi que la dissimulation au tribunal de l'existence d'un consentement à une procédure d'assistance médicale à la procréation avec tiers donneur et, le cas échéant, d'une reconnaissance conjointe tels que prévus au chapitre V du titre VII du présent livre » ;
+
+b) Au cinquième alinéa de l'article 357, après la référence : « 311-23 », est insérée la référence : «, de l'article 342-12 » ;
+5° L'article 372 est ainsi modifié :
+a) Le premier alinéa est complété par une phrase ainsi rédigée : « L'autorité parentale est exercée conjointement dans le cas prévu à l'article 342-11. » ;
+b) La seconde phrase du deuxième alinéa est complétée par les mots : « ou, dans le cas d'un établissement de la filiation dans les conditions prévues au chapitre V du titre VII du présent livre, lorsque la mention de la reconnaissance conjointe est apposée à la demande du procureur de la République ».
+II.-A l'article 847 bis du code général des impôts, la référence : « 311-20 » est remplacée par la référence : « 342-10 ».
+III.-Le 8° du I et le III de l'article 22 de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice sont abrogés.
+IV.-Lorsqu'un couple de femmes a eu recours à une assistance médicale à la procréation à l'étranger avant la publication de la présente loi, il peut faire, devant le notaire, une reconnaissance conjointe de l'enfant dont la filiation n'est établie qu'à l'égard de la femme qui a accouché. Cette reconnaissance établit la filiation à l'égard de l'autre femme.
+La reconnaissance conjointe est inscrite en marge de l'acte de naissance de l'enfant sur instruction du procureur de la République, qui s'assure que les conditions prévues au premier alinéa du présent IV sont réunies.
+Le présent IV est applicable pour une durée de trois ans à compter de la publication de la présente loi.
+L'article 47 du code civil est complété par une phrase ainsi rédigée : « Celle-ci est appréciée au regard de la loi française. »
+
+## Titre II : PROMOUVOIR LA SOLIDARITÉ DANS LE RESPECT DE L'AUTONOMIE DE CHACUN
+
+### Chapitre Ier : Conforter la solidarité dans le cadre du don d'organes, de tissus et de cellules
+Le chapitre Ier du titre III du livre II de la première partie du code de la santé publique est ainsi modifié :
+1° L'article L. 1231-1 est ainsi modifié :
+a) Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+b) A la première phrase du deuxième alinéa, après le mot : « alinéa », est insérée la référence : « du présent I » ;
+c) Le troisième alinéa est remplacé par un II ainsi rédigé :
+« II.-En cas d'incompatibilité entre une personne ayant exprimé l'intention de don et une personne dans l'intérêt de laquelle le prélèvement peut être opéré en application du I rendant impossible la greffe, le donneur et le receveur potentiels peuvent se voir proposer le recours à un don croisé d'organes. Dans ce cadre, le nombre maximal de paires de donneurs et de receveurs consécutifs est limité à six.
+« Le don croisé d'organes consiste pour un receveur potentiel à bénéficier du don d'une autre personne qui a exprimé l'intention de don et également placée dans une situation d'incompatibilité à l'égard de la personne dans l'intérêt de laquelle le prélèvement peut être opéré en application du I, tandis que cette dernière bénéficie du don d'un autre donneur.
+« Pour augmenter les possibilités d'appariement entre les donneurs et les receveurs engagés dans un don croisé et en substitution au prélèvement de l'un des donneurs vivants, il peut y avoir recours à un organe prélevé sur une personne décédée, dans les conditions fixées à l'article L. 1232-1.
+« En cas d'échec du prélèvement sur un donneur ou de la greffe sur un receveur, l'Agence de la biomédecine est informée sans délai et applique les règles de répartition mentionnées à l'article L. 1231-1 B les plus favorables au receveur compte tenu de sa situation.
+« Lors de la mise en œuvre d'un don croisé, l'ensemble des opérations de prélèvement se déroulent dans un délai maximal de vingt-quatre heures. Les opérations de greffe sont réalisées consécutivement à chacun des prélèvements. L'anonymat entre donneur et receveur est garanti. » ;
+d) Au début du quatrième alinéa, est ajoutée la mention : « III.-» ;
+e) A la première phrase du même quatrième alinéa, le mot : «, deuxième » est remplacé par les mots : « et second alinéas du I » et, à la fin, la référence : « troisième alinéas » est remplacée par la référence : « au II » ;
+f) Au début du cinquième alinéa, est ajoutée la mention : « IV.-» ;
+g) Au même cinquième alinéa, les mots : « deuxième alinéa » sont remplacés par les mots : « second alinéa du I » ;
+h) Au sixième alinéa, après le mot : « alinéa », est insérée la référence : « du I » ;
+i) Au début du dernier alinéa, est ajoutée la mention : « V.-» ;
+j) A la fin du même dernier alinéa, les mots : « de son deuxième alinéa » sont remplacés par les mots : « du second alinéa du I » ;
+2° Le premier alinéa de l'article L. 1231-3 est ainsi modifié :
+a) Au début de la cinquième phrase, les mots : « En cas d'urgence vitale, les » sont remplacés par les mots : « Les cinq » ;
+b) Au début de la dernière phrase, les mots : « Dans ce cas d'urgence » sont remplacés par les mots : « En cas d'urgence vitale » ;
+c) A la même dernière phrase, la référence : « par le quatrième alinéa » est remplacée par la référence : « au III » ;
+3° L'article L. 1231-4 est ainsi rédigé :
+
+« Art. L. 1231-4.-Les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat, notamment :
+« 1° Les dispositions applicables au don croisé d'organes, dont les modalités d'information des donneurs et receveurs engagés dans celui-ci ;
+« 2° Les conditions de fonctionnement du comité mentionné à l'article L. 1231-3. »
+Au dernier alinéa de l'article L. 1211-3 du code de la santé publique, les mots : « de seize à vingt-cinq » sont remplacés par les mots : « d'au moins seize ».
+I.-Le chapitre Ier du titre IV du livre II de la première partie du code de la santé publique est ainsi modifié :
+1° L'article L. 1241-3 est ainsi modifié :
+a) Au deuxième alinéa, après le mot : « bénéfice », sont insérés les mots : « de l'un de ses parents, » ;
+b) Le troisième alinéa est remplacé par trois alinéas ainsi rédigés :
+« Le prélèvement au bénéfice d'un membre de la famille autre que les parents ne peut être pratiqué que sous réserve du consentement de chacune des personnes investies de l'exercice de l'autorité parentale ou, le cas échéant, du tuteur du mineur, informés des risques encourus par le mineur et des conséquences éventuelles du prélèvement par le praticien qui a posé l'indication de greffe ou par tout autre praticien de leur choix. Le consentement est exprimé devant le président du tribunal judiciaire ou le magistrat désigné par lui, qui s'assure au préalable que ce consentement est libre et éclairé. En cas d'urgence vitale, le consentement est recueilli, par tout moyen, par le procureur de la République. Le consentement est révocable sans forme et à tout moment. Le prélèvement est subordonné à l'autorisation du comité d'experts mentionné à l'article L. 1231-3.
+« Dans le cas où le prélèvement est réalisé à titre exceptionnel sur un mineur au bénéfice de l'un de ses parents investi de l'exercice de l'autorité parentale, le président du tribunal judiciaire désigne sans délai un administrateur ad hoc, qui ne peut être un ascendant ou un collatéral des parents ou du mineur, pour représenter ce dernier dans les conditions prévues à l'article 388-2 du code civil, en lieu et place de ses parents. Le praticien qui a posé l'indication de greffe ou tout autre praticien au choix des parents informe l'administrateur ad hoc, dans les mêmes conditions que ces derniers, des risques encourus par le mineur et des conséquences éventuelles du prélèvement.
+« Le président du tribunal judiciaire autorise le prélèvement après avoir entendu le mineur, s'il est capable de discernement, les parents ainsi que l'administrateur ad hoc et après avoir recueilli l'avis du comité d'experts mentionné à l'article L. 1231-3 du présent code. » ;
+c) Le début de la première phrase du dernier alinéa est ainsi rédigé : « Avant de délivrer l'autorisation ou de formuler l'avis prévus au présent article, le comité d'experts mentionné au même article L. 1231-3 s'assure que, notamment … (le reste sans changement). » ;
+2° L'article L. 1241-4 est ainsi modifié :
+a) Au premier alinéa, le mot : « légale » est remplacé par les mots : « juridique avec représentation relative à la personne » ;
+b) Les deuxième à avant-dernier alinéas sont ainsi rédigés :
+« En l'absence d'autre solution thérapeutique appropriée, le prélèvement de cellules hématopoïétiques issues de la moelle osseuse ou du sang périphérique peut, à titre exceptionnel, être effectué sur une personne vivante majeure faisant l'objet d'une mesure de protection juridique avec représentation relative à la personne, au bénéfice de l'un de ses parents, de l'un de ses enfants, de son cousin germain ou de sa cousine germaine, de son oncle ou de sa tante, de son neveu ou de sa nièce.
+« Lorsque le receveur est l'un de ses parents ou la personne chargée de la mesure de protection ou lorsque la personne chargée de la mesure de protection est un ascendant ou un collatéral du receveur, le juge des tutelles désigne sans délai un administrateur ad hoc, qui ne peut être un ascendant ou un collatéral des parents ou du majeur protégé, pour représenter ce dernier et recevoir l'information, par le praticien qui a posé l'indication de greffe ou tout autre praticien, des risques encourus par le majeur protégé et des conséquences éventuelles du prélèvement.
+« Pour l'application des trois premiers alinéas du présent article, si le juge des tutelles compétent estime, après l'avoir entendue, que la personne protégée a la faculté de consentir au prélèvement, il reçoit ce consentement au prélèvement, lequel ne peut être réalisé qu'après avoir été autorisé par le comité d'experts mentionné à l'article L. 1231-3. Dans le cas contraire, le juge des tutelles autorise le prélèvement après avoir recueilli l'avis de la personne concernée, lorsque cela est possible, de la personne chargée de la mesure de protection, lorsque celle-ci n'est ni le receveur, ni un descendant, ni un collatéral du receveur, du comité d'experts et, le cas échéant, de l'administrateur ad hoc.
+« Avant de formuler son avis ou de délivrer l'autorisation prévus au quatrième alinéa du présent article, le comité d'experts mentionné à l'article L. 1231-3 s'assure que tous les moyens ont été mis en œuvre pour trouver un donneur majeur suffisamment compatible avec le receveur. »
+II.-Au dernier alinéa de l'article L. 1272-4 du code de la santé publique, le mot : « légale » est remplacé par les mots : « juridique avec représentation à la personne ».
+III.-Au second alinéa de l'article 511-5 du code pénal, le mot : « légale » est remplacé par les mots : « juridique avec représentation à la personne ».
+I.-A la fin de l'article L. 1231-2 du code de la santé publique, le mot : « légale » est remplacé par les mots : « juridique avec représentation à la personne ».
+II.-L'article L. 1232-2 du code de la santé publique est ainsi modifié :
+1° Au premier alinéa, les mots : « ou un majeur sous tutelle » sont supprimés et les mots : « chacun des titulaires de l'autorité parentale ou le tuteur » sont remplacés par les mots : « chacune des personnes investies de l'exercice de l'autorité parentale » ;
+2° Au second alinéa, les mots : « l'un des titulaires » sont remplacés par les mots : « l'une des personnes investies de l'exercice » et la seconde occurrence du mot : « titulaire » est remplacée par les mots : « personne investie de l'exercice de l'autorité parentale ».
+III.-Le deuxième alinéa de l'article L. 1235-2 du code de la santé publique est ainsi rédigé :
+« Lorsque cette personne est un mineur ou un majeur faisant l'objet d'une mesure de protection juridique avec représentation à la personne, l'utilisation ultérieure des organes ainsi prélevés est en outre subordonnée à l'absence d'opposition des personnes investies de l'exercice de l'autorité parentale ou de la personne chargée de la mesure de protection, dûment informées de l'objet de cette utilisation. Le refus du mineur ou du majeur protégé fait obstacle à cette utilisation. »
+IV.-A la fin de l'article L. 1241-2 du code de la santé publique, le mot : « légale » est remplacé par les mots : « juridique avec représentation à la personne ».
+V.-L'article L. 1272-2 du code de la santé publique est ainsi modifié :
+1° Au deuxième alinéa, la référence : « quatrième alinéa » est remplacée par la référence : « III » et les références : « aux deuxième et sixième alinéas du même article » sont remplacées par les références : « au second alinéa du I et au deuxième alinéa du IV du même article L. 1231-1 » ;
+2° Au dernier alinéa, le mot : « légale » est remplacé par les mots : « juridique avec représentation relative à la personne ».
+VI.-L'article 511-3 du code pénal est ainsi modifié :
+1° Au premier alinéa, la référence : « quatrième alinéa » est remplacée par la référence : « III » et les références : « aux deuxième et sixième alinéas du même article » sont remplacées par les références : « au second alinéa du I et au deuxième alinéa du IV du même article L. 1231-1 » ;
+2° Au second alinéa, le mot : « légale » est remplacé par les mots : « juridique avec représentation relative à la personne ».
+
+### Chapitre II : Conforter la solidarité dans le cadre du don de sang
+Le livre II de la première partie du code de la santé publique est ainsi modifié :
+1° Le second alinéa de l'article L. 1211-6-1 est complété par trois phrases ainsi rédigées : « Les critères de sélection des donneurs de sang sont définis par un arrêté du ministre chargé de la santé pris après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé. Ils ne peuvent être fondés sur aucune différence de traitement, notamment en ce qui concerne le sexe des partenaires avec lesquels les donneurs auraient entretenu des relations sexuelles, non justifiée par la nécessité de protéger le donneur ou le receveur. Les critères sont régulièrement révisés pour tenir compte notamment de l'évolution des connaissances, des dispositifs de sécurisation et des risques sanitaires. » ;
+2° Le premier alinéa de l'article L. 1221-5 est complété par les mots : « avec représentation relative à la personne » ;
+3° Le second alinéa de l'article L. 1271-2 est complété par les mots : « avec représentation relative à la personne ».
+
+### Chapitre III : Encadrer les conditions de dons de corps à des fins d'enseignement médical et de recherche
+Le titre VI du livre II de la première partie du code de la santé publique est ainsi rédigé :
+
+« Titre VI
+« DON DE CORPS À DES FINS D'ENSEIGNEMENT MÉDICAL ET DE RECHERCHE
+
+« Chapitre unique
+
+« Art. L. 1261-1.-Une personne majeure peut consentir à donner son corps après son décès à des fins d'enseignement médical et de recherche. Le consentement du donneur est exprimé par écrit. Le présent alinéa ne s'applique pas aux personnes majeures faisant l'objet d'une mesure de protection juridique avec représentation relative à la personne.
+« Ce don ne peut être effectué qu'au bénéfice d'un établissement de santé, de formation ou de recherche titulaire d'une autorisation délivrée par les ministres de tutelle de cet établissement.
+« Les conditions d'ouverture, d'organisation et de fonctionnement de ces structures sont définies par décret en Conseil d'Etat. Ce décret précise notamment les conditions de prise en charge financière du transport des corps. Il précise également les conditions de restitution des corps ayant fait l'objet d'un tel don en prenant en compte la volonté du donneur ainsi qu'en informant et en associant sa famille aux décisions.
+« Les établissements de santé, de formation ou de recherche s'engagent à apporter respect et dignité aux corps qui leur sont confiés. »
+
+### Chapitre IV : Permettre la solidarité dans le cadre de la transmission d'une information génétique
+I.-Le V de l'article L. 1110-4 du code de la santé publique est complété par un alinéa ainsi rédigé :
+« En outre, le secret médical ne fait pas obstacle à ce que les informations concernant une personne décédée nécessaires à la prise en charge d'une personne susceptible de faire l'objet d'un examen des caractéristiques génétiques dans les conditions prévues au I de l'article L. 1130-4 soient délivrées au médecin assurant cette prise en charge, sauf volonté contraire exprimée par la personne avant son décès. »
+II.-L'article L. 1111-7 du code de la santé publique est ainsi modifié :
+1° L'avant-dernier alinéa est ainsi rédigé :
+« En cas de décès du malade, l'accès au dossier médical de ce malade des ayants droit, du concubin, du partenaire lié par un pacte civil de solidarité ou du médecin prenant en charge une personne susceptible de faire l'objet d'un examen des caractéristiques génétiques dans les conditions prévues au I de l'article L. 1130-4 s'effectue dans les conditions prévues aux deux derniers alinéas du V de l'article L. 1110-4. » ;
+2° La dernière phrase du dernier alinéa est supprimée.
+III.-Au début du titre III du livre Ier de la première partie du code de la santé publique, il est ajouté un chapitre préliminaire ainsi rédigé :
+
+« Chapitre préliminaire
+« Principes généraux
+
+« Art. L. 1130-3.-Par dérogation aux articles 16-10 et 16-11 du code civil, lorsque la personne est hors d'état d'exprimer sa volonté, l'examen ou l'identification peut être entrepris à des fins médicales dans l'intérêt de cette personne.
+« Préalablement à la réalisation de l'examen ou de l'identification, le médecin s'assure que la personne ne s'y est pas opposée antérieurement auprès de la personne de confiance mentionnée à l'article L. 1111-6 du présent code, de sa famille ou, à défaut, d'un proche ou, le cas échéant, auprès de la personne chargée d'une mesure de protection juridique avec représentation à la personne.
+
+« Art. L. 1130-4.-I.-Par dérogation à l'article 16-10 du code civil, lorsque la personne est hors d'état d'exprimer sa volonté ou lorsqu'elle est décédée, l'examen peut être entrepris à des fins médicales dans l'intérêt des membres de sa famille potentiellement concernés dès lors qu'un médecin suspecte une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins. Lorsque la personne est décédée, l'examen est réalisé à partir d'échantillons de cette personne déjà conservés ou prélevés dans le cadre d'une autopsie à des fins médicales.
+« II.-Dans les cas mentionnés au I, ce médecin s'assure de l'absence d'opposition de la personne dans les conditions prévues au second alinéa de l'article L. 1130-3.
+« En l'absence d'opposition de la personne, le médecin informe les membres de la famille potentiellement concernés dont il possède les coordonnées qu'il estime plausible l'existence d'une telle anomalie génétique.
+« Il leur précise qu'ils peuvent accepter ou refuser par écrit la réalisation de l'examen mentionné au I du présent article et qu'il suffit que l'un des membres ait donné son accord pour que cet examen soit réalisé.
+« III.-L'information sur la présence ou l'absence d'une anomalie génétique identifiée par l'examen prévu au I est accessible, à leur demande, à tous les membres de la famille potentiellement concernés, y compris ceux qui ont refusé que cet examen soit pratiqué, dès lors que le médecin les informe qu'il dispose de ce résultat.
+« Si l'anomalie génétique mentionnée au même I est confirmée, le médecin invite les personnes qui ont demandé à recevoir l'information mentionnée au premier alinéa du présent III à se rendre à une consultation chez un médecin qualifié en génétique, sans dévoiler à ces personnes l'anomalie génétique en cause ni les risques qui lui sont associés.
+« Les membres de la famille qui souhaitent bénéficier d'un examen de leurs caractéristiques génétiques peuvent y accéder dans les conditions prévues au chapitre Ier du présent titre, notamment à l'article L. 1131-1.
+
+« Art. L. 1130-6.-I.-Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre.
+« II.-Un arrêté du ministre chargé de la santé pris sur proposition de l'Agence de la biomédecine fixe les critères déterminant les situations médicales justifiant, chez une personne hors d'état d'exprimer sa volonté ou décédée, la réalisation d'un examen de ses caractéristiques génétiques à des fins médicales dans l'intérêt des membres de sa famille potentiellement concernés. »
+
+IV.-Après l'article L. 1243-8 du code de la santé publique, il est inséré un article L. 1243-8-1 ainsi rédigé :
+
+« Art. L. 1243-8-1.-Un arrêté du ministre chargé de la santé, pris après avis de l'Agence de la biomédecine, de la Haute Autorité de santé et des représentants des établissements de santé et des laboratoires de biologie médicale, définit les règles de bonne pratique en matière de conservation et de traçabilité des échantillons biologiques humains prélevés à des fins diagnostiques ou thérapeutiques ou à l'occasion d'une autopsie réalisée à des fins médicales. »
+
+V.-La deuxième phrase du dernier alinéa de l'article L. 1211-2 du code de la santé publique est complétée par les mots : «, sans préjudice de l'article L. 1130-4 ».
+I.-Le chapitre Ier du titre III du livre Ier de la première partie du code de la santé publique est ainsi modifié :
+1° L'intitulé est ainsi rédigé : « Modalités de mise en œuvre des examens des caractéristiques génétiques et des identifications par empreintes génétiques et information de la parentèle » ;
+2° L'article L. 1131-1 est ainsi rédigé :
+
+« Art. L. 1131-1.-I.-Préalablement à la réalisation d'un examen des caractéristiques génétiques d'une personne, le médecin prescripteur informe celle-ci des risques qu'un silence ferait courir aux membres de sa famille potentiellement concernés si une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins était diagnostiquée. Il prévoit avec elle, dans un document écrit qui peut, le cas échéant, être complété après le diagnostic, les modalités de l'information destinée aux membres de la famille potentiellement concernés afin d'en préparer l'éventuelle transmission. Si la personne a exprimé par écrit sa volonté d'être tenue dans l'ignorance du diagnostic, elle peut autoriser le médecin prescripteur à procéder à l'information des intéressés dans les conditions prévues au II.
+« En cas de diagnostic d'une anomalie génétique pouvant être responsable d'une affection grave, sauf si la personne a exprimé par écrit sa volonté d'être tenue dans l'ignorance du diagnostic, l'information médicale communiquée est résumée dans un document rédigé de manière loyale, claire et appropriée, qui est signé et remis à cette personne par le médecin. La personne atteste de cette remise. Lors de l'annonce de ce diagnostic, le médecin informe la personne de l'existence d'une ou plusieurs associations de malades susceptibles d'apporter des renseignements complémentaires sur l'anomalie génétique diagnostiquée. Si la personne le demande, il lui remet la liste des associations agréées en application de l'article L. 1114-1.
+« La personne est tenue d'informer les membres de sa famille potentiellement concernés dont elle ou, le cas échéant, son représentant légal possède ou peut obtenir les coordonnées, dès lors que des mesures de prévention ou de soins peuvent leur être proposées. La personne ou, le cas échéant, son représentant légal communique aux personnes contactées les coordonnées du médecin prescripteur.
+« II.-Si la personne ne souhaite pas informer elle-même les membres de sa famille potentiellement concernés, elle peut demander par un document écrit au médecin prescripteur, qui atteste de cette demande, de procéder à cette information. Elle lui communique à cette fin les coordonnées des intéressés dont elle dispose. Le médecin porte alors à la connaissance de ces derniers l'existence d'une information médicale à caractère familial susceptible de les concerner et les invite à se rendre à une consultation chez un médecin qualifié en génétique sans dévoiler à ces personnes le nom de la personne ayant fait l'objet de l'examen, ni l'anomalie génétique, ni les risques qui lui sont associés.
+« III.-Si la personne fait l'objet d'une mesure de protection juridique avec représentation relative à la personne ou est hors d'état d'exprimer sa volonté et que l'examen est réalisé dans son intérêt en application de l'article L. 1130-3, le médecin procède à l'information des membres de la famille potentiellement concernés dont il possède les coordonnées, dans les conditions prévues au II du présent article.
+« IV.-Si la personne décède avant l'annonce du résultat ou avant d'avoir pu informer les membres de sa famille potentiellement concernés, le médecin procède à l'information de ceux dont il possède les coordonnées, dans les conditions prévues au II du présent article, sauf si la personne s'était opposée antérieurement à être informée du résultat ou si elle s'était opposée antérieurement à ce que les membres de sa famille potentiellement concernés bénéficient de cette information.
+« V.-Dans tous les cas, le médecin qualifié en génétique consulté par la personne apparentée est informé par le médecin prescripteur de l'anomalie génétique en cause. » ;
+
+3° L'article L. 1131-1-1 est ainsi rédigé :
+
+« Art. L. 1131-1-1.-I.-Lorsqu'est diagnostiquée chez un tiers donneur, au sens de l'article L. 2143-1, une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins, le médecin prescripteur saisit le responsable du centre d'assistance médicale à la procréation afin qu'il procède à l'information, dans les conditions prévues au II de l'article L. 1131-1, des personnes issues du don, des parents investis de l'exercice de l'autorité parentale ou, le cas échéant, du tuteur, si ces personnes sont mineures.
+« II.-Lorsqu'est diagnostiquée chez une personne issue d'un don de gamètes ou d'un accueil d'embryon une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins, le médecin prescripteur saisit le responsable du centre d'assistance médicale à la procréation afin qu'il procède à l'information du tiers donneur dans les conditions prévues au II de l'article L. 1131-1.
+« III.-Lorsque le responsable d'un centre d'assistance médicale à la procréation informe, en application des I et II du présent article, un tiers donneur, une personne issue d'un don ou le représentant légal de cette dernière si elle est mineure de l'existence d'une information médicale à caractère génétique susceptible de les concerner, il transmet au médecin consulté par la personne ainsi informée les coordonnées du médecin prescripteur pour la communication de l'anomalie génétique en cause. Aucune autre information n'est transmise par le médecin prescripteur. » ;
+
+4° L'article L. 1131-1-2 est ainsi rédigé :
+
+« Art. L. 1131-1-2.-Lorsqu'est diagnostiquée chez une personne mentionnée aux 1° ou 2° de l'article L. 147-2 du code de l'action sociale et des familles une anomalie génétique pouvant être responsable d'une affection grave justifiant de mesures de prévention, y compris de conseil génétique, ou de soins, le médecin prescripteur saisit le Conseil national pour l'accès aux origines personnelles mentionné à l'article L. 147-1 du même code pour identifier, selon le cas, la ou les personnes mentionnées au 2° de l'article L. 147-2 dudit code ou l'enfant mentionné au 1° du même article L. 147-2.
+« Dans les deux cas, ni l'anomalie génétique en cause, ni les risques qui lui sont associés ne sont mentionnés dans cette saisine.
+« Le Conseil national pour l'accès aux origines personnelles porte alors à la connaissance de la personne ainsi identifiée, dans des conditions de nature à préserver le secret de cette transmission définies par décret, l'existence d'une information médicale à caractère familial susceptible de la concerner et l'invite à se rendre à une consultation chez un médecin qualifié en génétique, sans lui dévoiler le nom de la personne ayant fait l'objet de l'examen, ni aucune autre information permettant d'identifier cette seconde personne.
+« Le conseil transmet au médecin consulté par la personne ainsi informée les coordonnées du médecin prescripteur pour la communication de l'anomalie génétique en cause. Aucune autre information n'est transmise à cette occasion par le médecin prescripteur.
+« Afin d'accomplir la mission qui lui incombe en application du présent article, le Conseil national pour l'accès aux origines personnelles peut utiliser le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques et consulter ce répertoire. Les conditions de cette utilisation et de cette consultation sont fixées par décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés. »
+
+II.-Le chapitre VII du titre IV du livre Ier du code de l'action sociale et des familles est ainsi modifié :
+1° Après le troisième alinéa de l'article L. 147-1, il est inséré un alinéa ainsi rédigé :
+« Il est également chargé de porter à la connaissance des personnes mentionnées aux 1° et 2° de l'article L. 147-2 l'existence d'une information médicale à caractère familial susceptible de les concerner dans les conditions prévues à l'article L. 1131-1-2 du code de la santé publique. » ;
+2° L'article L. 147-2 est complété par un 5° ainsi rédigé :
+« 5° La demande écrite formulée par un médecin prescripteur d'un examen des caractéristiques génétiques à des fins médicales transmise en application de l'article L. 1131-1-2 du code de la santé publique. »

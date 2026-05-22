@@ -1,0 +1,235 @@
+LOI | NOR: JUSX1805103L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Vu la décision du Conseil constitutionnel n° 2018-768 DC du 26 juillet 2018 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2018-670 du 30 juillet 2018 relative à la protection du secret des affaires (1)
+Le livre Ier du code de commerce est complété par un titre V ainsi rédigé :
+
+« Titre V
+« DE LA PROTECTION DU SECRET DES AFFAIRES
+
+« Chapitre Ier
+« De l'objet et des conditions de la protection
+
+« Section 1
+« De l'information protégée
+
+« Art. L. 151-1.-Est protégée au titre du secret des affaires toute information répondant aux critères suivants :
+« 1° Elle n'est pas, en elle-même ou dans la configuration et l'assemblage exacts de ses éléments, généralement connue ou aisément accessible pour les personnes familières de ce type d'informations en raison de leur secteur d'activité ;
+« 2° Elle revêt une valeur commerciale, effective ou potentielle, du fait de son caractère secret ;
+« 3° Elle fait l'objet de la part de son détenteur légitime de mesures de protection raisonnables, compte tenu des circonstances, pour en conserver le caractère secret.
+
+« Section 2
+« De la détention légitime et de l'obtention licite d'un secret des affaires
+
+« Art. L. 151-2.-Est détenteur légitime d'un secret des affaires celui qui en a le contrôle de façon licite.
+
+« Art. L. 151-3.-Constituent des modes d'obtention licite d'un secret des affaires :
+« 1° Une découverte ou une création indépendante ;
+« 2° L'observation, l'étude, le démontage ou le test d'un produit ou d'un objet qui a été mis à la disposition du public ou qui est de façon licite en possession de la personne qui obtient l'information, sauf stipulation contractuelle interdisant ou limitant l'obtention du secret.
+
+« Section 3
+« De l'obtention, de l'utilisation et de la divulgation illicites
+
+« Art. L. 151-4.-L'obtention d'un secret des affaires est illicite lorsqu'elle est réalisée sans le consentement de son détenteur légitime et qu'elle résulte :
+« 1° D'un accès non autorisé à tout document, objet, matériau, substance ou fichier numérique qui contient le secret ou dont il peut être déduit, ou bien d'une appropriation ou d'une copie non autorisée de ces éléments ;
+« 2° De tout autre comportement considéré, compte tenu des circonstances, comme déloyal et contraire aux usages en matière commerciale.
+
+« Art. L. 151-5.-L'utilisation ou la divulgation d'un secret des affaires est illicite lorsqu'elle est réalisée sans le consentement de son détenteur légitime par une personne qui a obtenu le secret dans les conditions mentionnées à l'article L. 151-4 ou qui agit en violation d'une obligation de ne pas divulguer le secret ou de limiter son utilisation.
+« La production, l'offre ou la mise sur le marché, de même que l'importation, l'exportation ou le stockage à ces fins de tout produit résultant de manière significative d'une atteinte au secret des affaires sont également considérés comme une utilisation illicite lorsque la personne qui exerce ces activités savait, ou aurait dû savoir au regard des circonstances, que ce secret était utilisé de façon illicite au sens du premier alinéa du présent article.
+
+« Art. L. 151-6.-L'obtention, l'utilisation ou la divulgation d'un secret des affaires est aussi considérée comme illicite lorsque, au moment de l'obtention, de l'utilisation ou de la divulgation du secret, une personne savait, ou aurait dû savoir au regard des circonstances, que ce secret avait été obtenu, directement ou indirectement, d'une autre personne qui l'utilisait ou le divulguait de façon illicite au sens du premier alinéa de l'article L. 151-5.
+
+« Section 4
+« Des exceptions à la protection du secret des affaires
+
+« Art. L. 151-7.-Le secret des affaires n'est pas opposable lorsque l'obtention, l'utilisation ou la divulgation du secret est requise ou autorisée par le droit de l'Union européenne, les traités ou accords internationaux en vigueur ou le droit national, notamment dans l'exercice des pouvoirs d'enquête, de contrôle, d'autorisation ou de sanction des autorités juridictionnelles ou administratives.
+
+« Art. L. 151-8.-A l'occasion d'une instance relative à une atteinte au secret des affaires, le secret n'est pas opposable lorsque son obtention, son utilisation ou sa divulgation est intervenue :
+« 1° Pour exercer le droit à la liberté d'expression et de communication, y compris le respect de la liberté de la presse, et à la liberté d'information telle que proclamée dans la Charte des droits fondamentaux de l'Union européenne ;
+« 2° Pour révéler, dans le but de protéger l'intérêt général et de bonne foi, une activité illégale, une faute ou un comportement répréhensible, y compris lors de l'exercice du droit d'alerte défini à l'article 6 de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique ;
+« 3° Pour la protection d'un intérêt légitime reconnu par le droit de l'Union européenne ou le droit national.
+
+« Art. L. 151-9.-A l'occasion d'une instance relative à une atteinte au secret des affaires, le secret n'est pas opposable lorsque :
+« 1° L'obtention du secret des affaires est intervenue dans le cadre de l'exercice du droit à l'information et à la consultation des salariés ou de leurs représentants ;
+« 2° La divulgation du secret des affaires par des salariés à leurs représentants est intervenue dans le cadre de l'exercice légitime par ces derniers de leurs fonctions, pour autant que cette divulgation ait été nécessaire à cet exercice.
+« L'information ainsi obtenue ou divulguée demeure protégée au titre du secret des affaires à l'égard des personnes autres que les salariés ou leurs représentants qui en ont eu connaissance.
+
+« Chapitre II
+« Des actions en prévention, en cessation ou en réparation d'une atteinte au secret des affaires
+
+« Art. L. 152-1.-Toute atteinte au secret des affaires telle que prévue aux articles L. 151-4 à L. 151-6 engage la responsabilité civile de son auteur.
+
+« Art. L. 152-2.-Les actions relatives à une atteinte au secret des affaires sont prescrites par cinq ans à compter des faits qui en sont la cause.
+
+« Section 1
+« Des mesures pour prévenir et faire cesser une atteinte au secret des affaires
+
+« Art. L. 152-3.-I.-Dans le cadre d'une action relative à la prévention ou la cessation d'une atteinte à un secret des affaires, la juridiction peut, sans préjudice de l'octroi de dommages et intérêts, prescrire, y compris sous astreinte, toute mesure proportionnée de nature à empêcher ou à faire cesser une telle atteinte. Elle peut notamment :
+« 1° Interdire la réalisation ou la poursuite des actes d'utilisation ou de divulgation d'un secret des affaires ;
+« 2° Interdire les actes de production, d'offre, de mise sur le marché ou d'utilisation des produits résultant de manière significative de l'atteinte au secret des affaires ou l'importation, l'exportation ou le stockage de tels produits à ces fins ;
+« 3° Ordonner la destruction totale ou partielle de tout document, objet, matériau, substance ou fichier numérique contenant le secret des affaires concerné ou dont il peut être déduit ou, selon le cas, ordonner leur remise totale ou partielle au demandeur.
+« II.-La juridiction peut également ordonner que les produits résultant de manière significative de l'atteinte au secret des affaires soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, modifiés afin de supprimer l'atteinte au secret des affaires, détruits ou, selon le cas, confisqués au profit de la partie lésée.
+« III.-Lorsque la juridiction limite la durée des mesures mentionnées aux 1° et 2° du I, la durée fixée doit être suffisante pour éliminer tout avantage commercial ou économique que l'auteur de l'atteinte au secret des affaires aurait pu tirer de l'obtention, de l'utilisation ou de la divulgation illicite du secret des affaires.
+« IV.-Sauf circonstances particulières et sans préjudice des dommages et intérêts qui pourraient être réclamés, les mesures mentionnées aux I à III sont ordonnées aux frais de l'auteur de l'atteinte.
+« Il peut y être mis fin à la demande de l'auteur de l'atteinte lorsque les informations concernées ne peuvent plus être qualifiées de secret des affaires au sens de l'article L. 151-1 pour des raisons qui ne dépendent pas, directement ou indirectement, de lui.
+
+« Art. L. 152-4.-Pour prévenir une atteinte imminente ou faire cesser une atteinte illicite à un secret des affaires, la juridiction peut, sur requête ou en référé, ordonner des mesures provisoires et conservatoires dont les modalités sont déterminées par décret en Conseil d'Etat.
+
+« Art. L. 152-5.-Sans préjudice de l'article L. 152-6, la juridiction peut ordonner, à la demande de l'auteur de l'atteinte, le versement d'une indemnité à la partie lésée au lieu des mesures mentionnées aux I à III de l'article L. 152-3 lorsque sont réunies les conditions suivantes :
+« 1° Au moment de l'utilisation ou de la divulgation du secret des affaires, l'auteur de l'atteinte ne savait pas, ni ne pouvait savoir au regard des circonstances, que le secret des affaires avait été obtenu d'une autre personne qui l'utilisait ou le divulguait de façon illicite ;
+« 2° L'exécution des mesures mentionnées aux I à III de l'article L. 152-3 causerait à cet auteur un dommage disproportionné ;
+« 3° Le versement d'une indemnité à la partie lésée paraît raisonnablement satisfaisant.
+« Lorsque le versement de cette indemnité est ordonné en lieu et place des mesures prévues aux 1° et 2° du I du même article L. 152-3, cette indemnité ne peut être fixée à une somme supérieure au montant des droits qui auraient été dus si l'auteur de l'atteinte avait demandé l'autorisation d'utiliser ledit secret des affaires pour la période pendant laquelle l'utilisation du secret des affaires aurait pu être interdite.
+
+« Section 2
+« De la réparation d'une atteinte au secret des affaires
+
+« Art. L. 152-6.-Pour fixer les dommages et intérêts dus en réparation du préjudice effectivement subi, la juridiction prend en considération distinctement :
+« 1° Les conséquences économiques négatives de l'atteinte au secret des affaires, dont le manque à gagner et la perte subie par la partie lésée, y compris la perte de chance ;
+« 2° Le préjudice moral causé à la partie lésée ;
+« 3° Les bénéfices réalisés par l'auteur de l'atteinte au secret des affaires, y compris les économies d'investissements intellectuels, matériels et promotionnels que celui-ci a retirées de l'atteinte.
+« La juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui tient notamment compte des droits qui auraient été dus si l'auteur de l'atteinte avait demandé l'autorisation d'utiliser le secret des affaires en question. Cette somme n'est pas exclusive de l'indemnisation du préjudice moral causé à la partie lésée.
+
+« Section 3
+« Des mesures de publicité
+
+« Art. L. 152-7.-La juridiction peut ordonner toute mesure de publicité de la décision relative à l'obtention, l'utilisation ou la divulgation illicite d'un secret des affaires, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+« Lorsqu'elle ordonne une telle mesure, la juridiction veille à protéger le secret des affaires dans les conditions prévues à l'article L. 153-1.
+« Les mesures sont ordonnées aux frais de l'auteur de l'atteinte.
+
+« Section 4
+« Des sanctions en cas de procédure dilatoire ou abusive
+
+« Art. L. 152-8.-Toute personne physique ou morale qui agit de manière dilatoire ou abusive sur le fondement du présent chapitre peut être condamnée au paiement d'une amende civile dont le montant ne peut être supérieur à 20 % du montant de la demande de dommages et intérêts. En l'absence de demande de dommages et intérêts, le montant de l'amende civile ne peut excéder 60 000 €.
+« L'amende civile peut être prononcée sans préjudice de l'octroi de dommages et intérêts à la partie victime de la procédure dilatoire ou abusive.
+
+« Chapitre III
+« Des mesures générales de protection du secret des affaires devant les juridictions civiles ou commerciales
+
+« Art. L. 153-1.-Lorsque, à l'occasion d'une instance civile ou commerciale ayant pour objet une mesure d'instruction sollicitée avant tout procès au fond ou à l'occasion d'une instance au fond, il est fait état ou est demandée la communication ou la production d'une pièce dont il est allégué par une partie ou un tiers ou dont il a été jugé qu'elle est de nature à porter atteinte à un secret des affaires, le juge peut, d'office ou à la demande d'une partie ou d'un tiers, si la protection de ce secret ne peut être assurée autrement et sans préjudice de l'exercice des droits de la défense :
+« 1° Prendre connaissance seul de cette pièce et, s'il l'estime nécessaire, ordonner une expertise et solliciter l'avis, pour chacune des parties, d'une personne habilitée à l'assister ou la représenter, afin de décider s'il y a lieu d'appliquer des mesures de protection prévues au présent article ;
+« 2° Décider de limiter la communication ou la production de cette pièce à certains de ses éléments, en ordonner la communication ou la production sous une forme de résumé ou en restreindre l'accès, pour chacune des parties, au plus à une personne physique et une personne habilitée à l'assister ou la représenter ;
+« 3° Décider que les débats auront lieu et que la décision sera prononcée en chambre du conseil ;
+« 4° Adapter la motivation de sa décision et les modalités de la publication de celle-ci aux nécessités de la protection du secret des affaires.
+
+« Art. L. 153-2.-Toute personne ayant accès à une pièce ou au contenu d'une pièce considérée par le juge comme étant couverte ou susceptible d'être couverte par le secret des affaires est tenue à une obligation de confidentialité lui interdisant toute utilisation ou divulgation des informations qu'elle contient.
+« Dans le cas d'une personne morale, l'obligation prévue au premier alinéa du présent article s'applique à ses représentants légaux ou statutaires et aux personnes qui la représentent devant la juridiction.
+« Les personnes ayant accès à la pièce ou à son contenu ne sont liées par cette obligation ni dans leurs rapports entre elles ni à l'égard des représentants légaux ou statutaires de la personne morale partie à la procédure.
+« Les personnes habilitées à assister ou représenter les parties ne sont pas liées par cette obligation de confidentialité à l'égard de celles-ci, sauf dans le cas prévu au 1° de l'article L. 153-1.
+« L'obligation de confidentialité perdure à l'issue de la procédure. Toutefois, elle prend fin si une juridiction décide, par une décision non susceptible de recours, qu'il n'existe pas de secret des affaires ou si les informations en cause ont entre-temps cessé de constituer un secret des affaires ou sont devenues aisément accessibles.
+
+« Chapitre IV
+« Conditions d'application
+
+« Art. L. 154-1.-Les conditions d'application du présent titre sont fixées par décret en Conseil d'Etat. »
+La section 2 du chapitre III du titre VIII du livre IV du code de commerce est abrogée.
+Le code de justice administrative est ainsi modifié :
+1° Au livre VI, il est ajouté un titre unique ainsi rédigé :
+
+« Titre UNIQUE
+« LA PROCÉDURE ORDINAIRE
+
+« Chapitre unique
+« La communication de la requête et des mémoires
+
+« Section 1
+« Dispositions générales
+
+« Section 2
+« Dispositions propres à la communication électronique
+
+« Section 3
+« Dispositions applicables devant les tribunaux administratifs
+
+« Section 4
+« Dispositions applicables devant les cours administratives d'appel
+
+« Section 5
+« Dispositions applicables devant le Conseil d'Etat
+
+« Section 6
+« De la protection des pièces couvertes par le secret des affaires
+
+« Art. L. 611-1.-Les exigences de la contradiction mentionnées à l'article L. 5 sont adaptées à celles de la protection du secret des affaires répondant aux conditions prévues au chapitre Ier du titre V du livre Ier du code de commerce. » ;
+2° La section 6 du chapitre Ier du titre IV du livre VII est complétée par un article L. 741-4 ainsi rédigé :
+
+« Art. L. 741-4.-La motivation de la décision et les modalités de la publication de celle-ci peuvent être adaptées aux nécessités de la protection du secret des affaires. » ;
+3° Le titre VII du même livre VII est ainsi modifié :
+a) Après le mot : « réserve », la fin de l'article L. 775-1 est ainsi rédigée : « des articles L. 153-1 et L. 153-2 du code de commerce et du titre VIII du livre IV du même code. » ;
+b) L'article L. 775-2 est ainsi rédigé :
+
+« Art. L. 775-2.-L'article L. 77-13-2 est applicable au présent chapitre. » ;
+c) Il est ajouté un chapitre XIII ainsi rédigé :
+
+« Chapitre XIII
+« Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires
+
+« Art. L. 77-13-1.-Lorsqu'elles relèvent de la juridiction administrative, les actions tendant à prévenir, faire cesser ou réparer une atteinte portée au secret des affaires sont présentées, instruites et jugées selon les dispositions du présent code, sous réserve du titre V du livre Ier du code de commerce.
+
+« Art. L. 77-13-2.-Par dérogation à l'article L. 4, l'exécution de l'ordonnance enjoignant la communication ou la production d'une pièce ou d'une catégorie de pièces dont il est allégué qu'elle est couverte par le secret des affaires est suspendue jusqu'à l'expiration du délai d'appel ou, le cas échéant, jusqu'à ce qu'il ait été statué sur l'appel. »
+I.-Le titre IV du livre IV du code de commerce est ainsi modifié :
+1° Au premier alinéa du V de l'article L. 440-1, les mots : « industriel et commercial » sont remplacés par les mots : « des affaires » ;
+2° A la première phrase du troisième alinéa de l'article L. 441-8, les mots : « du secret en matière industrielle et commerciale et » sont supprimés.
+II.-A la fin du a du 1° de l'article L. 111-2 du code du cinéma et de l'image animée, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires ».
+III.-Au premier alinéa du II de l'article 349 sexies du code des douanes, les mots : « commercial, industriel ou » sont remplacés par les mots : « des affaires ou un secret ».
+IV.-A la fin de la première phrase de l'avant-dernier alinéa de l'article L. 233-1 du code de l'énergie, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires ».
+V.-Le code de l'environnement est ainsi modifié :
+1° A la première phrase du second alinéa du IV de l'article L. 120-1, les mots : «, du secret industriel et commercial » sont supprimés ;
+2° Au II de l'article L. 412-7, au III de l'article L. 412-8, à la première phrase du premier alinéa du I, au second alinéa du même I et à la première phrase du premier alinéa du II de l'article L. 521-7 ainsi qu'au dernier alinéa de l'article L. 523-1, les mots : « industriel et commercial » sont remplacés par les mots : « des affaires » ;
+3° A la fin de la première phrase du I de l'article L. 412-17, les mots : « industriel ou commercial » sont remplacés par les mots : « des affaires » ;
+4° A la fin de la première phrase de l'article L. 592-46-1, les mots : « en matière industrielle ou commerciale » sont remplacés par les mots : « des affaires ».
+VI.-Au premier alinéa du II de l'article L. 283 D du livre des procédures fiscales, les mots : « commercial, industriel ou » sont remplacés par les mots : « des affaires ou un secret ».
+VII.-Au a du 1° du I de l'article L. 213-2 du code du patrimoine, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires ».
+VIII.-A la fin du dernier alinéa de l'article L. 615-5-1 du code de la propriété intellectuelle, les mots : « de fabrication et de commerce » sont remplacés par les mots : « des affaires ».
+IX.-La section 1 du chapitre Ier du titre Ier du livre III du code des relations entre le public et l'administration est ainsi modifiée :
+1° Au 1° de l'article L. 311-6, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires » ;
+2° A la fin du 1° de l'article L. 311-8, les mots : « industriel et commercial » sont remplacés par les mots : « des affaires ».
+X.-Le code rural et de la pêche maritime est ainsi modifié :
+1° A la seconde phrase de l'article L. 201-3, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires » ;
+2° Au premier alinéa et à la première phrase du second alinéa de l'article L. 253-2, les mots : « industriel et commercial » sont remplacés par les mots : « des affaires » ;
+3° Au premier alinéa du II de l'article L. 612-5, les mots : « commercial, industriel ou » sont remplacés par les mots : « des affaires ou un secret ».
+XI.-Le code de la santé publique est ainsi modifié :
+1° A la fin de la première phrase de l'article L. 1313-2, de l'avant-dernier alinéa de l'article L. 1333-29 et du 7° de l'article L. 5311-2, les mots : « en matière industrielle et commerciale » sont remplacés par les mots : « des affaires » ;
+2° Au dernier alinéa de l'article L. 1313-3, les mots : « industriel et commercial » sont remplacés par les mots : « des affaires » ;
+3° A la première phrase du II de l'article L. 1413-9, les mots : « industriels ou commerciaux » sont remplacés par les mots : « des affaires » ;
+4° A la fin de la première phrase du 1° de l'article L. 1413-12-3, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires » ;
+5° Au premier alinéa de l'article L. 5324-1, les mots : « présentant un caractère de confidentialité industrielle ou commerciale ou relevant » sont remplacés par les mots : « relevant du secret des affaires ou ».
+XII.-Le code de la sécurité sociale est ainsi modifié :
+1° A la fin de la deuxième phrase du quatrième alinéa de l'article L. 162-18, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires » ;
+2° A l'article L. 455-3, les mots : « en matière industrielle et commerciale » sont remplacés par les mots : « des affaires ».
+XIII.-A la première phrase du premier alinéa de l'article L. 1511-4 du code des transports, les mots : « en matière commerciale et industrielle » sont remplacés par les mots : « des affaires ».
+XIV.-Au premier alinéa du I de l'article 44 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics, les mots : « en matière industrielle et commerciale » sont remplacés par les mots : « des affaires ».
+I.-Le I de l'article L. 950-1 du code de commerce est ainsi modifié :
+1° Le 1° est complété par un alinéa ainsi rédigé :
+« Les articles L. 151-1 à L. 154-1 sont applicables dans leur rédaction résultant de la loi n° 2018-670 du 30 juillet 2018 relative à la protection du secret des affaires ; »
+2° Le tableau constituant le second alinéa du 4° est ainsi modifié :
+a) La douzième ligne est ainsi rédigée :
+
+«
+Article L. 440-1
+la loi n° 2018-670 du 30 juillet 2018 relative à la protection du secret des affaires
+» ;
+
+b) La dix-septième ligne est remplacée par deux lignes ainsi rédigées :
+
+«
+Article L. 441-8
+la loi n° 2018-670 du 30 juillet 2018 relative à la protection du secret des affaires
+Article L. 441-9
+l'ordonnance n° 2014-487 du 15 mai 2014
+» ;
+
+c) La quarante-sixième ligne est remplacée par deux lignes ainsi rédigées :
+
+«
+Articles L. 481-1 à L. 483-1
+l'ordonnance n° 2017-303 du 9 mars 2017
+Articles L. 483-4 à L. 483-11
+l'ordonnance n° 2017-303 du 9 mars 2017
+».
+
+II.-Les dispositions de l'article 4 de la présente loi modifiant le code du patrimoine, le code des relations entre le public et l'administration, le code des transports, le code de la propriété intellectuelle, les articles L. 412-7, L. 412-8 et L. 412-17 du code de l'environnement, les articles L. 1333-29, L. 1413-9 et L. 1413-12-3 du code de la santé publique ainsi que l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sont applicables dans les îles Wallis et Futuna.
+La présente loi sera exécutée comme loi de l'Etat.

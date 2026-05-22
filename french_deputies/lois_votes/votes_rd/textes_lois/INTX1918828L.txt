@@ -1,0 +1,133 @@
+LOI | NOR: INTX1918828L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Vu la décision du Conseil constitutionnel n° 2019-793 DC du 28 novembre 2019 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral (1)
+
+## Chapitre Ier : Encadrement du financement des campagnes électorales et règles d'inéligibilité
+I.-Le chapitre V bis du titre Ier du livre Ier du code électoral est ainsi modifié :
+1° Après le deuxième alinéa de l'article L. 52-5, il est inséré un alinéa ainsi rédigé :
+« Pour recueillir des fonds, l'association de financement électorale peut avoir recours à des prestataires de services de paiement définis à l'article L. 521-1 du code monétaire et financier. Un décret en Conseil d'Etat détermine les modalités de ces transferts financiers afin de garantir la traçabilité des opérations financières et le respect de l'article L. 52-8 du présent code. » ;
+2° Après le deuxième alinéa de l'article L. 52-6, il est inséré un alinéa ainsi rédigé :
+« Pour recueillir des fonds, le mandataire financier peut avoir recours à des prestataires de services de paiement définis à l'article L. 521-1 du code monétaire et financier. Un décret en Conseil d'Etat détermine les modalités de ces transferts financiers afin de garantir la traçabilité des opérations financières et le respect de l'article L. 52-8 du présent code. »
+II.-La loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique est ainsi modifiée :
+1° L'article 11-1 est complété par un alinéa ainsi rédigé :
+« Pour recueillir des fonds, l'association de financement peut avoir recours à des prestataires de services de paiement définis à l'article L. 521-1 du code monétaire et financier. Un décret en Conseil d'Etat détermine les modalités de ces transferts financiers afin de garantir la traçabilité des opérations financières et le respect de l'article 11-4 de la présente loi. » ;
+2° L'article 11-2 est complété par un alinéa ainsi rédigé :
+« Pour recueillir des fonds, le mandataire financier peut avoir recours à des prestataires de services de paiement définis à l'article L. 521-1 du code monétaire et financier. Un décret en Conseil d'Etat détermine les modalités de ces transferts financiers afin de garantir la traçabilité des opérations financières et le respect de l'article 11-4 de la présente loi. »
+I.-L'article L. 52-12 du code électoral est ainsi modifié :
+1° Au début, sont ajoutés deux alinéas ainsi rédigés :
+« I.-Chaque candidat ou candidat tête de liste soumis au plafonnement des dépenses électorales prévu à l'article L. 52-11 est tenu d'établir un compte de campagne lorsqu'il a obtenu au moins 1 % des suffrages exprimés ou s'il a bénéficié de dons de personnes physiques conformément à l'article L. 52-8 et selon les modalités prévues à l'article 200 du code général des impôts.
+« Pour la période mentionnée à l'article L. 52-4 du présent code, le compte de campagne retrace, selon leur origine, l'ensemble des recettes perçues et, selon leur nature, l'ensemble des dépenses engagées ou effectuées en vue de l'élection par le candidat ou le candidat tête de liste ou pour son compte, à l'exclusion des dépenses de la campagne officielle. » ;
+2° Les deux premières phrases du premier alinéa sont supprimées ;
+3° Après le même premier alinéa, sont insérés deux alinéas ainsi rédigés :
+« Sous réserve du règlement de dépenses engagées avant le second tour de scrutin ou le premier tour de scrutin si le candidat n'est pas présent au second tour, le compte de campagne ne peut retracer de dépenses postérieures à la date du scrutin.
+« La valeur vénale résiduelle des immobilisations éventuellement constituées au cours de la période mentionnée au même article L. 52-4 doit être déduite des charges retracées dans le compte de campagne. » ;
+4° Le deuxième alinéa est ainsi modifié :
+a) Au début, est ajoutée la mention : « II.-» ;
+b) Les quatre dernières phrases sont supprimées ;
+5° Après le même deuxième alinéa, il est inséré un III ainsi rédigé :
+« III.-Le compte de campagne est présenté par un membre de l'ordre des experts-comptables. Ce dernier met le compte de campagne en état d'examen et s'assure de la présence des pièces justificatives requises.
+« Cette présentation n'est pas obligatoire :
+« 1° Lorsque le candidat ou le candidat tête de liste n'est pas tenu d'établir un compte de campagne, en application du I du présent article ;
+« 2° Ou lorsque le candidat ou le candidat tête de liste a obtenu moins de 5 % des suffrages exprimés et que les recettes et les dépenses de son compte de campagne n'excèdent pas un montant fixé par décret. Dans ce cas, il transmet à la Commission nationale des comptes de campagne et des financements politiques, à l'appui du compte de campagne, les relevés du compte bancaire ouvert en application de l'article L. 52-5 ou de l'article L. 52-6. » ;
+6° Le troisième alinéa est supprimé ;
+7° Le quatrième alinéa est ainsi modifié :
+a) Au début, est ajoutée la mention : « IV.-» ;
+b) A la première phrase, le mot : « commission » est remplacé par les mots : « Commission nationale des comptes de campagne et des financements politiques » ;
+8° Au début du cinquième alinéa, est ajoutée la mention : « V.-» ;
+9° L'avant-dernier alinéa est ainsi modifié :
+a) Les mots : « aux dispositions du deuxième alinéa » sont remplacés par les mots : « au II et à la seconde phrase du 2° du III du présent article » ;
+b) Les mots : « peut également être déposé » sont remplacés par les mots : « et, le cas échéant, les relevés du compte bancaire ouvert en application de l'article L. 52-5 ou de l'article L. 52-6 peuvent également être déposés » ;
+10° Au début du dernier alinéa, est ajoutée la mention : « VI.-».
+II.-L'article L. 415-1 du code électoral est complété par un alinéa ainsi rédigé :
+« Pour l'application du 2° du III de l'article L. 52-12, les mots : “ moins de 5 % des suffrages exprimés ” sont remplacés par les mots : “ moins de 3 % des suffrages exprimés ”. »
+III.-Le chapitre V de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen est ainsi modifié :
+1° L'article 19-1 est complété par un IV ainsi rédigé :
+« IV.-Par dérogation au 2° du III de l'article L. 52-12 du code électoral, la présentation du compte de campagne par un membre de l'ordre des experts-comptables n'est pas obligatoire lorsque le candidat tête de liste a obtenu moins de 3 % des suffrages exprimés et que les recettes et les dépenses de son compte de campagne n'excèdent pas un montant fixé par décret. » ;
+2° Au début de l'article 19-2, est ajoutée une phrase ainsi rédigée : « L'obligation de dépôt du compte de campagne s'impose à toutes les listes de candidats. »
+Le chapitre V bis du titre Ier du livre Ier du code électoral est ainsi modifié :
+1° Après le mot : « candidat », la fin de la seconde phrase du deuxième alinéa de l'article L. 52-8 est ainsi rédigée : «, ni lui apporter leur garantie pour l'obtention de prêts. » ;
+2° A la fin de la première phrase du deuxième alinéa de l'article L. 52-15, les mots : « les six mois du dépôt des comptes » sont remplacés par les mots : « un délai de six mois à compter de l'expiration du délai fixé au II de l'article L. 52-12 ».
+Au deuxième alinéa de l'article L. 52-11-1 du code électoral, après les mots : « situation patrimoniale », sont insérés les mots : « dans le délai légal et pour le scrutin concerné ».
+L'article L. 118-3 du code électoral est ainsi modifié :
+1° Les trois premiers alinéas sont remplacés par quatre alinéas ainsi rédigés :
+« Lorsqu'il relève une volonté de fraude ou un manquement d'une particulière gravité aux règles de financement des campagnes électorales, le juge de l'élection, saisi par la Commission nationale des comptes de campagne et des financements politiques, peut déclarer inéligible :
+« 1° Le candidat qui n'a pas déposé son compte de campagne dans les conditions et le délai prescrits à l'article L. 52-12 ;
+« 2° Le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du plafond des dépenses électorales ;
+« 3° Le candidat dont le compte de campagne a été rejeté à bon droit. » ;
+2° A la première phrase de l'avant-dernier alinéa, les mots : « prévue aux trois premiers alinéas du » sont remplacés par les mots : « mentionnée au » ;
+3° Avant le dernier alinéa, il est inséré un alinéa ainsi rédigé :
+« En cas de scrutin binominal, l'inéligibilité s'applique aux deux candidats du binôme. »
+Le livre Ier du code électoral est ainsi modifié :
+1° Après le mot : « généraux », la fin du 1° de l'article L. 195 est ainsi rédigée : « et directeurs de cabinet de préfet dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de deux ans ; les sous-préfets chargés de mission auprès d'un préfet et les secrétaires en chef de sous-préfecture dans le département où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ; » ;
+2° L'article L. 231 est ainsi modifié :
+a) Au premier alinéa, les mots : « d'un an les sous-préfets, les secrétaires généraux de préfecture, les directeurs de cabinet de préfet, » sont remplacés par les mots : « de deux ans les sous-préfets, les secrétaires généraux de préfecture et les directeurs de cabinet de préfet, depuis moins d'un an » ;
+b) Au dernier alinéa, les mots : « alinéas ci-dessus » sont remplacés par les mots : « deuxième à onzième alinéas du présent article ».
+
+## Chapitre II : Propagande et opérations de vote
+Le code électoral est ainsi modifié :
+1° Après les mots : « de réunion », la fin de l'article L. 47 est ainsi rédigée : «, la loi du 28 mars 1907 relative aux réunions publiques et le présent code. » ;
+2° L'article L. 49 est ainsi rédigé :
+
+« Art. L. 49.-A partir de la veille du scrutin à zéro heure, il est interdit de :
+« 1° Distribuer ou faire distribuer des bulletins, circulaires et autres documents ;
+« 2° Diffuser ou faire diffuser par tout moyen de communication au public par voie électronique tout message ayant le caractère de propagande électorale ;
+« 3° Procéder, par un système automatisé ou non, à l'appel téléphonique en série des électeurs afin de les inciter à voter pour un candidat ;
+« 4° Tenir une réunion électorale. » ;
+
+3° L'article L. 49-1 est abrogé ;
+4° Le début du troisième alinéa de l'article L. 330-6 est ainsi rédigé : « Sous réserve des nécessités de service et de l'article L. 49, l'Etat met ses locaux diplomatiques … (le reste sans changement). »
+Le code électoral est ainsi modifié :
+1° Au début du chapitre V du titre Ier du livre Ier, il est ajouté un article L. 47 A ainsi rétabli :
+
+« Art. L. 47 A.-La campagne électorale est ouverte à partir du deuxième lundi qui précède la date du scrutin et prend fin la veille du scrutin à zéro heure. En cas de second tour, la campagne électorale est ouverte le lendemain du premier tour et prend fin la veille du scrutin à zéro heure. » ;
+
+2° L'article L. 164 est abrogé ;
+3° Le premier alinéa de l'article L. 166 est ainsi rédigé :
+« Il est institué pour chaque circonscription une commission chargée d'assurer l'envoi et la distribution de tous les documents de propagande électorale. » ;
+4° A l'article L. 168, la référence : « L. 164 » est remplacée par la référence : « L. 165 » ;
+5° Le dernier alinéa de l'article L. 330-6 est ainsi rédigé :
+« La référence à l'article L. 51 figurant à l'article L. 165 s'entend de la référence au présent article. »
+L'article L. 52-2 du code électoral est ainsi modifié :
+1° Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+2° Il est ajouté un II ainsi rédigé :
+« II.-Par dérogation au premier alinéa du I, lorsque la République forme une circonscription unique, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par quelque moyen que ce soit avant la fermeture du dernier bureau de vote sur le territoire métropolitain. »
+L'article L. 52-3 du code électoral est ainsi rédigé :
+
+« Art. L. 52-3.-Les bulletins de vote ne peuvent pas comporter :
+« 1° D'autres noms de personne que celui du ou des candidats ou de leurs remplaçants éventuels, à l'exception, pour la Ville de Paris et les communes de Marseille et de Lyon, du candidat désigné comme devant présider l'organe délibérant concerné par le scrutin ;
+« 2° La photographie ou la représentation de toute personne, à l'exception de la photographie ou de la représentation du ou des candidats à l'élection concernée et, pour la Ville de Paris et les communes de Marseille et de Lyon, de la photographie ou de la représentation du candidat désigné comme devant présider l'organe délibérant concerné par le scrutin ;
+« 3° La photographie ou la représentation d'un animal.
+« Les bulletins de vote peuvent comporter un emblème. »
+Le titre Ier du livre Ier du code électoral est ainsi modifié :
+1° L'article L. 51 est complété par un alinéa ainsi rédigé :
+« En cas d'affichage électoral apposé en dehors des emplacements prévus au présent article, le maire ou, à défaut, le préfet peut, après une mise en demeure du ou des candidats en cause, procéder à la dépose d'office des affiches. » ;
+2° Au dernier alinéa de l'article L. 90, les mots : « du dernier » sont remplacés par les mots : « du troisième ».
+A l'article L. 306 du code électoral, après le mot : « articles », sont insérées les références : « L. 48-1 à L. 50-1, L. 52-1 à L. 52-3, ».
+
+## Chapitre III : Diverses coordinations et modalités d'entrée en vigueur
+I.-Le livre VIII du code électoral est ainsi modifié :
+1° L'intitulé est ainsi rédigé : « Procédure de modification du régime électoral et du périmètre des circonscriptions » ;
+2° Au début, il est ajouté un titre Ier ainsi rédigé :
+
+« Titre IER
+« STABILITÉ DU DROIT DANS L'ANNÉE QUI PRÉCÈDE LE SCRUTIN
+
+« Art. L. 567-1 A.-Il ne peut être procédé à une modification du régime électoral ou du périmètre des circonscriptions dans l'année qui précède le premier tour d'un scrutin. » ;
+
+3° Il est ajouté un titre II intitulé : « Commission prévue par l'article 25 de la Constitution » et qui comprend les articles L. 567-1 à LO 567-9.
+II.-La loi n° 90-1103 du 11 décembre 1990 organisant la concomitance des renouvellements des conseils généraux et des conseils régionaux est abrogée.
+III.-Au premier alinéa du I de l'article 15 de la loi n° 2013-659 du 22 juillet 2013 relative à la représentation des Français établis hors de France, après la référence : « livre Ier », est insérée la référence : « et le titre Ier du livre VIII ».
+I.-Le code électoral est ainsi modifié :
+1° Après la référence : « articles LO 136-1 », la fin du 2° de l'article L. 45-1 est ainsi rédigée : «, LO 136-3 et LO 136-4. » ;
+2° Au deuxième alinéa de l'article L. 52-11-1, au premier alinéa de l'article L. 118-2 et à l'article L. 330-9-1, la référence : « deuxième alinéa » est remplacée par la référence : « II » ;
+3° Le début du premier alinéa du I de l'article L. 388 est ainsi rédigé : « I.-Les dispositions du titre Ier du livre Ier et du titre Ier du livre VIII du présent code, dans leur rédaction résultant de la loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral, à l'exception des articles … (le reste sans changement). » ;
+4° Au 8° de l'article L. 392 ainsi qu'aux articles L. 454, L. 478, L. 505 et L. 532, les mots : « aux dispositions du deuxième alinéa » sont remplacés par les références : « au II et à la seconde phrase du 2° du III » et les mots : « peut également être déposé » sont remplacés par les mots : « et, le cas échéant, les relevés du compte bancaire ouvert en application des articles L. 52-5 ou L. 52-6 peuvent également être déposés » ;
+5° Au premier alinéa des articles L. 428 et L. 437, la référence : « loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense » est remplacée par la référence : « loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral ».
+II.-Au premier alinéa de l'article 26 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, la référence : « loi n° 2018-509 du 25 juin 2018 relative à l'élection des représentants au Parlement européen » est remplacée par la référence : « loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral ».
+III.-Après les mots : « résultant de la », la fin du premier alinéa de l'article 19 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique est ainsi rédigée : « loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral. »
+La présente loi, à l'exception de l'article 6, entre en vigueur le 30 juin 2020.
+La présente loi sera exécutée comme loi de l'Etat.

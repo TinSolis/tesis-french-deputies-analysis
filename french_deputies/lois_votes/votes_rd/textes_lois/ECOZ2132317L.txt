@@ -1,0 +1,57 @@
+LOI | NOR: ECOZ2132317L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2021-1755 du 23 décembre 2021 visant à renforcer la régulation environnementale du numérique par l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse (1)
+Le code des postes et des communications électroniques est ainsi modifié :
+1° L'article L. 32 est ainsi modifié :
+a) Après le 10°, sont insérés des 10° bis et 10° ter ainsi rédigés :
+« 10° bis Systèmes d'exploitation.
+« On entend par systèmes d'exploitation les logiciels contrôlant les fonctions de base du matériel et les ressources logicielles d'un équipement terminal, permettant d'y exécuter des applications et aux utilisateurs d'en faire usage.
+« 10° ter Fournisseur de systèmes d'exploitation.
+« On entend par fournisseur de système d'exploitation toute personne qui, à titre professionnel, édite ou adapte le système d'exploitation d'équipements terminaux ou qui édite ou adapte tout autre logiciel contrôlant l'accès aux fonctionnalités desdits équipements. » ;
+b) Après le 11°, il est inséré un 11° bis ainsi rédigé :
+« 11° bis Centres de données.
+« On entend par centres de données les installations accueillant des équipements de stockage de données numériques. » ;
+c) Il est ajouté un 33° ainsi rédigé :
+« 33° Opérateur de centre de données.
+« On entend par opérateur de centre de données toute personne assurant la mise à la disposition des tiers d'infrastructures et d'équipements hébergés dans des centres de données. » ;
+2° Le I de l'article L. 32-4 est ainsi modifié :
+a) Le 2° est complété par les mots : «, et les informations ou documents nécessaires relatifs à l'empreinte environnementale du secteur des communications électroniques ou des secteurs étroitement liés à celui-ci, pour s'assurer du respect par ces personnes des principes définis à l'article L. 32-1 ainsi que des obligations qui leur sont imposées par le présent code ou par les textes pris pour son application » ;
+b) Après le 2° bis, il est inséré un 2° ter ainsi rédigé :
+« 2° ter Recueillir, auprès des fournisseurs de services de communication au public en ligne, des opérateurs de centre de données, des fabricants d'équipements terminaux, des équipementiers de réseaux et des fournisseurs de systèmes d'exploitation, les informations ou documents nécessaires relatifs à l'empreinte environnementale du secteur des communications électroniques ou des secteurs étroitement liés à celui-ci, pour s'assurer du respect par ces personnes des principes définis à l'article L. 32-1 ainsi que des obligations qui leur sont imposées par le présent code ou par les textes pris pour son application ; »
+3° Après le 7° de l'article L. 36-6, il est inséré un 8° ainsi rédigé :
+« 8° Les contenus et les modalités de mise à disposition, y compris à des organismes tiers recensés par l'Autorité, d'informations fiables relatives à l'empreinte environnementale des services de communication au public en ligne, des équipements terminaux, des systèmes d'exploitation, des centres de données, des réseaux, notamment des équipements les constituant, et des services de communications électroniques, ainsi que la détermination des indicateurs et des méthodes employés pour la mesurer. » ;
+4° L'article L. 36-11 est ainsi modifié :
+a) A la première phrase du premier alinéa, après le mot : « ligne », sont insérés les mots : «, des opérateurs de centre de données, des fabricants de terminaux, des équipementiers de réseaux, des fournisseurs de systèmes d'exploitation » ;
+b) Au premier alinéa du I, après le mot : « ligne », sont insérés les mots : «, un opérateur de centre de données, un fabricant de terminaux, un équipementier de réseaux, un fournisseur de système d'exploitation » ;
+c) Au sixième alinéa du même I, après le mot : « fournisseur », sont insérés les mots : «, l'opérateur de centre de données, le fabricant de terminaux, l'équipementier de réseaux » ;
+d) A la première phrase du II, après la première occurrence du mot : « services », sont insérés les mots : «, un opérateur de centre de données, un fabricant de terminaux, un équipementier de réseaux, un fournisseur de système d'exploitation » ;
+e) Après le neuvième alinéa du III, il est inséré un alinéa ainsi rédigé :
+« La formation restreinte peut prononcer à l'encontre de l'opérateur de centre de données, du fabricant de terminaux, de l'équipementier de réseaux ou du fournisseur de système d'exploitation en cause une sanction pécuniaire dont le montant est proportionné à la gravité du manquement et aux avantages qui en sont tirés, sans pouvoir excéder 3 % du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé par l'entreprise en cause au cours de l'un des exercices clos depuis l'exercice précédant celui au cours duquel les pratiques ont été mises en œuvre, taux qui est porté à 5 % en cas de nouvelle violation de la même obligation. Si les comptes de l'entreprise concernée ont été consolidés ou combinés en application des textes applicables à sa forme sociale, le chiffre d'affaires pris en compte est celui figurant dans les comptes consolidés ou combinés de l'entreprise consolidante ou combinante. A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction ne peut excéder 150 000 €. Ce montant est porté à 375 000 € en cas de nouvelle violation de la même obligation. » ;
+5° A la première phrase du deuxième alinéa de l'article L. 40, la référence : « et 2° bis » est remplacée par les références : «, 2° bis et 2° ter » ;
+6° Le 3° de l'article L. 135 est complété par les mots : «, et dresse un bilan de l'empreinte environnementale du secteur des communications électroniques, des terminaux et des centres de données ».
+I.-Le code de la consommation est ainsi modifié :
+1° L'article L. 111-6 est ainsi rédigé :
+
+« Art. L. 111-6.-Le producteur de biens comportant des éléments numériques informe le vendeur professionnel de la durée au cours de laquelle les mises à jour logicielles, que le producteur fournit, restent compatibles avec les fonctionnalités du bien. Le vendeur met ces informations à la disposition du consommateur.
+« Le producteur informe le consommateur, de façon lisible et compréhensible, des caractéristiques essentielles de chaque mise à jour des éléments numériques du bien, notamment de l'espace de stockage qu'elle requiert, de son impact sur les performances du bien et de l'évolution des fonctionnalités qu'elle comporte.
+« Les modalités d'application du présent article sont précisées par décret. » ;
+
+2° L'article L. 217-22 est ainsi rédigé :
+
+« Art. L. 217-22.-La garantie commerciale est fournie au consommateur de manière lisible et compréhensible sur tout support durable, et au plus tard au moment de la délivrance du bien. Elle précise le contenu de la garantie commerciale, les modalités de sa mise en œuvre, son prix, sa durée, son étendue territoriale ainsi que le nom et les coordonnées postales et téléphoniques du garant.
+« En cas de non-respect de ces dispositions, la garantie commerciale demeure contraignante pour le garant.
+« En outre, la garantie commerciale indique, de façon claire et précise, qu'elle s'applique sans préjudice du droit pour le consommateur de bénéficier de la garantie légale de conformité, dans les conditions prévues au présent chapitre, et de celle relative aux vices cachés, dans les conditions prévues aux articles 1641 à 1649 du code civil. Un décret fixe les modalités de cette information. » ;
+
+3° L'article L. 217-23 est ainsi rédigé :
+
+« Art. L. 217-23.-Le producteur peut consentir au consommateur une garantie commerciale l'engageant pendant une période donnée, supérieure à deux ans, dénommée “ garantie commerciale de durabilité ”. S'il propose une telle garantie commerciale de durabilité, le producteur est directement tenu, à l'égard du consommateur, de réparer ou de remplacer le bien, pendant la période indiquée dans l'offre de garantie commerciale de durabilité ; il est également tenu de mettre celle-ci en œuvre dans des conditions identiques à la garantie légale.
+« Le producteur peut offrir au consommateur des conditions plus favorables que celles décrites au premier alinéa.
+« Les exigences prévues à l'article L. 217-22 sont applicables à la garantie commerciale de durabilité. » ;
+
+4° L'article L. 217-33 est abrogé ;
+5° A l'article L. 441-6, la référence : « à l'article L. 217-12 » est remplacée par la référence : « au deuxième alinéa de l'article L. 217-3 ».
+II.-Le I entre en vigueur le 1er janvier 2022.
+La présente loi sera exécutée comme loi de l'Etat.

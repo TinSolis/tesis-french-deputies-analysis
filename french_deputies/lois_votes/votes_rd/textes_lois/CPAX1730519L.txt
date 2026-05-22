@@ -1,0 +1,715 @@
+LOI | NOR: CPAX1730519L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont délibéré,
+L'Assemblée nationale a adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance (1)
+
+## Titre II : VERS UNE ACTION PUBLIQUE MODERNISÉE, SIMPLE ET EFFICACE
+
+### Chapitre Ier : Une administration engagée dans la dématérialisation
+Sans préjudice de l'article L. 114-8 du code des relations entre le public et l'administration, à titre expérimental et pour une durée de trois ans à compter de la publication du décret en Conseil d'Etat prévu au troisième alinéa du présent article, les personnes inscrites au répertoire des entreprises et de leurs établissements, qui y consentent, ne sont pas tenues de communiquer à une administration des informations que celle-ci détient déjà dans un traitement automatisé ou qui peuvent être obtenues d'une autre administration par un tel traitement.
+Lorsqu'elle obtient des informations par un traitement automatisé, l'administration en informe la personne concernée. Elle assure la confidentialité et la protection de ces informations afin d'empêcher qu'elles soient déformées ou endommagées ou que des tiers non autorisés y aient accès.
+Un décret en Conseil d'Etat, pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés, précise les modalités d'application du présent article, notamment la liste des traitements automatisés entrant dans le champ de l'expérimentation ainsi que, pour chaque traitement, la liste des données disponibles.
+L'expérimentation fait l'objet d'une évaluation, notamment de son impact sur les délais administratifs, dont les résultats sont transmis au Parlement.
+I.-Le second alinéa de l'article L. 113-12 du code des relations entre le public et l'administration est supprimé.
+II.-Le début de l'article L. 114-10 du code des relations entre le public et l'administration est ainsi rédigé : « Lorsqu'en raison de leur nature ou d'une impossibilité technique, les informations … (le reste sans changement). »
+III.-Le tableau du second alinéa des articles L. 552-3, L. 562-3 et L. 572-1 du code des relations entre le public et l'administration est ainsi modifié :
+1° Après la septième ligne, est insérée une ligne ainsi rédigée :
+
+«
+
+L. 113-12
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+
+» ;
+
+2° Au début de la huitième ligne de la première colonne, la référence : « L. 113-12 à » est supprimée ;
+3° A la neuvième ligne de la première colonne, la référence : « L. 114-10 » est remplacée par la référence : « L. 114-9 » ;
+4° Après la même neuvième ligne, est insérée une ligne ainsi rédigée :
+
+«
+
+L. 114-10
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+
+».
+I.-L'article L. 212-2 du code des relations entre le public et l'administration est ainsi modifié :
+1° Le 2° devient le 3° ;
+2° Il est rétabli un 2° est ainsi rédigé :
+« 2° Les décisions administratives relatives à la gestion de leurs agents produites par les administrations sous forme électronique dans le cadre de systèmes d'information relatifs à la gestion ou à la dématérialisation de processus de gestion des ressources humaines conforme aux articles 9,11 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 précitée, quelles que soient les modalités de notification aux intéressés, y compris par l'intermédiaire d'un téléservice mentionné au 1° ; ».
+II.-La huitième ligne du tableau constituant le second alinéa des articles L. 552-6, L. 562-6 et L. 573-2 du code des relations entre le public et l'administration est ainsi rédigée :
+
+«
+
+L. 212-2
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+
+».
+
+III.-L'article 29-4 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et à France Télécom est complété par un alinéa ainsi rédigé :
+« Sont dispensées de la signature de leur auteur, dès lors qu'elles comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient, les décisions administratives relatives à la gestion des fonctionnaires et agents contractuels de droit public de La Poste produites à l'aide de systèmes d'information relatifs à la gestion ou à la dématérialisation de processus de gestion des ressources humaines présentant des garanties équivalentes à celles qui résultent des articles 9 à 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives, quelles que soient les modalités de notification aux intéressés, y compris par l'intermédiaire d'un téléservice. »
+IV.-Sont dispensées de la signature de leur auteur, dès lors qu'elles comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient, les décisions administratives relatives à la gestion des fonctionnaires et agents contractuels de droit public des établissements publics industriels et commerciaux produites à l'aide de systèmes d'information présentant des garanties équivalentes à celles qui résultent des articles 9 à 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives, quelles que soient les modalités de notification aux intéressés, y compris par l'intermédiaire d'un téléservice.
+Le III de l'article 13 de l'ordonnance n° 2015-682 du 18 juin 2015 relative à la simplification des déclarations sociales des employeurs est ainsi modifié :
+1° Au deuxième alinéa, les mots : « dans leur rédaction issue de la présente ordonnance » sont supprimés ;
+2° Le 1° est ainsi rédigé :
+« 1° Elles s'appliquent à compter d'une date fixée par décret, le cas échéant en distinguant plusieurs échéances selon les employeurs et la nature des données de la déclaration sociale nominative :
+« a) Au plus tard le 1er janvier 2022 pour les employeurs relevant des régimes prévus à l'article L. 711-1 du code de la sécurité sociale suivants :
+
+«-les administrations, services, offices, établissements publics de l'Etat, les établissements industriels de l'Etat et l'Imprimerie nationale, pour les fonctionnaires, les magistrats et les ouvriers de l'Etat ;
+«-les régions, les départements et communes ;
+«-les établissements publics départementaux et communaux n'ayant pas le caractère industriel ou commercial ;
+
+« b) Au plus tard le 1er janvier 2020 pour les employeurs relevant des régimes prévus au même article L. 711-1 autres que ceux mentionnés au a du présent 1° ; ».
+I. - A titre expérimental, le demandeur d'une carte nationale d'identité, d'un passeport, d'un permis de conduire ou d'un certificat d'immatriculation est, à sa demande et lorsqu'il utilise un téléservice, dispensé de la production de pièces justificatives relatives à son domicile.
+Pour bénéficier de cette dispense, le demandeur déclare son domicile et produit à l'administration en charge de l'instruction de sa demande une information permettant son identification auprès d'un fournisseur d'un bien ou d'un service attaché à son domicile. Un arrêté fixe la liste de ces fournisseurs pour chacun des titres mentionnés au premier alinéa.
+Le fournisseur mentionné au deuxième alinéa du présent I est tenu de répondre aux sollicitations de l'administration en lui communiquant les données à caractère personnel lui permettant de vérifier le domicile déclaré par le demandeur.
+L'administration assure la confidentialité et la protection de ces informations.
+II. - Cette expérimentation est menée dans les départements de l'Aube, du Nord, des Yvelines et du Val-d'Oise pour une durée de dix-huit mois à compter de la promulgation de la présente loi. Elle fait l'objet d'une évaluation dont les résultats sont transmis au Parlement.
+I. - A titre expérimental, pour les Français établis hors de France, une attestation de résidence, délivrée par un poste diplomatique ou consulaire, datée de moins de trois mois et dont les modalités de délivrance sont fixées par décret, se substitue à toute demande de justificatif de domicile ou de résidence pour les demandes de duplicata d'un permis de conduire français.
+II. - Cette expérimentation est menée dans l'ensemble du réseau consulaire français pour une durée de dix-huit mois à compter de la publication des décrets prévus aux I et III. L'expérimentation fait l'objet d'une évaluation dont les résultats sont transmis au Parlement.
+III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de douze mois à compter de la promulgation de la présente loi, les mesures relevant du domaine de la loi nécessaires pour permettre à titre expérimental, pendant une durée maximale de trois ans à compter de la publication de l'ordonnance, et dans un objectif de simplification et de sécurisation des démarches des usagers, la dématérialisation de l'établissement, de la conservation, de la gestion et de la délivrance des actes de l'état civil dont le service central d'état civil du ministère des affaires étrangères et les autorités diplomatiques et consulaires sont dépositaires, dans des conditions garantissant la sécurité, l'intégrité et la confidentialité des traitements automatisés des données de l'état civil mis en œuvre.
+L'ordonnance détermine les conditions dans lesquelles l'établissement, la conservation, la gestion et la délivrance des actes de l'état civil continuent d'être assurés, pendant la période d'expérimentation, sur support papier ou sur support électronique conformément à l'article 40 du code civil. Elle précise les conditions d'un éventuel retour à ces seules modalités au terme de cette période et les conditions de l'évaluation de l'expérimentation.
+Les résultats de l'évaluation de cette expérimentation sont transmis au Parlement.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+I.-Le 2° du I des articles L. 521-3-1 et L. 525-6-1 du code monétaire et financier est complété par les mots : «, par les associations cultuelles ainsi que par les établissements publics des cultes reconnus d'Alsace-Moselle ».
+II.-L'article 21 de la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat est ainsi modifié :
+1° Au premier alinéa, après le mot : « unions », sont insérés les mots : « établissent des comptes annuels et » ;
+2° Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Lorsque les associations et les unions collectent des dons par l'intermédiaire des opérations de paiement prévues au 2° du I des articles L. 521-3-1 et L. 525-6-1 du code monétaire et financier, elles sont tenues d'en faire la déclaration préalable au représentant de l'Etat dans le département ou dans la collectivité dans les conditions prévues à l'article 3 de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique. »
+Le Gouvernement remet au Parlement, dans les six mois à compter de la promulgation de la présente loi, un rapport dressant un bilan des obligations comptables des associations cultuelles régies par la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat, telles que définies par l'ordonnance n° 2015-904 du 23 juillet 2015 portant simplification du régime des associations et des fondations.
+
+### Chapitre II : Une administration moins complexe
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance, dans un délai de trois mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à faciliter la réalisation de projets de construction et à favoriser l'innovation :
+1° En fixant les conditions dans lesquelles le maître d'ouvrage de bâtiments peut être autorisé, dans l'attente de l'entrée en vigueur de l'ordonnance prévue au II, à déroger à certaines règles de construction sous réserve qu'il apporte la preuve qu'il parvient, par les moyens qu'il entend mettre en œuvre, à des résultats équivalents à ceux découlant de l'application des règles auxquelles il est dérogé et que ces moyens présentent un caractère innovant ;
+2° En prévoyant les conditions dans lesquelles l'atteinte de ces résultats est contrôlée avant le dépôt de la demande d'autorisation d'urbanisme puis à l'achèvement du bâtiment.
+En outre, cette ordonnance peut abroger le I de l'article 88 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
+II. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance, dans un délai de dix-huit mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à faciliter la réalisation de projets de construction :
+1° En prévoyant la possibilité de plein droit pour le maître d'ouvrage de bâtiments de satisfaire à ses obligations en matière de construction s'il fait application de normes de référence ou s'il apporte la preuve qu'il parvient, par les moyens qu'il entend mettre en œuvre, à des résultats équivalents à ceux découlant de l'application des normes de référence et en fixant les modalités selon lesquelles cette preuve est apportée avant le dépôt de la demande d'autorisation d'urbanisme et celles selon lesquelles les résultats atteints sont contrôlés après l'achèvement du bâtiment ;
+2° En adoptant une rédaction des règles de construction applicables propre à éclairer, notamment par l'identification des objectifs poursuivis, le maître d'ouvrage sur les obligations qui lui incombent et qu'il respecte selon l'une des modalités prévues au 1° du présent II.
+III. - Les ordonnances prévues aux I et II visent à assurer que l'atteinte des résultats est évaluée dans un cadre impartial et en conformité avec les dispositions du titre IV du livre II du code des assurances.
+Elles permettent un accès au marché pour des solutions en matière de construction innovantes, en prévoyant des modalités d'évaluation de l'atteinte des résultats équivalents adaptées à la nature de la dérogation.
+IV. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chacune des ordonnances prévues aux I et II du présent article.
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de dix-huit mois à compter de la publication de la présente loi, toute mesure relevant du domaine de la loi afin de faciliter l'implantation, le développement et le maintien de modes d'accueil de la petite enfance :
+1° En simplifiant et en assurant une meilleure cohérence des législations applicables aux modes d'accueil de la petite enfance, au regard de leurs spécificités respectives ;
+2° En prévoyant les conditions dans lesquelles ces législations peuvent donner lieu à des dérogations, justifiées par la spécificité des situations et des enjeux locaux, dès lors que des garanties équivalentes sont apportées en termes de qualité d'accueil, s'agissant notamment du nombre et de la qualification des adultes encadrant les enfants, et de respect de l'intérêt de l'enfant ;
+3° En permettant à l'une des autorités compétentes en la matière, dont les organismes débiteurs des prestations familiales, de prendre, au nom de chacune ou de certaines d'entre elles et après leur accord, tout ou partie des actes nécessaires à l'implantation, au développement et au maintien de modes d'accueil de la petite enfance ainsi qu'à leur financement, en vue notamment de :
+a) Proposer un guichet administratif unique facilitant les démarches des porteurs de projets de modes d'accueil de la petite enfance à chaque étape de leur activité ;
+b) Favoriser la cohérence des actes pris par les autorités compétentes en la matière, au regard notamment des diagnostics, des schémas, des plans d'action et plus généralement de toutes démarches locales de coordination dans le champ des modes d'accueil de la petite enfance.
+Pour l'application des 1° et 2°, les ordonnances peuvent prévoir le recours à des expérimentations d'une durée ne pouvant être inférieure à deux ans ni supérieure à cinq ans, donnant lieu à un rapport d'évaluation remis par le Gouvernement au Parlement avant leur terme.
+Pour l'application du 3°, il est recouru à une expérimentation, sur la base du volontariat des autorités compétentes de chaque territoire impliqué, dont la durée maximale ne peut être inférieure à deux ans ni supérieure à cinq ans, donnant lieu à un rapport d'évaluation remis par le Gouvernement au Parlement avant son terme.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+L'article 70 de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit est abrogé.
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les mesures relevant du domaine de la loi destinées à expérimenter de nouvelles formes de rapprochement, de regroupement ou de fusion d'établissements d'enseignement supérieur et de recherche qui ont accepté le rapprochement, le regroupement ou la fusion. Ces mesures expérimentales portent sur :
+1° De nouveaux modes d'organisation et de fonctionnement des établissements d'enseignement supérieur et de recherche et de leur regroupement prévu au 2° de l'article L. 718-3 du code de l'éducation ;
+2° De nouveaux modes de coordination territoriale dérogeant au dernier alinéa du même article L. 718-3 ;
+3° De nouveaux modes d'intégration, sous la forme d'un établissement public à caractère scientifique, culturel et professionnel regroupant plusieurs établissements d'enseignement supérieur et de recherche qui peuvent conserver ou non leur personnalité morale pendant tout ou partie de l'expérimentation.
+En outre, cette ordonnance définit les conditions de l'application de ces expérimentations, le cas échéant avec les adaptations nécessaires, en Nouvelle-Calédonie et en Polynésie française.
+II. - L'expérimentation est menée pour une période maximale de dix ans à compter de la date de publication de l'ordonnance prévue au I. Un an au plus tard avant son terme, elle fait l'objet d'une évaluation par le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur mentionné à l'article L. 114-3-1 du code de la recherche.
+III. - L'ordonnance prévue au I précise les conditions dans lesquelles l'établissement issu d'une des formes de rapprochement, de regroupement ou de fusion mentionnées au même I peut acquérir, jusqu'à la fin de la période mentionnée au II et selon la forme qu'il a expérimentée, le statut de l'un des types d'établissements publics à caractère scientifique, culturel et professionnel mentionnés à l'article L. 711-2 du code de l'éducation.
+IV. - L'ordonnance prévue au I est prise dans un délai de six mois à compter de la promulgation de la présente loi.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.
+L'Etat et chacun des établissements créés dans le cadre de l'expérimentation organisée par le présent article fixent d'un commun accord les objectifs singuliers qui y président ainsi que le calendrier et les critères d'évaluation associés.
+Dans un délai de trois ans à compter de la publication de l'ordonnance prise sur le fondement du présent article, le Gouvernement remet au Parlement un rapport présentant un premier bilan des expérimentations engagées dans ce cadre, recensant les différentes formes juridiques adoptées par les établissements et identifiant les voies adaptées afin de les pérenniser, le cas échéant.
+
+### Chapitre III : Des règles plus simples pour le public
+I. - Une expérimentation peut être menée pendant une durée de trois ans à compter de la publication du décret mentionné au VI du présent article afin que les établissements et services mentionnés aux 2°, 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles puissent, lorsqu'ils recourent à leurs salariés volontaires ou à des salariés volontaires mentionnés à l'article L. 7221-1 du code du travail et qu'ils ont placés dans les conditions prévues au 1° de l'article L. 7232-6 du même code en vue d'effectuer des prestations de suppléance à domicile du proche aidant d'une personne nécessitant une surveillance permanente, ou lorsqu'ils réalisent ces prestations en dehors du domicile dans le cadre de séjours dits de répit aidants-aidés dont la liste est fixée par décret, déroger aux dispositions législatives et conventionnelles mentionnées au II du présent article, sous réserve du respect des dispositions du III.
+La mise en œuvre de ces prestations ainsi que des dérogations prévues au II du présent article est portée à la connaissance de l'autorité compétente mentionnée à l'article L. 313-3 du code de l'action sociale et des familles, lorsqu'il s'agit de salariés des établissements ou services mentionnés au présent I, ou de l'autorité compétente mentionnée à l'article L. 7232-1 du code du travail, lorsqu'il s'agit de salariés placés par les établissements et services mentionnés au présent I.
+Elle est subordonnée à la délivrance d'une autorisation de service d'aide et d'accompagnement à domicile ou d'un agrément prévu au même article L. 7232-1 lorsque ces prestations ne sont pas comprises dans le champ d'une autorisation ou d'un agrément préexistant.
+II. - Les salariés des établissements et services mentionnés au I du présent article ne sont soumis ni aux articles L. 3121-13 à L. 3121-26, L. 3122-6, L. 3122-7, L. 3122-17, L. 3122-18, L. 3122-24 et L. 3131-1 à L. 3131-3 du code du travail, ni aux stipulations relatives aux régimes d'équivalence, aux temps de pause, aux durées maximales quotidienne et hebdomadaire de travail, aux durées maximales quotidienne et hebdomadaire de travail de nuit et à la durée minimale de repos quotidien prévues par les conventions et accords collectifs applicables aux établissements et services qui les emploient.
+Les salariés placés par les établissements et services mentionnés au I ne sont pas soumis aux stipulations relatives aux régimes d'équivalence, aux temps de pause, aux durées maximales quotidienne et hebdomadaire de travail, aux durées maximales quotidienne et hebdomadaire de travail de nuit et à la durée minimale de repos quotidien prévues par la convention collective des salariés du particulier employeur.
+III. - La durée d'une intervention au domicile d'une personne mentionnée au II ou en dehors du domicile dans le cadre des séjours dits de répit aidants-aidés mentionnés au I du présent article ne peut excéder six jours consécutifs.
+Le nombre de journées d'intervention ne peut excéder, pour chaque salarié, un plafond de quatre-vingt-quatorze jours, apprécié sur chaque période de douze mois consécutifs.
+La totalité des heures accomplies pour le compte des établissements ou services mentionnés aux 2°, 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles par un salarié ne peut excéder un plafond de quarante-huit heures par semaine en moyenne, apprécié sur chaque période de quatre mois consécutifs. Pour l'appréciation de ce plafond, l'ensemble des heures de présence au domicile ou en établissement, ou sur le lieu de vacances lorsqu'il s'agit des séjours dits de répit aidants-aidés mentionnés au I du présent article, est pris en compte.
+Les salariés bénéficient au cours de chaque période de vingt-quatre heures d'une période minimale de repos de onze heures consécutives. Cette période de repos peut être soit supprimée, soit réduite.
+L'intervention ouvre droit à un repos compensateur équivalent aux périodes de repos et de pause dont les salariés n'ont pu bénéficier, qui peut être accordé en partie pendant l'intervention.
+Un décret définit les conditions dans lesquelles l'établissement ou le service employant ou plaçant le salarié s'assure de l'effectivité du repos compensateur lorsque celui-ci est accordé pendant l'intervention.
+IV. - En cas de décès du conjoint employeur, il est permis au conjoint survivant non employeur de poursuivre le contrat de travail avec l'aide à domicile employé, sous réserve de l'accord de ce dernier, sous la forme d'un avenant au contrat de travail.
+V. - Les autorités compétentes mentionnées au deuxième alinéa du I, en liaison avec les établissements et services expérimentateurs, remettent un rapport d'évaluation aux ministres chargés des personnes âgées et des personnes handicapées au plus tard douze mois avant l'échéance de la période d'expérimentation mentionnée au même I.
+Le Gouvernement remet au Parlement, au plus tard six mois avant l'échéance de cette période d'expérimentation, un rapport d'évaluation des expérimentations mentionnées audit I, à partir notamment des contributions des autorités mentionnées au deuxième alinéa du même I et des établissements et services expérimentateurs.
+VI. - Les conditions d'application du présent article sont fixées par décret.
+I. - A titre expérimental, le bénéficiaire ou l'auteur d'une décision administrative non réglementaire entrant dans l'une des catégories définies au deuxième alinéa du présent I peut saisir le tribunal administratif d'une demande tendant à apprécier la légalité externe de cette décision.
+Le premier alinéa du présent I est applicable aux décisions précisées par le décret en Conseil d'Etat prévu au V, prises sur le fondement du code de l'expropriation pour cause d'utilité publique, du code de l'urbanisme ou des articles L. 1331-25 à L. 1331-29 du code de la santé publique et dont l'éventuelle illégalité pourrait être invoquée, alors même que ces décisions seraient devenues définitives, à l'appui de conclusions dirigées contre un acte ultérieur.
+Le premier alinéa n'est pas applicable aux décisions prises par décret.
+II. - La demande en appréciation de régularité est formée dans un délai de trois mois à compter de la notification ou de la publication de la décision en cause. Elle est rendue publique dans des conditions permettant à toute personne ayant intérêt à agir contre cette décision d'intervenir à la procédure.
+La demande est présentée, instruite et jugée dans les formes prévues par le code de justice administrative, sous réserve des adaptations réglementaires nécessaires. Elle suspend l'examen des recours dirigés contre la décision en cause et dans lesquels sont soulevés des moyens de légalité externe, à l'exclusion des référés prévus au livre V du code de justice administrative.
+Le tribunal statue dans un délai fixé par voie réglementaire. Il se prononce sur tous les moyens de légalité externe qui lui sont soumis ainsi que sur tout motif d'illégalité externe qu'il estime devoir relever d'office, y compris s'il n'est pas d'ordre public.
+III. - La décision du tribunal n'est pas susceptible d'appel mais peut faire l'objet d'un pourvoi en cassation.
+Si le tribunal constate la légalité externe de la décision en cause, aucun moyen tiré de cette cause juridique ne peut plus être invoqué par voie d'action ou par voie d'exception à l'encontre de cette décision.
+Par dérogation à l'article L. 242-1 du code des relations entre le public et l'administration, l'autorité administrative peut retirer ou abroger la décision en cause, si elle estime qu'elle est illégale, à tout moment de la procédure et jusqu'à l'expiration d'un délai de deux mois après que la décision du juge lui a été notifiée.
+IV. - L'expérimentation est menée, pour une durée de trois ans à compter de la publication du décret en Conseil d'Etat prévu au V, dans le ressort des tribunaux administratifs, au nombre maximal de quatre, désignés par ce décret. Elle fait l'objet d'une évaluation dans les conditions fixées par le même décret.
+V. - Un décret en Conseil d'Etat précise les décisions entrant dans le champ du deuxième alinéa du I et pouvant faire l'objet d'une demande en appréciation de régularité, en tenant compte notamment de la multiplicité des contestations auxquelles elles sont susceptibles de donner lieu.
+Le décret prévu au premier alinéa du présent V fixe également les modalités d'application du présent article, notamment les conditions dans lesquelles les personnes intéressées sont informées, d'une part, des demandes tendant à apprécier la régularité d'une décision et de leurs conséquences éventuelles sur les recours ultérieurs et, d'autre part, des réponses qui sont apportées à ces demandes par le tribunal.
+I.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par ordonnances, dans un délai de douze mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à modifier les dispositions du code de la consommation et du code monétaire et financier relatives au taux effectif global et à prévoir les mesures de coordination et d'adaptation découlant de ces modifications en vue :
+1° D'une part, excepté dans le cas des contrats de crédit à taux fixe, de supprimer la mention obligatoire du taux effectif global dans les contrats de crédit aux entreprises lorsque cette mention est inappropriée à ces contrats ;
+2° D'autre part, de clarifier et d'harmoniser le régime des sanctions civiles applicables en cas d'erreur ou de défaut de ce taux, en veillant en particulier, conformément aux exigences énoncées par la directive 2008/48/ CE du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/ CEE du Conseil et par la directive 2014/17/ UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les directives 2008/48/ CE et 2013/36/ UE et le règlement (UE) n° 1093/2010, au caractère proportionné de ces sanctions civiles au regard des préjudices effectivement subis par les emprunteurs.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+II.-Le chapitre IV du titre IV du livre V du code monétaire et financier est ainsi modifié :
+1° A la fin de l'intitulé, les mots : « d'analyse financière ou de notation de crédit » sont remplacés par les mots : « ou d'analyse financière » ;
+2° La division et l'intitulé de la section 1 sont supprimés ;
+3° La section 2 est abrogée.
+III.-A la fin de la seconde phrase du I de l'article L. 613-52-6 du code monétaire et financier, les mots : « mentionnée à l'article L. 544-4 » sont supprimés.
+IV.-Le code de commerce est ainsi modifié :
+1° L'avant-dernier alinéa du I de l'article L. 225-100-1 est supprimé ;
+2° A la première phrase du IV de l'article L. 232-1, les mots : « à responsabilité limitée et les sociétés par actions simplifiées dont l'associé unique, personne physique, assume personnellement la gérance ou la présidence, et » sont remplacés par le mot : « commerciales » ;
+3° Le V du même article L. 232-1 est abrogé ;
+4° Le 2° du I de l'article L. 950-1 est ainsi modifié :
+a) Au sixième alinéa, la référence : « L. 225-100-1, » est supprimée et les références : «, L. 226-10-1 et L. 232-1 » sont remplacées par la référence : « et L. 226-10-1 » ;
+b) Il est ajouté un alinéa ainsi rédigé :
+« Les articles L. 225-100-1 et L. 232-1 sont applicables dans leur rédaction résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance ; ».
+V.-Le IV s'applique aux rapports afférents aux exercices clos à compter de la publication de la présente loi.
+I. - A titre expérimental, dans un nombre limité de régions désignées par décret en Conseil d'Etat et pour une durée de trois ans à compter de la promulgation de la présente loi, la procédure de délivrance de l'autorisation environnementale mentionnée au chapitre unique du titre VIII du livre Ier du code de l'environnement, lorsque le projet a donné lieu à une concertation préalable prévue à l'article L. 121-15-1 du même code sous l'égide d'un garant dans les conditions prévues par son article L. 121-16-1, fait l'objet des adaptations procédurales suivantes :
+1° Par dérogation aux articles L. 181-9 à L. 181-11, l'enquête publique prévue au I de l'article L. 123-2 est remplacée par une participation du public par voie électronique dans les formes prévues à l'article L. 123-19 ;
+2° L'affichage de l'avis d'ouverture est effectué dans les mêmes communes que celles dans lesquelles aurait été affiché l'avis d'enquête publique en l'absence d'expérimentation ;
+3° Cet avis mentionne l'adresse à laquelle des observations peuvent être transmises par voie postale.
+Le présent article n'est pas applicable lorsqu'il est fait application des deux premiers alinéas du I de l'article L. 123-6 du code de l'environnement.
+L'expérimentation fait l'objet d'une évaluation dont les résultats sont transmis au Parlement au plus tard six mois avant son terme.
+II. - Le Gouvernement remet au Parlement, dans un délai de deux ans à compter de la publication de la loi de ratification de l'ordonnance n° 2016-1060 du 3 août 2016 portant réforme des procédures destinées à assurer l'information et la participation du public à l'élaboration de certaines décisions susceptibles d'avoir une incidence sur l'environnement, un rapport dressant un bilan de l'application de cette ordonnance. Ce rapport doit notamment évaluer le recours des porteurs de projets aux procédures de participation du public organisées en amont et en aval, leur coût, l'effectivité de la participation du public et les délais de réalisation des projets faisant l'objet de telles procédures, et proposer d'éventuelles mesures correctives.
+III. - L'ordonnance n° 2017-80 du 26 janvier 2017 relative à l'autorisation environnementale est ratifiée.
+Le titre II du livre Ier du code de l'environnement est ainsi modifié :
+1° La troisième phrase du premier alinéa de l'article L. 121-16 est complétée par les mots : « ainsi que, selon l'importance et la nature du projet, par voie de publication locale » ;
+2° Le II de l'article L. 123-19 est ainsi modifié :
+a) A la première phrase du deuxième alinéa, après le mot : « concernés », sont insérés les mots : « et, selon l'importance et la nature du projet, par voie de publication locale » ;
+b) Après le 7°, il est inséré un alinéa ainsi rédigé :
+« Les dépenses relatives à l'organisation matérielle de cette participation sont à la charge du maître d'ouvrage ou de la personne publique responsable du plan ou du programme. »
+I.-Le livre Ier du code de l'environnement est ainsi modifié :
+1° Après l'article L. 121-8, il est inséré un article L. 121-8-1 ainsi rédigé :
+
+« Art. L. 121-8-1.-Lorsque le ministre chargé de l'énergie souhaite lancer une procédure de mise en concurrence en application de l'article L. 311-10 du code de l'énergie pour la construction et l'exploitation d'installations de production d'énergie renouvelable en mer et de leurs ouvrages de raccordement aux réseaux publics d'électricité, il saisit, préalablement au lancement de cette procédure, la Commission nationale du débat public, qui détermine, dans les conditions prévues à la présente section, les modalités de participation du public au processus de décision du lancement de la procédure de mise en concurrence. Le public est notamment consulté sur le choix de la localisation de la ou des zones potentielles d'implantation des installations envisagées.
+« Après la désignation du lauréat de la procédure de mise en concurrence et compte tenu des suites données à la saisine mentionnée au premier alinéa du présent article, le ou les maîtres d'ouvrages du projet d'une installation de production d'énergie renouvelable en mer et de ses ouvrages de raccordement sont dispensés des obligations prévues à la présente section. » ;
+
+2° La section 6 du chapitre unique du titre VIII est complétée par une sous-section 3 ainsi rédigée :
+
+« Sous-section 3
+« Installations de production d'énergie renouvelable en mer
+
+« Art. L. 181-28-1.-I.-Pour les installations de production d'énergie renouvelable en mer et leurs ouvrages de raccordement aux réseaux publics d'électricité, sont applicables les dispositions suivantes :
+« 1° Tout ou partie de l'étude d'impact peut être réalisée et mise à disposition des maîtres d'ouvrage par le ministre chargé de l'énergie ;
+« 2° Les autorisations suivantes fixent, le cas échéant, des caractéristiques variables pour ces projets d'installation dans les limites desquelles ces projets sont autorisés à évoluer postérieurement à la délivrance de l'autorisation :
+« a) L'autorisation unique prévue à l'article 20 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française ;
+« b) La concession d'utilisation du domaine public maritime prévue à l'article L. 2124-3 du code général de la propriété des personnes publiques ;
+« c) L'autorisation environnementale prévue au présent chapitre ;
+« d) L'autorisation d'exploiter prévue à la section 2 du chapitre Ier du titre Ier du livre III du code de l'énergie ;
+« 3° Les prescriptions des autorisations susmentionnées, portant notamment sur les mesures d'évitement, de réduction et de compensation, sont établies en tenant compte des caractéristiques non variables et des caractéristiques variables dans les limites desquelles le projet d'installation est autorisé à évoluer ;
+« 4° Le pétitionnaire informe l'autorité administrative compétente pour délivrer les autorisations susmentionnées des caractéristiques du projet tel qu'il est réalisé et des mesures d'évitement, de réduction et de compensation associées.
+« II.-Le I n'est pas applicable aux installations de production d'énergie renouvelable en mer et à leurs ouvrages de raccordement aux réseaux publics d'électricité pour lesquels le pétitionnaire a régulièrement déposé une demande d'autorisation mentionnée au 2° du I jusqu'à six mois après la publication de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance. »
+
+II.-L'article L. 311-15 du code de l'énergie est complété par un alinéa ainsi rédigé :
+« Tout manquement aux articles L. 314-1 à L. 314-13, L. 314-18 à L. 314-27, L. 311-10 à L. 311-13-6, aux dispositions réglementaires prises en application de ces articles ou aux prescriptions prévues par le cahier des charges d'une procédure de mise en concurrence mentionnée à l'article L. 311-10 par les producteurs ayant fait une demande de contrat en application des articles L. 314-1 à L. 314-13 ou L. 314-18 à L. 314-27 ou par le lauréat désigné à l'issue de cette procédure peut donner lieu à une sanction pécuniaire, dans le respect de la procédure et des garanties prévues au paragraphe 2 de la sous-section 3 de la section 2 du chapitre II du titre IV du livre Ier du présent code. La sanction est déterminée en fonction de la puissance électrique prévue de l'installation et de façon proportionnée à la gravité du manquement, dans la limite d'un plafond de 500 € par kilowatt. Le cahier des charges de la procédure de mise en concurrence peut fixer le barème des sanctions pécuniaires spécifiques à l'installation, dans la limite de ce plafond. Les modalités d'application du présent alinéa sont fixées par décret en Conseil d'Etat. »
+III.-Pour les procédures de mise en concurrence mentionnées à l'article L. 311-10 du code de l'énergie relatives à des installations de production d'énergie renouvelable en mer dont le candidat retenu a été désigné avant le 1er janvier 2015 et pour lesquelles les contrats prévus à l'article L. 311-12 du même code n'ont pas encore été conclus à la date de publication de la présente loi, le ministre chargé de l'énergie peut demander, préalablement à la conclusion desdits contrats, au candidat retenu d'améliorer son offre, notamment en diminuant le montant du tarif d'achat, en modifiant les modalités de révision ou de versement de ce tarif ou en réduisant la puissance de l'installation, le cas échéant par dérogation à certaines dispositions du cahier des charges mentionné aux articles L. 311-10-1 et L. 311-10-2 dudit code.
+L'acceptation par le ministre chargé de l'énergie de l'offre améliorée emporte, en tant que de besoin, mise à jour du cahier des charges mentionné aux mêmes articles L. 311-10-1 et L. 311-10-2 et le contenu de cette offre améliorée s'impose au contrat que le candidat retenu conclut avec Électricité de France conformément à l'article L. 311-12 du même code.
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort des recours dirigés contre la décision du ministre chargé de l'énergie et le contrat administratif mentionnés au deuxième alinéa du présent III ainsi que contre la décision d'approbation par le ministre chargé de l'énergie du modèle de ce contrat.
+IV.-Pour les procédures de mise en concurrence mentionnées à l'article L. 311-10 du code de l'énergie relatives à des installations de production d'énergie renouvelable en mer dont le candidat retenu a été désigné avant le 1er janvier 2015 et pour lesquelles les contrats prévus à l'article L. 311-12 du même code n'ont pas encore été conclus à la date de publication de la présente loi, la décision de l'autorité administrative désignant le candidat retenu à l'issue de la procédure de mise en concurrence peut être abrogée par décret.
+Cette abrogation entraîne l'abrogation de l'autorisation d'exploiter une installation de production d'électricité prévue à l'article L. 311-1 dudit code et la résiliation de la convention de concession d'utilisation du domaine public maritime accordée en application de l'article L. 2124-3 du code général de la propriété des personnes publiques qui est liée au projet, si une telle convention a déjà été conclue.
+En cas d'abrogation de la décision désignant le candidat retenu, ce dernier remet au ministre chargé de l'énergie l'ensemble des études menées afin de réaliser son projet, ainsi que l'ensemble des données collectées sur le site ou relatives au site, en particulier les données météorologiques et de vent, météocéaniques, géotechniques et géophysiques et l'ensemble des données à caractère environnemental.
+En cas d'abrogation de la décision désignant le candidat retenu, ce dernier est indemnisé de l'ensemble des frais, dûment justifiés et en relation directe avec le projet, exposés entre la date d'adoption de la décision désignant le candidat retenu et la date d'entrée en vigueur du décret d'abrogation mentionné au premier alinéa du présent IV, après déduction des éventuelles subventions publiques versées. Les indemnisations relatives aux études mentionnées au troisième alinéa sont calculées sur la base des frais de réalisation des études dûment justifiés.
+L'indemnité comprend également, le cas échéant, les coûts raisonnables et dûment justifiés liés à la rupture des contrats conclus par le candidat retenu pour la réalisation du projet, dès lors que ces contrats ont été conclus à des conditions normales et que leur signature n'a pas été anticipée au-delà de ce qui était nécessaire pour satisfaire aux exigences du cahier des charges de la procédure de mise en concurrence.
+Cette indemnité est exclusive de toute indemnité complémentaire, notamment de l'indemnité contractuelle prévue en cas de résiliation de la convention de concession d'utilisation du domaine public maritime accordée en application de l'article L. 2124-3 du code général de la propriété des personnes publiques.
+En cas d'abrogation de la décision du ministre chargé de l'énergie désignant un candidat retenu à l'issue d'une procédure de mise en concurrence en application du premier alinéa du présent IV, le ministre chargé de l'énergie lance, dans un délai ne pouvant excéder six mois, une nouvelle procédure de mise en concurrence relative à des installations de production d'énergie renouvelable en mer d'une puissance au moins égale et sur la même zone géographique ou sur une zone géographique à proximité. La saisine préalable de la Commission nationale du débat public prévue à l'article L. 121-8-1 du code de l'environnement s'applique à la procédure prévue au présent IV.
+V.-Pour les procédures de mise en concurrence mentionnées à l'article L. 311-10 du code de l'énergie relatives à des installations de production d'énergie renouvelable en mer dont le candidat retenu a été désigné avant le 1er janvier 2015, le gestionnaire du réseau public de transport supporte le coût du raccordement correspondant aux conditions techniques prévues par le cahier des charges et la convention de raccordement, y compris les coûts échoués en cas d'abandon de la procédure de mise en concurrence ou d'abrogation de la décision désignant le candidat retenu en application du IV du présent article. Les éventuelles modifications de ces conditions à l'initiative du candidat retenu sont à la charge de ce dernier.
+Le gestionnaire du réseau public de transport rembourse au candidat retenu, dans un délai de trois mois à compter de l'entrée en vigueur de la présente loi, l'intégralité des sommes perçues au titre du raccordement.
+En cas de défaillance du candidat retenu, ce dernier assume les coûts échoués correspondant au coût du capital immobilisé par le gestionnaire du réseau public de transport au titre du raccordement.
+La composante du prix de l'électricité correspondant au coût du raccordement au réseau public de transport est supprimée de l'offre du candidat retenu et du tarif d'achat de l'électricité produite versé au producteur dans le cadre du contrat conclu en application de l'article L. 311-12 du code de l'énergie.
+VI.-La concession d'utilisation du domaine public maritime relative aux ouvrages de production d'énergie renouvelable en mer peut prévoir une occupation ou une utilisation de ce domaine à titre gratuit pendant la durée du contrat conclu en application de l'article L. 311-12 du code de l'énergie.
+Le présent VI est applicable aux concessions d'utilisation du domaine public maritime relatives aux ouvrages de production d'énergie renouvelable en mer déjà conclues à la date d'entrée en vigueur de la présente loi.
+Le livre III du code de l'énergie est ainsi modifié :
+1° L'article L. 323-11 est ainsi modifié :
+a) A la seconde phrase du 1°, les mots : « les ouvrages dont la tension maximale est supérieure à 50 kilovolts ainsi que les ouvrages privés qui empruntent le domaine public font » sont remplacés par les mots : « la construction de lignes électriques aériennes dont la tension est supérieure à 50 kilovolts fait » ;
+b) Après le mot : « exploitation », la fin du 2° est ainsi rédigée : « des ouvrages acheminant de l'électricité sur le domaine public ou présentant des risques pour les tiers, les frais du contrôle étant à la charge du concessionnaire ou exploitant ; »
+2° L'article L. 342-2 est ainsi rédigé :
+
+« Art. L. 342-2.-Le producteur, ou le consommateur, peut faire exécuter, à ses frais et sous sa responsabilité, les travaux de raccordement sur les ouvrages dédiés à son installation par des entreprises agréées par le maître d'ouvrage mentionné à l'article L. 342-7 ou à l'article L. 342-8 et selon les dispositions d'un cahier des charges établi par ce maître d'ouvrage sur la base de modèles publiés par ce dernier. La mise en service de l'ouvrage est conditionnée à sa réception par le maître d'ouvrage.
+« Les modalités d'application du présent article sont fixées par décret pris après avis de la Commission de régulation de l'énergie. »
+Au 1° de l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017 relative à l'autorisation environnementale, après l'année : « 2017, », sont insérés les mots : « ainsi que les permis de construire en cours de validité à cette même date autorisant les projets d'installation d'éoliennes terrestres ».
+I.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance, dans un délai de douze mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi visant à simplifier la procédure d'élaboration et de révision des schémas régionaux de raccordement au réseau des installations de production d'électricité usant d'énergies renouvelables prévue à l'article L. 321-7 du code de l'énergie, afin d'accélérer l'entrée en vigueur de ces schémas, et mettre en cohérence les autres dispositions du même code.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+II.-A l'article L. 522-1 du code de l'expropriation pour cause d'utilité publique, les mots : « et d'oléoducs » sont remplacés par les mots : «, d'oléoducs et d'ouvrages des réseaux publics d'électricité ».
+I.-L'article L. 515-29 du code de l'environnement est ainsi modifié :
+1° Au premier alinéa du I, les mots : « soumises à l'enquête publique prévue au chapitre III du titre II du livre Ier » sont remplacés par les mots : « mises à disposition du public, dans les conditions prévues au II, » ;
+2° A l'avant-dernier alinéa du même I, le mot : « enquête » est remplacé par les mots : « mise à disposition du public » ;
+3° La première phrase du II est ainsi rédigée : « Les informations mentionnées au I font l'objet d'une mise à disposition du public. » ;
+4° Le même II est complété par un alinéa ainsi rédigé :
+« Les observations recueillies font l'objet d'une synthèse, rendue publique, indiquant celles dont il a été tenu compte. »
+II.-Le IV de l'article L. 122-1 du code de l'environnement est complété par un alinéa ainsi rédigé :
+« Toutefois, lorsque le projet consiste en une modification ou une extension d'activités, installations, ouvrages ou travaux qui relèvent des autorisations prévues aux articles L. 181-1, L. 512-7, L. 555-1 et L. 593-7, le maître d'ouvrage saisit de ce dossier l'autorité mentionnée à l'article L. 171-8. Cette autorité détermine si cette modification ou cette extension doit être soumise à évaluation environnementale. »
+III.-Au dernier alinéa du II de l'article L. 123-14 du code de l'environnement, la référence : « IV » est remplacée par la référence : « V ».
+IV.-Après les mots : « l'autorité », la fin du 3° de l'article L. 181-5 du code de l'environnement est ainsi rédigée : « mentionnée au IV de l'article L. 122-1 afin de déterminer si celui-ci doit être soumis à évaluation environnementale ; ».
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de douze mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi et concernant l'activité d'entrepreneur de spectacles vivants, visant à :
+1° Simplifier et moderniser le régime juridique de l'exercice de l'activité d'entrepreneur de spectacles vivants ;
+2° Mettre en place un régime de sanctions administratives se substituant au régime de sanctions pénales prévu aux fins de réprimer l'exercice illégal de l'activité d'entrepreneur de spectacles vivants ;
+3° Abroger ou modifier les dispositions devenues inadaptées ou obsolètes ;
+4° Garantir le respect des règles relatives à la sécurité des lieux de spectacle et des dispositions relatives au droit du travail, au droit de la protection sociale et au droit de la propriété littéraire et artistique.
+II. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+I.-L'article L. 541-13 du code de l'environnement est rétabli dans sa rédaction antérieure à l'ordonnance n° 2016-1028 du 27 juillet 2016 relative aux mesures de coordination rendues nécessaires par l'intégration dans le schéma régional d'aménagement, de développement durable et d'égalité des territoires, des schémas régionaux sectoriels mentionnés à l'article 13 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, à compter de la date d'entrée en vigueur de la même ordonnance et jusqu'à la publication de l'arrêté approuvant, dans chacune des régions concernées, un schéma régional d'aménagement, de développement durable et d'égalité des territoires en application du chapitre Ier du titre V du livre II de la quatrième partie du code général des collectivités territoriales. Après la publication de cet arrêté, l'article L. 541-13 du code de l'environnement s'applique dans sa rédaction résultant de l'ordonnance n° 2016-1028 du 27 juillet 2016 précitée.
+II.-L'ordonnance n° 2016-1028 du 27 juillet 2016 relative aux mesures de coordination rendues nécessaires par l'intégration dans le schéma régional d'aménagement, de développement durable et d'égalité des territoires, des schémas régionaux sectoriels mentionnés à l'article 13 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République est ainsi modifiée :
+1° A l'article 19, les mots : « les commissions consultatives d'élaboration et de suivi compétentes, dans les six » sont remplacés par les mots : « la commission constituée en application de l'article L. 541-13 du code de l'environnement, dans sa rédaction antérieure à la présente ordonnance, après consultation des départements concernés, dans les dix-huit » ;
+2° L'article 34 est ainsi modifié :
+a) Au second alinéa, les mots : « à l'exception des procédures d'élaboration des plans régionaux de prévention et de gestion des déchets » sont supprimés ;
+b) Il est ajouté un alinéa ainsi rédigé :
+« Le présent article n'est pas applicable aux plans régionaux de prévention et de gestion des déchets qui sont régis par le I de l'article 64 de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance. »
+I.-A la fin du d de l'article 18-2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, les mots : «, dans leurs relations avec le ministre et les services ministériels chargés des cultes » sont supprimés.
+II.-A la fin du b du IV de l'article 25 de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique, l'année : « 2018 » est remplacée par l'année : « 2021 ».
+Au dernier alinéa du III de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, les mots : « de deux mois » sont remplacés par les mots : « d'un mois prévu au V de l'article 4 ».
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par ordonnances, dans un délai de douze mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi en vue de réformer les dispositions du code minier relatives à l'octroi et à la prolongation des titres permettant l'exploration et l'exploitation de l'énergie géothermique, ce afin d'établir, d'une part, un régime simplifié adapté aux projets en situation géologique connue et ne nécessitant qu'une phase d'exploration limitée et, d'autre part, un régime plus complet pour les autres projets, sans que la distinction entre ces deux régimes soit fondée sur la température du gîte.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+
+## Titre III : UN DISPOSITIF D'ÉVALUATION RENOUVELÉ
+Le Gouvernement présente au Parlement un rapport annuel sur :
+1° L'application des dispositions réglementaires permettant à un pétitionnaire de joindre à sa demande d'autorisation le projet de décision qu'il propose à l'administration de prendre en réponse à cette demande ;
+2° L'expérimentation de la possibilité pour les préfets et les directeurs des agences régionales de santé de déroger à des normes réglementaires ;
+3° L'état d'avancement de la dématérialisation des procédures au sein des administrations de l'Etat ;
+4° Les actions entreprises pour étendre les horaires d'ouverture au public des administrations de l'Etat ;
+5° Le développement de référents uniques dans les administrations de l'Etat ;
+6° L'expérimentation, prévue à l'article 40, de la possibilité donnée aux personnes morales inscrites au répertoire des entreprises et de leurs établissements de ne pas communiquer à l'administration des informations que celle-ci détient déjà dans un traitement automatisé ou qui peuvent être obtenues d'une autre administration par un tel traitement ;
+7° Les actions de formation et d'accompagnement des agents des administrations de l'Etat mises en œuvre pour atteindre les objectifs de la présente loi ;
+8° Les actions entreprises par les administrations et les services publics en relation avec les usagers pour permettre à toute personne un accès à une information transparente sur l'efficacité et la qualité des services rendus, notamment par l'affichage d'indicateurs de résultats et de satisfaction dans les sites d'accueil physique et sur les sites internet des administrations concernées.
+Le Gouvernement remet au Parlement, avant le 1er juin 2019, un rapport relatif à l'adoption et au maintien, dans le droit positif, de mesures législatives ou réglementaires allant au-delà des exigences minimales du droit de l'Union européenne. Il met à même toute organisation professionnelle d'employeurs ou toute organisation syndicale de salariés, représentatives au niveau interprofessionnel ou au niveau de la branche concernée, ou toute organisation représentant les entreprises du secteur concerné de lui adresser, pour la préparation de ce rapport, ses observations. Ce rapport étudie les différentes formes de surtransposition pratiquées, leurs causes, leurs effets ainsi que leurs justifications. Il identifie les adaptations de notre droit nécessaires pour remédier aux surtranspositions inutiles ou injustifiées.
+Les rapports d'évaluation des expérimentations prévues aux articles 22, 29, 30, 31, 32, 33, 36, 40, 45, 53, 54 et 56 rendent compte des conditions dans lesquelles les personnes intéressées ont participé à ces évaluations.
+Au plus tard au moment du dépôt du projet de loi de ratification devant le Parlement, le Gouvernement rend compte au Parlement des conditions dans lesquelles les personnes intéressées ont été associées à l'élaboration des ordonnances prévues aux articles 17, 37, 38, 49, 50, 52, 55, 58, 61, 63 et 67.
+Dans un délai de deux mois à compter de la publication de la présente loi, le Gouvernement remet au Parlement un rapport sur l'application du principe selon lequel le silence de l'administration vaut acceptation et sur les moyens de réduire et de limiter les exceptions à ce principe, afin d'améliorer et de simplifier les rapports entre l'administration et les usagers.
+Au début du II de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, il est ajouté un alinéa ainsi rédigé :
+« Sauf en cas de faute personnelle détachable de l'exercice de ses fonctions, la responsabilité civile du fonctionnaire ne peut être engagée par un tiers devant les juridictions judiciaires pour une faute commise dans l'exercice de ses fonctions. »
+Deux ans après leur entrée en vigueur, les articles 5, 7, 9, 14, 15 et 16 font l'objet d'une évaluation comptable et financière établie par la Cour des comptes et transmise au Parlement.
+La présente loi sera exécutée comme loi de l'Etat.
+ANNEXE
+STRATÉGIE NATIONALE D'ORIENTATION DE L'ACTION PUBLIQUE
+
+La présente stratégie nationale énonce les orientations et les objectifs de l'action publique vers une société de confiance, d'ici à 2022.
+I. - Vers une administration de conseil et de service :
+L'administration est au service des personnes, qu'elle conseille loyalement et accompagne dans leurs démarches. Les prérogatives et les moyens qui lui sont conférés pour la mise en œuvre des politiques publiques sont employés au bénéfice de ces personnes.
+L'autonomie et la protection des agents publics dans leurs relations avec les usagers sont garanties.
+Les personnes intéressées sont associées aux politiques publiques dans des conditions adaptées à chaque domaine d'intervention. Lorsqu'une telle association est décidée pour une action déterminée, la décision prévoit les moyens nécessaires à cette association.
+Lorsqu'une personne est soumise par la loi ou le règlement à une obligation, elle est réputée s'y être conformée dans sa relation avec l'administration.
+L'administration accompagne les usagers qui la sollicitent pour les aider dans la bonne application des règles qui les concernent. L'administration leur facilite l'accès aux données les concernant strictement.
+Les rapports entre le public et l'administration sont fondés sur les principes de loyauté, de simplicité et d'adaptation.
+L'administration développe les modalités non contentieuses de traitement des contestations, notamment la médiation.
+L'administration prend en compte la capacité financière du contribuable dans le cas d'un recouvrement fiscal ou administratif.
+II. - Vers une action publique modernisée, simplifiée, décentralisée et plus efficace :
+L'action publique fait l'objet d'évaluations régulières, notamment quant à son efficacité, son mode d'organisation et sa capacité à satisfaire les usagers dans leurs demandes de conseils et de services. Les statistiques sur la mise en œuvre des pénalités sont publiées, en distinguant celles figurant dans les propositions de rectification ou les notifications de bases imposées d'office de celles maintenues à l'issue de la procédure de redressement.
+Les missions de l'administration sont régulièrement évaluées, y compris de manière indépendante, notamment quant à leur pertinence pour répondre aux nouveaux besoins de la société. L'évaluation de l'administration associe les personnes intéressées, dont les propositions sont prises en compte pour l'organisation et l'adaptation de l'action publique.
+L'organisation de l'administration s'adapte constamment à l'évolution de ses missions en tenant compte des nécessités de l'aménagement du territoire.
+Les agents publics bénéficient régulièrement d'une formation et d'un accompagnement leur permettant de s'adapter aux évolutions des missions de l'administration.
+L'organisation administrative prend en considération la diversité et la spécificité des territoires.
+Les moyens pour mener à bien l'action publique sont déterminés en fonction de leur adaptation aux objectifs, quantitatifs et qualitatifs, à atteindre.
+L'action publique n'entraîne l'édiction d'une norme que si celle-ci est strictement nécessaire à sa réalisation.
+L'action publique doit permettre la réduction des délais administratifs.
+Toute décision publique prend en compte le coût qu'elle implique pour son auteur, ses destinataires et les tiers ainsi que la complexité des règles particulières qu'ils doivent appliquer et respecter. Ce coût et ces règles doivent être limités au strict nécessaire et proportionnés aux objectifs à atteindre.
+L'administration prend en considération les contraintes horaires du public dans ses horaires d'ouverture et met en œuvre les moyens nécessaires permettant d'organiser un accueil téléphonique efficient.
+La proximité territoriale doit permettre à l'administration d'assurer le service public sur tout le territoire de la République, notamment grâce à l'implantation des maisons de service au public.
+L'administration doit assurer, notamment aux personnes vulnérables ou n'utilisant pas l'outil numérique, des possibilités de communication et de médiation adaptées à leurs besoins et à leur situation.
+Tout usager des services publics doit pouvoir consulter l'état de sa situation administrative et de l'avancement du traitement de ses démarches et demandes.
+Le Gouvernement se fixe pour objectifs, s'agissant de l'administration de l'Etat :
+1° La dématérialisation de l'ensemble des démarches administratives, en dehors de la première délivrance d'un document d'identité, d'ici à 2022, avec la prise en compte des besoins d'accompagnement des citoyens ayant des difficultés d'accès aux services dématérialisés ;
+2° L'institution du droit pour toute personne de ne pas être tenue de produire à l'administration une information déjà détenue ou susceptible d'être obtenue auprès d'une autre administration.
+L'Etat, les collectivités territoriales et leurs groupements ainsi que les autres personnes publiques et les personnes morales de droit privé chargées d'une mission de service public administratif concourent à la mise en œuvre de la présente stratégie nationale.
+
+## Titre PRÉLIMINAIRE  DISPOSITIONS D'ORIENTATION ET DE PROGRAMMATION
+La stratégie nationale d'orientation de l'action publique, annexée à la présente loi, est approuvée.
+
+## Titre Ier : UNE RELATION DE CONFIANCE : VERS UNE ADMINISTRATION DE CONSEIL ET DE SERVICE
+
+### Chapitre Ier : Une administration qui accompagne
+I.-Le code des relations entre le public et l'administration est ainsi modifié :
+1° L'intitulé du titre II du livre Ier est ainsi rédigé : « Les procédures préalables à l'intervention de certaines décisions » ;
+2° Le même titre II est complété par des chapitres III et IV ainsi rédigés :
+
+« Chapitre III
+« Droit à régularisation en cas d'erreur
+
+« Art. L. 123-1.-Une personne ayant méconnu pour la première fois une règle applicable à sa situation ou ayant commis une erreur matérielle lors du renseignement de sa situation ne peut faire l'objet, de la part de l'administration, d'une sanction, pécuniaire ou consistant en la privation de tout ou partie d'une prestation due, si elle a régularisé sa situation de sa propre initiative ou après avoir été invitée à le faire par l'administration dans le délai que celle-ci lui a indiqué.
+« La sanction peut toutefois être prononcée, sans que la personne en cause ne soit invitée à régulariser sa situation, en cas de mauvaise foi ou de fraude.
+« Les premier et deuxième alinéas ne sont pas applicables :
+« 1° Aux sanctions requises pour la mise en œuvre du droit de l'Union européenne ;
+« 2° Aux sanctions prononcées en cas de méconnaissance des règles préservant directement la santé publique, la sécurité des personnes et des biens ou l'environnement ;
+« 3° Aux sanctions prévues par un contrat ;
+« 4° Aux sanctions prononcées par les autorités de régulation à l'égard des professionnels soumis à leur contrôle.
+
+« Art. L. 123-2.-Est de mauvaise foi, au sens du présent titre, toute personne ayant délibérément méconnu une règle applicable à sa situation.
+« En cas de contestation, la preuve de la mauvaise foi et de la fraude incombe à l'administration.
+
+« Chapitre IV
+« Droit au contrôle et opposabilité du contrôle
+
+« Art. L. 124-1.-Sous réserve des obligations qui résultent d'une convention internationale et sans préjudice des obligations qui lui incombent, toute personne peut demander à faire l'objet d'un contrôle prévu par les dispositions législatives et réglementaires en vigueur. La demande précise les points sur lesquels le contrôle est sollicité.
+« L'administration procède à ce contrôle dans un délai raisonnable, sauf en cas de mauvaise foi du demandeur, de demande abusive ou lorsque la demande a manifestement pour effet de compromettre le bon fonctionnement du service ou de mettre l'administration dans l'impossibilité matérielle de mener à bien son programme de contrôle.
+
+« Art. L. 124-2.-Sous réserve des droits des tiers, toute personne contrôlée peut opposer les conclusions expresses d'un contrôle effectué en application de l'article L. 124-1 à l'administration dont elles émanent.
+« Ces conclusions expresses cessent d'être opposables :
+« 1° En cas de changement de circonstances de droit ou de fait postérieur de nature à affecter leur validité ;
+« 2° Lorsque l'administration procède à un nouveau contrôle donnant lieu à de nouvelles conclusions expresses.
+« Les premier à quatrième alinéas du présent article ne peuvent faire obstacle à l'application des dispositions législatives ou réglementaires préservant directement la santé publique, la sécurité des personnes et des biens ou l'environnement.
+« Lorsque l'administration constate, à l'issue de son contrôle, une méconnaissance des règles applicables à la situation de la personne contrôlée, celle-ci peut régulariser sa situation dans les conditions prévues aux articles L. 123-1 et L. 123-2. » ;
+
+3° Après la quatorzième ligne du tableau du second alinéa des articles L. 552-3, L. 562-3 et L. 572-1, sont insérées deux lignes ainsi rédigées :
+
+«
+
+L. 123-1 et L. 123-2
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+L. 124-1 et L. 124-2
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+
+».
+
+II.-L'article L. 124-2 du code des relations entre le public et l'administration est applicable aux contrôles initiés à compter de la publication de la présente loi.
+Le chapitre IV ter du titre Ier du livre Ier du code de la sécurité sociale est ainsi modifié :
+1° Les 1° et 2° du I de l'article L. 114-17 sont complétés par les mots : «, sauf en cas de bonne foi de la personne concernée » ;
+2° Le II de l'article L. 114-17-1 est ainsi modifié :
+a) Au 1°, la première phrase est complétée par les mots : «, sauf en cas de bonne foi de la personne concernée » et la seconde phrase est supprimée ;
+b) Après le même 1°, il est inséré un 1° bis ainsi rédigé :
+« 1° bis L'inobservation des règles mentionnées au 1° du présent II lorsque celle-ci a pour effet de faire obstacle aux contrôles ou à la bonne gestion de l'organisme ; »
+c) Le 2° est complété par les mots : «, sauf en cas de bonne foi de la personne concernée ».
+Le code des relations entre le public et l'administration est ainsi modifié :
+1° Après l'article L. 114-5, il est inséré un article L. 114-5-1 ainsi rédigé :
+
+« Art. L. 114-5-1.-L'absence d'une pièce au sein d'un dossier déposé par un usager en vue de l'attribution d'un droit ne peut conduire l'administration à suspendre l'instruction de ce dossier dans l'attente de la transmission de la pièce manquante.
+« Si la pièce fait toujours défaut au moment de la décision d'attribution du droit concerné, cette attribution n'est effective qu'après la réception par l'administration de cette pièce.
+« Le présent article ne s'applique pas dans le cas où la pièce manquante est indispensable à l'administration pour instruire valablement le dossier. » ;
+
+2° Le tableau du second alinéa des articles L. 552-3, L. 562-3 et L. 572-1 est ainsi modifié :
+a) La neuvième ligne est ainsi rédigée :
+
+«
+
+L. 114-1 à L. 114-5
+Résultant de l'ordonnance n° 2015-1341
+
+» ;
+
+b) Après la même neuvième ligne, sont insérées deux lignes ainsi rédigées :
+
+«
+
+L. 114-5-1
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+L. 114-6 à L. 114-10
+Résultant de l'ordonnance n° 2015-1341
+
+».
+I.-L'article 1727 du code général des impôts est ainsi modifié :
+1° Le II est ainsi modifié :
+a) Le 1 est abrogé ;
+b) Les 2,2 bis et 2 ter deviennent, respectivement, les 1,2 et 2 bis ;
+2° Il est ajouté un V ainsi rédigé :
+« V.-Le montant dû au titre de l'intérêt de retard est réduit de 50 % en cas de dépôt spontané par le contribuable, avant l'expiration du délai prévu pour l'exercice par l'administration de son droit de reprise, d'une déclaration rectificative à condition, d'une part, que la régularisation ne concerne pas une infraction exclusive de bonne foi et, d'autre part, que la déclaration soit accompagnée du paiement des droits simples ou, s'agissant des impositions recouvrées par voie de rôle, que le paiement soit effectué au plus tard à la date limite de paiement portée sur l'avis d'imposition.
+« A défaut de paiement immédiat des droits simples ou, s'agissant des impositions recouvrées par voie de rôle, de paiement effectué au plus tard à la date limite de paiement portée sur l'avis d'imposition, le bénéfice de la réduction de 50 % de l'intérêt de retard prévu au premier alinéa du présent V est conservé en cas d'acceptation par le comptable public d'un plan de règlement des droits simples. »
+II.-Le 2° du I s'applique aux déclarations rectificatives déposées à compter de la publication de la présente loi.
+Les articles 1649 quater B quinquies et 1738 du code général des impôts sont complétés par un alinéa ainsi rédigé :
+« Les contribuables personnes physiques qui résident dans des zones où aucun service mobile n'est disponible sont dispensés de l'obligation de télédéclaration de leurs revenus et de télépaiement de leurs impôts jusqu'au 31 décembre 2024. »
+Le 1 du I de l'article 1736 du code général des impôts est complété par un alinéa ainsi rédigé :
+« La personne tenue d'effectuer une déclaration en application de l'article 240 peut régulariser les déclarations des trois années précédentes sans encourir l'application de l'amende prévue au premier alinéa du présent 1 lorsque les conditions suivantes sont réunies : elle présente une demande de régularisation pour la première fois et est en mesure de justifier, notamment par une attestation des bénéficiaires, que les rémunérations non déclarées ont été comprises dans les propres déclarations de ces derniers déposées dans les délais légaux, à condition que le service puisse être en mesure de vérifier l'exactitude des justifications produites. Cette demande de régularisation peut avoir lieu au cours du contrôle fiscal de la personne soumise à l'obligation déclarative. »
+I.-Le I de l'article 1763 du code général des impôts est complété par un alinéa ainsi rédigé :
+« L'amende n'est pas applicable, en cas de première infraction commise au cours de l'année civile en cours et des trois années précédentes, lorsque les intéressés ont réparé leur omission soit spontanément, soit à la première demande de l'administration avant la fin de l'année qui suit celle au cours de laquelle le document devait être présenté. »
+II.-Le I s'applique aux déclarations déposées à compter de la publication de la présente loi.
+I.-Le chapitre Ier du titre II du livre des procédures fiscales est ainsi modifié :
+1° L'article L. 62 est ainsi rédigé :
+
+« Art. L. 62.-Si, dans un délai de trente jours à compter de la réception d'une demande mentionnée aux articles L. 10, L. 16 ou L. 23 A du présent code ou de la réception d'une proposition de rectification ou, dans le cadre d'une vérification de comptabilité ou d'un examen de situation fiscale personnelle, avant toute proposition de rectification, le contribuable demande à régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans les délais, il est redevable d'un montant égal à 70 % de l'intérêt de retard prévu à l'article 1727 du code général des impôts.
+« Cette procédure de régularisation ne peut être appliquée que si :
+« 1° Elle ne concerne pas une infraction exclusive de bonne foi ;
+« 2° Le contribuable dépose une déclaration complémentaire dans les trente jours de la demande de régularisation mentionnée au premier alinéa du présent article et s'acquitte de l'intégralité des suppléments de droits simples dus et des intérêts de retard calculés en application du même premier alinéa soit au moment du dépôt de cette déclaration complémentaire, soit, en cas de mise en recouvrement par voie de rôle, au plus tard à la date limite de paiement portée sur l'avis d'imposition.
+« A défaut de paiement immédiat des droits simples ou, s'agissant des impositions recouvrées par voie de rôle, de paiement effectué au plus tard à la date limite de paiement portée sur l'avis d'imposition, le bénéfice de la réduction de l'intérêt de retard est conservé en cas d'acceptation par le comptable public d'un plan de règlement des droits simples. » ;
+
+2° Après le premier alinéa de l'article L. 80 A, il est inséré un alinéa ainsi rédigé :
+« Il en est de même lorsque, dans le cadre d'un examen ou d'une vérification de comptabilité ou d'un examen contradictoire de la situation fiscale personnelle, et dès lors qu'elle a pu se prononcer en toute connaissance de cause, l'administration a pris position sur les points du contrôle, y compris tacitement par une absence de rectification. » ;
+3° Après le 9° de l'article L. 80 B, sont insérés des 10° et 11° ainsi rédigés :
+« 10° Lorsque, dans le cadre d'un examen ou d'une vérification de comptabilité et sur demande écrite du contribuable présentée conformément au 1° du présent article, avant envoi de toute proposition de rectification, l'administration a formellement pris position sur un point qu'elle a examiné au cours du contrôle ;
+« 11° En matière de contributions indirectes, lorsque, dans le cadre d'un contrôle ou d'une enquête effectués par l'administration et sur demande écrite du redevable présentée conformément au 1°, avant la notification de l'information ou de la proposition de taxation mentionnées à l'article L. 80 M, l'administration a formellement pris position sur un point qu'elle a examiné au cours du contrôle ou de l'enquête. »
+II.-Le 1° du I est applicable aux demandes mentionnées aux articles L. 10, L. 16 ou L. 23 A du livre des procédures fiscales envoyées ou aux propositions de rectifications adressées à compter de la publication de la présente loi et, en cas de vérification de comptabilité, d'examen de comptabilité ou d'examen contradictoire de situation fiscale personnelle, aux contrôles dont les avis sont adressés à compter de la publication de la présente loi.
+Le 2° du I est applicable aux contrôles dont les avis sont adressés à compter du 1er janvier 2019.
+Le 3° du I est applicable aux contrôles dont les avis sont adressés à compter de la publication de la présente loi et aux enquêtes effectuées par l'administration à compter de la même date.
+I.-L'article 1753 bis C du code général des impôts, dans sa rédaction résultant de l'article 60 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017 et de l'article 11 de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, est abrogé.
+II.-Le début du 5 du G du I de l'article 60 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017 est ainsi rédigé :
+« 5. Le 2° du C du présent I s'applique à … (le reste sans changement). »
+I.-Le livre des procédures fiscales est ainsi modifié :
+1° L'article L. 49 est complété par un alinéa ainsi rédigé :
+« Les points contrôlés mentionnés au second alinéa de l'article L. 80 A et au 10° de l'article L. 80 B sont indiqués au contribuable sur la proposition de rectification ou sur l'avis d'absence de rectification, y compris s'ils ne comportent ni insuffisance, ni inexactitude, ni omission, ni dissimulation au sens de l'article L. 55. » ;
+2° L'article L. 80 B est complété par un 12° ainsi rédigé :
+« 12° En matière de contributions indirectes, lorsque, dans le cadre d'un contrôle ou d'une enquête et dès lors qu'elle a pu se prononcer en toute connaissance de cause, l'administration a pris position sur les points examinés lors du contrôle ou de l'enquête, lesquels sont communiqués au contribuable selon les modalités fixées à l'article L. 80 M. » ;
+3° Après le I de l'article L. 80 M, il est inséré un I bis ainsi rédigé :
+« I bis.-Sont expressément mentionnés, selon le cas, lors de l'information orale ou sur la proposition de taxation écrite, les points qui, ayant fait l'objet d'un examen par l'administration dans les conditions prévues aux 11° et 12° de l'article L. 80 B, ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul des droits et taxes exigibles. »
+II.-L'indication des points contrôlés mentionnés au second alinéa de l'article L. 80 A du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre dans sa rédaction résultant du 1° du I du présent article, est applicable aux contrôles dont les avis sont adressés à compter du 1er janvier 2019.
+III.-L'indication des points contrôlés mentionnés aux 10° à 12° de l'article L. 80 B du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre et au I bis de l'article L. 80 M dudit livre dans leur rédaction résultant, respectivement, des 1° et 3° du I du présent article, est applicable aux contrôles dont les avis sont adressés à compter de la publication de la présente loi et aux enquêtes effectuées par l'administration à compter de la même date.
+Après l'article L. 54 B du livre des procédures fiscales, il est inséré un article L. 54 C ainsi rédigé :
+
+« Art. L. 54 C.-Hormis lorsqu'elle est adressée dans le cadre des procédures mentionnées aux articles L. 12, L. 13 et L. 13 G et aux I et II de la section V du présent chapitre, la proposition de rectification peut faire l'objet, dans le délai imparti pour l'introduction d'un recours contentieux, d'un recours hiérarchique qui suspend le cours de ce délai. »
+Le chapitre III du titre II du livre des procédures fiscales est ainsi modifié :
+1° Au début du premier alinéa de l'article L. 107 B, les mots : « Sans préjudice des dispositions de l'article L. 135 B, » sont supprimés ;
+2° Le 2° de la section I est complété par un article L. 112 A ainsi rédigé :
+
+« Art. L. 112 A.-Afin de concourir à la transparence des marchés fonciers et immobiliers, l'administration fiscale rend librement accessibles au public, sous forme électronique, les éléments d'information qu'elle détient au sujet des valeurs foncières déclarées à l'occasion des mutations intervenues au cours des cinq dernières années.
+« Un décret en Conseil d'Etat précise les modalités d'application du présent article. » ;
+
+3° Les premier à seizième alinéas de l'article L. 135 B sont supprimés.
+L'article 440 bis du code des douanes est ainsi modifié :
+1° Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+2° Il est ajouté un II ainsi rédigé :
+« II.-En cas de régularisation spontanée par le redevable des erreurs, inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans les délais, avant l'expiration du délai prévu pour l'exercice par l'administration de son droit de reprise et avant tout contrôle de cette dernière, le montant dû au titre de l'intérêt de retard mentionné au I du présent article est réduit de 50 %.
+« Si le redevable demande à effectuer une telle régularisation alors qu'un contrôle de l'administration est en cours soit avant la notification de l'information ou de la proposition de taxation mentionnées aux articles 67 B et 67 D, soit après cette notification, ce montant est réduit de 30 %. Dans ce dernier cas, le redevable dispose de trente jours à compter de la notification pour demander la régularisation.
+« Les réductions mentionnées au présent II ne peuvent être appliquées que si la régularisation :
+« 1° Ne concerne pas une infraction exclusive de bonne foi ;
+« 2° Est accompagnée du paiement de l'intégralité des droits, taxes et intérêts exigibles, soit immédiatement, soit dans le cadre d'un plan de règlement accordé par le comptable des douanes. »
+Le II de la section IV du chapitre Ier du titre II du livre des procédures fiscales est complété par des articles L. 62 B et L. 62 C ainsi rédigés :
+
+« Art. L. 62 B.-En matière de contributions indirectes, le redevable peut soit spontanément, avant l'expiration du délai prévu pour l'exercice par l'administration de son droit de reprise, soit à la demande de l'administration dans le délai que celle-ci lui indique régulariser les erreurs, inexactitudes, omissions ou insuffisances commises pour la première fois, au cours des six années précédant cette commission, dans les déclarations souscrites dans les délais. Les sanctions prévues aux articles 1791 à 1794,1797 à 1798 ter et 1804 du code général des impôts ne sont pas applicables lorsque cette régularisation :
+« 1° Est accompagnée du paiement des droits et taxes concernés et de l'intérêt de retard prévu, selon le cas, au V de l'article 1727 du code général des impôts ou à l'article L. 62 C du présent livre et que ce paiement est soit immédiat, soit effectué dans le cadre d'un plan de règlement des droits accordé par le comptable public ;
+« 2° Ne concerne pas une infraction exclusive de bonne foi.
+
+« Art. L. 62 C.-En matière de contributions indirectes, le montant dû au titre de l'intérêt de retard prévu à l'article 1727 du code général des impôts est réduit de 30 % lorsque le redevable demande à régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans les délais, alors qu'un contrôle de l'administration est en cours, soit avant la notification de l'information ou de la proposition de taxation mentionnées au I de l'article L. 80 M du présent livre, soit après cette notification. Dans ce dernier cas, le redevable dispose de trente jours à compter de la notification pour demander la régularisation.
+« La réduction mentionnée au premier alinéa du présent article ne peut être appliquée que si la régularisation :
+« 1° Ne concerne pas une infraction exclusive de bonne foi ;
+« 2° Est accompagnée du paiement de l'intégralité des droits, taxes et intérêts exigibles, soit immédiatement, soit dans le cadre d'un plan de règlement accordé par le comptable public. »
+Après le chapitre VI du titre XII du code des douanes, il est inséré un chapitre VI bis ainsi rédigé :
+
+« Chapitre VI bis
+« Régularisation des obligations déclaratives
+
+« Art. 440-1.-I.-Le redevable d'un droit ou d'une taxe recouvrés en application du présent code, à l'exclusion des ressources propres de l'Union européenne, peut soit spontanément, avant l'expiration du délai prévu pour l'exercice par l'administration de son droit de reprise, soit à la demande de l'administration dans le délai que celle-ci lui indique régulariser les erreurs, inexactitudes, omissions ou insuffisances commises pour la première fois, au cours des trois années précédant cette commission, dans les déclarations souscrites dans les délais. Les sanctions prévues aux articles 410 à 412 ne sont pas applicables lorsque cette régularisation :
+« 1° Est accompagnée du paiement des droits et taxes concernés et de l'intérêt de retard prévu à l'article 440 bis et que ce paiement est soit immédiat, soit effectué dans le cadre d'un plan de règlement des droits accordé par le comptable des douanes ;
+« 2° Ne concerne pas une infraction exclusive de bonne foi.
+« II.-Le présent article est applicable dans les îles Wallis et Futuna. »
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par ordonnances, dans un délai de neuf mois à compter de la promulgation de la présente loi, toute disposition relevant du domaine de la loi modifiant le code général des impôts ou le livre des procédures fiscales en vue de renforcer la sécurité juridique des entreprises soumises à des impôts commerciaux. Ces dispositions définissent, à cet effet, le régime permettant à l'administration d'examiner, le cas échéant sur place, sur demande des entreprises, la conformité de leurs opérations à la législation fiscale et de prendre formellement position sur l'application de celle-ci. Ces dispositions précisent les modalités d'accompagnement par l'administration ainsi que les moyens de publicité adaptés permettant la reconnaissance, notamment sous forme de labellisation, des entreprises engagées dans ce régime. Elles fixent, aux fins d'assurer un équilibre entre l'objectif de sécurité juridique poursuivi et les exigences de bonne administration, les critères permettant de définir les entreprises ou les catégories d'entreprises susceptibles de bénéficier de ce dispositif, en fonction notamment de leur taille, du caractère innovant ou complexe de leur activité ainsi que des enjeux fiscaux significatifs de leurs opérations.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+I.-Le chapitre V du titre Ier du livre Ier de la huitième partie du code du travail est ainsi modifié :
+1° Au premier alinéa de l'article L. 8115-1, après le mot : « pénales, », sont insérés les mots : « soit adresser à l'employeur un avertissement, soit » ;
+2° L'article L. 8115-3 est ainsi modifié :
+a) Le second alinéa est complété par les mots : « de même nature » ;
+b) Il est ajouté un alinéa ainsi rédigé :
+« Il est majoré de 50 % en cas de nouveau manquement constaté dans un délai d'un an à compter du jour de la notification d'un avertissement concernant un précédent manquement de même nature. » ;
+3° L'article L. 8115-4 est ainsi rédigé :
+
+« Art. L. 8115-4.-Pour déterminer si elle prononce un avertissement ou une amende et, le cas échéant, pour fixer le montant de cette dernière, l'autorité administrative prend en compte les circonstances et la gravité du manquement, le comportement de son auteur, notamment sa bonne foi, ainsi que ses ressources et ses charges. » ;
+
+4° A l'article L. 8115-6, les mots : « l'amende est prononcée » sont remplacés par les mots : « un avertissement ou une amende est prononcé ».
+II.-Le 3° de l'article L. 1242-2 du code du travail est complété par une phrase ainsi rédigée : « Lorsque la durée du contrat de travail est inférieure à un mois, un seul bulletin de paie est émis par l'employeur ; ».
+Au chapitre Ier du titre II du livre Ier de la huitième partie du code du travail, il est ajouté un article L. 8121-1 ainsi rédigé :
+
+« Art. L. 8121-1.-L'autorité centrale de l'inspection du travail prévue par la convention n° 81 de l'Organisation internationale du travail du 11 juillet 1947 sur l'inspection du travail ainsi que par la convention n° 129 de l'Organisation internationale du travail du 25 juin 1969 sur l'inspection du travail veille au respect des droits, garanties et obligations des agents de l'inspection du travail placés sous sa surveillance et son contrôle. Elle détermine les règles qui encadrent l'exercice des missions et s'assure de leur respect. Elle veille à l'application du code de déontologie du service public de l'inspection du travail prévu par l'article L. 8124-1. »
+
+### Chapitre II : Une administration qui s'engage
+I.-L'article L. 312-2 du code des relations entre le public et l'administration est ainsi modifié :
+1° Le premier alinéa est complété par une phrase ainsi rédigée : « Les instructions et circulaires sont réputées abrogées si elles n'ont pas été publiées, dans des conditions et selon des modalités fixées par décret. » ;
+2° Au second alinéa, après le mot : « les », il est inséré le mot : « autres ».
+II.-Après l'article L. 312-2 du code des relations entre le public et l'administration, il est inséré un article L. 312-3 ainsi rédigé :
+
+« Art. L. 312-3.-Toute personne peut se prévaloir des documents administratifs mentionnés au premier alinéa de l'article L. 312-2, émanant des administrations centrales et déconcentrées de l'Etat et publiés sur des sites internet désignés par décret.
+« Toute personne peut se prévaloir de l'interprétation d'une règle, même erronée, opérée par ces documents pour son application à une situation qui n'affecte pas des tiers, tant que cette interprétation n'a pas été modifiée.
+« Les dispositions du présent article ne peuvent pas faire obstacle à l'application des dispositions législatives ou réglementaires préservant directement la santé publique, la sécurité des personnes et des biens ou l'environnement. »
+
+III.-Les articles L. 552-8, L. 562-8 et L. 574-1 du code des relations entre le public et l'administration sont ainsi modifiés :
+1° A la neuvième ligne de la seconde colonne du tableau du second alinéa, la référence : « l'ordonnance n° 2015-1341 » est remplacée par la référence : « la loi n° : 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance » ;
+2° Après la même neuvième ligne, est insérée une ligne ainsi rédigée :
+
+«
+
+L. 312-3
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+
+».
+I.-Le code de l'urbanisme est ainsi modifié :
+1° Après la sous-section 6 de la section 1 du chapitre Ier du titre III du livre III, est insérée une sous-section 6 bis ainsi rédigée :
+
+« Sous-section 6 bis
+« Procédure de rescrit
+
+« Art. L. 331-20-1.-Pour chaque projet supérieur à 50 000 m2 de surface taxable, lorsqu'un redevable de bonne foi, avant le dépôt de la demande d'autorisation mentionnée à l'article L. 331-6 et à partir d'une présentation écrite, précise et complète de la situation de fait, a demandé à l'administration de l'Etat chargée de l'urbanisme dans le département de prendre formellement position sur l'application à sa situation des règles de droit prévues par la présente section, l'administration répond de manière motivée dans un délai de trois mois. La réponse est opposable par le demandeur à l'administration qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que l'administration notifie au demandeur une modification de son appréciation. Le redevable ne peut présenter qu'une seule demande pour son projet. » ;
+
+2° La sous-section 4 de la section 2 du même chapitre Ier est complétée par un article L. 331-40-1 ainsi rédigé :
+
+« Art. L. 331-40-1.-Sans préjudice de l'article L. 331-40 et dans les conditions prévues à la première phrase du premier alinéa du même article L. 331-40, un contribuable de bonne foi peut demander à l'administration de l'Etat chargée de l'urbanisme dans le département de prendre formellement position sur l'application à sa situation des règles de droit prévues par la présente section. L'administration répond de manière motivée dans un délai de trois mois. La réponse est opposable par le demandeur à l'administration qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que l'administration notifie au demandeur une modification de son appréciation. » ;
+
+3° Après la section 7 du chapitre unique du titre II du livre V, est insérée une section 7 bis ainsi rédigée :
+
+« Section 7 bis
+« Procédure de rescrit
+
+« Art. L. 520-13-1.-Pour chaque projet supérieur à 50 000 m2 de surface de construction définie à l'article L. 331-10, lorsqu'un contribuable de bonne foi, avant le dépôt de la demande d'autorisation mentionnée à l'article L. 520-4 ou, à défaut, le début des travaux ou le changement d'usage des locaux et à partir d'une présentation écrite, précise et complète de la situation de fait, a demandé à l'administration de l'Etat chargée de l'urbanisme dans le département de prendre formellement position sur l'application à sa situation des règles de droit prévues au présent chapitre, l'administration répond de manière motivée dans un délai de trois mois. La réponse est opposable par le demandeur à l'administration qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que l'administration notifie au demandeur une modification de son appréciation. Le redevable ne peut présenter qu'une seule demande pour son projet. »
+
+II.-L'article L. 213-10 du code de l'environnement est complété par un alinéa ainsi rédigé :
+« Lorsqu'un redevable de bonne foi, à partir d'une présentation écrite, précise et complète de la situation de fait, a demandé à l'agence de l'eau de prendre formellement position sur l'application à sa situation des règles de droit prévues à la présente sous-section, l'agence répond de manière motivée dans un délai de trois mois. La réponse est opposable par le demandeur à l'agence qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que l'agence notifie au demandeur une modification de son appréciation. »
+III.-Le code du patrimoine est ainsi modifié :
+1° Après l'article L. 212-1, il est inséré un article L. 212-1-1 ainsi rédigé :
+
+« Art. L. 212-1-1.-Lorsqu'une personne de bonne foi, à partir de la présentation écrite, précise et complète de l'origine de propriété et de l'archive originale, demande à l'administration des archives de prendre formellement position sur la nature d'archive privée n'appartenant pas au domaine public d'une archive qu'elle détient, l'administration des archives répond de manière motivée dans un délai de trois mois. La réponse est opposable par le demandeur au service qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que le service notifie au demandeur une modification de son appréciation. » ;
+
+2° Après l'article L. 524-7, il est inséré un article L. 524-7-1 ainsi rédigé :
+
+« Art. L. 524-7-1.-Pour chaque projet supérieur à 50 000 m2 de surface taxable, lorsqu'un redevable de bonne foi, à partir d'une présentation écrite, précise et complète de la situation de fait, a demandé aux services de l'Etat chargés d'établir la redevance d'archéologie préventive de prendre formellement position sur l'application à sa situation des règles de droit prévues au présent chapitre, l'administration répond de manière motivée dans un délai de trois mois. La réponse est opposable par le demandeur au service qui l'a émise jusqu'à ce que survienne un changement de fait ou de droit qui en affecte la validité ou jusqu'à ce que le service notifie au demandeur une modification de son appréciation. Le redevable ne peut présenter qu'une seule demande pour son projet. »
+
+IV.-Après l'article L. 124-8 du code de l'éducation, il est inséré un article L. 124-8-1 ainsi rédigé :
+
+« Art. L. 124-8-1.-L'autorité administrative se prononce de manière explicite sur toute demande précise et circonstanciée d'un organisme d'accueil ayant pour objet de connaître les modalités de prise en compte des effectifs servant de base au calcul du plafond de stagiaires autorisés.
+« La demande mentionnée au premier alinéa n'est pas recevable dès lors que les services chargés de l'application de la législation du travail ont engagé un contrôle sur le respect des dispositions de l'article L. 124-8.
+« La réponse de l'autorité administrative ne s'applique qu'à l'organisme d'accueil demandeur et est opposable pour l'avenir à l'autorité administrative tant que la situation de fait exposée dans la demande ou la législation au regard de laquelle la situation a été appréciée n'ont pas été modifiées ou jusqu'à ce que l'autorité administrative notifie au demandeur une modification de son appréciation. »
+
+V.-Le code du travail est ainsi modifié :
+1° Après l'article L. 1322-1, il est inséré un article L. 1322-1-1 ainsi rédigé :
+
+« Art. L. 1322-1-1.-L'inspecteur du travail se prononce de manière explicite sur toute demande d'appréciation de la conformité de tout ou partie d'un règlement intérieur aux dispositions des articles L. 1321-1 à L. 1321-3 et L. 1321-6 formulée par un employeur.
+« La demande mentionnée au premier alinéa n'est pas recevable dès lors que l'autorité administrative s'est déjà prononcée par une décision expresse en application de l'article L. 1322-2.
+« La décision prend effet dans le périmètre d'application du règlement intérieur concerné et est opposable pour l'avenir à l'autorité administrative tant que la situation de fait exposée dans la demande ou la législation au regard de laquelle la situation a été appréciée n'ont pas été modifiées ou jusqu'à ce que l'inspecteur du travail notifie au demandeur une modification de son appréciation.
+« La décision de l'inspecteur du travail est motivée. Elle est notifiée à l'employeur et communiquée, pour information, aux membres du comité social et économique.
+« La décision de l'inspecteur du travail peut faire l'objet d'un recours hiérarchique, dans des conditions définies par voie réglementaire.
+« La décision prise sur ce recours est notifiée à l'employeur et communiquée, pour information, aux membres du comité social et économique. » ;
+
+2° Après l'article L. 5312-12-1, il est inséré un article L. 5312-12-2 ainsi rédigé :
+
+« Art. L. 5312-12-2.-Pôle emploi se prononce de manière explicite sur toute demande d'un employeur concernant un de ses mandataires sociaux ou d'une personne titulaire d'un mandat social ayant pour objet de déterminer son assujettissement à l'obligation d'assurance contre le risque de privation d'emploi prévue à l'article L. 5422-13.
+« La décision ne s'applique qu'à la personne objet de cette demande et est opposable pour l'avenir à son employeur, à Pôle emploi et aux organismes en charge du recouvrement des contributions d'assurance chômage tant que la situation de fait exposée dans la demande ou la législation au regard de laquelle la situation a été appréciée n'a pas été modifiée.
+« Pour toute la période couverte par une décision explicite de Pôle emploi concluant au non-assujettissement à l'obligation d'assurance, il ne peut être procédé à la mise en œuvre d'une action, d'une poursuite ou d'un recouvrement prévu à l'article L. 5422-16.
+« Lorsque Pôle emploi entend modifier pour l'avenir sa réponse, il en informe le demandeur selon des conditions et des modalités fixées par décret en Conseil d'Etat. » ;
+
+3° Le chapitre unique du titre IX du livre II de la huitième partie est complété par un article L. 8291-3 ainsi rédigé :
+
+« Art. L. 8291-3.-L'autorité administrative se prononce sur toute demande d'un employeur portant sur l'application à sa situation des dispositions du présent titre. La demande doit poser une question précise, nouvelle et présenter un caractère sérieux.
+« La demande mentionnée au premier alinéa n'est pas recevable dès lors qu'un agent de contrôle de l'inspection du travail a engagé un contrôle sur le respect des dispositions de l'article L. 8291-1.
+« La décision de l'autorité administrative est opposable pour l'avenir à l'ensemble des agents de l'administration du travail ainsi qu'aux agents mentionnés au 3° de l'article L. 8271-1-2 tant que la situation de fait exposée dans la demande ou la législation au regard de laquelle la situation a été appréciée n'ont pas été modifiées ou jusqu'à ce que l'autorité administrative notifie au demandeur une modification de son appréciation.
+« La demande mentionnée au premier alinéa du présent article peut être adressée par une organisation professionnelle d'employeurs représentative au niveau de la branche professionnelle. »
+
+VI.-Après l'article L. 441-6-1 du code de commerce, il est inséré un article L. 441-6-2 ainsi rédigé :
+
+« Art. L. 441-6-2.-I.-Tout professionnel opérant dans un secteur économique mentionné au III du présent article peut demander à l'autorité administrative chargée de la concurrence et de la consommation de prendre formellement position sur la conformité au neuvième alinéa du I de l'article L. 441-6 des modalités de computation des délais de paiement qu'il envisage de mettre en place.
+« Cette prise de position formelle a pour objet de prémunir ce professionnel d'un changement d'appréciation de l'autorité administrative qui serait de nature à l'exposer à la sanction administrative prévue au VI du même article L. 441-6.
+« II.-La validité de la prise de position mentionnée au I prend fin à compter de la date à laquelle :
+« 1° La situation du professionnel n'est plus identique à celle présentée dans sa demande ;
+« 2° Est entrée en vigueur une modification de dispositions législatives ou réglementaires de nature à affecter cette validité ;
+« 3° L'autorité administrative notifie au professionnel, après l'avoir préalablement informé, la modification de son appréciation.
+« III.-Un décret en Conseil d'Etat précise les secteurs économiques mentionnés au I dans lesquels se posent des difficultés particulières en matière de délais de paiement appréciées en fonction du nombre et de la gravité des incidents de paiement qui y sont constatés et de leur impact économique sur les secteurs concernés ou de la nature et de la récurrence des difficultés d'interprétation qu'y font naître les règles relatives aux délais de paiement. »
+
+VII.-La section 3 du chapitre VII du titre Ier du livre II du code de la consommation est complétée par un article L. 217-16-1 ainsi rédigé :
+
+« Art. L. 217-16-1.-I.-Tout professionnel opérant dans un secteur économique mentionné au III du présent article peut demander à l'autorité administrative chargée de la concurrence et de la consommation de prendre formellement position sur la conformité à l'article L. 217-15 du contrat de garantie commerciale qu'il envisage de mettre en place.
+« Cette prise de position formelle a pour objet de prémunir ce professionnel d'un changement d'appréciation de l'autorité administrative qui serait de nature à l'exposer à la sanction administrative prévue à l'article L. 241-6.
+« II.-La validité de la prise de position mentionnée au I prend fin à compter de la date à laquelle :
+« 1° La situation du professionnel n'est plus identique à celle présentée dans sa demande ;
+« 2° Est entrée en vigueur une modification de dispositions législatives ou réglementaires de nature à affecter cette validité ;
+« 3° L'autorité administrative notifie au professionnel, après l'avoir préalablement informé, la modification de son appréciation.
+« III.-Un décret en Conseil d'Etat précise les secteurs économiques mentionnés au I, dans lesquels se posent des difficultés particulières en matière de garantie commerciale appréciées en fonction de l'importance des manquements et des plaintes qui y sont constatés, de l'importance du surcoût supporté par les consommateurs lié à la garantie commerciale ou de la nature et de la récurrence des difficultés d'interprétation qu'y font naître les règles relatives aux garanties commerciales. »
+
+VIII.-Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment le contenu, les modalités de dépôt et d'avis de réception des demandes ainsi que les conditions et délais dans lesquels il y est répondu.
+A titre expérimental, pour certaines des procédures de rescrit mentionnées à l'article 21, le demandeur peut joindre à sa demande un projet de prise de position. Celui-ci est réputé approuvé en l'absence de réponse de l'administration dans un délai de trois mois à compter de la réception de la demande.
+L'expérimentation est mise en œuvre pour une durée de trois ans à compter de la publication du décret mentionné au dernier alinéa du présent article. Elle fait l'objet d'une évaluation dont les résultats sont présentés au Parlement.
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+I.-Le chapitre IV du titre Ier du livre Ier du code des relations entre le public et l'administration est complété par une section 5 ainsi rédigée :
+
+« Section 5
+« Certificat d'information
+
+« Art. L. 114-11.-Tout usager peut obtenir, préalablement à l'exercice de certaines activités, une information sur l'existence et le contenu des règles régissant cette activité.
+« L'administration saisie délivre à l'usager mentionné au premier alinéa un certificat d'information sur l'ensemble des règles qu'elle a mission d'appliquer. Toute information incomplète ou erronée figurant dans le certificat à l'origine d'un préjudice pour l'usager engage la responsabilité de l'administration.
+« Un décret dresse la liste des activités mentionnées au même premier alinéa, le délai de délivrance du certificat d'information, qui ne saurait être supérieur à cinq mois ainsi que ses conditions et modalités de délivrance. »
+
+II.-Après la neuvième ligne du tableau du second alinéa des articles L. 552-3, L. 562-3 et L. 572-1 du code des relations entre le public et l'administration, est insérée une ligne ainsi rédigée :
+
+«
+
+L. 114-11
+Résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance
+
+».
+Le chapitre III du titre II du livre IV du code des relations entre le public et l'administration est complété par un article L. 423-2 ainsi rédigé :
+
+« Art. L. 423-2.-Lorsqu'une administration de l'Etat souhaite transiger, le principe du recours à la transaction et le montant de celle-ci peuvent être préalablement soumis à l'avis d'un comité dont la composition est précisée par décret en Conseil d'Etat. L'avis du comité est obligatoire lorsque le montant en cause dépasse un seuil précisé par le même décret.
+« A l'exception de sa responsabilité pénale, la responsabilité personnelle du signataire de la transaction ne peut être mise en cause à raison du principe du recours à la transaction et de ses montants, lorsque celle-ci a suivi l'avis du comité. »
+A la fin du second alinéa du II de l'article L. 59 A du livre des procédures fiscales, les mots : « des travaux immobiliers » sont remplacés par les mots : « ou d'immobilisation ».
+I.-Les II à IV de l'article 345 bis du code des douanes sont ainsi rédigés :
+« II.-La garantie prévue au I est également applicable lorsque l'administration a formellement pris position sur l'appréciation d'une situation de fait au regard d'un texte fiscal ; l'administration se prononce dans un délai de trois mois lorsqu'elle est saisie d'une demande écrite, précise et complète par un redevable de bonne foi.
+« Lorsque l'administration a pris formellement position à la suite de la demande de ce redevable en application du premier alinéa du présent II, ce dernier peut saisir l'administration dans un délai de deux mois pour solliciter un second examen de sa demande, à la condition qu'il n'invoque pas d'éléments nouveaux.
+« Lorsqu'elle est saisie d'une demande de second examen, auquel elle procède de manière collégiale, l'administration répond selon les mêmes règles et délais que ceux applicables à la demande initiale, décomptés à partir de la réception de la nouvelle saisine.
+« A sa demande, le redevable ou son représentant est entendu par le collège.
+« La garantie prévue au I est également applicable lorsque, dans le cadre d'un contrôle ou d'une enquête effectués par l'administration, et sur demande écrite du redevable présentée conformément au premier alinéa du présent II, avant la notification de l'information ou de la proposition de taxation mentionnées aux articles 67 B et 67 D, l'administration a formellement pris position sur un point qu'elle a examiné au cours du contrôle.
+« Un décret en Conseil d'Etat précise les modalités d'application du présent II, notamment le contenu, le lieu et les modalités de dépôt de la demande du redevable.
+« III.-La garantie prévue au I est applicable lorsque, dans le cadre d'un contrôle ou d'une enquête et dès lors qu'elle a pu se prononcer en toute connaissance de cause, l'administration a pris position sur les points examinés lors du contrôle ou de l'enquête, lesquels sont communiqués au contribuable, selon les modalités fixées aux articles 67 B à 67 D-4, y compris s'ils ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul de l'impôt.
+« IV.-Les I à III du présent article ne sont pas applicables lorsque les instructions ou circulaires ou la demande d'un redevable portent sur l'application du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union et de ses règlements d'application. »
+II.-A la fin de l'article 2 de l'ordonnance n° 2008-860 du 28 août 2008 relative à l'adaptation de la législation douanière applicable à Mayotte et à Saint-Pierre-et-Miquelon, les références : « ses III et IV » sont remplacées par la référence : « son IV ».
+III.-L'article 11 de l'ordonnance n° 2009-799 du 24 juin 2009 portant actualisation et adaptation de la législation financière et de la législation douanière applicables en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna, à Saint-Pierre-et-Miquelon et à Mayotte est complété par un III ainsi rédigé :
+« III.-L'article 345 bis du code des douanes, à l'exception du IV, est applicable dans les îles Wallis et Futuna dans sa rédaction résultant de la loi n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance. »
+IV.-Le 11° de l'article 6 de l'ordonnance n° 2011-1920 du 22 décembre 2011 portant adaptation du code monétaire et financier et du code des douanes à la suite du changement de statut de la collectivité de Saint-Barthélemy vis-à-vis de l'Union européenne est ainsi rédigé :
+« 11° Le IV de l'article 345 bis n'est pas applicable ; ».
+V.-Les I à IV s'appliquent aux demandes de rescrit présentées à l'administration à compter de la publication de la présente loi.
+L'article 67 B du code des douanes est complété par un alinéa ainsi rédigé :
+« Il est également informé des points qui, ayant fait l'objet d'un examen par l'administration dans les conditions prévues à l'avant-dernier alinéa du II et au III de l'article 345 bis, ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul des droits et taxes exigibles. »
+
+### Chapitre III : Une administration qui dialogue
+A compter du 1er janvier 2021, les administrations au sens du 1° de l'article L. 100-3 du code des relations entre le public et l'administration, à l'exception des collectivités territoriales et de leurs établissements publics, ne peuvent recourir à un numéro téléphonique surtaxé dans leurs relations avec le public au sens du 2° du même article L. 100-3.
+A titre expérimental, les administrations, les établissements publics de l'Etat et les organismes de sécurité sociale dont la liste est fixée par décret ainsi que les collectivités territoriales, leurs groupements et les établissements publics locaux qui en font la demande peuvent instituer, pour des procédures et des dispositifs déterminés, un référent unique à même de faire traiter des demandes qui lui sont adressées pour l'ensemble des services concernés. Ce référent unique est joignable par tout moyen par les administrés au sein de l'agence ou de l'antenne dont ils dépendent.
+L'expérimentation est menée pour une durée de quatre ans à compter de la publication du décret prévu au premier alinéa et fait l'objet d'une évaluation, notamment de son impact sur les délais de traitement des demandes, dont les résultats sont transmis au Parlement.
+A titre expérimental, pour une durée de trois ans à compter de la promulgation de la présente loi, le responsable d'une maison de services au public définie à l'article 27 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations peut être désigné par certains des participants, au sens du même article 27, en tant que référent unique à même de traiter, pour des procédures et des dispositifs déterminés, les demandes qui lui sont adressées et de prendre, s'il y a lieu, les décisions correspondantes au nom de ces participants. Dans ce cas, la convention-cadre définit les décisions que le responsable de la maison de services au public peut prendre sur délégation des autorités compétentes et les modalités de désignation de celui-ci.
+L'expérimentation fait l'objet d'une évaluation dont les résultats sont transmis au Parlement.
+A titre expérimental et avec l'accord des signataires des contrats de ville concernés, dans les quartiers prioritaires de la politique de la ville définis à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine dont la liste est fixée par décret, les porteurs de projets peuvent effectuer un dépôt unique dématérialisé des demandes de concours financiers qu'ils adressent aux signataires des contrats de ville prévus à l'article 6 de la même loi.
+Les signataires des contrats de ville organisent une instruction partagée de ces demandes et prennent une décision collégiale dans le cadre de l'instance de pilotage prévue au même article 6. Ils instituent un référent unique chargé du suivi des demandes et de la coordination entre les différents services instructeurs.
+Cette expérimentation est menée pour une durée de trois ans à compter de la publication du décret prévu au premier alinéa du présent article. Elle fait l'objet d'une évaluation dont les résultats sont transmis au Parlement au plus tard six mois avant son terme.
+A titre expérimental et pour une durée de quatre ans à compter de la publication du décret prévu au dernier alinéa du présent article, dans les régions Hauts-de-France et Auvergne-Rhône-Alpes, l'ensemble des contrôles opérés par les administrations mentionnées à l'article L. 100-3 du code des relations entre le public et l'administration à l'encontre d'une entreprise de moins de deux cent cinquante salariés et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros ne peut dépasser, pour un même établissement, une durée cumulée de neuf mois sur une période de trois ans.
+Cette limitation de durée n'est pas opposable s'il existe des indices précis et concordants de manquement à une obligation légale ou réglementaire.
+Les contrôles opérés à la demande de l'entreprise concernée en application de l'article L. 124-1 du même code ne sont pas pris en compte dans le calcul de cette durée cumulée.
+Dans le cadre de cette expérimentation, une administration mentionnée à l'article L. 100-3 dudit code, lorsqu'elle engage un contrôle à l'encontre d'une entreprise, informe celle-ci, à titre indicatif, de la durée de ce contrôle et, avant le terme de la durée annoncée, de toute prolongation de celle-ci.
+Dans le cadre de cette expérimentation, une administration mentionnée au même article L. 100-3, lorsqu'elle a effectué un contrôle à l'encontre d'une entreprise, transmet à l'entreprise concernée les conclusions de ce contrôle et une attestation mentionnant le champ et la durée de celui-ci.
+Les administrations mentionnées audit article L. 100-3 s'échangent les informations utiles à la computation de la durée cumulée des contrôles entrant dans le champ de l'expérimentation sans que puisse être opposée l'obligation au secret, conformément à l'article 226-14 du code pénal.
+Ces dispositions ne sont pas applicables :
+1° Aux contrôles destinés à s'assurer du respect des règles prévues par le droit de l'Union européenne ;
+2° Aux contrôles destinés à s'assurer du respect des règles préservant directement la santé publique, la sécurité des personnes et des biens ou l'environnement ;
+3° Aux contrôles résultant de l'exécution d'un contrat ;
+4° Aux contrôles effectués par les autorités de régulation à l'égard des professionnels soumis à leur contrôle.
+L'expérimentation fait l'objet d'une évaluation, notamment de son impact sur les délais administratifs, dont les résultats sont transmis au Parlement au plus tard six mois avant son terme.
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+I. - L'article L. 243-13 du code de la sécurité sociale est applicable à titre expérimental aux entreprises de moins de vingt salariés pour une durée de trois ans à compter de la publication de la présente loi.
+II. - Le présent article s'applique aux contrôles engagés à compter du lendemain de la publication de la présente loi.
+III. - L'expérimentation fait l'objet d'une évaluation dont les résultats sont transmis au Parlement au plus tard six mois avant son terme.
+I.-Après la section 4 du chapitre VII du titre Ier du livre II du code de la sécurité sociale, est insérée une section 4 bis ainsi rédigée :
+
+« Section 4 bis
+« Médiation
+
+« Art. L. 217-7-1.-I.-Les réclamations concernant les relations entre un organisme de sécurité sociale relevant du présent livre et ses usagers peuvent être présentées, sans préjudice des voies de recours existantes, devant le médiateur de l'organisme concerné.
+« Le médiateur est désigné par le directeur de l'organisme. Il exerce ses fonctions en toute impartialité et dans le respect de la confidentialité des informations dont il a à connaître.
+« Il formule auprès du directeur ou des services de l'organisme des recommandations pour le traitement de ces réclamations, dans le respect des dispositions législatives et réglementaires en vigueur.
+« II.-Toute réclamation mentionnée au I ne peut être traitée par le médiateur que si elle a été précédée d'une démarche du demandeur auprès des services concernés de l'organisme et si aucun recours contentieux n'a été formé. L'engagement d'un recours contentieux met fin à la médiation.
+« L'engagement de la procédure de médiation suspend, à compter de la notification portant sur la recevabilité de la réclamation soumise au médiateur et jusqu'à ce que celui-ci ait communiqué ses recommandations aux deux parties, les délais de recours prévus pour ces réclamations.
+« III.-Un médiateur national est désigné, pour chacune des caisses nationales mentionnées au présent livre, par le directeur de la caisse nationale, après consultation du président du conseil ou du conseil d'administration.
+« Le médiateur national évalue la médiation dans l'ensemble de la branche concernée, notamment par la réalisation d'un rapport annuel. Ce rapport formule des recommandations pour améliorer le traitement des réclamations et propose, le cas échéant, des modifications de la réglementation. Le rapport est présenté au conseil ou au conseil d'administration de la caisse nationale et transmis au Défenseur des droits.
+« IV.-Le conciliateur mentionné à l'article L. 162-15-4 exerce les attributions prévues au I du présent article. Le II est applicable aux réclamations qui lui sont présentées.
+« V.-Lorsque la réclamation mentionnée au I du présent article concerne le montant des cotisations dues par les travailleurs indépendants non agricoles en application de l'article L. 131-6, l'organisme chargé du recouvrement de celles-ci transmet à l'usager, à sa demande ou à celle du médiateur, les modalités de calcul retenues dans des conditions fixées par décret.
+« VI.-Un décret précise les garanties encadrant l'exercice de la médiation prévue au I, notamment en matière de formation préalable, de compétences requises, d'indépendance, d'impartialité et de confidentialité dans le traitement des réclamations et dans la formulation de ses recommandations. »
+
+II.-Le V de l'article L. 217-7-1 du code de la sécurité sociale entre en vigueur le 1er janvier 2020.
+I.-Le paragraphe 2 de la sous-section 3 de la section 2 du chapitre III du titre II du livre VII du code rural et de la pêche maritime est complété par un article L. 723-34-1 ainsi rédigé :
+
+« Art. L. 723-34-1.-Un médiateur est désigné pour une durée de trois ans, renouvelable une fois, par le conseil central d'administration de la mutualité sociale agricole.
+« Il rend un avis sur les réclamations dont il est saisi par tout assuré dont le recours a été rejeté par l'organisme de mutualité sociale agricole auquel il est affilié. Il propose des modifications de la réglementation et présente un rapport annuel au conseil central d'administration de la mutualité sociale agricole qui est transmis au Défenseur des droits.
+« L'engagement de la procédure de médiation suspend, le cas échéant à compter de la notification portant sur la recevabilité de la réclamation soumise au médiateur et jusqu'à ce que celui-ci ait communiqué ses recommandations aux deux parties, les délais de recours prévus pour les réclamations relevant de l'article L. 142-2 du code de la sécurité sociale.
+« L'engagement de la procédure prévue au même article L. 142-2 met fin à la médiation. »
+
+II.-A compter de l'entrée en vigueur de l'article 12 de la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle, l'article L. 723-34-1 du code rural et de la pêche maritime, tel qu'il résulte du I du présent article, est ainsi modifié :
+1° A la fin du troisième alinéa, les mots : « prévus pour les réclamations relevant de l'article L. 142-2 du code de la sécurité sociale » sont remplacés par les mots : « contentieux prévus pour ces réclamations » ;
+2° Au début du dernier alinéa, les mots : « L'engagement de la procédure prévue au même article L. 142-2 » sont remplacés par les mots : « La formation d'un recours contentieux ».
+Sans préjudice des dispositifs particuliers qui peuvent être sollicités par les entreprises, il est créé, à titre expérimental et pour une durée de trois ans à compter de la publication du décret prévu au deuxième alinéa du présent article, un dispositif de médiation visant à résoudre les différends entre, d'une part, les entreprises et, d'autre part, les administrations et les établissements publics de l'Etat, les collectivités territoriales et les organismes de sécurité sociale. Cette médiation respecte les règles relatives aux délais de recours et de prescription prévues à l'article L. 213-6 du code de justice administrative.
+Un décret fixe les modalités de cette expérimentation, en particulier les régions où elle est mise en œuvre et les secteurs économiques qu'elle concerne.
+L'expérimentation fait l'objet d'une évaluation dont les résultats sont transmis au Parlement.
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de douze mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi et visant à :
+1° Permettre aux bénéficiaires des prestations sociales et des minima sociaux d'exercer, à l'occasion de la notification des indus qui leur est faite et préalablement à l'engagement d'un recouvrement ou d'un recours gracieux, un droit de rectification des informations les concernant lorsque ces informations ont une incidence sur le montant de ces indus ;
+2° Harmoniser et modifier les règles relatives au contenu des notifications d'indus afin d'y inclure la possibilité d'exercer le droit à rectification mentionné au 1° et d'en faciliter la compréhension par les bénéficiaires.
+Ces mesures ne peuvent faire obstacle à ce que, après l'exercice du droit de rectification, les sommes indues soient ensuite recouvrées dans les délais et selon les procédures prévus par les dispositions en vigueur.
+II. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication des ordonnances.
+I.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de six mois à compter de la promulgation de la présente loi, toute mesure relevant du domaine de la loi nécessaire pour prévoir, à titre expérimental et pour une durée de trois ans :
+1° Les conditions dans lesquelles des établissements du réseau des chambres d'agriculture assurent, au bénéfice des exploitants agricoles, une mission d'information sur la réglementation nationale et européenne qui leur est applicable et sur les contrôles susceptibles d'être réalisés à ce titre, d'appui au dépôt des demandes d'aides par ces exploitants et d'assistance à leur mise en conformité avec la réglementation ;
+2° Les conditions dans lesquelles les chambres régionales d'agriculture qui le souhaitent exercent à titre exclusif, en lieu et place des autres établissements du réseau de leur circonscription, tout ou partie des missions attribuées à ceux-ci ;
+3° Le transfert aux chambres régionales d'agriculture, ou la mise à la disposition de ces dernières, de personnels employés par d'autres établissements du réseau de leur circonscription.
+L'expérimentation peut être restreinte à certaines régions ou certains départements.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+II.-Après l'article L. 512-1 du code rural et de la pêche maritime, il est inséré un article L. 512-1-1 ainsi rédigé :
+
+« Art. L. 512-1-1.-La chambre régionale d'agriculture exerce également, au bénéfice des chambres départementales de sa circonscription et conformément aux orientations fixées par l'Assemblée permanente des chambres d'agriculture, les missions suivantes :
+« 1° Elle analyse les politiques publiques qui relèvent de leurs missions et participe à leur élaboration, leur suivi et leur évaluation ;
+« 2° Elle réalise un suivi des marchés agricoles ainsi que des études économiques et prospectives ;
+« 3° Elle élabore, coordonne et promeut une offre de formation adaptée, axée notamment sur la triple performance économique, sociale et environnementale des exploitations agricoles et de leurs filières ;
+« 4° Elle met au point des prestations certifiées et des outils performants couvrant les domaines technique, économique, environnemental, réglementaire et stratégique ;
+« 5° Elle promeut la création et la reprise d'entreprises agricoles en encourageant les projets agroécologiques. »
+I.-Le code de l'environnement est ainsi modifié :
+1° Le second alinéa de l'article L. 172-16 est complété par une phrase ainsi rédigée : « Sauf instruction contraire du procureur de la République, une copie du procès-verbal de constatation de l'infraction est également transmise au contrevenant, lorsqu'il est connu, dans un délai fixé par décret en Conseil d'Etat. » ;
+2° L'article L. 521-16 est ainsi modifié :
+a) Le premier alinéa est supprimé ;
+b) La première phrase du second alinéa est complétée par les mots : « aux dispositions du présent chapitre » ;
+3° L'article L. 571-20 est abrogé.
+II.-Le quatrième alinéa de l'article L. 161-12 du code forestier est complété par une phrase ainsi rédigée : « Sauf instruction contraire du procureur de la République, une copie du procès-verbal est également transmise au contrevenant, lorsqu'il est connu, dans un délai fixé par décret en Conseil d'Etat. »

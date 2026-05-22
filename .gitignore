@@ -27,6 +27,8 @@ french_deputies/lois_votes/votes_rd/*.json.zip
 french_deputies/lois_votes/votes_rd/json/
 french_deputies/lois_votes/votes_rd/Dossiers_Legislatifs_XV.json
 french_deputies/lois_votes/votes_rd/Scrutins_XV.json
+french_deputies/lois_votes/votes_rd/Amendements/
+french_deputies/lois_votes/votes_rd/processed/amendements_textos.csv
 
 # Credenciales PISTE (NO subir secretos al repo)
 french_deputies/lois_votes/.env

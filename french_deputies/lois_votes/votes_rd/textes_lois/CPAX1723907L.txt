@@ -1,0 +1,2573 @@
+LOI | NOR: CPAX1723907L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont délibéré,
+L'Assemblée nationale a adopté,
+Vu la décision du Conseil constitutionnel n° 2017-760 DC du 19 janvier 2018 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2018-32 du 22 janvier 2018 de programmation des finances publiques pour les années 2018 à 2022 (1)
+
+## Annexe
+Annexes
+Annexe 1. Principales définitions
+
+La notion d'administrations publiques (APU) est celle définie à l'article 2 du protocole n° 12 sur la procédure concernant les déficits excessifs, annexé aux traités européens, c'est-à-dire « les administrations centrales, les autorités régionales ou locales et les fonds de sécurité sociale, à l'exclusion des opérations commerciales, telles que définies dans le système européen de comptes économiques intégrés ». La méthodologie en vigueur actuellement est celle du système européen des comptes 2010 (SEC 2010) publié dans le règlement n° 549/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au système européen des comptes nationaux et régionaux dans l'Union européenne.
+La notion de prélèvements obligatoires (PO) a été initialement proposée par l'Organisation de coopération et de développement économiques (OCDE) et repose sur trois critères : les flux doivent correspondre à des versements effectifs, les destinataires de ces flux doivent être les APU et, enfin, ces versements doivent avoir un caractère « non volontaire » (absence de choix du montant et des conditions de versement, inexistence de contreparties immédiates). Au sein de l'Union européenne, les notions d'impôts et de cotisations sociales sont définies selon des critères précis et contraignants pour les Etats membres. En France, c'est l'Institut national de la statistique et des études économiques (INSEE) qui est en charge du classement d'un prélèvement dans la catégorie des PO. La notion de mesures nouvelles en prélèvements obligatoires, qui correspond à l'effort en recettes, s'entend comme les mesures sociales et fiscales nouvelles décidées ou mises en œuvre par les APU, votées par le Parlement ou prises par voie réglementaire, qui font évoluer les prélèvements obligatoires (y compris impact des crédits d'impôt).
+Afin de se prémunir des effets du cycle économique, et d'éviter les effets procycliques d'un pilotage par le solde public nominal (c'est-à-dire éviter une politique budgétaire expansionniste lorsque la conjoncture est favorable et que les recettes fiscales sont dynamiques, et inversement une politique restrictive en bas de cycle), les Etats de l'Union signataires du traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire (TSCG) ont mis en place des règles ancrées sur le solde structurel par sous-secteur (c'est-à-dire le solde public corrigé des variations conjoncturelles et net des mesures ponctuelles et temporaires - cf. infra).
+La règle d'équilibre est considérée comme respectée si le solde structurel annuel correspond à l'objectif à moyen terme (OMT). Chaque Etat membre fixe dans son programme de stabilité cet OMT, qui doit respecter une limite supérieure de déficit structurel de 0,5 %, ou de 1 % pour les Etats dont le ratio d'endettement est sensiblement inférieur à la valeur de référence de 60 % du produit intérieur brut (PIB) et dont les risques sur la soutenabilité des finances publiques sont faibles. En droit interne français, l'OMT est fixé par la loi de programmation des finances publiques (LPFP). Le Conseil examine l'OMT dans le cadre de l'examen du programme de stabilité ainsi que la trajectoire d'ajustement vers cet objectif. Par ailleurs, conformément à l'article 2 bis du règlement (CE) n° 1466/1997 du Conseil, du 7 juillet 1997, précité, l'OMT est fixé à un niveau de solde structurel qui garantit « la soutenabilité des finances publiques ou une progression rapide vers leur soutenabilité, tout en autorisant une marge de manœuvre budgétaire, en tenant compte notamment des besoins en investissements publics ». Le code de conduite pour l'application du pacte de stabilité et de croissance précise que l'objectif de moyen terme est différencié selon les Etats membres pour prendre en compte la diversité des situations économiques (notamment la volatilité de l'écart de production) et de finances publiques et les risques liés à la soutenabilité (en particulier le niveau de la dette et l'évolution des dépenses futures liées au vieillissement). L'OMT fixé par la France dans la présente loi de programmation est défini à l'article 2 de cette même loi.
+Le solde structurel vise à séparer la partie du solde public qui dépend directement de la conjoncture de celle qui en est indépendante. Ainsi, le calcul du solde structurel repose sur la définition du cycle économique, et donc de l'écart du PIB effectif au PIB potentiel, appelé écart de production. Chaque année, le solde public peut se décomposer en : (1) une composante conjoncturelle qui reflète donc l'impact de la position dans le cycle sur les postes de recettes et de dépenses qui en sont affectés ; (2) des mesures ponctuelles et temporaires (one-offs), qui, parce qu'elles n'affectent pas le déficit durablement, sont exclues de l'évaluation du solde structurel (cf. annexe 5) ; et (3) de la composante structurelle (cf. encadré infra).
+Les évaluations du solde structurel et des efforts structurels nécessitent l'estimation de l'« activité potentielle » (ou PIB potentiel) de l'économie française : il s'agit du niveau d'activité qui serait observée en l'absence de tensions sur l'utilisation des capacités de production, et qui correspond par conséquent à une croissance tendancielle qui n'est pas sujette aux fluctuations du cycle économique. Elle est estimée à partir d'une projection des gains tendanciels de productivité et de l'offre potentielle de travail, cette dernière dépendant de la démographie, des taux d'activité et du chômage structurel. Le terme « croissance potentielle » désigne l'évolution de l'activité potentielle.
+L'ajustement structurel (défini comme la variation du solde structurel) n'est cependant pas entièrement de nature discrétionnaire. Certains éléments échappent en effet au contrôle direct du Gouvernement et du Parlement comme les sur-réactions des recettes à l'évolution du PIB ainsi que l'évolution des recettes non fiscales (comme les dividendes). Dans le détail, l'ajustement structurel se décompose en un effort en recettes, un effort en dépense, la contribution de la clé en crédits d'impôt et une composante non discrétionnaire.
+L'effort en recettes est défini comme le montant des mesures nouvelles en prélèvements obligatoires (hors mesures ponctuelles et temporaires). La définition de l'effort en recettes est inchangée par rapport à la précédente loi de programmation.
+L'effort en dépense est défini comme la contribution de l'écart entre la croissance de la dépense publique réelle (hors crédits d'impôt, mesures ponctuelles et temporaires et effets de la conjoncture sur les dépenses chômage) et la croissance potentielle de l'économie.
+Les crédits d'impôts réduisent les prélèvements obligatoires du montant de leur impact sur les recettes fiscales (c'est-à-dire des imputations et restitutions effectivement consenties aux entreprises et aux ménages), mais contribuent au solde public au niveau de la créance acquise par les contribuables, suivant une logique de « droits constatés ». Dès lors, afin de maintenir inchangé l'effort en recettes et sa cohérence avec le concept de taux de prélèvements obligatoires et de mesures nouvelles, ainsi que l'effort en dépense hors crédits d'impôts, un terme supplémentaire apparaît dans cette décomposition : c'est le terme de variation de l'écart entre le coût budgétaire et le coût en comptabilité nationale des crédits d'impôt restituables et reportables, c'est-à-dire en pratique le CICE et le CIR. Contrairement à la programmation précédente, la clé en crédits d'impôts est intégrée au sein de la ligne d'effort structurel dans la décomposition de l'ajustement structurel.
+La composante non discrétionnaire, hors de contrôle du Gouvernement, est définie comme l'effet du décalage observé entre les élasticités spontanées des recettes et les élasticités usuelles auquel s'ajoute l'évolution des recettes hors prélèvements obligatoires. La définition est inchangée par rapport à la précédente loi de programmation.
+L'actuelle méthodologie de calcul du solde structurel ne diffère de celle utilisée pour la précédente LPFP que par l'organisation des différents éléments dans la décomposition de l'ajustement structurel : au lieu de faire l'objet d'une ligne séparée, la clé en crédits d'impôts est maintenant intégrée dans l'effort structurel.
+
+## Annexe
+ANNEXE
+RAPPORT ANNEXÉ À LA LOI DE PROGRAMMATION DES FINANCES PUBLIQUES 2018-2022
+
+I. - Le contexte macroéconomique s'améliore, mais les finances publiques restent structurellement dégradées.
+A. - Les perspectives à court terme (2017-2018).
+B. - Les perspectives à moyen terme (2019-2022).
+II. - Dès 2018 et tout au long du quinquennat, le Gouvernement engage une transformation profonde des structures de l'action publique qui permettra le respect de nos engagements de finances publiques.
+A. - Conformément à nos engagements européens, la politique du Gouvernement vise un retour vers l'équilibre structurel et une réduction du ratio de dette publique.
+B. - Le taux de prélèvements obligatoires sera abaissé de 1 point sur le quinquennat pour favoriser la croissance et l'emploi.
+C. - Une baisse de plus de 3 points de la dépense publique à horizon 2022.
+D. - A l'horizon du quinquennat, l'effort structurel portera sur la dépense et permettra la diminution du ratio de dette publique.
+E. - Une transformation de l'action et de la gestion publique.
+III. - L'effort sera équitablement réparti entre les sous-secteurs des administrations publiques.
+A. - La trajectoire de l'Etat.
+B. - La trajectoire des organismes divers d'administration centrale.
+C. - La trajectoire des administrations de sécurité sociale.
+D. - La trajectoire des administrations publiques locales.
+E. - Si la législation et les politiques de finances publiques n'étaient pas réformées, le déficit public se résorberait plus lentement et la dette ne décroîtrait pas sur le quinquennat.
+Annexes :
+Annexe 1 : Principales définitions.
+Annexe 2 : Mode de calcul du solde structurel.
+Annexe 3 : Périmètre des mesures ponctuelles et temporaires à exclure de la mesure du solde structurel.
+Annexe 4 : Précisions méthodologiques concernant le budget quinquennal.
+Annexe 5 : Précisions méthodologiques concernant la mesure de la croissance des dépenses au sein de l'objectif national des dépenses d'assurance maladie (Ondam).
+Annexe 6 : Table de passage entre les dispositions de la loi organique relative à la programmation et à la gouvernance des finances publiques et le présent rapport annexé.
+
+I. - Le contexte macroéconomique s'améliore, mais les finances publiques restent structurellement dégradées
+A. - Les perspectives à court terme (2017-2018)
+
+L'économie française est sur une trajectoire de reprise plus vigoureuse depuis fin 2016 : la croissance s'établirait à + 1,7 % en 2017 et en 2018 (1). Alors que la crise de la dette en zone euro avait fortement pesé sur l'activité économique en 2012 et 2013, celle-ci a retrouvé un rythme de croissance plus solide, proche de 1 % entre 2014 et 2016, mais toujours modéré au regard de la croissance potentielle de l'économie française, estimée à environ 1,25 %. A partir de l'automne 2016, l'activité a accéléré pour atteindre une progression trimestrielle autour de 0,5 % au dernier trimestre 2016 et au premier semestre 2017, dans un contexte où les entreprises et les ménages sont nettement plus optimistes sur la situation et les perspectives économiques depuis le second trimestre 2017.
+L'activité serait aussi soutenue par une plus forte croissance dans les pays avancés et émergents. La demande mondiale adressée à la France accélèrerait fortement en 2017 et progresserait encore nettement en 2018 mais sans accélérer, car l'accélération de l'activité aux Etats-Unis et de l'investissement privé en Allemagne serait compensée par le ralentissement économique attendu en Chine et au Royaume-Uni. Ce regain de dynamisme extérieur se traduirait par des exportations qui croîtraient en 2017-2018 de manière plus vigoureuse qu'en 2016.
+La demande intérieure marquerait le pas en 2017 puis accélérerait en 2018 : en particulier, après un dynamisme marqué en 2016, la consommation des ménages ralentirait en 2017, en partie en raison d'un 1er trimestre décevant, lié à de faibles dépenses en énergie. L'investissement des entreprises resterait allant à horizon de la prévision, soutenu par la demande tant extérieure qu'intérieure et les mesures fiscales de Gouvernement, tandis que l'investissement des ménages serait soutenu par un contexte économique (dynamisme du pouvoir d'achat et de l'emploi) et financier favorable en dépit de la remontée des taux d'intérêt.
+Ce scénario de croissance est proche des dernières anticipations des autres prévisionnistes : l'OCDE anticipe une croissance de + 1,7 % en 2017 puis + 1,6 % en 2018 dans le rapport EDR France publié le 14 septembre. Le consensus des économistes de marché s'établit en septembre à + 1,6 % en 2017 comme en 2018. L'INSEE attendait + 1,6 % pour 2017 dans sa note de conjoncture de juin, le FMI prévoyait + 1,5 % en 2017 et + 1,7 % en 2018 dans ses prévisions de juillet, et la Banque de France tablait sur + 1,6 % les deux années en juillet. Pour sa part, la Commission européenne n'a pas encore revu sa prévision publiée au printemps dernier : + 1,4 % en 2017 puis + 1,7 % en 2018.
+Cette prévision est soumise à de nombreux aléas. L'environnement international est incertain, en particulier en ce qui concerne les négociations sur la sortie du Royaume-Uni de l'UE et l'orientation de la politique budgétaire américaine. Les évolutions du pétrole et du change sont également sources d'incertitudes. L'investissement des entreprises pourrait être moins dynamique qu'attendu, si celles-ci souhaitaient réduire leur endettement. A l'inverse, il pourrait être plus dynamique si la reprise économique était plus marquée. Le dynamisme de l'emploi et le regain de confiance des ménages pourraient soutenir la consommation plus qu'escompté. Toutefois, l'investissement des ménages pourrait être moins élevé si le ralentissement des mises en chantier observé depuis quelques mois s'accentuait.
+
+B. - Les perspectives à moyen terme (2019-2022)
+
+A moyen-terme, les projections de finances publiques reposent sur une hypothèse de stabilisation de la croissance à + 1,7 % de 2019 à 2021, puis à + 1,8 % en 2022.
+Cette projection s'appuie sur des hypothèses prudentes de croissance potentielle et d'écarts de production.
+La croissance potentielle s'établirait à 1,25 % sur 2017-2020, 1,3 % en 2021 et 1,35 % en 2022. Cette estimation est proche de celle de la Commission (voir encadré) et repose sur une tendance de la productivité plus faible qu'avant-crise, en raison notamment du ralentissement des effets du progrès technique au niveau mondial.
+La croissance potentielle augmenterait à l'horizon 2022 grâce aux effets positifs des réformes structurelles qui seront mises en œuvre lors du quinquennat, notamment pour favoriser la formation et l'apprentissage, réformer l'indemnisation du chômage, baisser le coin socio-fiscal (bascule des cotisations salariales sur la CSG), moderniser le code du travail, et soutenir l'investissement productif (abaissement de l'impôt sur les sociétés (IS) à 25 %, mise en place du prélèvement forfaitaire unique, réforme de l'impôt de solidarité sur la fortune (ISF) qui ne pèsera plus sur les valeurs mobilières) et l'innovation (pérennisation du crédit d'impôt-recherche).
+Le scénario de moyen-terme est celui d'un redressement progressif de l'écart de production, de - 1,5 % en 2016 à + 1,1 % en 2022. Après huit années d'écart de production négatif (entre 2012 et 2019), il serait positif à partir de 2020 mais resterait inférieur aux niveaux observés avant la crise de 2008-2009 ou au début des années 2000.
+Le scénario macroéconomique retenu pour la programmation pluriannuelle fait en outre l'hypothèse d'un retour progressif des prix vers des niveaux cohérents avec la cible de la Banque centrale européenne.
+
+Tableau : principales hypothèses du scénario macroéconomique 2018-2022 (*)
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+PIB (**)
+1,1
+1,7
+1,7
+1,7
+1,7
+1,7
+1,8
+Déflateur de PIB
+0,4
+0,8
+1,1
+1,25
+1,5
+1,75
+1,75
+Indice des prix à la consommation hors tabac
+0,2
+1,0
+1,0
+1,1
+1,4
+1,75
+1,75
+Masse salariale privée
+2,4
+3,3
+3,1
+3,2
+3,6
+3,8
+3,8
+Croissance potentielle
+1,2
+1,25
+1,25
+1,25
+1,25
+1,30
+1,35
+PIB potentiel (en Md€ 2010)
+2 154
+2 181
+2 209
+2 236
+2 264
+2 294
+2 325
+Ecart de production (en % du PIB)
+- 1,5
+- 1,1
+- 0,7
+- 0,2
+0,2
+0,6
+1,1
+Note : (*) Données exprimées en taux d'évolution annuelle, sauf précision contraire.
+(**) Données corrigées des jours ouvrables.
+
+Encadré : Explication des écarts entre la croissance potentielle de la LPFP et celle de la Commission européenne
+Le scénario de croissance potentielle retenu - 1,25 % sur 2018-2020 - est proche de celui de la Commission, qui est de 1,2 % en moyenne sur la même période dans ses prévisions de printemps 2017. L'écart de production retenu en 2016 (- 1,5 %) est également proche de l'estimation de la Commission Européenne (- 1,3 %).
+Les hypothèses de population active sont différentes car la Commission utilise l'exercice européen de projection de population à moyen terme (« Europop »), tandis que les estimations du Gouvernement s'appuient sur les projections les plus récentes de l'Insee pour la France, publiées le 9 mai 2017, moins dynamiques en fin de période. En revanche, le chômage structurel retenu est celui de la Commission européenne (estimé comme un NAWRU, c'est-à-dire un taux de chômage ne faisant pas accélérer les coûts salariaux unitaires réels).
+Les prévisions d'investissement sous-jacentes à l'accumulation du capital sont proches entre le scénario du Gouvernement et celui de la Commission ; le scénario de capital retenu repose sur un taux d'investissement par rapport au capital existant égal à sa moyenne 2010-2016.
+En revanche, la Commission retient une progression de la productivité tendancielle moins allante que le Gouvernement. Cela s'explique notamment par le traitement de la crise : malgré la prise en compte de la partie cyclique du ralentissement de la productivité liée à la sous-utilisation des capacités de production, la Commission ne retient pas de choc en niveau. Cependant, la Commission retient un effet durable sur la progression de la productivité tendancielle et donc sur la croissance potentielle.
+Le Gouvernement a opéré un choix différent et retenu un choc en niveau sur la productivité pendant la crise et un ralentissement de tendance post-crise. En raison de l'introduction de ce choc en niveau sur la période 2008-2010, le ralentissement de la productivité est moins marqué dans les estimations du Gouvernement que dans celles de la Commission (0,6/0,7 % par an sur la période 2018-2022 contre 0,4/0,5 % pour la Commission). La croissance de la productivité globale des facteurs (PGF) tendancielle retenue est proche et légèrement supérieure à celle observée sur la période 2011-2016. Les réformes structurelles mises en œuvre en fin de quinquennat précédent, en particulier les réformes pro-concurrentielles et de simplification, ainsi que les réformes sur le marché du travail et le dialogue social sont favorables à la productivité. Mais, du fait d'un phasage tardif au cours du précédent quinquennat, en seconde moitié voire en toute fin, leurs pleins effets ne se sont pas encore totalement matérialisés. Par ailleurs le rattrapage en cours sur l'intégration des technologies numériques par les entreprises, ainsi que la remontée des dépenses privées de R& ;D avec la montée en puissance du CIR sont également des facteurs de soutien.
+Le choix de ne pas retenir le scénario de la Commission européenne s'explique donc d'une part par la volonté de prendre en compte les dernières projections de population active de l'Insee et d'autre part par le choix de calcul de la tendance de la PGF.
+
+II. - Dès 2018 et tout au long du quinquennat, le Gouvernement engage une transformation profonde des structures de l'action publique qui permettra le respect de nos engagements de finances publiques
+A. - Conformément à nos engagements européens, la politique du Gouvernement vise un retour vers l'équilibre structurel et une réduction du ratio de dette publique
+
+Le Gouvernement a pris des mesures fortes de maîtrise des dépenses publiques dès son arrivée, afin de respecter l'objectif de 2,9 % de déficit, de sorte à permettre la sortie de la procédure pour déficit public excessif ouverte à l'encontre de la France depuis 2009. Le Conseil européen du 5 mars 2015 a recommandé à la France de corriger son déficit excessif en 2017 au plus tard. La chronique de déficits publics prévue par la LPFP, présentant un retour durable du déficit public sous 3,0 % du PIB à partir de 2017, permet de préparer une sortie de la procédure en 2018. Celle-ci pourrait être proposée par la Commission et décidée par le Conseil, sur la base des données d'exécution de l'année 2017, qui seront notifiées par Eurostat en avril 2018, et des prévisions de printemps de la Commission pour les déficits publics des années 2018 et 2019.
+Pour la suite de la trajectoire, et comme prévu dans le traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire (TSCG), l'objectif à moyen terme d'équilibre structurel des finances publiques (OMT) est fixé de manière spécifique par chaque Etat, avec une limite inférieure de - 0,5 % de PIB potentiel. Conformément à l'article 1er de la loi organique n° 2012-1403 du 17 décembre relative à la programmation et à la gouvernance des finances publiques, il revient à la loi de programmation des finances publiques de fixer l'OMT visé par le Gouvernement. L'article 2 de la présente loi de programmation fixe l'OMT à - 0,4 % du PIB potentiel. L'OMT est inchangé par rapport à la précédente LPFP.
+Une nouvelle estimation menée à l'occasion du débat d'orientation des finances publiques 2017 a conduit à revoir le niveau de l'écart de production par rapport au cadrage macroéconomique retenu par le précédent Gouvernement. Ainsi, pour l'année 2016, le niveau du solde structurel a été dégradé, passant de - 1,5 % à - 2,5 %. Cela signifie que le déficit public est en réalité moins dû à la situation conjoncturelle, qu'à un niveau de dépenses structurellement élevé. Cette révision a pour effet, toutes choses égales par ailleurs, d'allonger la durée de consolidation budgétaire permettant d'atteindre l'OMT. La trajectoire de la présente loi de programmation permet une amélioration continue du solde structurel jusqu'en 2022, où il s'établira à - 0,8 % de PIB potentiel, ce qui permettra d'atteindre l'OMT en 2023.
+Une telle trajectoire tient compte de la nécessité de soutenir la reprise en cours, alors que la France est l'un des pays de la zone euro dont l'écart de production est le plus creusé, d'après les dernières estimations de la Commission européenne. En outre, cette trajectoire de consolidation progressive des finances publiques permettra de soutenir le déploiement des réformes structurelles engagées par le Gouvernement, qui généreront des effets positifs à moyen terme sur la soutenabilité des finances publiques et le potentiel d'activité. Le rythme de réduction du déficit public prévu sur la durée du quinquennat s'inscrit donc dans la stratégie globale de politique économique du Gouvernement et permettra de combler la plus large partie de l'écart entre le déficit structurel actuel et l'objectif de moyen terme au cours du quinquennat.
+Dans le même temps, les efforts consentis permettront de réduire la dette publique de manière significative dans les cinq années à venir. Ainsi, le ratio de dette sur PIB, qui atteint 96,3 % en 2016 s'établira à 91,4 % en 2022 et sera inscrit à cet horizon sur une pente décroissante.
+La conformité de cette trajectoire aux règles budgétaires européennes sera évaluée chaque année sur la base des données notifiées, dans le cadre d'une analyse d'ensemble de la Commission, qui tient compte de la situation économique de chaque pays. Pour l'année 2018, cette dernière a précisé que l'évaluation du respect de l'ajustement recommandé sera faite à la lumière de la position des Etats membres dans le cycle économique, afin de tenir compte notamment de la nécessité relative de soutenir la reprise économique en cours. L'ajustement structurel 2018 serait de 0,1 pt de PIB, dans un contexte d'écart de production encore creusé et de mise en œuvre de réformes structurelles majeures (marché du travail, fiscalité, investissement, logement, climat…). L'ensemble de ces facteurs sont pris en compte dans les règles budgétaires européennes pour évaluer le caractère approprié de l'ajustement structurel par rapport à la réalité économique et aux réformes de chaque pays. L'ajustement prévu par la France pour 2018 permettrait de ne pas dévier significativement de la recommandation qui lui a été adressée par le Conseil. A partir de 2019, l'ajustement structurel sera en moyenne de 0,35 point de PIB potentiel par an, conformément à nos engagements européens (2).
+
+B. - Le taux de prélèvements obligatoires sera abaissé de 1 point sur le quinquennat pour favoriser la croissance et l'emploi
+
+La pression fiscale qui pèse sur les entreprises et les ménages français, entravant la demande et l'initiative privées, sera relâchée. La baisse des prélèvements obligatoires se poursuivra avec une baisse d'un point de PIB d'ici 2022, dont plus de 10 milliards d'euros de baisse d'ici à fin 2018, bénéficiant à la fois aux ménages et aux entreprises. Sur la période de programmation, le taux de prélèvements obligatoires sera ramené de 44,7 % en 2017 à 43,7 % en 2022. Cette baisse répond à trois choix stratégiques du Gouvernement. Le premier est de soutenir immédiatement la croissance et de favoriser l'emploi et le pouvoir d'achat en récompensant le travail, en engageant ces baisses dès le 1er janvier 2018, le deuxième d'améliorer la compétitivité et de libérer l'activité des entreprises, et le troisième de soutenir l'investissement privé dans les entreprises qui prennent des risques, qui innovent et qui créent les emplois de demain.
+Cette baisse de la fiscalité portera en grande partie sur les ménages et bénéficiera en priorité aux actifs des classes moyennes et aux ménages modestes. Pour cela, les cotisations salariales maladie et chômage des salariés du secteur privé seront supprimées et financée par une hausse partielle de CSG dont l'assiette est plus large, permettant ainsi d'élargir les bases fiscales notamment s'agissant du financement de la protection sociale afin qu'il ne pèse pas uniquement sur le coût du travail. Outre le gain net de pouvoir d'achat que représentent ces baisses pour les actifs, elles stimuleront à la fois la demande et l'offre de travail en réduisant le coin fiscalo-social sur les salaires, en complément de la revalorisation de la prime d'activité. Par ailleurs, 80 % des ménages seront progressivement exonérés d'ici 2020 de la taxe d'habitation, avec un premier allègement de 3 milliards d'euros dès 2018, pour un gain de pouvoir d'achat et une plus grande équité fiscale (2).
+Afin de renforcer la compétitivité des entreprises, l'activité et l'attractivité de notre économie, la fiscalité des entreprises sera allégée et simplifiée. Le taux facial de l'impôt sur les sociétés sera réduit, par étapes, à 25 % d'ici 2022. Cette baisse permettra de converger vers la moyenne européenne et de réduire le coût du capital, stimulant ainsi l'investissement à long terme. Par ailleurs, le CICE sera transformé en allègement pérenne de cotisations patronales dès 2019 - date privilégiée afin de garantir, dans un premier temps, un retour durable du déficit public sous 3 % du PIB - afin de simplifier le dispositif existant et de soutenir dans la durée l'emploi et la compétitivité des entreprises françaises. Cette transformation du CICE est également un gage de stabilité pour les entreprises, en particulier pour les plus petites d'entre elles. Cette baisse de cotisations sécurisera non seulement l'effort entrepris jusqu'ici pour aider les entreprises à restaurer leurs marges, mais elle soutiendra aussi la demande de travail peu qualifié du fait d'un ciblage plus important qu'aujourd'hui au niveau du salaire minimum.
+Pour stimuler l'investissement productif, risqué et innovant, l'Impôt de solidarité sur la fortune (ISF) sera transformé en Impôt sur la Fortune Immobilière (IFI) dès 2018 et un taux de prélèvement unique de 30 % sur les revenus de l'épargne sera également instauré en 2018, incluant les prélèvements sociaux. Dans un contexte de transition technologique profonde, le besoin en capital est encore plus important qu'hier et alléger sa fiscalité est devenu indispensable. Ces différentes mesures s'inscrivent également dans une logique de convergence européenne, puisque les taxes sur le capital ont, en France, un poids particulièrement élevé par rapport à nos partenaires européens. Outre le fait que ces mesures participent à l'effort de réduction du coût du capital, elles réorienteront l'épargne nationale vers le financement des entreprises.
+Afin d'accélérer la conversion écologique de notre économie, la hausse de la fiscalité du carbone sera amplifiée et la convergence de la fiscalité du diesel sur celle de l'essence sera pleinement effective à l'horizon du quinquennat. Ceci permettra aux acteurs économiques d'internaliser le coût social généré par l'usage des énergies fossiles, réduisant ainsi nos émissions de CO2. La France progressera ainsi en matière de poids des recettes reposant sur la fiscalité environnementale. Des mesures budgétaires comme la généralisation du chèque-énergie et la mise en place d'une prime à la conversion pour les véhicules anciens sont prévues pour accompagner les plus fragiles dans la transition écologique.
+
+Tableau : principales mesures nouvelles en prélèvements obligatoires à fin 2018
+
+2018
+Dégrèvement de la taxe d'habitation pour 80 % des ménages
+- 3,0
+Création de l'Impôt sur la Fortune Immobilière (IFI)
+- 3,2
+Mise en place d'un prélèvement forfaitaire unique
+- 1,3
+Baisse du taux d'IS de 33 % à 25 %
+- 1,2
+Suppression de la 4e tranche de la taxe sur les salaires
+- 0,1
+Hausse de la fiscalité énergétique
+3,7
+Fiscalité du tabac
+0,5
+CICE - Montée en charge et hausse de taux de 6 à 7 % en 2018
+- 4,0
+Crédit d'impôt sur la taxe sur les salaires
+- 0,6
+Elargissement du crédit d'impôt pour l'emploi de personnes à domicile
+- 1,0
+Total
+- 10,3
+Note : ce tableau n'intègre pas la mesure nouvelle de gain de pouvoir d'achat pour les actifs liée à la baisse des charges en basculement de la CSG dont la première étape aura lieu le 1er janvier et dont l'effet plein interviendra à compter d'octobre 2018.
+
+C. - Une baisse de plus de 3 points de la dépense publique à horizon 2022
+
+La trajectoire de la loi de programmation 2018-2022 prévoit une baisse du poids de la dépense publique hors crédits d'impôts dans le PIB de plus de 3 points à horizon 2022.
+La dépense publique devrait ralentir lors des cinq prochaines années : sur la période 2018-2022, sa croissance en volume sera en moyenne de + 0,4 %, contre + 1,3 % sur les 10 dernières années. Cette croissance contenue sera rendue possible grâce aux importants efforts d'économies que l'ensemble des administrations publiques fourniront. Le rythme des dépenses s'infléchira au fur et à mesure de la mise en œuvre des économies structurelles identifiées par le processus « Action publique 2022 » (cf. infra).
+Ainsi, sur le périmètre de la norme pilotable, l'évolution de la dépense de l'Etat en 2018 s'élèvera à + 1,0 % en volume, puis à - 0,5 % en volume en 2019, soit + 1,6 Md€ par rapport à 2018. Sur la période 2020-2022, alors que la charge de la dette augmentera de l'ordre de 0,1 point de PIB par an, le taux d'évolution en volume de la dépense sous norme pilotable sera de - 1 % par an et reposera notamment sur les réformes documentées dans le cadre du processus « Action Publique 2022 ».
+De même, les collectivités locales maîtriseront leurs dépenses de fonctionnement dans le cadre du nouveau pacte financier avec l'Etat : en comptabilité nationale, les dépenses finales de fonctionnement ne progresseront que de 1,2 % en valeur en moyenne sur le quinquennat, en cohérence avec l'objectif fixé dans la loi de programmation. Ceci correspond à un effort de 13 Md€ par rapport à une trajectoire spontanée de dépenses.
+Enfin, les dépenses sociales seront maitrisées : en dépit d'une reprise de l'inflation, l'ONDAM sera maintenu à 2,3 % sur la période 2018-2020 (cf. infra).
+
+D. - A l'horizon du quinquennat, l'effort structurel portera sur la dépense et permettra la diminution du ratio de dette publique
+
+Les tableaux suivants sont exprimés en comptabilité nationale et non en comptabilité budgétaire ou en comptabilité générale comme les objectifs d'économie ci-dessus. Ces différentes comptabilités peuvent ainsi présenter des écarts significatifs.
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Solde public (en point de PIB)
+- 3,4
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Solde structurel (en points de PIB potentiel)
+- 2,5
+- 2,2
+- 2,1
+- 1,9
+- 1,6
+- 1,2
+- 0,8
+Ajustement structurel
+0,2
+0,3
+0,1
+0,3
+0,3
+0,4
+0,4
+
+Tableau : dépenses et recettes (exprimés suivant les conventions de la comptabilité nationale)
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Ratio de dépenses publiques (*)
+55,0
+54,7
+54,0
+53,4
+52,6
+51,9
+51,1
+Ratio de prélèvements obligatoires
+44,4
+44,7
+44,3
+43,4
+43,7
+43,7
+43,7
+Ratio de recettes hors prélèvements obligatoires
+7,5
+7,3
+7,2
+7,2
+7,2
+7,1
+7,1
+Clé de crédits d'impôts
+- 0,2
+- 0,1
+- 0,1
+- 0,1
+0,3
+0,3
+0,1
+Note : (*) hors crédits d'impôts.
+
+Tableau : croissance de la dépense publique hors crédits d'impôt
+
+2017
+2018
+2019
+2020
+2021
+2022
+Taux de croissance en valeur
+1,9
+1,6
+1,8
+1,7
+2,0
+1,9
+Taux de croissance en volume
+0,9
+0,6
+0,7
+0,3
+0,2
+0,1
+Inflation hors tabac
+1,0
+1,0
+1,1
+1,4
+1,75
+1,75
+
+Tableau : dépense publique par sous-secteur, hors transferts, hors crédits d'impôts
+
+Croissance en volume
+2017
+2018
+2019
+2020
+2021
+2022
+APU
+0,9
+0,6
+0,7
+0,3
+0,2
+0,1
+APUC
+1,0**
+0,3**
+0,8
+1,2
+0,7
+0,2
+APUL
+1,7
+0,2
+0,9
+- 0,4
+- 1,6
+- 0,6
+ASSO
+0,6**
+0,9**
+0,4
+0,1
+0,6
+0,4
+Note : * Dépense en volume hors crédits d'impôts et hors transferts entre sous-secteurs des administrations publiques, exprimée à champ courant sauf mention contraire (**)
+** Mesures retraitées :
+En 2017, la budgétisation du financement des ESAT augmente la dépense des ASSO et diminue la dépense des APUC (+ 1,5 Md€).
+En 2018, les prestations auparavant versées par le fonds social chômage, classé en APUC, sont transférées vers Pôle Emploi en ASSO (2,5 Md€).
+
+1. L'effort structurel portera exclusivement sur la dépense publique
+
+L'écart de production persistant en 2017 serait résorbé à l'horizon 2020, grâce à une croissance effective du PIB supérieure à la croissance potentielle. Sur le quinquennat, l'écart de production, encore très négatif en 2017 (- 1,1 % de PIB potentiel) deviendra positif en 2020 et s'établira en 2022 à + 1,1 % de PIB potentiel. Ainsi, la variation conjoncturelle du solde public contribuera de manière significative au redressement des finances publiques entre 2017 et 2022.
+Cependant, la stratégie de redressement des finances publiques ira bien au-delà de l'effet mécanique de la résorption des effets de la crise passée : la France doit tirer profit de l'amélioration de la conjoncture économique pour engager un ajustement pérenne de ses finances publiques et en recomposer la structure par des choix stratégiques. Ainsi, le solde structurel, qui s'établit à - 2,2 % de PIB potentiel en 2017, se redressera à - 0,8 % en 2022. Cela permettra d'atteindre l'OMT, fixé à - 0,4 % de PIB potentiel, en 2023. A partir de 2019, l'ajustement structurel sera en moyenne de 0,3 point de PIB potentiel par an. Au total, il sera de 1,4 point de PIB potentiel entre 2017 et 2022.
+Cet ajustement sera entièrement porté par un effort structurel en dépense : ce dernier sera de 2,4 points de PIB potentiel sur la période, grâce à une progression des dépenses publiques en volume nettement inférieure à la croissance potentielle de l'économie française. A l'inverse, les mesures nouvelles en prélèvement obligatoires visant à la simplification, la recomposition et la réorientation de nos recettes fiscales, pèseront sur l'ajustement structurel pour près de 1 point de PIB potentiel sur la période. Cette stratégie permettra de libérer l'activité, le pouvoir d'achat, et de stimuler l'investissement productif, risqué et innovant. Enfin, plus spécifiquement, compte tenu du traitement en comptabilité nationale du CICE comme une dépense, la disparition de ce crédit d'impôt en 2019 pour être remplacé par une baisse pérenne des cotisations sociales jouera favorablement sur l'ajustement structurel entre 2017 et 2022 (+ 0,3 point de PIB potentiel) : la créance en comptabilité nationale sera quasiment éteinte dès 2020, alors qu'un coût budgétaire persistera tout au long des restitutions. Au total, l'effort structurel, c'est-à-dire l'effet des mesures discrétionnaires, permettra d'améliorer le solde structurel de 1,8 point de PIB potentiel sur la période considérée.
+Enfin, les mesures exceptionnelles et temporaires prévisibles dans le cadre du présent rapport perturberont la chronique de solde public de manière transitoire. En particulier, la transformation du CICE en allègement pérenne de cotisations sociales patronales entraînera en 2019 une double dépense qui pèsera lourdement (20,6 Md€) sur le déficit nominal.
+
+Tableau : mesures exceptionnelles et temporaires - Hypothèses retenues dans la programmation
+
+(écart au compte central, en Md€)
+2017
+2018
+2019
+2020
+2021
+2022
+Mesures en recettes
+- 1,5
+- 4,9
+- 22,5
+0,0
+0,0
+0,0
+dont :
+Contentieux OPCVM
+- 0,8
+- 0,8
+- 0,7
+0,0
+0,0
+0,0
+De Ruyter
+- 0,1
+0,0
+0,0
+0,0
+0,0
+0,0
+Stéria
+- 0,5
+0,0
+0,0
+0,0
+0,0
+0,0
+3 % dividendes
+- 4,5
+- 4,5
+0,0
+0,0
+0,0
+0,0
+Surtaxe d'IS
+4,7
+0,6
+0,0
+0,0
+0,0
+0,0
+CVAE
+- 0,3
+- 0,2
+0,0
+0,0
+0,0
+0,0
+Double coût bascule CITE
+- 1,1
+Double coût bascule CICE
+- 20,6
+Mesures en dépense
+0,7
+0,7
+0,2
+0,0
+0,0
+0,0
+dont :
+Intérêts des contentieux
+0,7
+0,7
+0,2
+0,0
+0,0
+0,0
+
+Tableau : variation du solde structurel des administrations publiques
+
+2017
+2018
+2019
+2020
+2021
+2022
+Variation du solde structurel (ajustement structurel)
+0,2
+0,1
+0,3
+0,3
+0,4
+0,4
+Effort structurel
+0,1
+0,2
+0,3
+0,4
+0,5
+0,5
+Mesures nouvelles en recettes (net des CI) et hors one-offs
+- 0,1
+- 0,3
+- 0,1
+- 0,5
+0,0
+0,1
+Effort en dépense
+0,1
+0,4
+0,4
+0,5
+0,5
+0,6
+Clé en crédits d'impôt
+0,1
+0,0
+0,0
+0,4
+0,0
+- 0,2
+Composante non discrétionnaire
+0,2
+- 0,1
+0,0
+- 0,1
+- 0,1
+- 0,1
+
+Tableau : élasticité des prélèvements obligatoires
+
+2017
+2018
+2019
+2020
+2021
+2022
+Elasticité des prélèvements obligatoires (hors UE)
+1,4
+1,0
+1,0
+1,0
+1,0
+1,0
+
+Tableau : décomposition structurelle par sous-secteur
+
+En % PIB
+2017
+2018
+2019
+2020
+2021
+2022
+APU
+Solde effectif
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Solde conjoncturel
+- 0,6
+- 0,4
+- 0,1
+0,1
+0,3
+0,6
+Solde structurel
+- 2,2
+- 2,1
+- 1,9
+- 1,6
+- 1,2
+- 0,8
+Solde des one-offs
+- 0,1
+- 0,2
+- 0,9
+0,0
+0,0
+0,0
+APUC
+Solde effectif
+- 3,2
+- 3,4
+- 3,9
+- 2,6
+- 2,3
+- 1,8
+Solde conjoncturel
+- 0,3
+- 0,1
+0,0
+0,1
+0,1
+0,2
+Solde structurel
+- 2,8
+- 3,0
+- 3,7
+- 2,6
+- 2,4
+- 2,0
+Solde des one-offs
+- 0,1
+- 0,2
+- 0,1
+0,0
+0,0
+0,0
+APUL
+Solde effectif
+0,1
+0,1
+0,1
+0,3
+0,5
+0,7
+Solde conjoncturel
+- 0,1
+0,0
+0,0
+0,0
+0,0
+0,1
+Solde structurel
+0,1
+0,1
+0,1
+0,3
+0,5
+0,7
+Solde des one-offs
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+ASSO
+Solde effectif
+0,2
+0,5
+0,8
+0,8
+0,8
+0,8
+Solde conjoncturel
+- 0,3
+- 0,2
+- 0,1
+0,1
+0,2
+0,3
+Solde structurel
+0,5
+0,7
+1,7
+0,8
+0,6
+0,5
+Solde des one-offs
+0,0
+0,0
+- 0,9
+0,0
+0,0
+0,0
+
+Tableau : effort structurel par sous-secteur
+
+En % PIB
+2017
+2018
+2019
+2020
+2021
+2022
+APU
+Variation du solde structurel
+0,3
+0,1
+0,3
+0,3
+0,4
+0,4
+dont effort structurel
+0,0
+0,2
+0,3
+0,4
+0,5
+0,5
+Effort en recettes
+- 0,1
+- 0,3
+- 0,1
+- 0,5
+0,0
+0,1
+Effort en dépense
+0,0
+0,4
+0,4
+0,5
+0,5
+0,6
+Clé de crédits d'impôts
+0,1
+0,0
+0,0
+0,4
+0,0
+- 0,2
+APUC
+Variation du solde structurel
+0,2
+- 0,2
+- 0,8
+1,1
+0,2
+0,4
+dont effort structurel
+0,0
+- 0,2
+0,4
+0,9
+0,1
+0,1
+Effort en recettes
+- 0,1
+- 0,4
+0,3
+0,5
+0,0
+0,0
+Effort en dépense
+0,0
+0,2
+0,1
+0,0
+0,1
+0,2
+Clé de crédits d'impôts
+0,1
+0,0
+0,0
+0,4
+0,0
+- 0,2
+APUL
+Variation du solde structurel
+- 0,1
+0,0
+0,0
+0,1
+0,3
+0,2
+dont effort structurel
+- 0,1
+0,0
+- 0,1
+0,1
+0,3
+0,2
+Effort en recettes
+0,0
+- 0,1
+- 0,1
+- 0,1
+0,0
+0,0
+Effort en dépense
+- 0,1
+0,1
+0,1
+0,2
+0,3
+0,2
+Clé de crédits d'impôts
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+ASSO
+Variation du solde structurel
+0,2
+0,2
+1,0
+- 1,0
+- 0,1
+- 0,1
+dont effort structurel
+0,1
+0,3
+0,0
+- 0,6
+0,1
+0,2
+Effort en recettes
+0,0
+0,2
+- 0,2
+- 0,9
+0,0
+0,0
+Effort en dépense
+0,1
+0,1
+0,2
+0,3
+0,1
+0,2
+Clé de crédits d'impôts
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+
+2. Le ratio de dette des administrations publiques sera réduit de 5 points pendant le quinquennat
+
+La trajectoire de réduction des dépenses publiques de plus de 3 points de PIB et l'augmentation de la croissance, stimulée par les réformes prévues pendant le quinquennat, permettront à horizon 2022 de réduire le ratio de dette publique de 5 points. Cette baisse du ratio d'endettement permettra de renforcer la résilience et de dégager des marges de manœuvre budgétaires, en cas de nouvelle crise, améliorant ainsi la soutenabilité des finances publiques.
+Le ratio d'endettement devrait ainsi diminuer à partir de 2020 après avoir atteint un pic en 2019. Cette augmentation en 2019 serait due au « double coût » exceptionnel lié à la transformation du CICE en baisse pérenne de cotisations. A partir de 2020, la baisse du déficit liée à la poursuite des efforts de consolidation et à la disparition de ce surcoût temporaire permettrait de commencer à faire décroître le ratio de dette. Des flux de créance viendraient cependant compenser en partie les effets de la baisse du déficit et de la croissance sur le ratio de dette. L'effet principal serait lié à l'extinction du CICE entre 2020 et 2022. En effet, à partir de 2019 aucun nouveau droit au CICE ne serait acquis mais il resterait un stock de créances fiscales acquises les années précédentes à restituer aux entreprises. Cet effet de trésorerie, neutre sur le solde public à partir de 2019, a néanmoins un impact sur le ratio de dette. Il s'estompe au fur et à mesure que le stock de restitution diminue. Malgré ces flux de créances pesant sur la dette, le ratio dette sur PIB diminuerait ainsi de plus de 5 points entre fin 2019 et 2022.
+
+Tableau : la trajectoire de dette publique des administrations publiques, et détail par sous-secteur
+
+(En points de PIB)
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Ratio d'endettement au sens de Maastricht
+96,3
+96,7
+96,9
+97,1
+96,1
+94,2
+91,4
+Contribution des administrations publiques centrales (APUC)
+77,3
+78,3
+79,4
+81,1
+81,7
+81,6
+80,8
+Contribution des administrations publiques locales (APUL)
+9,0
+8,7
+8,4
+8,1
+7,5
+6,7
+5,8
+Contribution des administrations de sécurité sociale (ASSO)
+10,1
+9,7
+9,0
+8,0
+6,9
+5,9
+4,8
+
+Tableau : l'écart au solde stabilisant, le flux de créances et la variation du ratio d'endettement
+
+2017
+2018
+2019
+2020
+2021
+2022
+Variation du ratio d'endettement (1 + 2)
+0,4
+0,2
+0,3
+- 1,1
+- 1,9
+- 2,8
+Ecart au solde stabilisant (1) = (a - b)
+0,6
+0,1
+0,1
+- 1,6
+v2,3
+v3,0
+Solde stabilisant la dette (a)
+- 2,3
+- 2,7
+- 2,8
+- 3,0
+- 3,2
+- 3,3
+Pm. Croissance nominale
+2,5
+2,9
+3,0
+3,2
+3,5
+3,6
+Solde public au sens de Maastricht (b)
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Flux de créances (2)
+- 0,2
+0,1
+0,1
+0,5
+0,4
+0,2
+
+Encadré - Coût de financement de l'Etat et hypothèses de taux d'intérêt
+
+En 2017 la France continue de bénéficier de conditions de financement très favorables, grâce au maintien de la confiance des investisseurs et aux effets de la politique monétaire accommodante menée par la Banque centrale européenne (BCE). A mi-septembre 2017 le taux moyen à l'émission des titres à court terme (BTF) s'établit à - 0,60 % après - 0,53 % en 2016, celui des titres à moyen-long terme à 0,71 % après 0,37 % en 2016. Du fait de l'affermissement de la croissance en Europe et du retour graduel de l'inflation enclenché depuis mi 2016, la perspective d'un resserrement progressif de la politique monétaire de la BCE se confirme.
+Le profil de taux sous-jacent à la prévision de la charge de la dette repose sur l'hypothèse d'un resserrement graduel de la politique monétaire européenne à partir de 2018, en cohérence avec le scénario macroéconomique global de consolidation de la croissance et de l'inflation. Il table sur une poursuite du redressement des taux de moyen-long terme au rythme moyen de 75 points de base par an. Le taux à dix ans s'établirait à 1,85 % fin 2018, puis 2,60 % fin 2019 et 3,75 % fin 2021.
+
+Niveaux en fin d'année (hypothèses)
+2017
+2018
+2019
+2020
+2021
+2022
+Taux courts (BTF 3 mois)
+Taux longs (OAT à 10 ans)
+- 0,50 %
+1,10 %
+- 0,10 %
+1,85 %
+0,70 %
+2,60 %
+1,50 %
+3,25 %
+2,00 %
+3,75 %
+2,50 %
+4,00 %
+
+Tableau : charge d'intérêts et solde primaire
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Solde public
+- 3,4
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Charge d'intérêt
+1,9
+1,8
+1,8
+1,8
+1,9
+2,0
+2,1
+Solde primaire
+- 1,5
+- 1,1
+- 1,0
+- 1,2
+0,4
+1,1
+1,8
+
+E. - Une transformation de l'action et de la gestion publique
+1. Action publique 2022
+
+Lancé dès 2017, le processus « Action publique 2022 » permettra de dégager des économies structurelles à moyen terme. La trajectoire fixée par la présente loi prévoit une baisse de plus de trois points de PIB de la dépense publique. Le Gouvernement entend atteindre cet objectif, en examinant le périmètre de l'action publique d'un point de vue stratégique et en impliquant les usagers et les agents, afin d'améliorer l'efficience des politiques publiques : meilleure qualité de service pour les usagers, meilleur environnement de travail pour les agents, et meilleure utilisation des impôts des contribuables. Cela suppose de mettre en œuvre un processus ambitieux de réforme de l'action publique. S'appuyant sur une démarche de revue des missions et de la dépense publique dans une approche par politique publique, le programme « Action publique 2022 » portera sur la définition et la mise en œuvre de réformes structurelles qui se déploieront au cours du quinquennat.
+Constatant que les exercices de réforme de l'Etat et des administrations publiques qui se succèdent depuis dix ans (« Révision générale des politiques », de 2007 à 2012 et « Modernisation de l'action publique » de 2012 à 2017), et plus généralement les approches par le rabot, n'ont pas été à la hauteur des enjeux de redressement des finances publiques et de modernisation de l'action publique, le Gouvernement souhaite lancer un processus de réforme d'un type nouveau, placé sous l'autorité du Premier ministre, avec l'appui du ministre de l'action et des comptes publics.
+Il couvre l'ensemble des administrations publiques et de la dépense publique, dans la mesure où le champ de l'Etat ne représente qu'une part minoritaire de la dépense publique et dans la mesure où les usagers du service public portent une appréciation sur sa qualité sans distinguer la collectivité qui les porte. Toutefois, afin de garantir une responsabilisation accrue, chaque ministère sera chef de file des politiques publique qui le concernent.
+Un Comité Action Publique 2022 (CAP22), composé de personnalités qualifiées françaises ou étrangères issues de la société civile, de hauts fonctionnaires et d'élus locaux, sera chargé d'identifier des réformes structurelles et des économies significatives et durables, sur l'ensemble du champ des administrations publiques, en faisant émerger des idées et des méthodes nouvelles. Pour ce faire, plusieurs chantiers viendront alimenter les travaux du comité. Les propositions des ministères seront examinées dans le cadre de travaux itératifs. Cinq chantiers transversaux seront conduits en parallèle sur les thématiques suivantes : la simplification administrative, la transformation numérique, la rénovation du cadre des ressources humaines, l'organisation territoriale des services publics et la modernisation de la gestion budgétaire et comptable. En parallèle, un grand forum de l'action publique permettra d'associer les usagers et les agents à la rénovation de l'action publique.
+Les conclusions du Comité Action Publique 2022, dévoilées au premier trimestre 2018, feront l'objet d'arbitrages sur la base desquels des plans de transformation ministériels seront élaborés et mis en place.
+
+2. La maîtrise des dépenses de l'Etat
+
+Le budget pluriannuel présenté à l'occasion de la présente LPFP 2018-2022 reposera sur un double système de norme : une norme recentrée sur les dépenses pilotables de l'Etat et un objectif de dépenses totales de l'Etat (ODETE) telles que définies à l'article 9 de la loi.
+a) Un principe directeur de sincérité de la budgétisation initiale :
+Les crédits nécessaires à la couverture des sous-budgétisations identifiés par la Cour des comptes dans son rapport d'audit seront en effet ouverts dans le projet de loi de finances pour 2018, permettant ainsi une plus grande transparence vis-à-vis de la représentation nationale. Un tel effort de remise à niveau doit permettre une plus grande responsabilisation des gestionnaires qui devront donc gérer aléas ou priorités nouvelles au sein de leur plafond limitatif de crédits.
+Le principe d'auto-assurance est un corollaire indispensable de la visibilité donnée sur les enveloppes triennales. Il est le pendant de la sincérisation des budgets opérée à l'occasion du PLF 2018. En construction budgétaire (pour les budgets à venir au-delà de celui de 2018) comme en gestion, ce principe implique que les aléas ou les priorités nouvelles affectant les dépenses d'une mission soient gérés dans la limite du plafond de ses crédits, soit par redéploiement de dépenses discrétionnaires, soit par la réalisation d'économies complémentaires. Ces redéploiements ou économies doivent être mis en œuvre prioritairement au sein du programme qui supporte les aléas ou les priorités nouvelles. A défaut, ils doivent être réalisés entre les programmes de la même mission.
+
+Sous-budgétisations sous-jacentes à la LFI 2017 identifiées par la Cour des comptes
+
+Mission
+Sous-budgétisation
+Montant (Md€)
+Agriculture, alimentation, forêt et affaires rurales
+Refus d'apurements communautaires
+0,4
+Agriculture
+Crises : Influenza aviaire
+0,2
+Travail et emploi
+Prime à l'embauche
+0,2
+Travail et emploi
+Rémunération de fin de formation
+0,1
+Travail et emploi
+Plan de formation
+0,4
+Travail et emploi
+Contrats aidés
+0,3
+Défense
+Opérations extérieures, opérations intérieures et masse salariale
+0,7
+Solidarités et santé
+Allocation aux adultes handicapés (AAH) et Prime d'activité
+0,7
+Enseignement scolaire
+Masse salariale de l'éducation nationale
+0,4
+Immigration, asile et intégration
+Allocation pour demandeurs d'asile (ADA)
+0,2
+Cohésion des territoires
+Hébergement d'urgence
+0,1
+Cohésion des territoires
+Aides personnalisées au logement
+0,1
+Autres
+Service civique, Aide médicale d'Etat, contribution aux organismes scientifiques internationaux, etc.
+0,5
+Total (Md€)
+4,2
+Source : Cour des comptes, La situation et les perspectives des finances publiques (juin 2017).
+
+La mise en œuvre du principe d'auto-assurance permet ainsi de limiter aux seules situations exceptionnelles les ajustements susceptibles d'affecter en cours d'année les plafonds définis par mission ou leur révision dans le cadre des projets de lois de finances, selon les modalités précisées ci-après.
+b) Réserve de budgétisation et de précaution :
+L'incapacité de prévoir la totalité des événements susceptibles d'intervenir et la nécessité de pouvoir initier des actions nouvelles en cours de programmation justifient l'existence de marges de manœuvre tant pour la budgétisation au sein d'une période pluriannuelle, qu'en gestion.
+Concernant la budgétisation, la programmation triennale prévoit une réserve centrale de budgétisation d'un montant de 0,7 Md€ en 2020. La mise en place d'une telle réserve, objectif qui n'avait pu être atteint depuis le triennal 2009-2011, doit permettre de répondre aux situations nouvelles qui ne pouvaient être anticipées au stade de la programmation pluriannuelle. En priorité, la réserve de budgétisation permettra en 2020, de rehausser le cas échéant les plafonds de mission soumis à des dépenses plus dynamiques que prévues ou imprévisibles, qui ne pourraient être absorbées au sein de la mission après application du principe d' « auto-assurance » décrit supra.
+Concernant l'exécution, le Gouvernement s'engage à revenir à une pratique plus raisonnée des outils de régulation et de redéploiement en gestion. Pour cela, l'accent a été mis sur la sincérité de la budgétisation initiale (cf. supra). Les enveloppes de couverture des risques en gestion sont par ailleurs majorées : la dotation pour dépenses accidentelles et imprévisibles (DDAI) est reconstituée à hauteur de 124 M€ afin de permettre de faire face à des événements imprévisibles nécessitant une intervention rapide de l'Etat (catastrophe naturelle par exemple), la provision pour opérations extérieures de la défense sera progressivement rebasée, avec une première marche de + 200 M€ en 2018, et pour la première fois une provision pour risques est inscrite au sein du budget de l'agriculture, à hauteur de 300 M€.
+Ces mesures, accompagnées de la réaffirmation du principe d'auto-assurance, permettent d'abaisser fortement le niveau de la réserve de précaution - dont le principe est posé au 4° bis de l'article 51 de la LOLF et qui vise à bloquer une partie des crédits en début de gestion - en le ramenant de 8 % à 3 % des crédits initiaux.
+c) Doctrine d'affectation de taxes :
+A l'inverse des dotations versées par le budget général de l'Etat, l'affectation directe d'impositions de toute nature fait échapper ce financement public au contrôle annuel du Parlement dans le cadre de l'examen du projet de loi de finances. L'affectation constitue par ailleurs une dérogation au principe d'universalité budgétaire. Enfin, la plupart des taxes affectées connaissent une évolution dynamique, ce qui, en l'absence de mécanisme de limitation, conduit à une progression de la dépense moins bien contrôlée - et donc moins en adéquation avec les besoins des politiques visées - pour les organismes concernés que pour les dépenses de l'Etat ou des organismes financés sur subvention budgétaire incluse dans la norme de dépenses pilotables de l'Etat.
+Le recours à l'affectation d'imposition de toutes natures à des tiers autres que les organismes de sécurité sociale, les collectivités territoriales et les établissements publics de coopération intercommunale fait l'objet d'un encadrement précis à l'article 15 de la présente LPFP qui exclut expressément l'affectation de taxes, à trois exceptions près :
+la première exception est celle des ressources présentant une logique de « quasi-redevance » ;
+la seconde exception concerne les prélèvements finançant des actions de mutualisation ou de solidarités sectorielles au sein d'un secteur d'activité ;
+enfin, la troisième exception est celle des fonds d'assurance ou d'indemnisation et présentant une logique de mutualisation du risque.
+Le même article indique que l'ensemble des taxes affectées doivent faire l'objet d'un plafonnement. Les éventuelles affectations dérogeant à ce principe de plafonnement sont justifiées dans l'annexe « Voies et moyens » du projet de loi de finances de l'année.
+
+3. L'effort des collectivités locales fera l'objet d'une contractualisation avec l'Etat
+
+Sur la durée du quinquennat, la maîtrise des dépenses publiques nécessitera la participation de chacun des sous-secteurs des administrations publiques. Les collectivités territoriales seront associées à cet effort avec une réduction de leurs dépenses à hauteur de 13 Md€ par rapport au tendanciel.
+Cet objectif fera l'objet d'un contrat de mandature entre l'Etat et les collectivités locales qui permettra de définir leurs engagements réciproques. Un pacte financier, dont le contenu sera concerté dans le cadre de la conférence nationale des territoires, précisera à cet effet la trajectoire pluriannuelle de dépenses et de désendettement associée, les modalités de mise en œuvre des procédures visant à vérifier le respect des engagements ainsi que le mécanisme de correction applicable dans le cas d'une déviation des dépenses et de la trajectoire de désendettement à la trajectoire prévue.
+La loi de programmation des finances publiques s'inscrit dans cette démarche en précisant les principes de la contractualisation avec les collectivités tant dans le périmètre retenu que dans le contenu des contrats et les possibilités de modulation offertes ou encore dans les mécanismes de reprise financière prévus.
+L'objectif d'évolution de la dépense locale (ODEDEL) sera à nouveau utilisé sur la période de programmation. Il constituera un outil qui permettra de vérifier, en concertation avec les collectivités, le respect de leur trajectoire de dépenses de fonctionnement.
+
+4. Les dépenses fiscales et les niches sociales feront l'objet d'un suivi renforcé
+
+La LPFP 2018-2022 prévoit un mécanisme d'encadrement de la part des dépenses fiscales dans l'ensemble des recettes fiscales du budget général, combiné à un mécanisme similaire de mesure de la part des niches sociales dans les recettes sociales, afin que dépenses fiscales et niches sociales ne puissent excéder un plafond exprimé en pourcentage des recettes totales inscrit en LPFP.
+En parallèle, la LPFP 2018-2022 pose le principe d'une limitation dans le temps des dépenses fiscales et des niches sociales : tout nouveau texte instituant une dépense fiscale ou sociale doit prévoir un délai limité d'application maximal de quatre ans pour la niche fiscale et trois ans pour la niche sociale ainsi créée. Une telle disposition permet de fixer une échéance d'évaluation, à l'approche de la date d'extinction du dispositif, afin de justifier sa pertinence avant d'en proposer la reconduction au Parlement.
+
+5. Le Grand plan d'investissement sera lancé dès 2018
+
+a) Grand plan d'investissement :
+Initiative majeure des cinq prochaines années, le grand plan d'investissement (GPI) a pour ambition d'accélérer l'émergence d'un nouveau modèle de croissance en poursuivant trois objectifs : augmenter son potentiel de croissance et d'emplois, privilégier la dépense publique favorable à l'investissement et l'innovation et accélérer la transition écologique. Ce plan, constitué de dépenses non pérennes, améliorera nettement les performances économiques et sociales du pays. Il contribuera à déployer le plein potentiel des réformes structurelles qui seront mises en œuvre en parallèle, et accompagnera les réformes budgétaires.
+Les investissements prévus par le plan couvriront un champ très large de dépenses dépassant largement l'investissement public au strict sens comptable (formation brute de capital fixe), en englobant toute mobilisation temporaire de ressources ayant un effet à long terme, par exemple les actions de formation ou subventions destinées à orienter le comportement des acteurs dans la transition énergétique). Le plan sera ainsi centré autour de trois priorités : augmenter le potentiel de production, accélérer la transition énergétique et réduire structurellement la dépense publique en modernisant l'action publique. Il interviendra sur sept axes de politiques publiques : la formation et les compétences, la transition écologique et énergétique, la santé, l'agriculture, la modernisation des administrations publiques notamment grâce à la numérisation, les transports et équipements collectifs locaux, et l'enseignement supérieur, la recherche et l'innovation. Afin d'engager la transformation de notre modèle de croissance dès 2018, le Grand plan d'investissement montera en charge à partir de l'an prochain.
+Conformément au principe de responsabilisation voulu par le Gouvernement, afin de donner aux ministres une pleine visibilité et responsabilité sur l'ensemble de leurs moyens, et contrairement aux ressources des programmes successifs d'investissements d'avenir, les crédits du GPI ne constitueront pas un budget distinct des programmes ministériels. Il s'agit donc de dépenses d'avenir et d'investissements temporaires qui seront retracées par les ministères eux-mêmes au sein de leurs budgets. En contrepartie, un suivi transversal sera effectué par une structure légère centralisée afin d'évaluer l'atteinte des objectifs et soutenir les ministères dans la mise en œuvre de ces actions de transformation.
+Le plan sera composé de crédits à impact maastrichtien hors investissements d'avenir à hauteur de 36 Md€ sur le budget de l'Etat, de ses opérateurs, et de l'assurance maladie (ces dernières dépenses seront très largement financés au sein de l'objectif national d'assurance maladie - Ondam), de crédits du troisième PIA pour 10 Md€ (dont 6 Md€ de dépenses maastrichtiennes) et d'instruments financiers innovants non maastrichtiens (mobilisant des fonds propres et des prêts, notamment de la Caisse des dépôts et Consignations) pour 11 Md€ environ.
+b) Gouvernance des investissements :
+En valeur absolue, et depuis de nombreuses années, la France est le premier investisseur de l'Union européenne, avec 78,6 Md€ d'investissements publics au sens comptable (3) en 2015. La France ne souffre donc pas d'un problème de niveau d'investissement public. En revanche, l'utilisation optimale des deniers publics requiert d'investir mieux et de sélectionner les projets les plus utiles à la collectivité, c'est-à-dire ceux dont les gains pour la collectivité surpassent le plus les coûts. Ainsi, une décision d'investissement doit être éclairée par une comparaison objective de l'ensemble des coûts et des bénéfices socio-économiques du projet envisagé. Si la LPFP 2012-2017 a systématisé l'évaluation socio-économique des investissements, cette dernière reste variable selon les secteurs concernés et l'évaluation socioéconomique n'est d'une manière générale pas suffisamment prise en compte dans les décisions d'investissements.
+Le Gouvernement a pour objectif d'améliorer cet état de fait, via i) la définition d'une méthodologie harmonisée, partagée et utilisée par tous les porteurs de projets et ii) une réforme du processus d'instruction et de décision des projets d'investissements. Un comité d'experts mis en place sous l'égide de France Stratégie devra préciser et harmoniser les règles de l'évaluation socio-économique pour l'ensemble des secteurs, avec notamment la publication d'un guide d'ici la fin de l'année. De plus le Gouvernement mettra en place un comité interministériel de sélection des investissements placé sous l'autorité du Premier ministre et qui sera chargé de valider ou non les étapes clefs de la vie d'un projet : approbation du principe du projet après notamment analyse socio-économique et analyse de soutenabilité budgétaire, validation du mode de réalisation et du plan de financement, autorisation d'engagement juridique et financier. Ces mesures contribueront à renforcer durablement la qualité de l'investissement public et la visibilité collective sur l'avancement des projets.
+
+III. - L'effort sera équitablement réparti entre les sous-secteurs des administrations publiques
+A. - La trajectoire de l'Etat
+
+Sur la période de la programmation, la trajectoire de finances publiques de l'Etat connaîtrait l'évolution suivante :
+
+Tableau : variation du solde structurel des administrations publiques
+
+2017
+2018
+2019
+2020
+2021
+2022
+Solde en comptabilité nationale (en Md€)
+- 70,8
+- 77,0
+- 91,8
+- 62,7
+- 56,5
+- 47,4
+Solde en comptabilité nationale (en pt de PIB)
+- 3,1
+- 3,3
+- 3,8
+- 2,5
+- 2,2
+- 1,8
+Dépenses (en pt de PIB)
+21,3
+21,0
+20,7
+19,7
+19,4
+19,0
+Recettes (en pt de PIB)
+18,2
+17,8
+16,9
+17,2
+17,2
+17,3
+
+1. La trajectoire des dépenses et des recettes de l'Etat
+
+LFI 2017
+LFI 2017 format 2018
+PLF 2018
+2019
+2020
+Crédits ministériels
+234,6
+236,0
+241,3
+242,6
+247,5
+Taxes affectées
+9,6
+9,3
+9,1
+8,9
+9,0
+Budgets annexes et comptes spéciaux pilotables
+13,3
+13,3
+13,3
+13,8
+14,1
+Retraitements des flux internes au budget de l'Etat
+- 5,8
+- 5,8
+- 5,8
+- 5,9
+- 5,9
+Economies complémentaires Action publique 2022
+- 4,1
+Norme de dépenses pilotables
+251,7
+252,8
+257,9
+259,5
+260,5
+Evolution annuelle en volume
+1,0 %
+- 0,5 %
+- 1,0 %
+Transferts aux collectivités territoriales
+47,0
+47,1
+47,0
+47,1
+47,5
+Dépenses du CAS Pensions (hors programme 743)
+55,7
+55,7
+56,5
+57,8
+59,0
+Autres dépenses de comptes d'affectation spéciale
+1,5
+1,5
+1,8
+2,0
+1,0
+Charge de la dette
+41,5
+41,5
+41,2
+41,9
+44,7
+Prélèvement sur recettes au profit de l'Union européenne
+18,7
+18,7
+19,9
+23,3
+24,1
+Investissements d'avenir
+0,0
+0,0
+1,1
+1,1
+1,9
+Objectif de dépenses totales de l'Etat
+416,2
+417,4
+425,4
+432,7
+438,7
+Evolution annuelle en volume
+0,9 %
+0,6 %
+0,0 %
+
+Sur le champ de la norme de dépenses pilotables de l'Etat (cf. définition en annexe 3), les dépenses augmenteront de 5,1 Md€ en 2018, puis de 1,6 Md€ en 2019 et de 1,0 Md€ en 2020 soit une décélération très nette du rythme d'accroissement de la dépense sous norme. Cette hausse des crédits sous norme de dépenses pilotables de 7,7 Md€ en trois ans est à comparer à la hausse de 10,4 Md€ des crédits inscrits en LFI pour 2017 sur ce périmètre par rapport à la LFI pour 2016. En outre la croissance des dépenses en 2018 s'explique en grande partie par le rebasage des impasses de budgétisation de la LFI pour 2017 mises en lumière par l'audit de la Cour des comptes de juin 2017. Les impasses documentées par la Cour des comptes au titre de la LFI 2017 s'élèvent à 4,2 Md€ (cf. tableau p.37) soit un montant proche de l'augmentation des dépenses entre les LFI 2017 et 2018.
+Sur la période 2020-2022 le taux d'évolution en volume de la dépense sous norme pilotable sera de -1 % par an. Cette évolution sera rendue possible notamment par les réformes documentées dans le cadre du processus « Action Publique 2022 ».
+Sur le champ de l'objectif de dépenses totales de l'Etat (cf. annexe 3), l'évolution de la dépense serait de 21 Md€ entre 2017 et 2020. Le prélèvement sur recettes à destination de l'Union européenne, compris dans le champ de cet objectif, augmenterait de 5 Md€ environ entre 2017 et 2020, avec une chronique de dépenses estimée pour les années 2018, 2019 et 2020 de 20, 23 et 24 Md€.
+
+2. Un budget de transformation pour libérer les acteurs et les initiatives, protéger le pays et les plus vulnérables et investir dans l'avenir
+
+a) Libérer :
+Les transformations fiscales et budgétaires portées par les textes financiers sont menées en cohérence avec les réformes en matière de travail ou de logement, dans une logique de simplification et de modernisation des contraintes normatives et de libération des acteurs.
+La transformation économique de la France et le soutien à l'activité et la création d'emploi passera par un soutien accru aux entreprises, notamment fiscal, avec la transformation en 2019 du CICE en allègements de charges sociales pérennes, mesure permettant à la fois une plus grande simplicité et lisibilité pour les entreprises et qui améliorera leur trésorerie dans la mesure où elles bénéficieront de l'allègement immédiatement (et non plus a posteriori comme dans le cas d'un crédit d'impôt). En parallèle la poursuite de la baisse de l'IS de 28 % à 25 % en 2022 et la suppression de la contribution de 3 % sur les dividendes viendront accroître les marges de manœuvre des entreprises et donc leur capacité à investir et à se développer.
+La baisse de la pression fiscale redonnera aussi du pouvoir d'achat avec le dégrèvement de la taxe d'habitation pour 80 % des foyers, la suppression des cotisations salariales, et l'activation de dépenses sociales comme la revalorisation de la prime d'activité.
+b) Protéger :
+La programmation budgétaire présentée intègre le financement des priorités du Gouvernement en matière de justice, de sécurité et de défense. Ainsi la progression annuelle du budget des armées sera de + 1,7 Md€ par an tandis que 10 000 postes de policiers et de gendarmes seront créés d'ici 2022 (dont 2 000 en 2018). En outre, 6 500 postes seront créés à la justice sur la durée du quinquennat, dont 1 000 dès 2018.
+La fiscalité sera aussi mise au service de la transition écologique pour protéger contre le risque climatique, avec l'alignement progressif de la fiscalité du gazole sur celle de l'essence et l'accélération de la trajectoire carbone. Des mesures budgétaires comme la généralisation du chèque-énergie et la prime à la conversion pour les véhicules anciens sont incluses pour accompagner les plus fragiles dans la transition écologique.
+La trajectoire budgétaire concrétise aussi l'objectif du Gouvernement d'inventer de nouvelles protections pour mieux aider les plus fragiles. Le budget intègre ainsi les mesures de justice sociale et de soutien au pouvoir d'achat du Gouvernement que sont la revalorisation de la prime d'activité, la hausse de l'allocation aux adultes handicapés et la hausse de l'allocation de solidarité aux personnes âgées.
+c) Investir :
+Au-delà du soutien aux entreprises, les mesures fiscales de la trajectoire sur l'Etat visent à orienter l'épargne française vers l'investissement des entreprises qui prennent des risques, qui innovent et qui créent les emplois de demain. Ainsi un prélèvement forfaitaire unique de 30 % sur les revenus du capital sera introduit. En parallèle l'impôt sur la fortune sera supprimé et remplacé par un impôt sur la fortune immobilière. Enfin des mesures spécifiques sont prévues pour améliorer l'attractivité du territoire vis-à-vis des investissements étrangers, et notamment le développement de la place de Paris dans le contexte du Brexit.
+Les crédits prévus au titre du GPI pour la période 2018-2020 sont aussi intégrés dans les plafonds de chaque mission. Ces crédits seront dotés d'une gouvernance et d'un suivi spécifique. Sera notamment créé au sein d'une nouvelle mission du budget général un fonds pour la transformation de l'action publique, doté de 700 M€ de crédits sur le quinquennat et qui financera, sur la base d'appels à projet, les coûts d'investissement nécessaires à la mise en œuvre de réformes structurelles.
+
+3. Un budget qui opère des choix stratégiques pour financer les priorités du Gouvernement
+
+Des économies d'ampleur seront mises en œuvre sur l'ensemble des missions du budget pour financer les priorités exposées supra. Deux secteurs pour lesquels les résultats obtenus ne sont pas à la hauteur des moyens publics engagés seront particulièrement mis à contribution :
+En matière d'emploi le choix est fait, en parallèle de la réforme du code du travail, de diminuer le volume de contrats aidés, dont l'efficacité en matière de retour à l'emploi et d'insertion professionnelle n'est pas démontrée pour investir de manière prioritaire dans la formation professionnelle. Cette dépense s'inscrira dans le cadre du Grand plan d'investissement (GPI) destiné à augmenter le potentiel de croissance de l'économie française, à accélérer la transition écologique et à financer la transformation de l'action publique.
+En matière de logement la baisse des aides personnelles au logement (APL) se fera dans le cadre d'une série de réformes structurelles mises en œuvre entre 2018 et 2020 qui visent à sortir de la logique inflationniste induite par le soutien à la demande de logements et à soutenir l'offre de logement.
+D'autres économies seront mises en œuvre comme la rationalisation de l'intervention économique en matière de transition énergétique et le recentrage du crédit d'impôt transition énergétique sur les actions les plus efficaces.
+Au-delà des économies structurelles engagées dès 2018, « Action Publique 2022 » viendra prendre le relais en initiant un processus de réforme et de modernisation des administrations,
+L'évolution de la masse salariale de l'Etat et de ses opérateurs fera l'objet d'une maitrise stricte. En particulier le point d'indice est stabilisé en 2018 et un jour de carence est introduit pour réduire le micro-absentéisme. Par ailleurs, les effectifs de l'Etat et des opérateurs s'inscriront en baisse sur le quinquennat. Les créations d'emplois prévues dans les ministères stratégiques comme les armées, l'intérieur ou la justice seront ainsi compensées par des réductions d'effectifs plus importantes dans les autres domaines, selon les capacités d'optimisation et de gains de productivité identifiées.
+
+4. Trajectoire triennale 2018-2020
+
+La programmation d'ensemble des finances publiques couvre cinq années (2018-2022). Au cours de cette période, les moyens de l'Etat font l'objet d'une programmation plus précise qui détaille, dans le cadre du budget triennal 2018-2020, les crédits alloués à chaque mission. Les plafonds de l'année 2018 sont ceux inscrits dans le PLF. Les plafonds de l'année 2018 coïncident avec ceux qui seront présentés dans le cadre du PLF. Les plafonds de l'année 2019 sont fermes ; ceux de 2020 seront actualisés pour intégrer notamment les économies complémentaires issues du processus Action publique 2022 nécessaires au respect de la trajectoire globale.
+
+Evolution des plafonds de crédits de paiements par mission 2017-2020
+
+Crédits de paiement
+LFI 2017
+LFI 2017 Format 2018
+2018
+2019
+2020
+Action et transformation publiques
+0,00
+0,00
+0,02
+0,28
+0,55
+Action extérieure de l'Etat
+2,86
+2,86
+2,86
+2,75
+2,69
+Administration générale et territoriale de l'Etat
+2,49
+2,50
+2,15
+2,14
+2,30
+Agriculture, alimentation, forêt et affaires rurales
+3,15
+2,79
+3,18
+2,88
+2,84
+Aide publique au développement
+2,58
+2,59
+2,68
+2,81
+3,10
+Anciens combattants, mémoire et liens avec la nation
+2,54
+2,54
+2,46
+2,34
+2,25
+Cohésion des territoires
+18,26
+18,26
+17,22
+15,65
+15,14
+Conseil et contrôle de l'Etat
+0,51
+0,51
+0,52
+0,53
+0,53
+Crédits non répartis
+0,02
+0,02
+0,12
+0,12
+0,85
+Culture
+2,70
+2,70
+2,72
+2,74
+2,78
+Défense
+32,44
+32,44
+34,20
+35,90
+37,60
+Direction de l'action du Gouvernement
+1,37
+1,38
+1,38
+1,39
+1,40
+Ecologie, développement et mobilité durables
+9,44
+9,91
+10,39
+10,55
+10,57
+Economie
+1,64
+1,65
+1,62
+1,79
+2,15
+Engagements financiers de l'Etat (hors dette)
+0,55
+0,55
+0,58
+0,43
+0,43
+Enseignement scolaire
+50,01
+50,01
+51,49
+52,09
+52,95
+Gestion des finances publiques et des ressources humaines
+8,12
+8,11
+8,15
+8,10
+8,04
+Immigration, asile et intégration
+1,10
+1,10
+1,38
+1,36
+1,36
+Investissements d'avenir
+0,00
+0,00
+1,08
+1,05
+1,88
+Justice
+6,85
+6,72
+6,98
+7,29
+7,65
+Médias, livre et industries culturelles
+0,57
+0,57
+0,55
+0,54
+0,54
+Outre-mer
+2,02
+2,02
+2,02
+2,02
+2,03
+Pouvoirs publics
+0,99
+0,99
+0,99
+0,99
+0,99
+Recherche et enseignement supérieur
+26,69
+26,69
+27,40
+27,87
+28,02
+Régimes sociaux et de retraite
+6,31
+6,31
+6,33
+6,27
+6,30
+Relations avec les collectivités territoriales
+3,44
+3,35
+3,66
+3,51
+3,54
+Santé
+1,27
+1,24
+1,38
+1,48
+1,54
+Sécurités
+13,10
+13,09
+13,32
+13,48
+13,66
+Solidarité, insertion et égalité des chances
+17,64
+17,67
+19,44
+21,31
+21,94
+Sport, jeunesse et vie associative
+0,73
+0,80
+0,95
+1,05
+1,07
+Travail et emploi
+15,27
+16,68
+15,17
+12,96
+12,68
+
+Le respect de ce budget triennal est garanti par deux mécanismes fondamentaux : un principe d'auto-assurance et la constitution d'une réserve de précaution.
+
+B. - La trajectoire des organismes divers d'administration centrale
+
+Eu égard à la règle posée à l'article 12 de la loi de programmation des finances publiques 2011-2014 interdisant aux ODAC de s'endetter auprès d'un établissement de crédit pour une période allant au-delà d'une année les ODAC sont globalement à l'équilibre. La poursuite des décaissements au titre des PIA 1 et 2 explique le solde déficitaire des ODAC sur la période.
+
+Tableau : trajectoire des organismes divers d'administration centrale
+
+2017
+2018
+2019
+2020
+2021
+2022
+Dépense
+3,5
+3,3
+3,2
+3,1
+3,0
+3,0
+Recette
+3,5
+3,2
+3,1
+3,0
+3,0
+2,9
+Solde
+- 0,1
+- 0,1
+- 0,1
+- 0,1
+- 0,1
+0,0
+
+C. - La trajectoire des administrations de sécurité sociale
+
+Le tableau ci-dessous présente la trajectoire des administrations de sécurité sociale pour les années 2016-2022.
+
+(En points de PIB sauf indication contraire)
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Dépenses
+26,3
+26,0
+25,9
+25,6
+25,1
+24,9
+24,5
+Recettes
+26,1
+26,2
+26,5
+26,4
+25,9
+25,7
+25,3
+Solde
+- 0,1
+0,2
+0,5
+0,8
+0,8
+0,8
+0,8
+Solde (Md€)
+- 2,9
+4,0
+12,5
+19,9
+20,3
+20,9
+21,7
+
+Le solde des administrations de sécurité sociale (ASSO) se redresserait sur la période 2019-2022, du fait de la dynamique modérée des dépenses des branches vieillesse et famille et de la maîtrise des dépenses d'assurance maladie. Proche de l'équilibre dans le compte provisoire de 2016, le solde des ASSO deviendrait positif dès 2017. Au-delà, sous le double impact de dépenses maîtrisées et de recettes favorables dans un contexte de croissance solide et de nette amélioration en termes d'emploi, le solde des ASSO deviendrait très excédentaire.
+Aussi, dans cette trajectoire, il est fait l'hypothèse conventionnelle d'une contribution du secteur ASSO à la réduction du déficit de l'Etat, sous forme de transfert, dès 2019. Ce transfert stabilise l'excédent ASSO hors Cades et FRR sur toute la période à un niveau légèrement supérieur à l'équilibre. Ce choix, neutre sur l'ensemble des APU, reflète aussi le fait qu'une contribution des sous-secteurs revenus à l'équilibre reste nécessaire.
+Les comptes présentés dans la loi de financement de la sécurité sociale et dans la loi de programmation des finances publiques relèvent de périmètres et de conventions comptables distinctes à double titre. D'une part, le champ des ASSO couvert par la LPFP est plus étendu que celui couvert par la LFSS car il inclut notamment le régime d'indemnisation du chômage, les régimes complémentaires de retraite des salariés et les organismes dépendant des assurances sociales (principalement les hôpitaux et Pôle Emploi). D'autre part, les conventions comptables utilisées par la comptabilité nationale diffèrent du plan comptable unique des organismes de sécurité sociale. Elles excluent en particulier les dotations nettes des reprises sur provisions, les dotations aux amortissements et les plus-values sur cessions d'immobilisations financières ou opérations de change.
+
+1. Maîtriser dans un cadre pluriannuel les dépenses d'assurance-maladie tout en garantissant la qualité des soins et l'accès à l'innovation
+
+La gouvernance de l'ONDAM mise en place depuis plusieurs années (abaissement du seuil d'alerte, mise en place du comité de pilotage, augmentation du nombre des interventions du comité d'alerte) ainsi que la mise en œuvre du plan d'économies 2015-2017 ont contribué au respect de l'objectif en 2016 pour la septième année consécutive. S'agissant de 2017, les données d'exécution à fin mai sur les soins de ville ne laissent pas, à ce stade, craindre un dépassement de l'objectif pour 2017, constat qui avait déjà été celui du comité d'alerte de l'ONDAM en juin. Ce dernier se réunira au plus tard le 15 octobre pour rendre un avis qui portera à la fois sur la construction de l'objectif pour 2018 et sur les risques éventuels quant à la réalisation de l'objectif de l'année en cours.
+Dans le cadre de la stratégie globale des finances publiques, l'ONDAM connaîtra un taux d'évolution en moyenne annuelle de + 2,3 % sur la période 2018-2020, soit un effort d'économies de 4,2 Md€ dès 2018 afin de compenser une évolution tendancielle des dépenses de + 4,5 %.
+Pour assurer le respect de cette trajectoire, assurer une amélioration continue de la qualité de soins et garantir l'accès de tous aux soins innovants, le système de soins poursuivra sa transformation dans le cadre de la stratégie nationale de santé (SNS). La prévention, la lutte contre les inégalités d'accès sociales et territoriales aux soins, la pertinence et la qualité des soins et le soutien à l'innovation en constitueront les axes prioritaires d'action.
+L'ensemble des acteurs en ville et à l'hôpital seront mobilisés durant la période 2018-2022 pour renforcer l'efficience de l'offre de soins avec comme leviers la structuration de parcours de soins efficients, l'amélioration de la performance des établissements de santé et médico-sociaux, la pertinence des actes, des prestations et des produits de santé.
+Les efforts sur les prix des médicaments seront poursuivis pour rémunérer l'innovation à son juste prix et développer l'usage des génériques et des biosimilaires avec pour objectif de maintenir un haut niveau d'accès aux soins innovants tout en assurant la soutenabilité de la dépense.
+
+2. La modération des dépenses des branches vieillesse et famille contribuera à l'objectif global de redressement des finances publiques
+
+Le tableau ci-dessous présente les dépenses prévisionnelles d'assurance vieillesse et d'allocations familiales des régimes obligatoires de base de sécurité sociale pour les années 2018-2020 :
+
+Charges nettes des régimes obligatoires de base de sécurité sociale
+
+En évolution
+2018
+2019
+2020
+Branche vieillesse
+2,3 %
+2,5 %
+2,6 %
+Branche famille
+0,1 %
+0,8 %
+0,9 %
+ONDAM
+2,3 %
+2,3 %
+2,3 %
+
+L'évolution des dépenses d'assurance vieillesse des régimes de base serait de + 2,7 % en moyenne sur la période 2018-2022. La reprise progressive de l'inflation entraîne une accélération très progressive des pensions. Toutefois celle-ci resterait assez modérée, du fait de la montée en charge jusqu'en 2022 de la réforme des retraites de 2010.
+Comme pour les retraites, les dépenses indexées de la branche famille devraient subir l'effet de la reprise de l'inflation. Toutefois, la trajectoire des dépenses comporte un volet d'économies conformément aux dispositions qui sont proposées au vote du Parlement dans le projet de loi de financement de la sécurité sociale pour 2018. Ces dispositions permettront d'infléchir les dépenses de la branche via, notamment, une meilleure priorisation au sein des dépenses du Fonds national d'action sociale (FNAS) de la CNAF. Ainsi, les dépenses connaîtraient une évolution moyenne sur la trajectoire de 0,8 %.
+
+3. Le dynamisme de la masse salariale et les accords conclus par les partenaires sociaux permettront de garantir la pérennité des régimes complémentaires de retraite
+
+Le solde des régimes complémentaires se redresserait de 7,1 Md€ entre 2016 et 2022. Cette amélioration s'explique notamment par les efforts entrepris par les régimes Agirc et Arrco dans le cadre de l'accord signé en 2015. Sa mise en œuvre soutiendrait les recettes (augmentation du taux d'appel à 127 %, fusion de la tranche T2 et de la tranche TB, unification des deux régimes) et permettrait aux dépenses de ralentir (via les coefficients de solidarité et les coefficients majorants notamment).
+Dépenses, recettes et soldes des régimes complémentaires de retraite :
+
+En Md€ en comptabilité nationale
+2018
+2019
+2020
+Solde
+1,6
+4,5
+5,5
+Recettes
+102,9
+107,8
+111,4
+Dépenses
+101,2
+103,4
+106,0
+
+4. La baisse du chômage, associée aux effets de la convention de mars 2017, permettra le retour à l'équilibre de l'UNEDIC
+
+Le solde du régime d'indemnisation du chômage se redresserait significativement entre 2016 et 2022 sous l'effet de l'amélioration progressive de l'emploi et des mesures prises par les partenaires sociaux lors des accords professionnels du 28 mars 2017. Ceux-ci permettraient des économies progressives en dépenses sur la période, allant de 260 M€ en 2018 jusqu'à un peu plus de 900 M€ en 2022. Par ailleurs, des mesures temporaires en recettes soutiendraient l'amélioration du solde en début de période (pour environ 300 M€ en 2018 et 2019) avant de s'éteindre progressivement.
+Dans le cadre de la mesure de baisse des cotisations pour les actifs en 2018, les cotisations salariales à l'assurance chômage seront supprimées (baisse de 2,4 points). Cette mesure sera intégralement compensée pour l'UNEDIC.
+Afin de rendre le marché du travail plus fluide, l'assurance chômage deviendra universelle progressivement à partir de 2018 : elle couvrira tous les actifs (salariés, travailleurs indépendants) et facilitera les transitions d'un statut à un autre. En contrepartie de ces droits nouveaux, le contrôle de la recherche d'emploi sera accru avec le recrutement de mille conseillers de contrôle. Le Gouvernement engagera dès l'automne 2017 une concertation avec les partenaires sociaux gestionnaires de l'assurance chômage sur l'ensemble de ces mesures qui devront également permettre de garantir la soutenabilité financière du régime.
+
+Dépenses, recettes et soldes de l'assurance chômage
+
+Md€ en comptabilité nationale
+2018
+2019
+2020
+Solde
+- 2,1
+- 0,8
+0,6
+Recettes
+37,8
+38,9
+40,1
+Dépenses
+39,9
+39,7
+39,4
+
+D. - La trajectoire des administrations publiques locales
+
+Comme les autres secteurs publics, les administrations publiques locales contribueront à l'effort de maîtrise des dépenses publiques : leurs dépenses diminueront d'environ 1 point de PIB sur l'ensemble du quinquennat, passant de 11,2 % en 2017 à 10,1 % en 2022, tandis que leurs recettes diminueront dans des proportions moindres (de 11,2 % de PIB en 2017 à 10,8 % en 2022). Ainsi, leur solde s'améliorera fortement au cours des prochaines années, passant de 0,1 % de PIB en 2017 (soit 1,4 Md€) à 0,7 % de PIB en 2022 (soit 19,5 Md€).
+Cette trajectoire est une conséquence directe du nouveau pacte financier entre l'Etat et les collectivités locales : celles-ci s'engageront à baisser leurs dépenses de 13 Md€ sur la durée du quinquennat par rapport à leur évolution tendancielle mais ne verront pas leurs dotations réduites. Ce contrat de mandature traduit la volonté du Président de la République de modifier en profondeur le rapport de l'Etat et des collectivités territoriales : ce dernier sera fondé sur la confiance et la responsabilité et non plus sur la contrainte. Au-delà de cette dynamique d'ensemble, le solde des collectivités locales sera marqué de manière usuelle par le cycle électoral communal qui affecte habituellement leurs dépenses d'investissement. L'investissement local devrait ainsi connaitre une hausse marquée jusqu'en 2019 puis une baisse à partir de 2020, année d'élection municipale.
+
+Tableau : trajectoire des administrations publiques locales
+
+(% PIB)
+2017
+2018
+2019
+2020
+2021
+2022
+Dépenses
+11,2
+11,0
+10,9
+10,7
+10,3
+10,1
+Recettes
+11,2
+11,1
+11,0
+10,9
+10,9
+10,8
+Solde
+0,1
+0,1
+0,1
+0,3
+0,5
+0,7
+Solde (Md€)
+1,4
+1,7
+2,7
+6,8
+14,2
+19,5
+
+E. - Si la législation et les politiques de finances publiques n'étaient pas réformées, le déficit public se résorberait plus lentement et la dette ne décroîtrait pas sur le quinquennat
+
+La trajectoire de solde public à législation et pratique inchangées, présentée ici conformément à la loi organique de programmation et de gouvernance des finances publiques de 2012 et à la directive de 2011 sur les cadres budgétaires, s'appuie sur les résultats obtenus ces dernières années en termes de maîtrise de la dépense publique, et prend pour hypothèse une croissance des dépenses égale à la moyenne sur les 10 dernières années de la croissance publique en volume hors crédits d'impôt (soit + 1,3 % par an).
+En recettes, elle se place dans un cadre dans lequel aucune mesure nouvelle n'aurait été prise depuis le début de la nouvelle législature (été 2017). Dans un tel scénario, le déficit se résorberait lentement : en 2022, il serait toujours de 2,2 % de PIB contre 0,3 % dans la trajectoire de la LPFP. De ce fait, le ratio de dette publique sur PIB serait beaucoup plus dynamique : la dette culminerait à 97,9 % point de PIB en 2019, puis commencerait à refluer lentement pour atteindre 96,6 % de PIB en 2022. Sur le quinquennat, la dette serait quasi-inchangée. A l'inverse, dans la trajectoire de la LPFP, la dette atteint 97,1 % de PIB en 2019 et décroît ensuite, pour s'établir à 91,4 % en 2022.
+
+En % PIB
+2017
+2018
+2019
+2020
+2021
+2022
+Solde public et législation et pratique inchangées
+- 3,1
+- 3,4
+- 2,8
+- 2,5
+- 2,4
+- 2,2
+Dette publique à législation et pratique inchangées
+96,9
+97,7
+97,9
+97,8
+97,4
+96,6
+Dépenses hors CI
+0,2
+0,6
+0,9
+1,4
+2,0
+2,6
+Mesures annoncées en recettes (*)
+0,0
+- 1,0
+- 0,4
+- 0,5
+- 0,6
+Solde public de la LPFP
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Dette publique de la LPFP
+96,7
+96,9
+97,1
+96,1
+94,2
+91,4
+(*) yc contribution nette des crédits d'impôts en recettes et en dépenses
+
+## Annexe
+Annexe 3. Périmètre des mesures ponctuelles et temporaires à exclure de la mesure du solde structurel
+
+Afin de traiter des mesures ponctuelles qui modifient de manière temporaire les soldes publics, le Pacte de stabilité et de croissance a introduit, dès sa révision de 2005, la notion de mesures « ponctuelles et temporaires » (one-off en anglais) qui n'ont pas d'impact pérenne sur le déficit public. Ce concept vise à couvrir des événements de très grande ampleur qui brouillent la lecture de l'équilibre des finances publiques. Le solde structurel est ainsi défini comme le solde public corrigé des effets du cycle économique et de ces mesures ponctuelles et temporaires.
+
+I. - La définition générale des mesures ponctuelles et temporaires doit être complétée par une analyse au cas par cas
+
+L'évolution des finances publiques résulte d'une multitude d'évènements temporaires et exceptionnels. Il est donc malaisé de distinguer ce qui peut être considéré comme un élément exceptionnel et ce qui relève du domaine de l'ordinaire. Par exemple, beaucoup d'investissements publics sont par nature des dépenses « uniques » : la construction d'une route, d'une école ou d'une ligne à grande vitesse. Pour autant, il ne serait pas envisageable d'exclure les investissements du solde structurel. Cette problématique est générale en termes de finances publiques : les coûts des opérations extérieures (guerre, opération à l'étranger), les dépenses en cas de catastrophes naturelles, le déclenchement de garanties, peuvent représenter des montants importants, parfois temporaires, qu'il est difficile de caractériser.
+La Commission Européenne a développé dans le rapport « Public Finance in the EMU 2015 » une doctrine concernant la classification de mesures en mesures ponctuelles et temporaires, reprise ensuite dans le « Vade Mecum on the Stability and Growth Pact » (édition 2016). La Commission Européenne donne 5 principes pour exclure une mesure du solde structurel (mesure dite one-off) :
+1. La mesure est intrinsèquement non récurrente ;
+2. Le caractère de one-off ne peut pas être décrété par la loi ou par une décision du gouvernement ;
+3. Les composantes volatiles des recettes ou des dépenses ne doivent pas être considérées comme one-offs ;
+4. Les mesures discrétionnaires conduisant à creuser le déficit public ne sont pas, sauf exception, des one-offs ;
+5. Seules les mesures ayant un impact significatif sur le solde public (i.e. supérieur à 0,1 % du PIB) peuvent être traitées en one-off.
+Le principe n° 4 introduit une asymétrie dans l'appréciation de la Commission sur les mesures one-off. En effet, la Commission présume que les mesures qui creusent le solde public ont plus souvent un caractère permanent que celles qui l'améliorent, et donc ne peuvent être exclues sauf exception de la mesure du solde structurel, sans apporter de justification de fond à cette différence. A partir de ces principes, la Commission dresse une liste non-exhaustive de mesures pouvant être classés en one-off, parmi lesquelles :
+
+- Des recettes fiscales exceptionnelles liées à une mesure temporaire d'amnistie fiscale ;
+- Des décisions consistant à décaler de manière permanente le calendrier d'encaissement de recettes fiscales, ou de manière temporaire certaines dépenses ;
+- Des cessions importantes d'actifs non-financiers (immobilier par exemple) ;
+- Des coûts temporaires associés à la réponse à des désastres naturels majeurs ou d'autres événements exceptionnels.
+
+En tout état de cause, la Commission adopte cependant une approche au cas par cas et se réserve la décision de classer ou non une mesure donnée comme « ponctuelle et temporaire ».
+
+II. - La doctrine proposée par le Gouvernement pour la LPFP 2018-2022
+
+Tout en reconnaissant que le caractère ponctuel et temporaire des mesures doit être apprécié au cas par cas, le Gouvernement propose un ensemble de critères permettant de mieux appréhender la notion de one-offs, regroupés en trois ensembles.
+A. - Premier ensemble : les mesures définies comme one-off en amont de la programmation, au regard de leur effet ponctuel et temporaire sur les finances publiques : seule la réforme du CICE entre dans cette catégorie.
+Ces mesures sont sélectionnées à la lumière de 4 principes.
+(1) L'événement concerné ne doit pas être récurrent
+Aucune catégorie d'événements récurrents ne peut être exclue par principe de la mesure du solde structurel. Par exemple, les remises de dette aux Etats étrangers sont fréquentes en France, notamment dans le cadre du Club de Paris et de sa politique d'aide au développement. Exclure systématiquement de telles opérations viendrait biaiser la mesure du déficit. De même, les dépenses liées aux catastrophes naturelles ou aux opérations militaires extérieures, bien qu'irrégulières, sont récurrentes. Enfin, des opérations qui relèvent de la gestion habituelle du patrimoine non financier de l'Etat (investissement public, cessions d'immeubles, gestion du patrimoine immatériel comme les fréquences hertziennes) n'ont pas non plus vocation à être systématiquement corrigées en one-off. Seule une analyse au cas par cas permettrait de retirer celles dont l'ampleur complique la lecture du déficit public.
+(2) Une année donnée, le nombre de one-offs doit être limité pour éviter de biaiser la mesure du déficit public
+Ce principe pose un garde-fou face au grand nombre de mesures ponctuelles qui rythment en pratique l'évolution du solde des administrations publiques (investissements exceptionnels par exemple), pour éviter un recours trop systématique à la classification en one-off qui biaiserait le calcul du solde structurel.
+(3) L'événement concerné doit entraîner un impact budgétaire significatif
+Il convient ainsi de n'envisager que des facteurs qui peuvent potentiellement représenter un impact budgétaire positif ou négatif important.
+(4) Toute mesure qui améliore le solde public aujourd'hui pour le dégrader systématiquement dans le futur doit être considéré comme un one-off
+Suivant les règles du Système Européen des Comptes 1995 (SEC 95), c'était le cas des soultes liées à la reprise des obligations futures de paiement de retraite (les administrations récupèrent en une fois une compensation correspondant à la valeur actualisée des déséquilibres futurs). Néanmoins, depuis la publication des comptes suivant les règles du SEC 2010, les soultes reçues en contrepartie d'engagement de retraites n'améliorent plus le déficit en une seule fois mais sur de nombreuses années, ce qui supprime la nécessité de les classer en one-off.
+Au total, suivant ces critères, seules les réformes du CICE et du CITE prévues toutes les deux en 2019 doivent être qualifiées ex-ante de one-off.
+Le CICE est un avantage accordé sur la masse salariale versée par les entreprises. La réforme proposée n'en modifie ni le niveau, ni le fait générateur économique. La transformation du CICE en baisse de cotisations sociales au 1er janvier 2019 permet de conserver inchangé l'avantage auxquelles les entreprises ont droit sur leur masse salariale. Alors que la masse salariale versée courant 2018 permet d'obtenir un droit au CICE (6 % de la MS < ; 2,5 SMIC), la masse salariale versée courant 2019 est soumise à des réductions de cotisations équivalentes : il n'y a donc ni interruption ni modulation de la réduction du coût du travail entre 2018 et 2019. Seule la date de paiement est avancée, avec un changement de calendrier aboutissant à un double coût en 2019.
+La fraction de la baisse de cotisation venant en plus de l'ancien CICE (qui correspond à une extension de champ) constitue une mesure supplémentaire, indépendante de la problématique de la bascule.
+Le double coût en 2019 est dû à une modification pérenne du calendrier de versement de l'avantage équivalent au CICE. En comptabilité nationale, des modifications non-pérennes du calendrier de paiement de certains impôts ou de dépenses de subventions doivent être corrigées, afin de ne pas perturber la mesure du solde public pour des raisons purement budgétaires (5). En revanche, dans le cas de transferts dont le montant final n'est établi avec certitude que dans une période comptable ultérieure à leur fait générateur économique, comme c'est le cas des crédits d'impôts (6), les modifications pérennes ne sont pas corrigées et peuvent conduire à des pics temporaires de recettes ou de dépenses (7).
+Le double coût en 2019 doit être exclu de la mesure sur solde structurel car il est ponctuel et temporaire. Le changement de date de versement du CICE intervient en effet en une seule fois et son effet sur le solde public ne porte que sur une année.
+Ensemble 1 : Mesures considérées comme one-off en amont de la programmation au regard de leur impact ponctuel et temporaire
+LPFP 2014-2017 (SEC 2010) : Aucune.
+LPFP 2018-2022 : Réforme du CICE.
+B. - Deuxième ensemble : les événements dont l'impact budgétaire est substantiel mais dont la temporalité est incertaine.
+Au moment de la programmation pluriannuelle, il convient de traiter de manière spécifique les éléments connus ex ante, pour lesquels l'incertitude entourant les montants concernés ou les dates d'occurrence ou d'imputation est importante. Cette logique prévaut dans le traitement en one-off des contentieux fiscaux de série (ou « de masse ») dont l'instruction est en cours. Cette incertitude ne vient pas biaiser la mesure du solde structurel, puisque les montants sont déjà provisionnés dans la trajectoire initiale.
+Ensemble 2 : Evénements importants financièrement mais incertains en termes de temporalité, considérées comme one-off en amont des lois de programmation.
+LPFP 2014-2017 : contentieux fiscaux de masse.
+LPFP 2018-2022 : contentieux fiscaux de masse.
+C. - Troisième ensemble : dans le cadre du contrôle ex post, des événements imprévus ayant un impact unique sur le solde public peuvent être traités en one-off.
+Le traitement des événements imprévus dans le cadre du contrôle ex post doit être apprécié au regard des règles organiques relatives au mécanisme de correction des écarts.
+Si, en cours de mise en œuvre de la programmation, des événements d'impact très important apparaissent, qui n'avaient pu être anticipés ex ante et qui ne modifient pas la trajectoire de moyen terme, il serait inutile de prendre des mesures pour corriger la déviation compte tenu de leur caractère temporaire. Du point de vue des règles organiques, il est alors pragmatique de les traiter en one-off pour éviter de déclencher inutilement le mécanisme de correction. Les critères de taille et de non pérennité sont essentiels pour juger des mesures à inclure dans cette catégorie.
+Ensemble 3 : Evénements imprévus à intégrer en tant que one-offs ex post :
+LPFP 2014-2017 : Changement de temporalité dans l'enregistrement en comptabilité nationale des budgets rectificatifs de l'Union Européenne fin 2014.
+LPFP 2018-2022 : Aucune information à ce stade. Exceptionnel et non anticipé par nature.
+
+## Annexe
+Annexe 2. Mode de calcul du solde structurel
+
+Le solde structurel est le solde qui serait observé si le PIB était égal à son potentiel. Il correspond au solde public corrigé des effets du cycle économique et son calcul repose donc sur l'écart entre le PIB effectif noté Y et le PIB potentiel noté Y*.
+Côté dépense, seules les dépenses de chômage sont supposées cycliques. Le reste des dépenses sont supposées être structurelles, soit parce qu'elles sont de nature discrétionnaire, soit parce que leur lien avec la conjoncture est difficile à mesurer. Côté recettes, on suppose que tous les prélèvements obligatoires (impôt sur le revenu [IR] et contribution sociale généralisée [CSG], impôt sur les sociétés [IS], cotisations sociales et les autres prélèvements obligatoires) dépendent de la conjoncture tandis que le reste des recettes est supposé être indépendant à la position de l'économie dans le cycle.
+
+Elasticités (4) à l'écart de production
+
+Retenues depuis 2014
+Impôt sur le revenu
+1,86
+CSG
+1,86
+Impôt sur les sociétés
+2,76
+Cotisations sociales
+0,63
+Autres prélèvements obligatoires (dont TVA)
+1,00
+Dépenses chômage
+- 3,23
+
+Pour chaque catégorie de prélèvements obligatoires R, la composante structurelle Rs peut s'écrire en fonction de l'élasticité conventionnelle θ à l'écart de production OG :
+Le total des recettes structurelles est donc obtenu comme la somme des recettes structurelles, calculées Rs (pour les quatre catégories de prélèvements obligatoires cycliques : IR et CSG, IS, cotisations sociales et autres prélèvements obligatoires), additionnée au reste des recettes. Les dépenses structurelles s'obtiennent comme la différence entre les dépenses effectives et les dépenses structurelles liées au chômage, Dscho. Celles-ci sont déterminées de la même manière que pour les recettes structurelles, en fonction de l'élasticité conventionnelle ν des dépenses de chômage à l'écart de production.
+La différence entre les dépenses structurelles et les recettes structurelles constitue le solde structurel Ss. Enfin, le ratio du solde structurel au PIB potentiel en valeur retient le déflateur du PIB.
+
+## Titre IER : ORIENTATIONS PLURIANNUELLES DES FINANCES PUBLIQUES
+Est approuvé le rapport annexé à la présente loi, prévu à l'article 5 de la loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques.
+
+### Chapitre Ier : Les objectifs généraux des finances publiques
+L'objectif à moyen terme des administrations publiques mentionné au b du 1 de l'article 3 du traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signé à Bruxelles le 2 mars 2012, est fixé à - 0,4 % du produit intérieur brut potentiel.
+Dans le contexte macroéconomique et selon les hypothèses et les méthodes retenues pour établir la programmation, décrits dans le rapport mentionné à l'article 1er de la présente loi, l'objectif d'évolution du solde structurel des administrations publiques, défini au rapport annexé à la présente loi, s'établit, conformément aux engagements européens de la France, comme suit :
+
+(En %)
+
+2017
+2018
+2019
+2020
+2021
+2022
+Solde structurel
+- 2,2
+- 2,1
+- 1,9
+- 1,6
+- 1,2
+- 0,8
+Ajustement structurel
+0,3
+0,1
+0,3
+0,3
+0,4
+0,4
+Dans le contexte macroéconomique et selon les hypothèses et les méthodes retenues pour établir la programmation mentionnée à l'article 2 :
+1° L'évolution du solde public effectif, du solde conjoncturel, des mesures ponctuelles et temporaires, du solde structurel et de la dette publique s'établit comme suit :
+
+(En points de produit intérieur brut)
+
+2017
+2018
+2019
+2020
+2021
+2022
+Solde public effectif (1 + 2 + 3)
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Solde conjoncturel (1)
+- 0,6
+- 0,4
+- 0,1
+0,1
+0,3
+0,6
+Mesures ponctuelles et temporaires (2)
+- 0,1
+- 0,2
+- 0,9
+0,0
+0,0
+0,0
+Solde structurel (en points de PIB potentiel) (3)
+- 2,2
+- 2,1
+- 1,9
+- 1,6
+- 1,2
+- 0,8
+Dette des administrations publiques
+96,7
+96,9
+97,1
+96,1
+94,2
+91,4
+
+2° L'évolution du solde public effectif, décliné par sous-secteur des administrations publiques, s'établit comme suit :
+
+(En points de produit intérieur brut)
+
+2017
+2018
+2019
+2020
+2021
+2022
+Solde public effectif
+- 2,9
+- 2,8
+- 2,9
+- 1,5
+- 0,9
+- 0,3
+Dont :
+- administrations publiques centrales
+- 3,2
+- 3,4
+- 3,9
+- 2,6
+- 2,3
+- 1,8
+- administrations publiques locales
+0,1
+0,1
+0,1
+0,3
+0,5
+0,7
+- administrations de sécurité sociale
+0,2
+0,5
+0,8
+0,8
+0,8
+0,8
+L'objectif d'effort structurel des administrations publiques s'établit comme suit :
+
+(En points de produit intérieur brut potentiel)
+
+2017
+2018
+2019
+2020
+2021
+2022
+Effort structurel
+0,0
+0,2
+0,3
+0,4
+0,5
+0,5
+Dont :
+- mesures nouvelles sur les prélèvements obligatoires (hors crédits d'impôts)
+- 0,1
+- 0,3
+- 0,1
+- 0,5
+0,0
+0,1
+- effort en dépense (hors crédits d'impôts)
+0,0
+0,4
+0,4
+0,5
+0,5
+0,6
+- clé de crédits d'impôts
+0,1
+0,0
+0,0
+0,4
+0,0
+- 0,2
+Dans le contexte macroéconomique et selon les hypothèses et les méthodes retenues pour établir la programmation mentionnée à l'article 2, les objectifs d'évolution de la dépense publique et du taux de prélèvements obligatoires s'établissent comme suit :
+
+(En points de produit intérieur brut)
+
+2017
+2018
+2019
+2020
+2021
+2022
+Dépense publique, hors crédits d'impôts
+54,7
+54,0
+53,4
+52,6
+51,9
+51,1
+Taux de prélèvements obligatoires
+44,7
+44,3
+43,4
+43,7
+43,7
+43,7
+Dépenses publiques, y compris crédits d'impôts
+56,1
+55,7
+54,9
+53,3
+52,5
+51,6
+I. - Lorsque des écarts importants, au sens de l'article 23 de la loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques, sont constatés entre l'exécution de l'année écoulée et la trajectoire de solde structurel décrite à l'article 2 de la présente loi, le Gouvernement, conformément à ses engagements tels qu'ils résultent du traité mentionné au même article 2 :
+1° Explique les raisons de ces écarts lors de l'examen du projet de loi de règlement par chaque assemblée. Ces écarts sont appréciés dans le cadre d'une évaluation prenant pour référence le solde structurel et comprenant une analyse de l'effort structurel sous-jacent défini dans le rapport mentionné à l'article 1er ;
+2° Propose des mesures de correction dans le rapport sur l'évolution de l'économie nationale et sur les orientations des finances publiques mentionné à l'article 48 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances dont il est tenu compte dans le prochain projet de loi de finances de l'année ou projet de loi de financement de la sécurité sociale de l'année. Ces mesures de correction permettent de retourner à la trajectoire de solde structurel décrite à l'article 2 de la présente loi dans un délai maximal de deux ans à compter de la fin de l'année au cours de laquelle les écarts ont été constatés. Elles portent sur l'ensemble des administrations publiques.
+II. - Les obligations prévues au 2° du I du présent article ne s'appliquent pas en cas de circonstances exceptionnelles de nature à justifier les écarts constatés, définies au b du 3 de l'article 3 du traité mentionné à l'article 2.
+III. - Lorsque les circonstances exceptionnelles ont disparu, le Gouvernement présente un projet de loi de programmation des finances publiques en cohérence avec les obligations européennes de la France, au plus tard lors de l'examen du prochain projet de loi de finances de l'année.
+Lorsque le solde conjoncturel des administrations publiques est constaté à un niveau plus favorable que la prévision mentionnée à l'article 3, l'intégralité de l'écart est affectée à la réduction du déficit.
+Lorsque le déficit structurel des administrations publiques est constaté à un niveau plus favorable que la programmation mentionnée à l'article 2, au moins la moitié de l'écart constaté est durablement affectée à la réduction du déficit. La part qui n'est pas affectée à la réduction du déficit est allouée à des baisses de prélèvements obligatoires ou à des dépenses d'investissement.
+Le présent article s'applique tant que l'objectif à moyen terme, fixé au même article 2, n'est pas atteint.
+
+### Chapitre II : L'évolution des dépenses publiques sur la période 2017-2022
+Dans le contexte macroéconomique mentionné à l'article 2, les objectifs d'évolution de la dépense publique des sous-secteurs des administrations publiques s'établissent comme suit :
+
+Taux de croissance des dépenses publiques en volume, hors crédits d'impôt et transferts, corrigées des changements de périmètre
+
+(En %)
+
+2017
+2018
+2019
+2020
+2021
+2022
+Administrations publiques, hors crédits d'impôt
+0,9
+0,6
+0,7
+0,3
+0,2
+0,1
+Dont :
+- administrations publiques centrales
+1,0
+0,3
+0,8
+1,2
+0,7
+0,2
+- administrations publiques locales
+1,7
+0,2
+0,9
+- 0,4
+- 1,6
+- 0,6
+- administrations de sécurité sociale
+0,6
+0,9
+0,4
+0,1
+0,6
+0,4
+Administrations publiques, y compris crédits d'impôt
+1,0
+1,0
+0,5
+- 1,2
+0,1
+0,1
+Dont administrations publiques centrales
+1,0
+1,4
+0,3
+- 3,2
+0,3
+0,2
+I. - L'agrégat composé des dépenses du budget général et des budgets annexes, hors mission « Remboursements et dégrèvements » et « Investissements d'avenir », hors charge de la dette et hors contributions « Pensions », des plafonds des impositions de toutes natures mentionnées au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 dans sa rédaction résultant de la loi n° 2018-32 du 22 janvier 2018 de finances pour 2018, des dépenses des comptes d'affectation spéciale (hors comptes d'affectation spéciale « Pensions », « Participations financières de l'Etat », et hors programmes de désendettement, ou portant à titre principal sur des contributions aux collectivités territoriales ou des engagements financiers) et du compte de concours financier « Avances à l'audiovisuel public » est dénommé norme de dépenses pilotables de l'Etat et ne peut dépasser, en euros courants, 257,9 milliards d'euros en 2018, 259,5 milliards d'euros en 2019, 260,5 milliards d'euros en 2020, 262,5 milliards d'euros en 2021 et 264,5 milliards d'euros en 2022, correspondant à une cible de diminution de 1 % en volume à compter de 2020.
+II. - L'agrégat mentionné au I du présent article, augmenté des dépenses d'investissements d'avenir, de charge de la dette, des prélèvements sur recettes à destination de l'Union européenne et des collectivités territoriales, ainsi que de la fraction de taxe sur la valeur ajoutée affectée aux régions, au département de Mayotte et aux collectivités territoriales de Corse, de Martinique et de Guyane telle que définie à l'article 149 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017, du compte d'affectation spéciale pensions et des programmes des comptes spéciaux portant à titre principal des contributions aux collectivités territoriales ou des engagements financiers, est dénommé objectif de dépenses totales de l'Etat et est fixé, en euros courants, à 425,4 milliards d'euros en 2018, 432,7 milliards d'euros en 2019, 438,7 milliards d'euros en 2020, 442,8 milliards d'euros en 2021 et 450,9 milliards d'euros en 2022.
+L'incidence, en 2022, des schémas d'emplois exécutés de 2018 à 2022 pour l'Etat et ses opérateurs est inférieure ou égale à -50 000 emplois exprimés en équivalents temps plein travaillé.
+A compter de l'exercice 2019, le plafond des autorisations d'emplois prévu en loi de finances initiale, spécialisé par ministère, conformément à l'article 7 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances, ne peut excéder de plus de 1 % la consommation d'emplois constatée dans la dernière loi de règlement, corrigée de l'incidence des schémas d'emplois, des mesures de transfert et des mesures de périmètre intervenus ou prévus.
+I. - L'objectif de dépenses des régimes obligatoires de base de sécurité sociale ne peut, à périmètre constant, excéder les montants suivants, exprimés en pourcentage du produit intérieur brut et en milliards d'euros courants :
+
+2018
+2019
+2020
+En % du PIB
+21,2
+21,0
+20,8
+En milliards d'euros courants
+497,7
+508,1
+519,1
+
+II. - L'objectif national de dépenses d'assurance maladie de l'ensemble des régimes obligatoires de base de sécurité sociale ne peut, à périmètre constant, conformément à la méthodologie décrite dans le rapport annexé à la présente loi, excéder les montants suivants, exprimés en milliards d'euros courants :
+
+2018
+2019
+2020
+195,2
+199,7
+204,3
+I. - Les collectivités territoriales contribuent à l'effort de réduction du déficit public et de maîtrise de la dépense publique, selon des modalités à l'élaboration desquelles elles sont associées.
+II. - A l'occasion du débat sur les orientations budgétaires, chaque collectivité territoriale ou groupement de collectivités territoriales présente ses objectifs concernant :
+1° L'évolution des dépenses réelles de fonctionnement, exprimées en valeur, en comptabilité générale de la section de fonctionnement ;
+2° L'évolution du besoin de financement annuel calculé comme les emprunts minorés des remboursements de dette.
+Ces éléments prennent en compte les budgets principaux et l'ensemble des budgets annexes.
+III. - L'objectif national d'évolution des dépenses réelles de fonctionnement des collectivités territoriales et de leurs groupements à fiscalité propre correspond à un taux de croissance annuel de 1,2 % appliqué à une base de dépenses réelles de fonctionnement en 2017, en valeur et à périmètre constant. Pour une base 100 en 2017, cette évolution s'établit selon l'indice suivant :
+
+Collectivités territoriales et groupements à fiscalité propre
+2018
+2019
+2020
+2021
+2022
+Dépenses de fonctionnement
+101,2
+102,4
+103,6
+104,9
+106,2
+
+IV. - L'objectif national d'évolution du besoin annuel de financement des collectivités territoriales et de leurs groupements à fiscalité propre, s'établit comme suit, en milliards d'euros courants :
+
+(En milliards d'euros)
+
+Collectivités territoriales et groupements à fiscalité propre
+2018
+2019
+2020
+2021
+2022
+Réduction annuelle du besoin de financement
+- 2,6
+- 2,6
+- 2,6
+- 2,6
+- 2,6
+Réduction cumulée du besoin de financement
+- 2,6
+- 5,2
+- 7,8
+- 10,4
+- 13
+Les dépenses de gestion administrative exécutées dans le cadre des conventions d'objectifs et de gestion signées à compter du 1er janvier 2018 entre l'Etat et les régimes obligatoires de sécurité sociale doivent diminuer globalement d'au moins 1,5 % en moyenne annuelle sur la période 2018-2022, à périmètre constant. Les dépenses de gestion administrative exécutées par l'établissement de retraite additionnelle de la fonction publique sont également soumises à cette contrainte.
+
+### Chapitre III : L'évolution des dépenses de l'État
+En 2018, 2019 et 2020, les plafonds de crédits alloués aux missions du budget général de l'Etat, hors contribution du budget général au compte d'affectation spéciale « Pensions », hors charge de la dette et hors remboursements et dégrèvements, ne peuvent, à périmètre constant, excéder les montants suivants, exprimés en milliards d'euros courants :
+
+Crédits de paiement
+Loi de finances pour 2017
+Loi de finances pour 2017
+
+    (format 2018)
+2018
+2019
+2020
+Action et transformation publiques
+0,00
+0,00
+0,02
+0,28
+0,55
+Action extérieure de l'Etat
+2,86
+2,86
+2,86
+2,75
+2,69
+Administration générale et territoriale de l'Etat
+2,49
+2,49
+2,15
+2,14
+2,30
+Agriculture, alimentation, forêt et affaires rurales
+3,15
+2,79
+3,18
+2,88
+2,84
+Aide publique au développement
+2,58
+2,59
+2,68
+2,81
+3,10
+Anciens combattants, mémoire et liens avec la Nation
+2,54
+2,54
+2,46
+2,34
+2,25
+Cohésion des territoires
+18,26
+18,26
+17,22
+15,65
+15,14
+Conseil et contrôle de l'Etat
+0,51
+0,51
+0,52
+0,53
+0,53
+Crédits non répartis
+0,02
+0,02
+0,12
+0,12
+0,85
+Culture
+2,70
+2,70
+2,72
+2,74
+2,78
+Défense
+32,44
+32,44
+34,20
+35,90
+37,60
+Direction de l'action du Gouvernement
+1,37
+1,38
+1,38
+1,39
+1,40
+Ecologie, développement et mobilité durables
+9,44
+9,91
+10,39
+10,55
+10,57
+Economie
+1,64
+1,65
+1,62
+1,79
+2,15
+Engagements financiers de l'Etat (hors dette)
+0,55
+0,55
+0,58
+0,43
+0,43
+Enseignement scolaire
+50,01
+50,01
+51,49
+52,09
+52,95
+Gestion des finances publiques et des ressources humaines
+8,12
+8,11
+8,15
+8,10
+8,04
+Immigration, asile et intégration
+1,10
+1,10
+1,38
+1,36
+1,36
+Investissements d'avenir
+0,00
+0,00
+1,08
+1,05
+1,88
+Justice
+6,85
+6,72
+6,98
+7,29
+7,65
+Médias, livre et industries culturelles
+0,57
+0,57
+0,55
+0,54
+0,54
+Outre-mer
+2,02
+2,02
+2,02
+2,02
+2,03
+Pouvoirs publics
+0,99
+0,99
+0,99
+0,99
+0,99
+Recherche et enseignement supérieur
+26,69
+26,69
+27,40
+27,87
+28,02
+Régimes sociaux et de retraite
+6,31
+6,31
+6,33
+6,27
+6,30
+Relations avec les collectivités territoriales
+3,44
+3,35
+3,66
+3,51
+3,54
+Santé
+1,27
+1,24
+1,38
+1,48
+1,54
+Sécurités
+13,10
+13,09
+13,32
+13,48
+13,66
+Solidarité, insertion et égalité des chances
+17,64
+17,67
+19,44
+21,31
+21,94
+Sport, jeunesse et vie associative
+0,73
+0,80
+0,96
+1,05
+1,07
+Travail et emploi
+15,27
+16,68
+15,17
+12,96
+12,68
+I. - L'ensemble des concours financiers de l'Etat aux collectivités territoriales, exprimés en milliards d'euros courants, est évalué comme suit, à périmètre constant :
+
+2018
+2019
+2020
+2021
+2022
+Total des concours financiers de l'Etat aux collectivités territoriales
+48,11
+48,09
+48,43
+48,49
+48,49
+Fonds de compensation pour la taxe sur la valeur ajoutée
+5,61
+5,71
+5,95
+5,88
+5,74
+Taxe sur la valeur ajoutée affectée aux régions
+4,12
+4,23
+4,36
+4,50
+4,66
+Autres concours
+38,37
+38,14
+38,12
+38,10
+38,10
+
+II. - Cet ensemble est constitué par :
+1° Les prélèvements sur recettes de l'Etat établis au profit des collectivités territoriales ;
+2° Les crédits du budget général relevant de la mission « Relations avec les collectivités territoriales » ;
+3° Le produit de l'affectation de la taxe sur la valeur ajoutée aux régions, au département de Mayotte et aux collectivités territoriales de Corse, de Martinique et de Guyane prévue à l'article 149 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017.
+III. - Pour la durée de la programmation, l'ensemble des concours financiers autres que le Fonds de compensation pour la taxe sur la valeur ajoutée prévu à l'article L. 1615-1 du code général des collectivités territoriales et que le produit de l'affectation de la taxe sur la valeur ajoutée aux régions, au département de Mayotte et aux collectivités territoriales de Corse, de Martinique et de Guyane prévue à l'article 149 de la loi n° 2016-1917 du 29 décembre 2016 précitée est plafonné, à périmètre constant, aux montants du tableau du I du présent article.
+Le montant de restes à payer, tel que retracé annuellement dans le compte général de l'état annexé au projet de loi de règlement, hors impact des changements de règles de comptabilisation des engagements, ne peut excéder, pour chacune des années 2018 à 2022, le niveau atteint fin 2017.
+I. - A compter du 1er janvier 2018, l'affectation d'une imposition de toutes natures à des tiers autres que les collectivités territoriales, les établissements publics de coopération intercommunale et les organismes de sécurité sociale ne peut être instituée ou maintenue que si elle répond à l'un des critères suivants :
+1° La ressource résulte d'un service rendu par l'affectataire à un usager et son montant doit pouvoir s'apprécier sur des bases objectives ;
+2° La ressource finance, au sein d'un secteur d'activité ou d'une profession, des actions d'intérêt commun ;
+3° La ressource finance des fonds nécessitant la constitution régulière de réserves financières.
+La doctrine de recours aux affectations d'impositions de toutes natures est détaillée dans le rapport annexé à la présente loi.
+II. - Les impositions de toutes natures affectées à des tiers autres que les collectivités territoriales, les établissements publics de coopération intercommunale et les organismes de sécurité sociale font l'objet d'un plafonnement conformément au mécanisme prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. Les affectations dérogeant à cette disposition sont justifiées à l'annexe mentionnée au IV du même article 46.
+III. - Le niveau du plafond, résultant de la loi de finances initiale de l'année, d'une imposition de toutes natures affectée à des tiers autres que les collectivités territoriales, les établissements publics de coopération intercommunale et les organismes de sécurité sociale, fixé conformément au mécanisme prévu à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, ne peut excéder de plus de 5 % le rendement de l'imposition prévu à l'annexe mentionnée au 4° de l'article 51 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances pour l'année considérée.
+
+### Chapitre IV : Les recettes publiques et le pilotage des niches fiscales et sociales
+L'incidence des mesures afférentes aux prélèvements obligatoires adoptées par le Parlement ou prises par le Gouvernement par voie réglementaire à compter du 1er juillet 2017 ne peut être inférieure aux montants suivants, exprimés en milliards d'euros courants :
+
+2018
+2019
+2020
+- 5
+- 9
+- 7
+
+L'incidence mentionnée au premier alinéa est appréciée, une année, donnée, au regard de la situation de l'année précédente.
+I. - Le rapport entre, d'une part, le montant annuel des dépenses fiscales et, d'autre part, la somme des recettes fiscales du budget général, nettes des remboursements et dégrèvements, et des dépenses fiscales ne peut excéder 28 % pour les années 2018 et 2019, 27 % pour l'année 2020, 26 % pour l'année 2021 et 25 % pour l'année 2022.
+II. - Les créations ou extensions de dépenses fiscales instaurées par un texte promulgué à compter du 1er janvier 2018 ne sont applicables que pour une durée maximale de quatre ans, précisée par le texte qui les institue.
+I. - Chaque année, le rapport entre, d'une part, le montant annuel des exonérations ou abattements d'assiette et réductions de taux s'appliquant aux cotisations et contributions de sécurité sociale affectées aux régimes obligatoires de base ou aux organismes concourant à leur financement et, d'autre part, la somme des recettes des régimes obligatoires de base de sécurité sociale et des organismes concourant à leur financement et des exonérations de cotisations sociales non compensées par crédit budgétaire ne peut excéder 14 %.
+II. - Les créations ou extensions d'exonérations ou abattements d'assiette et de réductions de taux s'appliquant aux cotisations et contributions de sécurité sociale affectées aux régimes obligatoires de base ou aux organismes concourant à leur financement, instaurées par un texte promulgué à compter du 1er janvier 2018 ne sont applicables que pour une durée maximale de trois ans, précisée par le texte qui les institue.
+
+## Titre II : DISPOSITIONS RELATIVES À LA GESTION DES FINANCES PUBLIQUES ET À L'INFORMATION ET AU CONTRÔLE DU PARLEMENT
+
+### Chapitre Ier : Rapport sur la conformité des projets de loi de programmation à la loi de programmation des finances publiques
+Lors du dépôt au Parlement d'un projet de loi de programmation autre qu'un projet de loi de programmation des finances publiques, le Gouvernement remet au Parlement un rapport permettant de s'assurer de la cohérence du projet de loi avec la trajectoire de finances publiques figurant dans la loi de programmation des finances publiques en vigueur.
+
+### Chapitre II : Etat et opérateurs de l'État
+I.-L'article 34 de la loi n° 2014-1653 du 29 décembre 2014 de programmation des finances publiques pour les années 2014 à 2019 est ainsi rédigé :
+
+« Art. 34.-L'Etat et les organismes relevant de la catégorie des administrations publiques centrales dont la liste est établie par l'arrêté mentionné au I de l'article 12 de la loi n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 ne peuvent conclure, en qualité de crédit-preneur, des contrats de crédit-bail, au sens des articles L. 313-7 à L. 313-11 du code monétaire et financier, qui ont pour objet la réalisation, la modification ou la rénovation d'ouvrages, d'équipements ou de biens immatériels répondant à un besoin précisé par la collectivité publique et destinés à être mis à sa disposition ou à devenir sa propriété. »
+
+II.-L'article 34 de la loi n° 2014-1653 du 29 décembre 2014 de programmation des finances publiques pour les années 2014 à 2019, dans sa rédaction résultant de la présente loi, s'applique aux contrats dont l'avis d'appel public à la concurrence est publié à compter du 1er janvier 2018.
+Le Gouvernement transmet chaque année au Parlement, avant le 1er juin, un rapport sur l'exécution des autorisations de garanties accordées en loi de finances, en application du 5° du II de l'article 34 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances, qui recense les garanties octroyées au cours de l'année précédente dans ce cadre.
+I.-Le premier alinéa du I de l'article 12 de la loi n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 est ainsi modifié :
+1° A la première phrase, après les mots : « dette publique », sont insérés les mots : «, le fonds de garantie des dépôts et de résolution » ;
+2° A la seconde phrase, les mots : « conjoint du ministre chargé de l'économie et » sont supprimés.
+II.-Après le 15° de l'article L. 312-16 du code monétaire et financier, il est inséré un 16° ainsi rédigé :
+« 16° Les conditions et limites dans lesquelles le fonds de garantie des dépôts et de résolution peut contracter auprès d'un établissement de crédit ou d'une société de financement un emprunt dont le terme est supérieur à douze mois ou émettre un titre de créance dont le terme excède cette durée. »
+
+### Chapitre III : Administrations de sécurité sociale
+Le Gouvernement remet chaque année au Parlement, au plus tard le 15 octobre, un rapport sur la situation financière des établissements publics de santé pour le dernier exercice clos. Ce rapport fait état de l'évolution des charges et des produits par titre, de l'endettement et des dépenses d'investissement.
+Avant la fin du premier trimestre 2018, le Gouvernement présente au Parlement un rapport sur la rénovation des relations financières entre l'Etat et la sécurité sociale. Ce rapport détaille l'ensemble des compensations par type de mesure, en précisant s'il s'agit de compensation totale ou partielle.
+Le Gouvernement transmet chaque année au Parlement, avant le 15 octobre, une décomposition du solde du sous-secteur des administrations de sécurité sociale entre les régimes obligatoires de base et les organismes concourant à leur financement, les organismes concourant à l'amortissement de leur dette ou à la mise en réserve de recettes à leur profit, les autres régimes d'assurance sociale et les organismes divers de sécurité sociale.
+
+### Chapitre IV : Administrations publiques locales
+I. - Des contrats conclus à l'issue d'un dialogue entre le représentant de l'Etat et les régions, la collectivité de Corse, les collectivités territoriales de Martinique et de Guyane, les départements et la métropole de Lyon ont pour objet de consolider leur capacité d'autofinancement et d'organiser leur contribution à la réduction des dépenses publiques et du déficit public.
+Des contrats de même nature sont conclus entre le représentant de l'Etat, les communes et les établissements publics de coopération intercommunale à fiscalité propre dont les dépenses réelles de fonctionnement constatées dans le compte de gestion du budget principal au titre de l'année 2016 sont supérieures à 60 millions d'euros.
+Les autres collectivités territoriales et établissements publics de coopération intercommunale à fiscalité propre peuvent demander au représentant de l'Etat la conclusion d'un contrat.
+A cette fin, les contrats déterminent sur le périmètre du budget principal de la collectivité ou de l'établissement :
+1° Un objectif d'évolution des dépenses réelles de fonctionnement ;
+2° Un objectif d'amélioration du besoin de financement ;
+3° Et, pour les collectivités et les établissements dont la capacité de désendettement dépasse en 2016 le plafond national de référence défini au présent article, une trajectoire d'amélioration de la capacité de désendettement.
+Pour les départements et la métropole de Lyon, l'évolution des dépenses réelles de fonctionnement est appréciée en déduisant du montant des dépenses constatées la part supérieure à 2 % liée à la hausse des dépenses exposées au titre du revenu de solidarité active, de l'allocation personnalisée d'autonomie et de la prestation de compensation du handicap, définies respectivement aux articles L. 262-24, L. 232-1 et L. 245-1 du code de l'action sociale et des familles.
+La capacité de désendettement d'une collectivité territoriale ou d'un groupement de collectivités territoriales est définie comme le rapport entre l'encours de dette à la date de clôture des comptes et l'épargne brute de l'exercice écoulé ou en fonction de la moyenne des trois derniers exercices écoulés. Ce ratio prend en compte le budget principal. Il est défini en nombre d'années.
+L'épargne brute est égale à la différence entre les recettes réelles de fonctionnement et les dépenses réelles de fonctionnement. Lorsque l'épargne brute d'une collectivité territoriale ou d'un groupement de collectivités territoriales est négative ou nulle, son montant est considéré comme égal à un euro pour le calcul de la capacité de désendettement mentionnée au neuvième alinéa du présent I.
+Pour chaque type de collectivité territoriale ou de groupements, le plafond national de référence est de :
+a) Douze années pour les communes et pour les établissements publics de coopération intercommunale à fiscalité propre ;
+b) Dix années pour les départements et la métropole de Lyon ;
+c) Neuf années pour les régions, la collectivité de Corse, les collectivités territoriales de Guyane et de Martinique.
+Pour le calcul de la capacité de désendettement de la commune de Paris et du département de Paris, ces deux collectivités territoriales sont considérées comme une seule entité. Le plafond national de référence est celui des communes.
+II. - Le contrat prévu au I est conclu pour une durée de trois ans, au plus tard à la fin du premier semestre 2018, pour les exercices 2018, 2019 et 2020. Il est signé par le représentant de l'Etat et par le maire ou le président de l'exécutif local, après approbation de l'organe délibérant de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre.
+Il peut donner lieu à un avenant modificatif sur demande de l'une des parties.
+III. - Les dépenses réelles de fonctionnement s'entendent comme le total des charges nettes de l'exercice entraînant des mouvements réels au sein de la section de fonctionnement des collectivités ou établissements concernés. Elles correspondent aux opérations budgétaires comptabilisées dans les comptes de classe 6, à l'exception des opérations d'ordre budgétaire, et excluent en totalité les valeurs comptables des immobilisations cédées, les différences sur réalisations (positives) transférées en investissement et les dotations aux amortissements et provisions.
+Pour l'application du deuxième alinéa du I aux communes membres de la métropole du Grand Paris, les dépenses décrites au premier alinéa du présent III sont minorées des contributions au fonds de compensation des charges territoriales.
+Pour les collectivités territoriales ou établissements publics de coopération intercommunale à fiscalité propre ayant fait l'objet d'une création, d'une fusion, d'une extension ou de toute autre modification de périmètre, les comparaisons sont effectuées sur le périmètre ou la structure en vigueur au 1er janvier de l'année concernée.
+IV. - Sur la base du taux national fixé au III de l'article 13, le contrat fixe le niveau maximal annuel des dépenses réelles de fonctionnement auquel la collectivité territoriale ou l'établissement public de coopération intercommunale à fiscalité propre s'engage chaque année.
+A. - Le taux de croissance annuel peut être modulé à la baisse en tenant compte des trois critères suivants, dans la limite maximale de 0,15 point pour chacun des 1° à 3° du présent A, appliqué à la base 2017 :
+1° La population de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre a connu entre le 1er janvier 2013 et le 1er janvier 2018 une évolution annuelle inférieure d'au moins 0,75 point à la moyenne nationale ;
+2° Le revenu moyen par habitant de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre est supérieur de plus de 15 % au revenu moyen par habitant de l'ensemble des collectivités ;
+3° Les dépenses réelles de fonctionnement de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre ont connu une évolution supérieure d'au moins 1,5 point à l'évolution moyenne constatée pour les collectivités de la même catégorie ou les établissements publics de coopération intercommunale à fiscalité propre entre 2014 et 2016.
+B. - Le taux de croissance annuel peut être modulé à la hausse en tenant compte des trois critères suivants, dans la limite maximale de 0,15 point pour chacun des 1° à 3° du présent B, appliqué à la base 2017 :
+1° La population de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre a connu entre le 1er janvier 2013 et le 1er janvier 2018 une évolution annuelle supérieure d'au moins 0,75 point à la moyenne nationale ou la moyenne annuelle de logements autorisés ayant fait l'objet d'un permis de construire ou d'une déclaration préalable en application du chapitre Ier du titre II du livre IV du code de l'urbanisme, entre 2014 et 2016, dépasse 2,5 % du nombre total de logements au 1er janvier 2014. Le nombre total de logements est celui défini par le décret pris pour l'application de l'article L. 2334-17 du code général des collectivités territoriales ;
+2° Le revenu moyen par habitant de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre est inférieur de plus de 20 % au revenu moyen par habitant de l'ensemble des collectivités ou, pour les communes et les établissements publics de coopération intercommunale à fiscalité propre, la proportion de population résidant dans les quartiers prioritaires de la politique de la ville est supérieure à 25 % ;
+3° Les dépenses réelles de fonctionnement de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre ont connu une évolution inférieure d'au moins 1,5 point à l'évolution moyenne constatée pour les collectivités de la même catégorie ou les établissements publics de coopération intercommunale à fiscalité propre entre 2014 et 2016.
+C. - Le cas échéant, le contrat mentionne les critères utilisés dans la définition de l'objectif d'évolution des dépenses réelles de fonctionnement de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre, ainsi que leur impact sur la valeur de cet objectif.
+V. - A compter de 2018, il est constaté chaque année la différence entre le niveau des dépenses réelles de fonctionnement exécuté par la collectivité territoriale ou l'établissement et l'objectif annuel de dépenses fixé dans le contrat. Cette différence est appréciée sur la base des derniers comptes de gestion disponibles.
+Dans le cas où cette différence est supérieure à 0, il est appliqué une reprise financière dont le montant est égal à 75 % de l'écart constaté. Le montant de cette reprise ne peut excéder 2 % des recettes réelles de fonctionnement du budget principal de l'année considérée.
+Le niveau des dépenses réelles de fonctionnement considéré pour l'application du deuxième alinéa du présent V prend en compte les éléments susceptibles d'affecter leur comparaison sur plusieurs exercices, et notamment les changements de périmètre et les transferts de charges entre collectivité et établissement à fiscalité propre ou la survenance d'éléments exceptionnels affectant significativement le résultat. Le représentant de l'Etat propose, s'il y a lieu, le montant de la reprise financière.
+La collectivité territoriale ou l'établissement public de coopération intercommunale à fiscalité propre dispose d'un mois pour adresser au représentant de l'Etat ses observations. Si la collectivité territoriale ou l'établissement public de coopération intercommunale à fiscalité propre présente des observations, le représentant de l'Etat, s'il y a lieu, arrête le montant de la reprise financière. Il en informe la collectivité ou l'établissement en assortissant cette décision d'une motivation explicite.
+Si la collectivité territoriale ou l'établissement public de coopération intercommunale à fiscalité propre ne s'est pas prononcée dans le délai prescrit, le représentant de l'Etat arrête le montant de la reprise financière.
+Le montant de la reprise est prélevé, pour les collectivités territoriales n'entrant pas dans le champ de l'article 149 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017, sur les douzièmes prévus aux articles L. 2332-2 et L. 3332-1-1 du code général des collectivités territoriales.
+Pour les collectivités entrant dans le champ de l'article 149 de la loi n° 2016-1917 du 29 décembre 2016 précitée, le montant de la reprise est prélevé sur le montant prévu au IV du même article 149 ou sur les douzièmes prévus à l'article L. 4331-2-1 du code général des collectivités territoriales.
+VI. - Pour les collectivités territoriales et établissements de coopération intercommunale à fiscalité propre entrant dans le champ des deux premiers alinéas du I du présent article et n'ayant pas signé de contrat dans les conditions prévues au même I, le représentant de l'Etat leur notifie un niveau maximal annuel des dépenses réelles de fonctionnement qui évolue comme l'indice mentionné au III de l'article 13, après application des conditions prévues au IV du présent article.
+Ces collectivités et établissements se voient appliquer une reprise financière si l'évolution de leurs dépenses réelles de fonctionnement dépasse le niveau arrêté en application du premier alinéa du présent VI. Le montant de cette reprise est égal à 100 % du dépassement constaté.
+Le montant de cette reprise ne peut excéder 2 % des recettes réelles de fonctionnement du budget principal.
+Les troisième à dernier alinéas du V s'appliquent.
+VII. - En cas de respect des objectifs fixés au I, le représentant de l'Etat peut accorder aux communes et aux établissements publics de coopération intercommunale signataires d'un contrat une majoration du taux de subvention pour les opérations bénéficiant de la dotation de soutien à l'investissement local.
+VIII. - Le Gouvernement dresse un bilan de l'application des dispositions de l'article 13 et du présent article avant le débat d'orientation des finances publiques du projet de loi de finances pour 2020. Ce bilan tient compte du rapport public annuel du Conseil national d'évaluation des normes prévu à l'article L. 1212-2 du code général des collectivités territoriales.
+IX. - Le dispositif prévu à l'article 13 et au présent article entre en vigueur à compter de la publication de la présente loi.
+X. - Les modalités d'application du présent article sont précisées, en tant que de besoin, par un décret en Conseil d'Etat.
+Le Gouvernement présente chaque année au comité des finances locales, avant la présentation du rapport prévu à l'article 48 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances, un bilan de l'exécution lors de l'année précédente de l'objectif d'évolution de la dépense locale fixé à l'article 13 de la présente loi. Il évalue l'impact des évolutions législatives sur l'objectif d'évolution de la dépense locale. Ce rapport est transmis aux commissions chargées des finances de l'Assemblée nationale et du Sénat.
+En outre, le Gouvernement présente chaque année à ce comité une décomposition des objectifs mentionnés au III du même article 13 pour les établissements publics de coopération intercommunale à fiscalité propre et pour chacune des trois catégories de collectivités suivantes : régions, départements et communes. Il recueille à cette occasion l'avis du comité.
+
+### Chapitre V : Autres dispositions
+Le Gouvernement présente au Parlement, en annexe au projet de loi de finances de l'année, un rapport relatif au « Grand plan d'investissement », jusqu'à la consommation de l'ensemble des crédits inscrits pour ces investissements, et qui comprend :
+
+- la récapitulation des crédits consacrés au plan, par mission, programme et action, au cours des trois précédents exercices, de la prévision d'exécution pour l'exercice en cours et de la prévision pour les trois années à venir, en distinguant les crédits redéployés des crédits nouveaux ainsi que les moyens de financement, suivant qu'il s'agit de crédits budgétaires ou d'instruments financiers ;
+- un bilan détaillé des mesures financées au titre de ce plan pour l'ensemble des administrations publiques ;
+- une présentation exhaustive et par année des modifications apportées à la répartition initiale des crédits ;
+- une présentation, pour les trois exercices précédents, en cours et à venir, des conséquences sur les finances publiques des investissements financés par les crédits relevant du plan, en particulier leurs conséquences sur le montant des dépenses publiques, des recettes publiques, du déficit public et de la dette publique, en précisant les administrations publiques concernées ;
+- les résultats attendus et obtenus, mesurés au moyen d'indicateurs précis dont le choix est justifié ;
+- une présentation des dispositifs de sélection des projets et programmes financés dans le cadre de ce plan ainsi que des méthodes d'évaluation retenues pour mesurer les résultats obtenus.
+
+Ce rapport est déposé sur le bureau des assemblées parlementaires et distribué au moins cinq jours francs avant l'examen par l'Assemblée nationale, en première lecture, des crédits de la première des missions concernées.
+Le Gouvernement transmet chaque année au Parlement un bilan de la mise en œuvre de la présente loi et des articles en vigueur des précédentes lois de programmation des finances publiques. Ce bilan, décliné par sous-secteurs des administrations publiques, indique en particulier les données d'exécution, le cas échéant à périmètre constant, des objectifs et orientations prévus aux articles 2 à 5 et 8 à 21 de la présente loi. Il présente également une justification des éventuels écarts constatés entre les engagements pris dans le dernier programme de stabilité transmis à la Commission européenne et les prévisions de la présente loi.
+Ce bilan est rendu public en même temps que le rapport prévu à l'article 48 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
+Le Gouvernement transmet chaque année au Parlement une présentation précise et détaillée des deux agrégats de dépenses de l'Etat, prévus à l'article 9 de la présente loi. Cette présentation décompose, à périmètre constant, les différents éléments de ces deux agrégats, pour l'exercice antérieur, l'exercice en cours et l'exercice à venir.
+Elle précise le montant :
+1° Des crédits du budget général hors charge de la dette, pensions, investissements d'avenir et remboursements et dégrèvements ;
+2° Des impositions de toutes natures plafonnées en application de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 ;
+3° Des dépenses des comptes d'affectation spéciale prises en compte dans la norme de dépenses pilotables ;
+4° Des dépenses du compte de concours financier « Avances à l'audiovisuel public » ;
+5° Du prélèvement sur recettes au profit de l'Union européenne ;
+6° Du prélèvement sur recettes au profit des collectivités territoriales ;
+7° Des dépenses des comptes d'affectation spéciale prises en compte dans le seul objectif de dépenses totales de l'Etat ;
+8° Des dépenses d'investissements d'avenir ;
+9° De la charge de la dette ;
+10° De la fraction de taxe sur la valeur ajoutée affectée aux régions, au département de Mayotte et aux collectivités territoriales de Corse, de Martinique et de Guyane telle que définie à l'article 149 de la loi n° 2016-1917 du 29 décembre 2016 de finances pour 2017 ;
+11° Des retraitements de flux internes au budget de l'Etat.
+Cette présentation est rendue publique en même temps que le rapport prévu à l'article 50 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
+La liste des retraitements de flux internes au budget de l'Etat ainsi que l'inventaire des programmes des comptes spéciaux intégrés à la norme de dépenses pilotables, d'une part, et à l'objectif de dépenses totales de l'Etat, d'autre part, sont indiqués chaque année en annexe au projet de loi de finances de l'année et en annexe au projet de loi de règlement des comptes et d'approbation du budget.
+En cas d'exclusion de certaines dépenses du périmètre de la norme en raison de leur caractère exceptionnel, les critères ayant conduit le Gouvernement à retenir le caractère exceptionnel des dépenses considérées sont précisés en annexe au projet de loi de finances de l'année.
+Chaque année, le Gouvernement transmet au Parlement, avant le dépôt du projet de loi de finances de l'année, la liste des huit dépenses fiscales les plus coûteuses parmi celles relatives à l'impôt sur le revenu et qui ne sont pas communes avec celles relatives à l'impôt sur les sociétés. Cette liste précise, pour chacune de ces dépenses, la distribution par décile de revenu du nombre de contribuables concernés pour les trois années précédentes.
+Cette liste est rendue publique dans un format permettant sa réutilisation.
+L'article 14 de la loi n° 2006-888 du 19 juillet 2006 portant règlement définitif du budget de 2005 est ainsi modifié :
+1° La deuxième phrase du premier alinéa est supprimée ;
+2° Les cinq derniers alinéas sont remplacés par huit alinéas ainsi rédigés :
+« Cette annexe présente également les données d'exécution, portant sur les trois derniers exercices, relatives :
+« 1° Aux crédits ou impositions affectées aux opérateurs ;
+« 2° A leurs ressources propres ;
+« 3° Aux emplois rémunérés par eux ainsi qu'aux emplois sous plafond ;
+« 4° A leur masse salariale ;
+« 5° A leur trésorerie ;
+« 6° A la surface utile brute de leur parc immobilier ainsi qu'au rapport entre le nombre de postes de travail et la surface utile nette du parc.
+« Cette annexe donne la liste des opérateurs supprimés ou créés au cours de l'année précédant le dépôt du projet de loi de finances de l'année. Elle comporte également, pour chaque opérateur dont les effectifs sont supérieurs à dix personnes, la somme des dix plus importantes rémunérations brutes totales. »
+A l'exception du II de l'article 12, des articles 26 et 28, du II de l'article 30 et des articles 32 et 34, la loi n° 2014-1653 du 29 décembre 2014 de programmation des finances publiques pour les années 2014 à 2019 est abrogée.
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Annexe
+Annexe 5. Précisions méthodologiques concernant la mesure de la croissance des dépenses au sein de l'objectif national des dépenses d'assurance maladie (Ondam)
+
+1. Le principe du champ constant
+La réalité de la dynamique de la dépense au sein de l'Ondam s'apprécie entre deux lois de financement de la sécurité sociale consécutives, à périmètre (ou champ) constant. En effet, le périmètre de l'Ondam peut être amené à évoluer d'une année sur l'autre, des dépenses ou recettes étant nouvellement intégrées dans le champ de l'objectif, d'autres à l'inverse en étant sorties. Pour apprécier la dynamique réelle de la dépense au sein de l'Ondam sur un champ identique (champ constant) entre deux exercices, l'Ondam doit en conséquence être retraité de ces modifications de périmètre, selon les règles décrites ci-après. Les mouvements constituant une simple réimputation entre les sous-objectifs de l'Ondam, les mouvements d'intégration ou de sortie du périmètre de l'Ondam de dépenses demeurant financées par les régimes d'assurance maladie, maternité, invalidité, décès ou les mouvements qui traduisent une évolution entre le champ des dépenses de ces régimes d'assurance et celui d'autres entités (par exemple, l'Etat) équilibrée par un mouvement similaire en recettes, ne doivent pas être comptabilisés dans ce calcul. Ces mouvements sont appelés mesures de transfert quand ils ont lieu entre sous-objectifs ou mesures de périmètre quand ils ont lieu entre le périmètre de l'Ondam et une autre entité (qui peut être la sécurité sociale). Leur prise en compte permet de passer du champ constant au champ courant, sur lequel est présenté l'Ondam de l'année, mais ils sont sans influence sur l'appréciation de la dynamique de ces dépenses.
+2. La charte relative à la détermination de l'évolution de l'Ondam
+L'ensemble des règles qui suivent constituent la charte relative à la détermination de l'évolution de l'Ondam, qui permet, en précisant les modalités de prise en compte des modifications de champ dans le calcul de la norme, de déterminer l'évolution de la dépense au sein de l'Ondam à champ constant.
+i) Les mesures de périmètre, qui intègrent au sein de l'Ondam, ou à l'inverse sortent de son champ, des dépenses, qui n'ont pas à être prises en compte dans le calcul du taux d'évolution de l'Ondam à champ constant, recouvrent les situations dans lesquelles :
+
+- la sécurité sociale transfère à une autre entité une dépense qu'elle assumait auparavant au sein de l'Ondam, en transférant parallèlement des recettes d'un même montant permettant de la financer ;
+- la sécurité sociale prend en charge au sein de l'Ondam une dépense auparavant financée par une autre entité et reçoit des recettes d'un même montant permettant de la financer ;
+- est intégrée dans le périmètre de l'Ondam, ou à l'inverse sortie de son champ, une dépense déjà prise en charge par la sécurité sociale dès lors que cette opération n'a pas d'impact sur son solde ;
+- est intégrée dans le périmètre de l'Ondam une nouvelle dépense de la sécurité sociale qui reçoit en contrepartie une recette nouvelle d'un même montant.
+
+Les deux premiers cas de figure correspondent essentiellement à des transferts de dépenses entre l'Etat et la sécurité sociale, compensés par des transferts de recettes équivalents, visant à rationaliser les financements compte tenu de la nature des dépenses. L'élargissement du champ de l'Ondam pour y intégrer des dépenses d'assurance maladie que l'on souhaite soumettre à la norme illustre le troisième cas de figure. Enfin le quatrième cas de figure comprend la création de prestations financées par un prélèvement entièrement nouveau (et non un transfert).
+Ces opérations sont intégralement neutralisées dans le calcul de l'évolution de l'Ondam à périmètre constant. Dans le cas où le montant de la dépense diffère de celui de la recette perçue ou transférée en contrepartie, la différence est prise en compte dans l'Ondam en tant qu'économie dans le cas d'une diminution des dépenses nettes de la sécurité sociale (recette perçue supérieure à la dépense intégrée à l'Ondam, ou recette rendue inférieure à la dépense transférée à une autre entité) ou en tant que dépense supplémentaire dans le cas d'une augmentation.
+ii) Les mesures de transfert, parce qu'elles concernent des réimputations de dépense entre sous-objectifs de l'ONDAM, n'ont pas d'impact sur le niveau de celle-ci.
+Les mouvements de transferts les plus fréquents concernent les opérations de fongibilité entre les crédits hospitaliers et médico-sociaux.
+iii) Dès lors que l'évolution de l'ONDAM est présentée en PLFSS , les éventuelles mesures d'annulation de crédits décidées au sein des enveloppes fermées listées ci-après et intervenant en fin de gestion [postérieurement au vote de la loi de financement de la sécurité sociale] ne sont pas prises en compte dans le calcul du taux d'évolution des dépenses de l'ONDAM dans la limite du montant de la sous-consommation de l'ONDAM constatée, le cas échéant.
+Les crédits concernés portent sur les missions d'intérêt général, les aides à la contractualisation, la dotation annuelle de financement, les mises en réserve au titre du coefficient prudentiel et la dotation au fonds d'intervention régional.
+
+## Annexe
+Annexe 4. Précisions méthodologiques concernant le budget quinquennal
+
+1. Définition des périmètres et objectifs des normes des dépenses sur l'Etat
+a) La nécessité de rénover les instruments de maîtrise des dépenses de l'Etat
+La présente LPFP définit un système rénové de norme à deux niveaux : une norme sur les dépenses pilotables de l'Etat et un objectif de dépenses totales de l'Etat.
+Les normes de dépenses fixées sur les périmètres hors dette et pensions et « zéro volume » ont été globalement utiles pour maîtriser la dépense de l'Etat. Ces instruments sont cependant d'autant plus efficaces qu'ils portent sur des dépenses sur lesquelles il est possible d'agir. Plusieurs ajustements sont donc apparus souhaitables pour renforcer l'effectivité du pilotage de la dépense :
+
+- Le prélèvement sur recettes à destination de l'Union européenne, qui était décompté au sein de la norme hors dette et pensions, est une dépense contrainte i) en pluriannuel par les cadres financiers pluriannuels européens négociés tous les six ans et ii) annuellement, par la budgétisation initiale de l'UE et le taux d'exécution effectif du budget de l'UE qui connaît de forte variations à la fois d'année en année (rattrapage par exemple de la sous-exécution des plafonds du cadre financier pluriannuel) et au cours de l'année (à la suite de l'adoption de budgets rectificatifs par exemple). Selon les années, les variations du PSR UE ont pu constituer des effets d'aubaine pour les autres dépenses ou au contraire des contraintes insurmontables. En raison de ces aléas et de son caractère non pilotable, ce prélèvement n'est donc pas intégré à la nouvelle norme de dépenses pilotables de l'Etat ;
+- S'agissant du prélèvement sur recettes à destination des collectivités locales, son inclusion dans la norme « hors dette et pensions » a pesé dans les choix de limitation des concours à l'inflation, puis à la stabilisation en valeur, enfin à une baisse dans le cadre du plan d'économies adopté en 2014. Le Gouvernement a fait le choix d'un nouveau mode de relation avec les collectivités locales, fondé sur une approche contractuelle. Il est ainsi assumé de demander un effort aux collectivités locales en contrepartie de la stabilité de leurs dotations, indépendamment des choix faits sur les autres dépenses de l'Etat ;
+- En crédits, n'étaient à ce stade pris en compte que les crédits ouverts sur le budget général. L'analyse fine des comptes spéciaux amène à considérer que certains portent des dépenses assimilables à de la dépense budgétaire (à l'exception des comptes d'opérations financières et des comptes prévus par la LOLF pour les opérations patrimoniales et les dépenses de pensions). Il en va de même pour les budgets annexes. Afin d'en renforcer la maîtrise, il est proposé de les intégrer dans le périmètre de la norme des dépenses pilotables de l'Etat ;
+- Les prélèvements sur fonds de roulement ne se traduisent par ailleurs pas par une baisse automatique de la dépense finale des opérateurs. Le principe d'une limitation des réserves de certains établissements demeure un objectif pertinent de maitrise des finances publiques. Toutefois, compte tenu de la complexité induite par le décompte des prélèvements sur fonds de roulement au sein de la norme de dépense, il est proposé de ne plus les retraiter des plafonds de taxes affectées au sens de l'article 46 de la LFI 2012.
+
+b) Périmètre de la norme de dépenses pilotables de l'Etat
+La norme de dépenses pilotables de l'Etat comprend les dépenses du budget général, des budgets annexes hors mission « Remboursements et dégrèvements » et « Investissements d'avenir », hors charge de la dette et hors contributions « Pensions », les plafonds de taxes affectées à des tiers autres que les collectivités locales et la sécurité sociale, les dépenses des comptes d'affectation spéciale (hors comptes d'affectation spéciale « Pensions », « Participations financières de l'Etat », et hors programmes de désendettement, ou portant à titre principal sur des contributions aux collectivités territoriales ou des engagements financiers) et le compte de concours financiers « Avances à l'audiovisuel public ». Ces modifications mettent en œuvre certaines des recommandations de la Cour des comptes dans son rapport sur le budget de l'Etat 2015 et représentent sur la base du projet de loi de finances pour 2018, 257,9 Md€.
+
+Tableau : Programme des comptes spéciaux et budgets annexes portant des dépenses pilotables intégrés à la norme de dépenses pilotables de l'Etat
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+
+c) Périmètre de l'objectif de dépenses totales de l'Etat
+L'objectif de dépenses totales de l'Etat ajoute au périmètre de la norme de dépense pilotable la charge de la dette, les pensions et les prélèvements sur recettes et autres concours financiers en faveur des collectivités locales ainsi que les dépenses d'investissement d'avenir et les dépenses de certains comptes d'affectation spéciale. Il comprend ainsi les dépenses du budget général et budgets annexes hors mission « Remboursements et dégrèvements » et hors contributions « Pensions », les plafonds de taxes affectées à des tiers autres que les collectivités locales et la sécurité sociale, les prélèvements sur recettes à destination de l'Union européenne et des collectivités territoriales, ainsi que la fraction de taxe sur la valeur ajoutée affectée aux régions, au Département de Mayotte et aux collectivités territoriales de Corse, de Martinique et de Guyane telle que définie à l'article 149 de la LFI pour 2017, les dépenses des comptes d'affectation spéciale (hors compte d'affectation spéciale « Participations financières de l'Etat » et programmes de désendettement) et le compte de concours financiers « Avances à l'audiovisuel public ». Les éventuels flux financiers entre ces différents agrégats sont retraités.
+2. Champ constant et charte de budgétisation
+a) Le principe du champ constant
+La réalité de la dynamique de la dépense s'apprécie entre deux lois de finances consécutives, à périmètre (ou champ) constant. En effet, le périmètre des dépenses de l'Etat peut être amené à évoluer d'une année sur l'autre, des dépenses ou recettes étant nouvellement inscrites au budget de l'Etat, d'autres à l'inverse étant sorties du périmètre du budget de l'Etat. Pour apprécier la dynamique réelle de la dépense de l'Etat sur un champ identique (champ « constant ») entre deux exercices, le budget doit donc être retraité de ces modifications de périmètre. A cette fin, seuls sont intégrés au calcul de l'évolution de la norme de dépenses pilotables de l'Etat prévue par l'article 8 de la loi de programmation les mouvements de dépenses et les affectations de recettes ayant pour effet d'accroître ou de diminuer le niveau de la dépense publique.
+A contrario, les mouvements constituant une simple réimputation au sein du périmètre de la norme (par exemple, entre budget général et comptes spéciaux) ou les mouvements équilibrés en recettes et en dépenses, entre ce périmètre et une autre entité (par exemple, les collectivités locales), ne doivent pas être comptabilisés dans ce calcul. Ces mouvements, équilibrés en recettes et en dépenses, sont appelés mesures de transfert quand ils ont lieu au sein du périmètre de la norme ou mesures de périmètre quand ils ont lieu entre ce même périmètre et une autre entité. Leur prise en compte permet de passer du champ constant au champ courant, sur lequel est présenté le projet de loi de finances de l'année, mais ils sont sans influence sur l'appréciation de la dynamique du budget.
+b) La charte de budgétisation
+L'ensemble des règles qui suivent constituent la charte de budgétisation de l'Etat, qui permet, en précisant les modalités de prise en compte des modifications de champ dans le calcul de la norme, de déterminer l'évolution de la dépense à champ constant. Cette charte tient compte de l'intégration dans la norme de dépense de certaines taxes affectées, réalisée depuis 2012 et des dépenses pilotables des comptes spéciaux et budgets annexes réalisée cette année.
+(i) Les mesures de périmètre, qui donnent lieu à des inscriptions ou à l'inverse à des suppressions de crédits qui n'ont pas à être intégrées dans l'évolution des dépenses à champ constant, recouvrent les situations dans lesquelles l'Etat :
+
+- transfère à une autre entité une dépense qu'il assumait auparavant, en transférant parallèlement les ressources d'un même montant permettant de la financer ;
+- inscrit à son budget au sein de la norme de dépenses pilotables une dépense nouvelle auparavant financée par une autre entité, ainsi que des recettes d'un même montant ;
+- prend en charge une dépense financée auparavant par dotations en capital ou par une entité supprimée.
+
+Les mouvements liés à la décentralisation illustrent le premier cas de figure. Le deuxième correspond à des mesures de rebudgétisation, par exemple la réintégration concomitante et équilibrée au sein du budget général d'une recette affectée non plafonnée à un opérateur et des dépenses qu'elle finance, ou à la création d'un compte spécial avec intégration au sein de la norme d'une recette et de la dépense qu'elle finance. En revanche, dans le cas d'une recette affectée plafonnée et donc déjà comptabilisée dans la norme de dépenses pilotables, il s'agit d'une mesure de transfert au sein du périmètre de la norme (cf. infra). Le troisième cas de figure, enfin, n'accroît ni la dépense publique ni le déficit public, puisque la dépense existait déjà auparavant et était financée par une recette non prise en compte dans le solde public selon les règles de la comptabilité nationale.
+(ii) Les mesures de transfert, parce qu'elles concernent des mouvements de crédits à l'intérieur du périmètre de la norme de dépense pilotable.
+Les mouvements de transferts les plus fréquents sont réalisés entre missions du budget général ; néanmoins, ils peuvent également être effectués entre crédits du budget général ou comptes spéciaux intégrés dans la norme par exemple.
+De même, la baisse du plafond d'une taxe affectée à un organisme accompagnée de la création ou d'une hausse à due concurrence d'une subvention à ce même organisme constitue une mesure de transfert (cf. infra).
+(iii) Les modifications du plafonnement des taxes et autres recettes affectées peuvent recouvrir quatre situations différentes :
+
+- modification du plafond d'une taxe ou autre recette existante et déjà plafonnée en loi de finances.
+
+La modification du plafond se traduit par une variation des ressources allouées par l'Etat à l'entité. La modification de plafond dans la loi de finances a le même effet que l'évolution à la baisse (ou à la hausse) d'une subvention pour charge de service public inscrite en dépense et est donc prise en compte dans la norme de dépenses pilotables. Ainsi, si le plafond est relevé, on comptabilise une mesure nouvelle au sein de la norme de dépense. Si, à l'inverse, le plafond est abaissé, on comptabilise une économie dès lors que le niveau du plafond est inférieur ou égal au rendement prévisionnel de la taxe présenté dans l'annexe « Voies et moyens » du projet de loi de finances (PLF), pour un montant correspondant à la baisse effective des ressources de l'organisme. Si le plafond est abaissé mais qu'il demeure supérieur au rendement prévisionnel de la taxe, une mesure de périmètre est comptabilisée. De la même façon, la suppression d'une taxe affectée, qui peut être assimilée à la suppression de tout ou partie des ressources allouées par l'Etat à l'entité si elle n'est pas remplacée par une dotation budgétaire équivalente, est comptabilisée comme une économie au sein de la norme de dépense ;
+
+- ajout dans l'article de plafonnement d'une taxe ou autre recette déjà existante mais qui n'était pas jusqu'alors plafonnée ;
+
+La mesure de plafonnement est alors traitée comme une mesure de périmètre pour le montant correspondant au plafond si celui-ci est supérieur ou égal à l'évaluation du produit de la recette. L'économie liée, le cas échéant, à la fixation du plafond à un niveau inférieur à celui de l'évaluation de recette est quant à elle décomptée dans la norme de dépenses pilotables. Il s'agit bien d'une évolution des ressources allouées à l'entité ;
+
+- nouvelle affectation de recette ;
+
+Toute nouvelle affectation de recette à un organisme public autre que les administrations de sécurité sociale, les collectivités territoriales, et les établissements publics de coopération intercommunale est prise en compte intégralement dans la norme de dépenses pilotables, pour un montant égal au niveau du plafonnement. Cette mesure est en effet assimilable à l'attribution d'une subvention à un organisme.
+
+- rebudgétisation d'une recette affectée plafonnée ;
+
+En cas de rebudgétisation d'une recette affectée à un organisme, qui fait déjà l'objet d'un plafonnement en loi de finances et qui est donc prise en compte au sein de la norme de dépenses, le versement d'une subvention à cet organisme constitue une mesure de transfert dès lors que le montant de cette subvention est identique au rendement prévisionnel de la recette effectivement perçue par l'organisme. Dans ce cas, l'écart entre la subvention versée et le plafond de la recette est pris en compte au sein de la norme et constitue ainsi une économie (subvention inférieure à l'ancien plafond) ou une dépense nouvelle (subvention supérieure à l'ancien plafond). Si le rendement prévisionnel de la recette est supérieur ou égal au plafond de celle-ci, la rebudgétisation constitue une mesure de transfert. A l'inverse, si le rendement prévisionnel est inférieur au plafond, la rebudgétisation donne lieu, d'une part, à une mesure de périmètre diminuant le niveau de la norme de dépense pour un montant égal à l'écart entre le plafond de la recette et son rendement prévisionnel et, d'autre part, à une mesure de transfert, du montant prévisionnel de la recette. La hausse des crédits budgétaires par transfert est ainsi limitée au niveau du rendement prévisionnel de la recette qui est rebudgétisée, toute hausse supplémentaire étant comptabilisée comme une mesure nouvelle.
+(iv) Flux financiers entre les agrégats constitutifs de la norme :
+En cas de flux financiers entre les différents agrégats constitutifs de la norme (par exemple dans les conditions prévues au I de l'article 21 de la loi organique sur les lois de finances), la dépense initiale est retraitée, afin d'éviter un compte double au sein de la norme de dépenses pilotables ou de l'objectif de dépenses totales de l'Etat.
+Les mouvements de dépenses et de recettes considérés comme des mesures de périmètre, les propositions d'extension du champ du plafonnement des taxes affectées sont présentés dans l'exposé général des motifs du projet de loi de finances de l'année.
+3. Nature et portée des autorisations du budget pluriannuel
+Le budget pluriannuel détermine deux niveaux de plafonds de crédits de paiement à respecter en construction de loi de finances initiale (LFI) chaque année de la période de programmation.
+(i) Il comporte d'abord, pour les deux premières années de la programmation, un plafond global de crédits de paiement pour la norme de dépenses pilotables de l'Etat conformément à l'article 8 de la présente loi. Ce plafond est indépendant de l'hypothèse d'inflation et correspond, à champ constant, au niveau des crédits fixé en loi de finances initiale pour 2018. Pour les années 2020 à 2022, les dépenses sur ce champ devront baisser de 1% en volume chaque année.
+(ii) Le budget pluriannuel comporte par ailleurs les plafonds 2018, 2019 et 2020 de chacune des missions du budget général (cf. article 12 de la loi de programmation). Ces derniers sont exprimés en crédits de paiement.
+Pour l'année 2018, les plafonds de dépenses établis au niveau des missions et la répartition par programme correspondent à ceux du PLF pour 2018.
+Pour l'année 2019, les crédits par missions sont des plafonds limitatifs et définitifs, hors répartition éventuelle de la réserve de budgétisation pour financer des aléas imprévisibles et incompressibles. Ils feront l'objet d'une déclinaison au niveau prévu par la loi organique (programmes, actions, titres et catégories) dans le cadre du projet de loi de finances pour 2019.
+Pour 2020, les crédits par mission pourront faire l'objet d'ajustements, dans le respect du plafond global de dépenses. La troisième année de la programmation (2020) constituera en effet le point de départ d'un nouveau budget pluriannuel. Des ajustements dans la répartition des crédits par mission seront possibles pour la première année de la nouvelle programmation (2020), tout en respectant le montant global des dépenses sous norme de dépenses pilotables prévu dans le budget pluriannuel initial pour les années 2020 à 2022 qui est inférieur à la programmation initiale des missions pour l'année 2020.
+Chaque année, le Gouvernement établit et transmet au Parlement, au plus tard avant le débat d'orientation des finances publiques prévu par l'article 48 de la LOLF, un bilan des ajustements opérés par rapport aux plafonds fixés dans le budget pluriannuel, tant en ce qui concerne le plafond global de dépenses sous norme de dépenses pilotables que les plafonds par mission, conformément à l'article 27 de la présente loi.
+
+## Annexe
+Annexe 6. Table de passage entre les dispositions de la loi organique relative à la programmation et à la gouvernance des finances publiques et le présent rapport annexé
+Table de passage entre les dispositions de la loi organique relative à la programmation et à la gouvernance des finances publiques et le présent rapport annexé
+
+LOI ORGANIQUE relatif à la programmation et à la gouvernance des finances publiques (article 5) prévoit que le rapport annexé contienne les éléments suivants :
+PARTIES CORRESPONDANTES du rapport annexé
+1° Les hypothèses et les méthodes retenues pour établir la programmation
+Ensemble du rapport, notamment partie I sur le contexte macroéconomique
+2° Pour chacun des exercices de la période de la programmation, les perspectives de recettes, de dépenses, de solde et d'endettement des administrations publiques et de chacun de leurs sous-secteurs, exprimées selon les conventions de la comptabilité nationale
+Parties II et III : La trajectoire des finances publiques et analyse par sous-secteur
+3° Pour chacun des exercices de la période de la programmation, l'estimation des dépenses d'assurance vieillesse et l'estimation des dépenses d'allocations familiales
+Partie III C : Dépenses d'assurance vieillesse et d'allocations familiales
+4° Pour chacun des exercices de la période de la programmation, les perspectives de recettes, de dépenses et de solde des régimes complémentaires de retraite et de l'assurance chômage, exprimées selon les conventions de la comptabilité nationale
+Partie III C : Dépenses des régimes complémentaires de retraite et de l'assurance chômage
+5° Les mesures de nature à garantir le respect de la programmation
+Partie III (la trajectoire des finances publiques par sous-secteur)
+6° Toute autre information utile au contrôle du respect des plafonds et objectifs mentionnés aux 1° et 2° de l'article 2, notamment les principes permettant de comparer les montants que la loi de programmation des finances publiques prévoit avec les montants figurant dans les lois de finances de l'année et les lois de financement de la sécurité sociale de l'année
+Partie III (la trajectoire des finances publiques par sous-secteur)
+7° Les projections de finances publiques à politiques inchangées, au sens de la directive 2011/85/UE du Conseil, du 8 novembre 2011, sur les exigences applicables aux cadres budgétaires des Etats membres, et la description des politiques envisagées pour réaliser l'objectif à moyen terme au regard de ces projections
+Partie III.C
+8° Le montant et la date d'échéance des engagements financiers significatifs de l'Etat en cours n'ayant pas d'implication immédiate sur le solde structurel
+Partie II 5 Encadré « Mesures exceptionnelles et temporaires - Hypothèses retenues dans la programmation »
+9° Les modalités de calcul de l'effort structurel mentionné à l'article 1er, la répartition de cet effort entre chacun des sous-secteurs des administrations publiques et les éléments permettant d'établir la correspondance entre la notion d'effort structurel et celle de solde structurel
+Partie II D : Evolution du solde structurel et de l'effort structurel des administrations publiques.)
+10° Les hypothèses de produit intérieur brut potentiel retenues pour la programmation des finances publiques. Le rapport présente et justifie les différences éventuelles par rapport aux estimations de la Commission européenne
+Partie I (les hypothèses de produit intérieur brut potentiel et la justification des écarts par rapport aux estimations de la Commission européenne)
+11° Les hypothèses ayant permis l'estimation des effets de la conjoncture sur les dépenses et les recettes publiques, et notamment les hypothèses d'élasticité à la conjoncture des différentes catégories de prélèvements obligatoires et des dépenses d'indemnisation du chômage. Le rapport présente et justifie les différences éventuelles par rapport aux estimations de la Commission européenne
+Annexe 2
+12° Les modalités de calcul du solde structurel annuel mentionné à l'article 1er
+Annexe 2
+Ce rapport présente également la situation de la France au regard des objectifs stratégiques européens
+Partie II A
+
+(1) En données CVS-CJO. Les données brutes pourraient être 0,15 pt en-dessous d'après l'INSEE en 2017.
+(2) Recommandation du Conseil, 22 mai 2017.
+(3) Formation brute de capital fixe et acquisition moins cession d'actifs non financiers non produits.
+(4) Plus précisément semi-élasticité à l'écart de production
+(5) Cf. “Manual on Government deficit and debt” (MGDD) edition 2016, §II.3 pp.93 et 94.
+(6) Cf. MGDD 2016, §II.2.26 p.90 “The time of recording of the expenditure should be when government recognizes the claim for its whole amount […]”.
+(7) Une difficulté vient du fait que la bascule transforme un crédit d'impôt de type « Subvention » (D.3) en une moindre recette de « Cotisation sociales » (D.6), et que les deux opérations ont une date d'enregistrement recommandée différente en comptabilité nationale (contemporain aux salaires pour le D.6, décalé de 1 an pour le crédit d'impôt en D.3). Cependant, dans les deux cas, le fait générateur économique du transfert correspond aux salaires versés, qui n'est pas modifié par la bascule.

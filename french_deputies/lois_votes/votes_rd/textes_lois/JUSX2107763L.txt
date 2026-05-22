@@ -1,0 +1,980 @@
+LOI | NOR: JUSX2107763L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Vu la décision du Conseil constitutionnel n° 2021-830 DC du 17 décembre 2021 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire (1)
+
+## Titre VII : DISPOSITIONS DIVERSES ET TRANSITOIRES
+I.-Le code de procédure pénale est ainsi modifié :
+1° Après la section 5 du chapitre II du titre X du livre IV, est insérée une section 5 bis ainsi rédigée :
+
+« Section 5 bis
+« De la transmission et de l'exécution des décisions de gel en application du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation
+
+« Art. 695-9-30-1.-Pour l'application du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation, les autorités compétentes mentionnées aux 8 et 9 de l'article 2 du même règlement sont les suivantes :
+« 1° Les autorités d'émission des décisions de gel sont le procureur de la République, les juridictions d'instruction, le juge des libertés et de la détention et les juridictions de jugement compétents en application du présent code ;
+« 2° L'autorité d'exécution des décisions de gel prises par les juridictions d'un autre Etat membre de l'Union européenne est le juge d'instruction territorialement compétent, le cas échéant par l'intermédiaire du procureur de la République ou du procureur général. Le juge d'instruction territorialement compétent est celui du lieu où se situe l'un des biens gelés ou, à défaut, le juge d'instruction de Paris.
+
+« Art. 695-9-30-2.-Il est procédé dans les conditions prévues aux articles 695-9-22 et 695-9-24 du présent code pour l'application de l'article 33 du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation. » ;
+
+2° Après la section 1 du chapitre III du titre Ier du livre V, est insérée une section 1 bis ainsi rédigée :
+
+« Section 1 bis
+« De la transmission et de l'exécution des décisions de confiscation en application du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation
+
+« Art. 713-35-1.-Pour l'application du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation, les autorités compétentes mentionnées aux 8 et 9 de l'article 2 du même règlement sont les suivantes :
+« 1° L'autorité d'émission des décisions de confiscation prononcées par les juridictions françaises est le ministère public près la juridiction qui a ordonné la confiscation ;
+« 2° L'autorité d'exécution des décisions de confiscation prononcées par les juridictions d'un autre Etat membre de l'Union européenne est le tribunal correctionnel territorialement compétent, saisi sur requête du procureur de la République. Le tribunal correctionnel territorialement compétent est celui du lieu où se situe l'un des biens confisqués ou, à défaut, le tribunal correctionnel de Paris.
+
+« Art. 713-35-2.-Il est procédé dans les conditions prévues à l'article 713-29 du présent code pour l'application de l'article 33 du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation. »
+
+II.-Le code pénal est ainsi modifié :
+1° L'article 131-21 est ainsi modifié :
+a) La première phrase du troisième alinéa est complétée par les mots : «, et sous réserve du dernier alinéa » ;
+b) A la deuxième phrase du neuvième alinéa, après le mot : « foi », sont insérés les mots : « et du même dernier alinéa » ;
+c) Il est ajouté un alinéa ainsi rédigé :
+« Lorsque la peine de confiscation porte sur des biens sur lesquels un tiers autre que le condamné dispose d'un droit de propriété, elle ne peut être prononcée si ce tiers dont le titre est connu ou qui a réclamé cette qualité au cours de la procédure n'a pas été mis en mesure de présenter ses observations sur la mesure de confiscation envisagée par la juridiction de jugement aux fins, notamment, de faire valoir le droit qu'il revendique et sa bonne foi. » ;
+2° A l'article 225-25, après le mot : « foi », sont insérés les mots : « et du dernier alinéa de l'article 131-21 » ;
+3° Le 4° de l'article 313-7 et le 8° de l'article 324-7 sont complétés par les mots : « et sous réserve du dernier alinéa de l'article 131-21 ».
+I.-Le livre IV du code de procédure pénale est ainsi modifié :
+1° A la fin de l'intitulé de la section 3 du chapitre II du titre X, le mot : « unité » est remplacé par le mot : « Agence » ;
+2° L'article 695-4 est ainsi modifié :
+a) Au début du premier alinéa, les mots : « Conformément à la décision du Conseil du 28 février 2002 instituant Eurojust afin de renforcer la lutte contre les formes graves de criminalité, » sont supprimés ;
+b) Aux deux premiers alinéas, le mot : « unité » est remplacé par le mot « Agence » ;
+3° Aux premier et dernier alinéas de l'article 695-5 et au premier alinéa de l'article 695-5-1, le mot : « unité » est remplacé par le mot : « Agence » ;
+4° L'article 695-6 est ainsi modifié :
+a) Au premier alinéa, le mot : « unité » est remplacé par le mot : « Agence » et les mots : « dans les meilleurs délais » sont remplacés par les mots : « sans retard injustifié » ;
+b) A la fin du second alinéa, les mots : « la sécurité de la Nation ou compromettre la sécurité d'une personne » sont remplacés par les mots : « des intérêts nationaux essentiels en matière de sécurité ou compromettre le succès d'une enquête en cours ou la sécurité d'une personne physique » ;
+5° Au premier alinéa de l'article 695-7, le mot : « unité » est remplacé par le mot : « Agence » ;
+6° Au premier alinéa de l'article 695-8, le mot : « unité » est remplacé par le mot : « Agence » et les mots : « quatre ans » sont remplacés par les mots : « cinq ans, renouvelable une fois, » ;
+7° A l'article 695-8-1, le mot : « unité » est remplacé par le mot : « Agence » ;
+8° Le 1° du I de l'article 695-8-2 est ainsi modifié :
+a) Le b est ainsi rédigé :
+« b) Abus sexuels ou exploitation sexuelle, y compris pédopornographie et sollicitation d'enfants à des fins sexuelles ; »
+b) Au début du f, le mot : « Fraude » est remplacé par le mot : « Infractions » ;
+c) Le g est ainsi rédigé :
+« g) Faux-monnayage ou falsification de moyens de paiement ; »
+9° Au III du même article 695-8-2, le mot : « unité » est remplacé par le mot : « Agence » ;
+10° Le I de l'article 695-8-5 est ainsi modifié :
+a) Au premier alinéa, les mots : «, à la demande ou » sont supprimés ;
+b) Le deuxième alinéa est ainsi modifié :
+
+-la première phrase est supprimée ;
+-à la seconde phrase, les mots : « la demande ou » sont supprimés ;
+
+c) Le dernier alinéa est supprimé ;
+11° Au 2° du II du même article 695-8-5, le mot : « unité » est remplacé par le mot : « Agence » ;
+12° L'article 695-9 est ainsi modifié :
+a) Au début de la première phrase, les mots : « Avec l'accord de l'autorité judiciaire compétente, » sont supprimés ;
+b) La seconde phrase est supprimée ;
+13° Au premier alinéa de l'article 695-42, le mot : « unité » est remplacé par le mot : « Agence » ;
+14° A l'article 695-9-46, les mots : « aux unités Eurojust et » sont remplacés par les mots : « à l'Agence Eurojust et à l'unité » ;
+15° L'article 695-22 est ainsi modifié :
+a) Au 2°, les mots : « ou par celles d'un Etat tiers » sont supprimés ;
+b) Le 4° est abrogé ;
+16° Au premier alinéa de l'article 695-22-1, les mots : « est également » sont remplacés par les mots : « peut être » ;
+17° Au premier alinéa de l'article 695-23, les mots : « est également » sont remplacés par les mots : « peut également être » ;
+18° L'article 695-24 est ainsi modifié :
+a) Au 2°, les mots : « ou réside régulièrement de façon ininterrompue depuis au moins cinq ans sur le territoire national et que » sont remplacés par les mots : «, a établi sa résidence sur le territoire national ou demeure sur ce territoire et si » ;
+b) Sont ajoutés des 5° et 6° ainsi rédigés :
+« 5° Si la personne recherchée a fait l'objet, par les autorités judiciaires d'un Etat tiers, d'une décision définitive pour les mêmes faits que ceux faisant l'objet du mandat d'arrêt européen, à condition, en cas de condamnation, que la peine ait été exécutée ou soit en cours d'exécution ou ne puisse plus être ramenée à exécution selon les lois de l'Etat de condamnation ;
+« 6° Si les faits pour lesquels le mandat d'arrêt européen a été émis pouvaient être poursuivis et jugés par les juridictions françaises et si la prescription de l'action publique ou de la peine se trouve acquise. » ;
+19° Au dernier alinéa de l'article 695-46, la référence : « 694-32 » est remplacée par la référence : « 695-23 » ;
+20° L'article 696-111 est ainsi rédigé :
+
+« Art. 696-111.-Les signalements prévus aux 1 à 3 et au 5 de l'article 24 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen sont directement adressés au procureur européen délégué par les autorités nationales compétentes mentionnées à l'article 19, au second alinéa de l'article 40 et à l'article 80 du présent code, qui en informent alors simultanément le procureur de la République spécialisé compétent. Ces signalements peuvent aussi être adressés au procureur européen délégué par le procureur de la République spécialisé compétent, lorsque celui-ci a été informé par les autorités nationales compétentes mentionnées au présent article. » ;
+
+21° A la première phrase du premier alinéa de l'article 696-22, après le mot : « intéressé », sont insérés les mots : «, y compris en faisant application de l'article 74-2, » ;
+22° A la fin de l'intitulé de la section 3 du chapitre V du titre X, les mots : « entre les Etats membres de l'Union européenne » sont supprimés ;
+23° L'article 696-25 est complété par un alinéa ainsi rédigé :
+« La présente section est également applicable aux demandes d'arrestation provisoire aux fins d'extradition adressées à la France par un Etat partie au troisième protocole additionnel du 10 novembre 2010 à la convention européenne d'extradition du 13 décembre 1957. » ;
+24° L'article 696-35 est complété par un alinéa ainsi rédigé :
+« Lorsque la personne réclamée déclare consentir à l'extension de son extradition, la procédure prévue à la section 3 du présent chapitre est applicable. »
+II.-A l'article 344-1 du code des douanes, la seconde occurrence des mots : « Parquet européen » est remplacée par les mots : « procureur européen délégué soit directement, soit ».
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance, dans un délai d'un an à compter de la promulgation de la présente loi, les mesures relevant du domaine de la loi nécessaires pour transposer la directive (UE) 2019/884 du Parlement européen et du Conseil du 17 avril 2019 modifiant la décision-cadre 2009/315/JAI du Conseil en ce qui concerne les échanges d'informations relatives aux ressortissants de pays tiers ainsi que le système européen d'information sur les casiers judiciaires (ECRIS), et remplaçant la décision 2009/316/JAI du Conseil, et pour prendre les mesures d'adaptation nécessaires à l'application du règlement (UE) 2019/816 du Parlement européen et du Conseil du 17 avril 2019 portant création d'un système centralisé permettant d'identifier les Etats membres détenant des informations relatives aux condamnations concernant des ressortissants de pays tiers et des apatrides (ECRIS-TCN), qui vise à compléter le système européen d'information sur les casiers judiciaires, et modifiant le règlement (UE) 2018/1726, tout en permettant l'enregistrement dans le casier judiciaire national automatisé des empreintes digitales des personnes condamnées.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance prévue au présent article.
+Après l'article L. 111-12 du code de l'organisation judiciaire, il est inséré un article L. 111-12-1 ainsi rédigé :
+
+« Art. L. 111-12-1.-Sans préjudice du code de la santé publique et du code de l'entrée et du séjour des étrangers et du droit d'asile et par dérogation à l'article L. 111-12 du présent code, le président de la formation de jugement peut, devant les juridictions statuant en matière non pénale, pour un motif légitime, autoriser une partie, un témoin, un expert ou toute autre personne convoquée et qui en a fait expressément la demande à être entendu par un moyen de communication audiovisuelle au cours de l'audience ou de l'audition.
+« Les modalités d'application du présent article, notamment les conditions de sécurité et de confidentialité des échanges, sont fixées par décret en Conseil d'Etat. »
+A la fin de la première phrase de l'article L. 124-2 du code de l'organisation judiciaire, les mots : « dans le ressort d'une juridiction limitrophe » sont remplacés par les mots : « soit dans le ressort d'une juridiction limitrophe, soit dans le ressort de la même cour d'appel ».
+La sous-section 2 de la section 1 du chapitre Ier du titre Ier du livre II du code de l'organisation judiciaire est complétée par un article L. 211-21 ainsi rédigé :
+
+« Art. L. 211-21.-Le tribunal judiciaire de Paris connaît des actions relatives au devoir de vigilance fondées sur les articles L. 225-102-4 et L. 225-102-5 du code de commerce. »
+I.-Les articles L. 211-17 et L. 211-18 du code de l'organisation judiciaire sont abrogés.
+II.-Le IX de l'article 109 de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice est abrogé.
+III.-Aux articles L. 531-1, L. 541-1, L. 551-1 et L. 561-1 du code de l'organisation judiciaire, les références : « L. 211-17, L. 211-18, » sont supprimées.
+I.-Au I de l'article L. 151 A du livre des procédures fiscales, après le mot : « exécutoire », sont insérés les mots : « ou d'une décision de justice autorisant une saisie conservatoire sur comptes bancaires, ».
+II.-A l'article L. 152-1 du code des procédures civiles d'exécution, après le mot : « exécution », sont insérés les mots : «, y compris d'une décision de justice autorisant une saisie conservatoire sur comptes bancaires, ».
+I. - L'article 75-3 et l'article 77-2 du code de procédure pénale, dans sa rédaction résultant de l'article 2 de la présente loi, ne sont applicables qu'aux enquêtes commencées à compter de la publication de celle-ci.
+II. - L'article 3 entre en vigueur le premier jour du troisième mois suivant la publication de la présente loi.
+III. - Le I de l'article 6 entre en vigueur le premier jour du troisième mois suivant la publication de la présente loi, à l'exception des 1°, 4° et 7° qui entrent en vigueur le 31 décembre 2021.
+L'article 276-1 du code de procédure pénale est applicable aux procédures dans lesquelles la décision de renvoi de l'accusé a été rendue après le premier jour du troisième mois suivant la publication de la présente loi. Lorsque la décision a été rendue avant cette date, le président de la cour d'assises ou de la cour criminelle départementale peut cependant organiser une réunion préparatoire dans les conditions prévues à l'article 276-1 du code de procédure pénale.
+IV. - L'article 9 entre en vigueur le 1er janvier 2023. Dans les départements où est en cours l'expérimentation prévue aux II et III de l'article 63 de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice, le terme de cette expérimentation est reporté à cette même date.
+Les personnes mises en accusation devant la cour d'assises avant le 1er janvier 2023 peuvent être renvoyées devant la cour criminelle départementale, avec leur accord recueilli en présence de leur avocat, sur décision du premier président de la cour d'appel.
+A compter du premier jour du premier mois suivant la publication de la présente loi, dans les départements où est en cours l'expérimentation, les personnes sont mises en accusation conformément aux dispositions du code de procédure pénale résultant de l'article 9 de la présente loi. Les personnes ayant fait l'objet d'une ordonnance de mise en accusation devant la cour d'assises intervenue à compter du 13 mai 2021 sont, sur décision du premier président de la cour d'appel, renvoyées devant la cour criminelle départementale lorsque les faits relèvent de la compétence de cette juridiction.
+Lorsque la personne est renvoyée devant la cour criminelle départementale sur décision du premier président de la cour d'appel conformément aux deuxième et troisième alinéas du présent IV, les délais d'audiencement devant cette juridiction sont ceux prévus au second alinéa de l'article 181-1 du code de procédure pénale à compter de cette décision, sans pouvoir dépasser les délais prévus à l'article 181 du même code.
+Dans les départements autres que ceux dans lesquels l'expérimentation est intervenue, une deuxième prolongation de six mois peut être ordonnée en application de l'article 181-1 dudit code pour toutes les personnes renvoyées devant la cour criminelle départementale avant le 1er mars 2023.
+V. - L'article 10 entre en vigueur le lendemain de la publication de la loi organique n° 2021-1728 du 22 décembre 2021 pour la confiance dans l'institution judiciaire.
+VI. - Les articles 717-1, 721, 721-1, 721-2 et 729-1 du code de procédure pénale, dans leur rédaction résultant de l'article 11 de la présente loi, sont applicables aux personnes placées sous écrou à compter du 1er janvier 2023, quelle que soit la date de commission de l'infraction. Les personnes placées sous écrou avant cette date demeurent soumises au régime défini aux articles 717-1, 721, 721-1, 721-1-1, 721-2 et 729-1 du code de procédure pénale dans leur rédaction antérieure à la présente loi.
+VII. - L'article 720 du code de procédure pénale, dans sa rédaction résultant de l'article 11 de la présente loi, est applicable à l'ensemble des personnes condamnées exécutant une ou plusieurs peines privatives de liberté à compter du 1er janvier 2023, quelle que soit la date de commission de l'infraction.
+VIII. - Le 4° du I de l'article 14 entre en vigueur le 1er janvier 2023.
+De la publication de la présente loi au 1er janvier 2023, le 1° de l'article 41-1 du code de procédure pénale n'est pas applicable en cas de délits commis contre une personne dépositaire de l'autorité publique ou investie d'un mandat électif public.
+A compter du 1er juin 2022 et jusqu'au 1er janvier 2023, le même 1° n'est pas applicable en cas de délits de violences.
+IX. - Les 1°, 6°, 7°, 9 à 11° du I et le III de l'article 14 et le II de l'article 51 entrent en vigueur le 31 décembre 2021.
+X. - Le IV de l'article 14 et le I de l'article 60 sont applicables à compter du 30 septembre 2021.
+XI. - Les articles 19 à 21 entrent en vigueur le 1er mai 2022.
+XII. - Les actes d'engagement signés avant le 1er mai 2022 demeurent en vigueur, au plus tard jusqu'au 31 décembre 2022, dans les conditions fixées à l'article 33 de la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire. Durant cette période, toute personne détenue ayant précédemment signé un acte d'engagement se voit proposer la signature d'un contrat d'emploi pénitentiaire, conformément aux articles 719-8 à 719-13 du code de procédure pénale.
+En cas de changement des conditions de travail prévues dans son acte d'engagement, la personne détenue se voit proposer la conclusion d'un contrat d'emploi pénitentiaire au sens de la présente loi. Le refus de signer le contrat d'emploi pénitentiaire met fin à la relation de travail au plus tard le 31 décembre 2022.
+Les personnes détenues classées au travail avant la publication de la présente loi qui n'ont pas signé d'acte d'engagement dans les conditions prévues à l'article 33 de la loi n° 2009-1436 du 24 novembre 2009 précitée sont intégrées dans la liste d'attente d'affectation mentionnée à l'article 719-6 du code de procédure pénale.
+XIII. - L'article 25 entre en vigueur à une date fixée par décret, et au plus tard le 1er juin 2022.
+XIV. - Le chapitre Ier du titre V entre en vigueur le 1er juillet 2022.
+I.-Après le mot : « loi », la fin des articles L. 721-1, L. 722-1 et L. 723-1 du code de la justice pénale des mineurs est ainsi rédigée : « n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire, sous réserve des adaptations prévues au présent chapitre. »
+II.-Le code de l'organisation judiciaire est ainsi modifié :
+1° A l'article L. 531-1, après la référence : « L. 211-20 », est insérée la référence : «, L. 211-21 » ;
+2° A la fin des articles L. 531-1, L. 551-1 et L. 561-1, la référence : « n° 2020-1672 du 24 décembre 2020 relative au Parquet européen, à la justice environnementale et à la justice pénale spécialisée » est remplacée par la référence : « n° du pour la confiance dans l'institution judiciaire ».
+III.-L'article 711-1 du code pénal est ainsi rédigé :
+
+« Art. 711-1.-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur rédaction résultant de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. »
+
+IV.-Le premier alinéa de l'article 804 du code de procédure pénale est ainsi rédigé :
+« Le présent code est applicable, dans sa rédaction résultant de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, sous réserve des adaptations prévues au présent titre et aux seules exceptions : ».
+V.-L'article 69 de la loi du 29 juillet 1881 sur la liberté de la presse est ainsi rédigé :
+
+« Art. 69.-La présente loi est applicable, dans sa rédaction résultant de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+« Pour leur application en Nouvelle-Calédonie, les références au code civil sont remplacées par les références aux dispositions applicables localement ayant le même objet. »
+
+VI.-Après le 4° de l'article L. 641-1 du code des procédures civiles d'exécution, il est inséré un alinéa ainsi rédigé :
+« L'article L. 111-3 est applicable dans sa rédaction résultant de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire. »
+VII.-Au deuxième alinéa des III, IV et V de l'article 81 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, la référence : « n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle » est remplacée par la référence : « n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire ».
+VIII.-Après le mot : « résultant », la fin de l'article 69-2 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique est ainsi rédigée : « de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire, sous réserve des adaptations suivantes. »
+IX.-L'article 75 de la loi n° 91-647 du 10 juillet 1991 précitée est complété par un VI ainsi rédigé :
+« VI.-Le présent article est applicable dans les îles Wallis et Futuna, en Polynésie française et dans les Terres australes et antarctiques françaises. Il est également applicable en Nouvelle-Calédonie, en tant qu'il concerne la procédure pénale et la procédure administrative. »
+X.-Le I des articles L. 745-13, L. 755-13 et L. 765-13 du code monétaire et financier est ainsi modifié :
+1° Au début du deuxième alinéa, les mots : « Les articles L. 561-2 et L. 561-36 sont applicables dans leur » sont remplacés par les mots : « L'article L. 561-2 est applicable dans sa » ;
+2° Après le quatrième alinéa, il est inséré un alinéa ainsi rédigé :
+« L'article L. 561-36 est applicable dans sa rédaction résultant de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire. »
+A la deuxième phrase de l'article L. 123-4 du code de l'organisation judiciaire, les mots : « deux années » sont remplacés par les mots : « une année ».
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Titre V : RENFORCER LA CONFIANCE DU PUBLIC DANS L'ACTION DES PROFESSIONNELS DU DROIT
+
+### Chapitre Ier : Déontologie et discipline des professions du droit
+
+#### Section 1 : Déontologie et discipline des officiers ministériels
+La présente section est applicable aux avocats au Conseil d'Etat et à la Cour de cassation, aux commissaires de justice, aux greffiers des tribunaux de commerce et aux notaires.
+Un code de déontologie propre à chaque profession est préparé par son instance nationale et édicté par décret en Conseil d'Etat. Ce code énonce les principes et devoirs professionnels permettant le bon exercice des fonctions et s'applique en toutes circonstances à ces professionnels dans leurs relations avec le public, les clients, les services publics, leurs confrères et les membres des autres professions.
+Les instances nationales mentionnées au premier alinéa sont l'Ordre des avocats au Conseil d'Etat et à la Cour de cassation, la Chambre nationale des commissaires de justice, le Conseil national des greffiers des tribunaux de commerce et le Conseil supérieur du notariat.
+Toute contravention aux lois et règlements, tout fait contraire au code de déontologie commis par un professionnel, y compris se rapportant à des faits commis en dehors de l'exercice de sa profession, et toute infraction aux règles professionnelles constituent un manquement disciplinaire.
+Des collèges de déontologie sont institués auprès des instances nationales de chacune des professions mentionnées à l'article 31. Ils participent à l'élaboration du code de déontologie de la profession et émettent des avis et des recommandations sur son application.
+Ils sont composés de deux professionnels et de deux personnalités extérieures qualifiées, dont au moins un membre honoraire du Conseil d'Etat ou un magistrat honoraire de l'ordre administratif ou de l'ordre judiciaire. Ils sont présidés par le président de l'instance nationale ou par une personne qu'il désigne.
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+I. - Le procureur général exerce une mission de surveillance de la déontologie et de la discipline des officiers publics et ministériels du ressort de la cour d'appel. Il peut saisir les services d'enquête de ces professions et demander toute explication à un professionnel ou aux instances représentatives de la profession. Il exerce l'action disciplinaire à l'encontre des commissaires de justice, des greffiers des tribunaux de commerce et des notaires du ressort de la cour d'appel, concurremment avec les autorités de chacune de ces professions habilitées à l'exercer.
+II. - L'action disciplinaire à l'encontre des avocats au Conseil d'Etat et à la Cour de cassation est exercée, concurremment avec le président de l'Ordre des avocats au Conseil d'Etat et à la Cour de cassation, par le vice-président du Conseil d'Etat quand les faits en cause ont trait aux fonctions exercées devant le Tribunal des conflits ou les juridictions de l'ordre administratif et, dans les autres cas, par le premier président de la Cour de cassation ou le procureur général près la Cour de cassation.
+En cas de manquement d'un professionnel à ses obligations, l'autorité habilitée de chaque profession peut, même d'office, avant l'engagement éventuel de poursuites disciplinaires :
+1° Demander des explications à ce professionnel et, le cas échéant, le convoquer ;
+2° Lui adresser, à l'issue d'une procédure contradictoire, un rappel à l'ordre ou une injonction de mettre fin au manquement. Elle peut assortir cette injonction d'une astreinte, qu'elle est compétente pour liquider et dont le montant maximal est fixé par décret en Conseil d'Etat. Le montant et la durée de l'astreinte sont fixés en considération de la gravité du manquement et des facultés contributives du professionnel mis en cause.
+Aucun rappel à l'ordre ou injonction de mettre fin au manquement ne peut être adressé au-delà d'un délai de trois ans à compter du jour où l'autorité mentionnée au premier alinéa du présent article a eu une connaissance effective de la réalité, de la nature et de l'ampleur des faits susceptibles de justifier de telles mesures.
+La décision liquidant l'astreinte a les effets d'un jugement au sens du 6° de l'article L. 111-3 du code des procédures civiles d'exécution.
+Les décisions mentionnées au 2° du présent article peuvent être contestées devant le président de la juridiction disciplinaire de premier ressort ou son suppléant.
+Conformément à l'article L. 112-3 du code des relations entre le public et l'administration, toute réclamation à l'encontre d'un professionnel adressée à l'autorité de la profession mentionnée à l'article 35 de la présente loi donne lieu à un avis de réception. L'autorité en informe le professionnel mis en cause et l'invite à présenter ses observations.
+Lorsque la nature de la réclamation le permet, et sous réserve des réclamations abusives ou manifestement mal fondées, l'autorité convoque les parties en vue d'une conciliation, à laquelle prend part un membre au moins de la profession concernée.
+L'auteur de la réclamation et le professionnel mis en cause sont informés des suites réservées à la réclamation. En l'absence de conciliation, en cas d'échec de celle-ci ou en l'absence de poursuite disciplinaire, l'auteur de la réclamation est informé sans délai de la possibilité de saisir les autorités mentionnées à l'article 34 ou de saisir directement la juridiction disciplinaire.
+Le président de la juridiction disciplinaire de première instance ou son suppléant peut rejeter les plaintes irrecevables, manifestement infondées ou qui ne sont pas assorties des précisions permettant d'en apprécier le bien-fondé.
+Il est institué, auprès de chaque juridiction disciplinaire de premier ressort mentionnée à l'article 38, un service chargé de réaliser les enquêtes sur les agissements susceptibles de constituer un manquement disciplinaire. Ce service peut être saisi par l'autorité de la profession habilitée à exercer l'action disciplinaire, par les autorités mentionnées à l'article 34 ou par la juridiction disciplinaire dans le cadre de ses pouvoirs d'instruction.
+L'enquête est conduite en toute indépendance. Le professionnel est tenu de répondre aux convocations du service d'enquête et de lui fournir tous renseignements et documents utiles, sans pouvoir opposer le secret professionnel.
+Les modalités de saisine de ces services, de désignation de leurs membres et de déroulement de la procédure sont précisées par décret en Conseil d'Etat.
+Les membres des services d'enquête ne peuvent siéger au sein des juridictions mentionnées à l'article 38.
+I. - Des chambres de discipline, instituées respectivement auprès des conseils régionaux des notaires et des chambres régionales des commissaires de justice désignés par arrêté du ministre de la justice, connaissent en premier ressort des poursuites disciplinaires contre ces professionnels. Elles sont composées d'un magistrat du siège de la cour d'appel, en activité ou honoraire, président, et de deux membres de la profession concernée.
+Deux cours nationales de discipline sont instituées, l'une auprès du Conseil supérieur du notariat, l'autre auprès de la Chambre nationale des commissaires de justice. Elles connaissent des appels formés contre les jugements des chambres de discipline de la profession concernée. Elles sont composées d'un magistrat du siège de la Cour de cassation, en activité ou honoraire, président, de deux magistrats du siège de la cour d'appel, en activité ou honoraires, et de deux membres de la profession concernée.
+Les arrêts de ces cours nationales de discipline peuvent faire l'objet d'un pourvoi devant la Cour de cassation.
+II. - Une cour nationale de discipline, instituée auprès du Conseil national des greffiers des tribunaux de commerce, connaît des poursuites contre ces professionnels. Elle est composée d'un magistrat du siège de la Cour de cassation, en activité ou honoraire, président, et de quatre membres de la profession.
+Les arrêts de cette cour peuvent faire l'objet d'un recours devant la Cour de cassation, qui statue en fait et en droit.
+III. - Une cour nationale de discipline, instituée auprès de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, connaît des poursuites disciplinaires contre ces professionnels. Elle est composée d'un membre du Conseil d'Etat, d'un magistrat du siège de la Cour de cassation, en activité ou honoraire, et de cinq membres de la profession.
+La cour est présidée par le membre du Conseil d'Etat lorsque les faits en cause ont trait aux fonctions exercées devant le Tribunal des conflits ou devant les juridictions de l'ordre administratif. Dans les autres cas, elle est présidée par le magistrat du siège de la Cour de cassation.
+Les arrêts de la cour peuvent faire l'objet d'un recours devant le Conseil d'Etat lorsque les faits en cause ont trait aux fonctions exercées devant le Tribunal des conflits ou les juridictions de l'ordre administratif ou devant la Cour de cassation dans les autres cas, qui statuent en fait et en droit.
+IV. - Les membres des juridictions disciplinaires instituées par le présent article ainsi que leurs suppléants sont nommés par arrêté du ministre de la justice pour une durée de trois ans, renouvelable une fois. Les membres du Conseil d'Etat sont nommés sur proposition du vice-président du Conseil d'Etat. Les magistrats du siège de l'ordre judiciaire, en activité ou honoraires, sont nommés, selon le cas, sur proposition du premier président de la cour d'appel compétente ou du premier président de la Cour de cassation. Les membres de chaque profession sont nommés sur proposition de l'instance nationale de la profession pour les cours nationales de discipline et par les instances régionales de la profession pour les chambres de discipline.
+La récusation d'un membre de la juridiction peut être demandée dans les conditions prévues à l'article L. 111-6 du code de l'organisation judiciaire.
+Le membre de la juridiction disciplinaire qui suppose en sa personne une cause de récusation ou estime en sa conscience devoir s'abstenir est remplacé dans les conditions prévues à l'article L. 111-7 du même code.
+V. - Les magistrats honoraires membres des juridictions disciplinaires ne peuvent siéger au-delà de la date de leur soixante et onzième anniversaire.
+I. - Outre les peines prononcées en application de l'article L. 561-36-3 du code monétaire et financier, les peines disciplinaires qui peuvent être prononcées contre un professionnel mentionné à l'article 31 de la présente loi, personne physique ou morale, sont :
+1° L'avertissement ;
+2° Le blâme ;
+3° L'interdiction d'exercer à titre temporaire pendant une durée maximale de dix ans ;
+4° La destitution, qui emporte l'interdiction d'exercice à titre définitif ;
+5° Le retrait de l'honorariat.
+II. - La peine de l'interdiction temporaire peut être assortie, en tout ou partie, d'un sursis. Si, dans le délai de cinq ans à compter du prononcé de la peine, le professionnel a commis un manquement ayant entraîné le prononcé d'une nouvelle peine disciplinaire, celle-ci entraîne, sauf décision motivée, l'exécution de la première peine sans confusion avec la seconde.
+III. - La juridiction disciplinaire peut prononcer, à titre principal ou complémentaire, une peine d'amende dont le montant ne peut excéder la plus élevée des deux sommes suivantes :
+1° Dix mille euros ;
+2° 5 % du chiffre d'affaires hors taxes réalisé par le professionnel au cours du dernier exercice clos, calculé sur une période de douze mois.
+La peine d'amende peut être assortie, en tout ou partie, d'un sursis. Elle n'est pas applicable aux professionnels salariés.
+Lorsqu'une amende prononcée en application du présent III est susceptible de se cumuler avec une amende pénale infligée à raison des mêmes faits au professionnel auteur du manquement, le montant cumulé des amendes prononcées ne peut dépasser le maximum légal le plus élevé.
+IV. - Lorsque dix ans se sont écoulés depuis une décision définitive de destitution, le professionnel frappé de cette peine peut demander à la juridiction disciplinaire qui a statué sur l'affaire en première instance de le relever de l'incapacité résultant de cette décision.
+Lorsque la demande mentionnée au premier alinéa du présent IV est rejetée par une décision devenue définitive, elle ne peut être à nouveau présentée que cinq ans après l'enregistrement de la première demande.
+V. - La juridiction disciplinaire peut ordonner, à titre de sanction complémentaire, la publicité de toute peine disciplinaire.
+Lorsque l'urgence ou la protection d'intérêts publics ou privés l'exige, le président de la juridiction disciplinaire de première instance ou son suppléant peut, à la demande d'une des autorités habilitées à exercer l'action disciplinaire, suspendre provisoirement de ses fonctions le professionnel qui fait l'objet d'une enquête ou d'une poursuite disciplinaire ou pénale, après avoir recueilli ses observations au terme d'un débat contradictoire.
+La suspension ne peut excéder une durée de six mois, renouvelable une fois, ou au-delà de cette limite lorsque l'action publique a été engagée contre le professionnel mentionné à l'article 31 à raison des faits qui fondent la suspension. Elle peut, à tout moment, être levée par le président de la juridiction disciplinaire si des éléments nouveaux le justifient. Elle cesse de plein droit à l'expiration d'un délai de deux mois à compter de la clôture de l'enquête. Elle cesse également de plein droit lorsque l'action disciplinaire ou l'action pénale s'éteint.
+Le président ou son suppléant qui s'est prononcé sur la suspension d'un professionnel ne peut siéger au sein de la juridiction disciplinaire statuant sur sa situation.
+La décision de suspension prise à l'égard d'un notaire ou d'un commissaire de justice peut faire l'objet d'un recours devant la cour nationale de discipline de la profession concernée. Lorsqu'elle est prise à l'égard d'un avocat au Conseil d'Etat et à la Cour de cassation, la décision peut faire l'objet d'un recours, selon la nature des faits en cause, devant le Conseil d'Etat ou la Cour de cassation. Lorsqu'elle est prise à l'égard d'un greffier des tribunaux de commerce, elle peut faire l'objet d'un recours devant la Cour de cassation.
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par ordonnances, dans un délai de huit mois à compter de la promulgation de la présente loi, toute disposition relevant du domaine de la loi relative aux professions mentionnées à l'article 31 de la présente loi afin de :
+1° Réunir l'ensemble des dispositions destinées à régir la discipline des professions mentionnées au même article 31, dans le respect de la présente section ;
+2° Tirer les conséquences de la présente section sur les règles statutaires applicables à chacune de ces professions et prévoir toute adaptation rendue nécessaire par leur organisation particulière ;
+3° Désigner, aux échelons régional et national, les autorités mentionnées aux articles 35 à 37 et préciser leurs compétences respectives ;
+4° Préciser les effets des peines disciplinaires sur l'activité des professionnels sanctionnés, sur les structures d'exercice et sur les offices ;
+5° Prévoir les dispositions transitoires et les dispositions d'adaptation relatives à l'outre-mer rendues nécessaires par la présente section ;
+6° Assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des dispositions et abroger les dispositions législatives contraires à la présente section ou devenues sans objet.
+Un projet de loi de ratification est déposé devant le Parlement dans un délai de six mois à compter de la publication de chacune des ordonnances.
+
+#### Section 2 : Discipline des avocats
+La loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques est ainsi modifiée :
+1° Au second alinéa de l'article 18, la référence : « dernier alinéa » est remplacée par la référence : « IV » ;
+2° L'article 21 est ainsi modifié :
+a) Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+b) La seconde phrase du deuxième alinéa est supprimée ;
+c) Après le même deuxième alinéa, sont insérés quatre alinéas ainsi rédigés :
+« II.-Le bâtonnier instruit toute réclamation formulée à l'encontre d'un avocat. Il accuse réception de la réclamation, en informe l'avocat mis en cause et invite celui-ci à présenter ses observations.
+« Lorsque la nature de la réclamation le permet, et sous réserve des réclamations abusives ou manifestement mal fondées, le bâtonnier peut organiser une conciliation entre les parties, à laquelle prend part un avocat au moins.
+« L'auteur de la réclamation et l'avocat mis en cause sont informés des suites réservées à la réclamation. En l'absence de conciliation, en cas d'échec de celle-ci ou en l'absence de poursuite disciplinaire, l'auteur de la réclamation est informé sans délai de la possibilité de saisir le procureur général près la cour d'appel de sa réclamation ou de saisir directement la juridiction disciplinaire.
+« III.-Le bâtonnier prévient ou concilie les différends d'ordre professionnel entre les membres du barreau. » ;
+d) Au début du dernier alinéa, est ajoutée la mention : « IV.-» ;
+3° L'article 22-1 est ainsi modifié :
+a) A la première phrase du premier alinéa, le mot : « composé » est remplacé par les mots : « une juridiction composée » ;
+b) Le troisième alinéa est complété par les mots : « parmi ses membres » ;
+4° Après l'article 22-2, il est inséré un article 22-3 ainsi rédigé :
+
+« Art. 22-3.-Par dérogation aux articles 22-1 et 22-2, le conseil de discipline est présidé par un magistrat du siège de la cour d'appel, en activité ou honoraire, désigné par le premier président, lorsque la poursuite disciplinaire fait suite à une réclamation présentée par un tiers ou lorsque l'avocat mis en cause en fait la demande. Le magistrat honoraire président du conseil de discipline ne peut siéger au-delà de la date de son soixante et onzième anniversaire.
+« La récusation d'un membre de la juridiction peut être demandée dans les conditions prévues à l'article L. 111-6 du code de l'organisation judiciaire.
+« Le membre de la juridiction disciplinaire qui suppose en sa personne une cause de récusation ou estime en sa conscience devoir s'abstenir est remplacé dans les conditions prévues à l'article L. 111-7 du même code. » ;
+
+5° L'article 23 est ainsi modifié :
+a) Le premier alinéa est ainsi modifié :
+
+-le mot : « ou » est remplacé par le mot : «, par » ;
+-sont ajoutés les mots : « ou par l'auteur de la réclamation » ;
+
+b) Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Le président de l'instance disciplinaire peut rejeter les réclamations irrecevables, manifestement infondées ou qui ne sont pas assorties des précisions permettant d'en apprécier le bien-fondé. » ;
+c) Le dernier alinéa est ainsi rédigé :
+« La décision de l'instance disciplinaire peut faire l'objet d'un appel devant la cour d'appel de la part de l'avocat poursuivi, du bâtonnier dont il relève ou du procureur général. La formation de jugement de la cour d'appel comprend trois magistrats du siège de cette cour, en activité ou honoraires, et deux membres des conseils de l'ordre du ressort de la cour d'appel. Elle est présidée par un magistrat du siège. Les magistrats honoraires membres des juridictions disciplinaires ne peuvent siéger au-delà de la date de leur soixante et onzième anniversaire. » ;
+6° A la fin de la seconde phrase du premier alinéa de l'article 24, les mots : « quatre mois, renouvelable » sont remplacés par les mots : « six mois, renouvelable une fois, ou au-delà de cette limite lorsque l'action publique a été engagée contre l'avocat à raison des faits qui fondent la suspension » ;
+7° Au troisième alinéa de l'article 25, les mots : « un département ou un territoire d'outre-mer ou à Mayotte » sont remplacés par les mots : « une collectivité d'outre-mer » ;
+8° L'article 53 est ainsi modifié :
+a) Au début du 2°, les mots : « Les règles de déontologie » sont remplacés par les mots : « Le code de déontologie des avocats préparé par le Conseil national des barreaux » ;
+b) Au 7°, la référence : « dernier alinéa » est remplacée par la référence : « IV ».
+
+#### Section 3 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme
+I.-Le I de l'article L. 561-36 du code monétaire et financier est ainsi modifié :
+1° Le 4° est complété par une phrase ainsi rédigée : « Elles peuvent être assistées dans leur mission de contrôle par le Conseil supérieur du notariat, conformément à l'article 6 de la même ordonnance ; »
+2° Le 5° est complété par une phrase ainsi rédigée : « Elles peuvent être assistées dans leur mission de contrôle par la chambre nationale des commissaires de justice, conformément à l'article 16 de la même ordonnance ; ».
+II.-L'article 6 de l'ordonnance n° 45-2590 du 2 novembre 1945 relative au statut du notariat est complété par un alinéa ainsi rédigé :
+« Le conseil supérieur peut assister les chambres des notaires dans leur mission de contrôle du respect, par les notaires, des obligations prévues aux chapitres Ier et II du titre VI du livre V du code monétaire et financier, des dispositions européennes directement applicables en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme, y compris celles des règlements européens portant mesures restrictives pris en application des articles 75 ou 215 du traité sur le fonctionnement de l'Union européenne, ainsi que celles prises en application du même article 215 à d'autres fins. »
+III.-Après le 14° de l'article 16 de l'ordonnance n° 2016-728 du 2 juin 2016 relative au statut de commissaire de justice, il est inséré un 15° ainsi rédigé :
+« 15° D'assister les chambres régionales dans leur mission de contrôle du respect, par les commissaires de justice, des obligations prévues aux chapitres Ier et II du titre VI du livre V du code monétaire et financier, des dispositions européennes directement applicables en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme, y compris celles des règlements européens portant mesures restrictives pris en application des articles 75 ou 215 du traité sur le fonctionnement de l'Union européenne, ainsi que celles prises en application du même article 215 à d'autres fins. »
+
+### Chapitre II : Conditions d'intervention des professions du droit
+L'article L. 111-3 du code des procédures civiles d'exécution est complété par un 7° ainsi rédigé :
+« 7° Les transactions et les actes constatant un accord issu d'une médiation, d'une conciliation ou d'une procédure participative, lorsqu'ils sont contresignés par les avocats de chacune des parties et revêtus de la formule exécutoire par le greffe de la juridiction compétente. »
+I.-Le chapitre Ier du titre II de la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et administrative est ainsi modifié :
+1° A l'article 21-2, après le mot : « compétence », il est inséré le mot : «, indépendance » ;
+2° Au début de l'article 21-5, sont ajoutés les mots : « Sans préjudice du 7° de l'article L. 111-3 du code des procédures civiles d'exécution, » ;
+3° La section 1 est complétée par des articles 21-6 et 21-7 ainsi rédigés :
+
+« Art. 21-6.-Un Conseil national de la médiation est placé auprès du ministre de la justice. Il est chargé de :
+« 1° Rendre des avis dans le domaine de la médiation définie à l'article 21 et proposer aux pouvoirs publics toutes mesures propres à l'améliorer ;
+« 2° Proposer un recueil de déontologie applicable à la pratique de la médiation ;
+« 3° Proposer des référentiels nationaux de formation des médiateurs et faire toute recommandation sur la formation ;
+« 4° Emettre des propositions sur les conditions d'inscription des médiateurs sur la liste prévue à l'article 22-1 A.
+« Pour l'exercice de ses missions, le Conseil national de la médiation recueille toutes informations quantitatives et qualitatives sur la médiation.
+« Un décret en Conseil d'Etat fixe l'organisation, les moyens et les modalités de fonctionnement du Conseil national de la médiation.
+
+« Art. 21-7.-Siègent au Conseil national de la médiation des personnalités qualifiées ainsi que des représentants des associations intervenant dans le champ de la médiation, des administrations, des juridictions et des professions du droit. Une majorité des membres ont une expérience pratique ou une formation à la médiation.
+« Un décret en Conseil d'Etat fixe les modalités de sa composition. » ;
+
+4° Le dernier alinéa de l'article 22-2 est ainsi modifié :
+a) A la première phrase, le mot : « consigneront » est remplacé par le mot : « versent » ;
+b) A la deuxième phrase, le mot : « consignation » est remplacé par le mot : « versement ».
+II.-Au début du premier alinéa de l'article 2066 du code civil, sont ajoutés les mots : « Sans préjudice du 7° de l'article L. 111-3 du code des procédures civiles d'exécution, ».
+L'article 4 de la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle est ainsi modifié :
+1° Au premier alinéa, après le mot : « voisinage », sont insérés les mots : « ou à un trouble anormal de voisinage » ;
+2° Après le 4°, il est inséré un 5° ainsi rédigé :
+« 5° Si le créancier a vainement engagé une procédure simplifiée de recouvrement des petites créances. »
+L'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 précitée est complété par un alinéa ainsi rédigé :
+« A défaut de paiement de la cotisation annuelle due par les avocats inscrits à un tableau dans un délai d'un mois à compter d'une mise en demeure de payer, le Conseil national des barreaux rend, à l'encontre des avocats redevables, une décision qui, à défaut d'opposition du débiteur devant la juridiction compétente, produit les effets d'un jugement au sens du 6° de l'article L. 111-3 du code des procédures civiles d'exécution. »
+I.-Le début de la deuxième phrase du second alinéa de l'article 216 du code de procédure pénale est ainsi rédigé : « Les parties peuvent produire les justificatifs des sommes qu'elles demandent et la chambre tient … (le reste sans changement). »
+II.-Au début de la deuxième phrase de l'article 375, de la deuxième phrase du premier alinéa de l'article 475-1 et de la seconde phrase de l'article 618-1 du code de procédure pénale, sont ajoutés les mots : « Les parties peuvent produire les justificatifs des sommes qu'elles demandent et ».
+III.-Au début de la deuxième phrase de l'article L. 761-1 du code de justice administrative, sont ajoutés les mots : « Les parties peuvent produire les justificatifs des sommes qu'elles demandent et ».
+IV.-Au début de la deuxième phrase de l'article L. 2333-87-8 du code général des collectivités territoriales, sont ajoutés les mots : « Les parties peuvent produire les justificatifs des sommes qu'elles demandent et ».
+V.-La loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique est ainsi modifiée :
+1° L'article 37 est ainsi modifié :
+a) À la première phrase du deuxième alinéa, les mots : « du bénéficiaire de l'aide juridictionnelle, partielle ou totale » sont remplacés par les mots : « pouvant être rétribué, totalement ou partiellement, au titre de l'aide juridictionnelle » ;
+b) Au début de la deuxième phrase du même deuxième alinéa, sont ajoutés les mots : « Les parties peuvent produire les justificatifs des sommes qu'elles demandent et » ;
+2° L'article 75 est ainsi modifié :
+a) Au début de la deuxième phrase du I, sont ajoutés les mots : « Les parties peuvent produire les justificatifs des sommes qu'elles demandent et » ;
+b) Il est ajouté un V ainsi rédigé :
+« V.-L'article 66-5 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ne fait pas obstacle à la production en justice de tout élément nécessaire à la justification des sommes demandées au titre des frais exposés et non compris dans les dépens. »
+A la seconde phrase de l'article L. 422-11 du code de la propriété intellectuelle, après le mot : « avocat », sont insérés les mots : «, à l'exception pour ces dernières de celles portant la mention “ officielle ” ».
+
+## Titre VI : ACCÈS AU DROIT EN NOUVELLE-CALÉDONIE
+La loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique est ainsi modifiée :
+1° La sixième partie est ainsi modifiée :
+a) A la fin de l'intitulé, les mots : « et à Mayotte » sont remplacés par les mots : «, à Mayotte et en Nouvelle-Calédonie » ;
+b) Il est ajouté un titre III ainsi rédigé :
+
+« Titre III
+« DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
+
+« Art. 69-17.-La deuxième partie de la présente loi, à l'exception de l'article 61, est applicable en Nouvelle-Calédonie, sous réserve des adaptations figurant au présent titre III.
+
+« Art. 69-18.-Les dispositions de la deuxième partie de la présente loi mentionnant le représentant de l'Etat, les collectivités publiques et le tribunal de grande instance sont comprises comme désignant respectivement le haut-commissaire de la République, les collectivités territoriales et le tribunal de première instance.
+
+« Art. 69-19.-Les conditions dans lesquelles s'exerce l'aide à la consultation en matière juridique mentionnée au 3° de l'article 53 sont déterminées par le conseil de l'accès au droit de Nouvelle-Calédonie, en conformité avec les règles de déontologie des personnes chargées de la consultation et dans le respect de la réglementation des professions judiciaires et juridiques concernées applicable localement.
+
+« Art. 69-20.-Le rapport mentionné au dernier alinéa de l'article 54 est transmis au haut-commissaire et aux présidents des institutions de la Nouvelle-Calédonie et publié par tout moyen.
+
+« Art. 69-21.-I.-Le conseil de l'accès au droit de la Nouvelle-Calédonie qui exerce les attributions dévolues au conseil départemental de l'accès au droit prévu à l'article 55 est constitué de représentants :
+« 1° De l'Etat ;
+« 2° Des associations de maires ;
+« 3° De l'ordre des avocats au barreau de Nouméa ;
+« 4° De la caisse des règlements pécuniaires de ce barreau ;
+« 5° De la chambre des notaires de Nouvelle-Calédonie ;
+« 6° De la chambre des huissiers de justice de Nouvelle-Calédonie ;
+« 7° De deux associations œuvrant dans le domaine de l'accès au droit, de l'aide aux victimes ou de la médiation, désignées conjointement par le président du tribunal de première instance et les membres du conseil, sur la proposition du haut-commissaire.
+« Les institutions de la Nouvelle-Calédonie peuvent être membres du conseil d'accès au droit, sur décision de leur assemblée délibérante. En outre, toute autre personne morale de droit public ou privé peut également être membre.
+« II.-Le conseil de l'accès au droit est présidé par le président du tribunal de première instance. Ce dernier a voix prépondérante en cas de partage égal des voix. Le procureur près le tribunal de première instance, membre de droit, est vice-président du conseil.
+« Un magistrat de la cour d'appel de Nouméa, chargé de la politique associative, de l'accès au droit et de l'aide aux victimes, désigné conjointement par le premier président et le procureur général près ladite cour d'appel, exerce la fonction de commissaire du Gouvernement.
+« III.-La convention constitutive détermine les modalités d'adhésion de nouveaux membres ainsi que la participation des membres au financement des activités.
+
+« Art. 69-22.-Pour son application en Nouvelle-Calédonie, le 1° de l'article 57 est ainsi rédigé :
+« “ 1° Avec des membres des professions juridiques ou judiciaires réglementées ou leurs organismes professionnels, en vue de définir les modalités de leur participation aux actions d'aide à l'accès au droit ; ” » ;
+
+2° Avant le dernier alinéa de l'article 70, il est inséré un 6° ainsi rédigé :
+« 6° En Nouvelle-Calédonie, notamment les règles de composition et de fonctionnement du conseil de l'accès au droit. »
+
+## Titre III : DU SERVICE PUBLIC PÉNITENTIAIRE
+Avant le dernier alinéa de l'article 714 du code de procédure pénale, il est inséré un alinéa ainsi rédigé :
+« A titre exceptionnel, les personnes mentionnées au même premier alinéa ayant interjeté appel ou formé un pourvoi en cassation contre leur condamnation peuvent être incarcérées dans un établissement pour peines lorsque cet établissement offre des conditions de détention plus satisfaisantes eu égard à la capacité d'accueil de la maison d'arrêt où ces personnes doivent être détenues en application du deuxième alinéa. »
+Au premier alinéa de l'article 719 du code de procédure pénale, les mots : « et les sénateurs ainsi que les représentants au Parlement européen élus en France sont autorisés à visiter à tout moment les locaux de garde à vue » sont remplacés par les mots : «, les sénateurs, les représentants au Parlement européen élus en France, les bâtonniers sur leur ressort ou leur délégué spécialement désigné au sein du conseil de l'ordre sont autorisés à visiter à tout moment les locaux de garde à vue, les locaux des retenues douanières définies à l'article 323-1 du code des douanes, les lieux de rétention administrative, les zones d'attente ».
+L'article 717-3 du code de procédure pénale est ainsi rédigé :
+
+« Art. 717-3.-Les activités de travail et de formation professionnelle ou générale sont prises en compte pour l'appréciation des efforts sérieux de réinsertion et de la bonne conduite des condamnés.
+« Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle, une formation professionnelle ou générale ou une validation des acquis de l'expérience aux personnes incarcérées qui en font la demande. A cet effet, celles-ci bénéficient de l'accès aux ressources pédagogiques nécessaires, y compris par voie numérique.
+« Le chef d'établissement s'assure que les mesures appropriées sont prises en matière d'accès à l'activité professionnelle des personnes handicapées détenues.
+« L'administration pénitentiaire travaille en partenariat avec l'institution publique mentionnée à l'article L. 5312-1 du code du travail, avec les missions locales pour l'insertion professionnelle et sociale des jeunes et avec les organismes de placement spécialisés dans l'insertion professionnelle des personnes handicapées afin de favoriser la réinsertion professionnelle des personnes condamnées à l'issue de leur détention. »
+I.-Après la section 1 du chapitre II du titre II du livre V du code de procédure pénale, est insérée une section 1 bis A ainsi rédigée :
+
+« Section 1 bis A
+« Du travail des personnes détenues
+
+« Sous-section 1
+« Dispositions générales
+
+« Art. 719-2.-Le travail des personnes détenues participe au parcours d'exécution des peines privatives et restrictives de liberté. Il vise à préparer l'insertion ou la réinsertion professionnelle et sociale de la personne détenue en créant les conditions de son employabilité et concourt à la mission de prévention de la récidive confiée au service public pénitentiaire.
+« Le travail est accompli sous le contrôle permanent de l'administration pénitentiaire, qui assure la surveillance des personnes détenues, la discipline et la sécurité sur les lieux de travail. Les conditions d'exercice de l'activité préparent la personne détenue aux relations de travail auxquelles elle pourra participer après sa sortie. Elles sont adaptées à sa personnalité et aux contraintes inhérentes à la détention. En particulier, des motifs disciplinaires ou liés au maintien du bon ordre et de la sécurité des établissements pénitentiaires peuvent conduire, à tout moment, l'administration pénitentiaire, dans les conditions définies à l'article 719-7, à suspendre temporairement l'activité de travail ou à y mettre un terme.
+
+« Art. 719-3.-Le travail des personnes détenues peut être accompli pour un donneur d'ordre qui est :
+« 1° Au service général, l'administration pénitentiaire ;
+« 2° Dans le cadre d'une activité de production, un concessionnaire, une entreprise délégataire, une structure d'insertion par l'activité économique mentionnée à l'article L. 5132-4 du code du travail, une entreprise adaptée mentionnée à l'article L. 5213-13 du même code ou un service de l'Etat ayant pour mission de développer le travail et l'insertion professionnelle des personnes placées sous main de justice. Le donneur d'ordre peut également être notamment une personne morale de droit privé mentionnée au 1° du II de l'article 1er de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire et poursuivant un but d'utilité sociale au sens de l'article 2 de la même loi, une société commerciale mentionnée au 2° du II de l'article 1er de ladite loi ou une société remplissant les conditions mentionnées à l'article L. 210-10 du code de commerce.
+« Le travail pour un donneur d'ordre est accompli dans le cadre du contrat d'emploi pénitentiaire régi par la sous-section 3 de la présente section. Les relations entre la personne détenue et le donneur d'ordre sont régies par les dispositions du présent code et par celles du code du travail auxquelles le présent code renvoie expressément.
+
+« Art. 719-4.-Les personnes détenues peuvent travailler pour leur propre compte, après y avoir été autorisées par le chef d'établissement.
+
+« Art. 719-5.-La présente section est applicable lorsque le lieu de travail de la personne détenue se situe, en tout ou partie, sur le domaine affecté à l'établissement pénitentiaire ou à ses abords immédiats.
+
+« Sous-section 2
+« Classement au travail et affectation sur un poste de travail
+
+« Art. 719-6.-La personne détenue qui souhaite exercer un travail en détention pour un donneur d'ordre mentionné à l'article 719-3 adresse une demande à l'administration pénitentiaire. Cette demande donne lieu à une décision de classement ou de refus de classement au travail prise par le chef d'établissement, après avis de la commission pluridisciplinaire unique. La décision de classement précise les régimes selon lesquels la personne détenue peut être employée : service général, concession, service de l'emploi pénitentiaire, insertion par l'activité économique, entreprise adaptée, établissement et service d'aide par le travail. Une liste d'attente d'affectation est constituée dans chaque établissement pénitentiaire. La décision de refus de classement est motivée. Cette décision est susceptible de recours.
+« Lorsque la personne détenue est classée au travail et en fonction des régimes selon lesquels elle peut être employée, elle peut adresser à l'administration pénitentiaire une demande d'affectation sur un poste de travail. Au vu de l'avis de la commission pluridisciplinaire unique et, le cas échéant, de la demande d'affectation formulée par la personne détenue, l'administration pénitentiaire organise des entretiens professionnels entre celle-ci et le service, l'entreprise ou la structure chargé de l'activité de travail. Au vu des résultats de ces entretiens, au terme desquels le service, l'entreprise ou la structure chargé de l'activité de travail opère un choix, et en tenant compte des possibilités locales d'emploi, le chef d'établissement prend, le cas échéant, une décision d'affectation sur un poste de travail.
+
+« Art. 719-7.-I.-En cas de faute disciplinaire, le chef d'établissement peut :
+« 1° Mettre fin au classement au travail ;
+« 2° Mettre fin à l'affectation sur un poste de travail ;
+« 3° Suspendre le classement au travail, pour une durée qu'il détermine.
+« Les mesures prévues aux 1° à 3° sont prises à titre de sanction disciplinaire, dans les conditions prévues à l'article 726.
+« II.-Le chef d'établissement peut suspendre l'affectation sur un poste de travail pour des motifs liés au maintien du bon ordre, à la sécurité de l'établissement pénitentiaire ou à la prévention des infractions. La durée de la mesure doit être strictement proportionnée.
+« L'affectation peut également être suspendue pendant la durée d'une procédure disciplinaire ou pour des motifs liés à la translation de la personne détenue ou, en ce qui concerne les prévenus, aux nécessités de l'information. Elle peut également être suspendue à la demande de la personne détenue.
+« III.-L'affectation de la personne détenue sur un poste de travail prend fin lorsqu'il est mis fin au contrat d'emploi pénitentiaire en application du II de l'article 719-11. Elle est suspendue lorsque le contrat est suspendu en application de l'article 719-12.
+
+« Sous-section 3
+« Contrat d'emploi pénitentiaire
+
+« Art. 719-8.-La personne détenue ne peut conclure un contrat d'emploi pénitentiaire sans avoir été préalablement classée au travail et affectée sur un poste de travail dans les conditions prévues à l'article 719-6.
+
+« Art. 719-9.-Lorsque le donneur d'ordre est l'administration pénitentiaire, le contrat d'emploi pénitentiaire est conclu entre le chef d'établissement et la personne détenue.
+« Lorsque le donneur d'ordre est un de ceux mentionnés au 2° de l'article 719-3, le contrat d'emploi pénitentiaire est conclu entre la personne détenue et le représentant légal du donneur d'ordre. Une convention signée par ces deux personnes et par le chef d'établissement pénitentiaire lui est annexée. Cette convention détermine les obligations respectives de l'établissement, du donneur d'ordre et de la personne détenue et prévoit notamment les modalités de remboursement par le donneur d'ordre des rémunérations et cotisations avancées par l'établissement.
+« La durée du contrat d'emploi pénitentiaire est fixée en tenant compte de la durée de la mission ou du service confié à la personne détenue. Le contrat mentionne cette durée, qui peut être indéterminée.
+« Le contrat d'emploi pénitentiaire énonce notamment les droits et obligations professionnels de la personne détenue, ainsi que ses conditions de travail et sa rémunération.
+
+« Art. 719-10.-Le contrat d'emploi pénitentiaire prévoit une période d'essai dont la durée ne peut excéder :
+« 1° Deux semaines, lorsque la durée du contrat est au plus égale à six mois ;
+« 2° Un mois, lorsque la durée du contrat est supérieure à six mois ou indéterminée.
+« Dans le cas prévu au 2°, la période d'essai peut être prolongée pour une durée maximale de deux mois lorsque la technicité du poste le justifie.
+
+« Art. 719-11.-I.-Il est mis fin au contrat d'emploi pénitentiaire :
+« 1° D'un commun accord entre la personne détenue et le donneur d'ordre ou à l'initiative de la personne détenue ;
+« 2° Lorsque la détention prend fin ;
+« 3° En cas de transfert définitif de la personne détenue dans un autre établissement ;
+« 4° Lorsqu'il est mis fin au classement au travail ou à l'affectation sur un poste de travail dans les conditions prévues au I de l'article 719-7.
+« Lorsqu'il est mis fin au contrat d'emploi pénitentiaire en application du 2° du présent I, y compris dans le cadre d'un aménagement de peine, et en cas de commun accord entre la personne détenue et le donneur d'ordre, la conclusion d'un contrat de travail entre ces deux parties doit être facilitée. À cet effet, le donneur d'ordre informe la personne détenue des possibilités d'emploi dans son service, son entreprise ou sa structure et examine la possibilité de conclure avec cette personne, à l'issue de sa détention, un contrat de travail lui permettant de continuer à exercer une activité pour ce même donneur d'ordre, selon les dispositions du code du travail.
+« Lorsqu'il est mis fin au contrat d'emploi pénitentiaire en application du 3° du présent I, la personne transférée conserve le bénéfice du classement au travail préalablement obtenu. Toutes les dispositions sont prises pour l'affecter en priorité sur un poste de nature comparable, compte tenu des possibilités locales d'emploi.
+« II.-Le donneur d'ordre mentionné à l'article 719-3 peut, après avoir mis la personne détenue en mesure de présenter ses observations, mettre fin au contrat d'emploi pénitentiaire en cas d'inaptitude ou d'insuffisance professionnelle ou, lorsque le donneur d'ordre est une structure d'insertion par l'activité économique ou une entreprise adaptée, en cas de non-respect de l'accompagnement socioprofessionnel proposé.
+« Le donneur d'ordre peut également mettre fin au contrat d'emploi pénitentiaire en cas de force majeure, pour un motif économique ou, lorsque le donneur d'ordre est l'administration pénitentiaire, pour un motif tenant aux besoins du service.
+
+« Art. 719-12.-I.-Le contrat d'emploi pénitentiaire est suspendu de plein droit lorsque le classement au travail de la personne détenue ou son affectation sur le poste de travail est suspendu en application des I ou II de l'article 719-7.
+« II.-Le contrat d'emploi pénitentiaire peut être suspendu, dans le cadre du service général, par le chef d'établissement ou, dans le cadre d'une activité de production, par le donneur d'ordre mentionné au 2° de l'article 719-3 :
+« 1° En cas d'incapacité temporaire de travail pour raison médicale ;
+« 2° En cas de baisse temporaire de l'activité.
+
+« Art. 719-13.-Tout litige lié au contrat d'emploi pénitentiaire et à la convention mentionnée au deuxième alinéa de l'article 719-9 relève de la compétence de la juridiction administrative.
+
+« Sous-section 4
+« Durée du travail, repos, jours fériés et rémunération
+
+« Art. 719-14.-Le montant minimal de la rémunération et les règles relatives à la répartition des produits du travail des personnes détenues sont fixés par décret. Le produit du travail des personnes détenues ne peut faire l'objet d'aucun prélèvement pour frais d'entretien en établissement pénitentiaire. La rémunération du travail des personnes détenues ne peut être inférieure à un taux horaire fixé par décret et indexé sur le salaire minimum de croissance défini à l'article L. 3231-2 du code du travail. Ce taux peut varier en fonction du régime sous lequel les personnes détenues sont employées.
+
+« Art. 719-15.-Sont définis par décret en Conseil d'Etat :
+« 1° Les durées maximales quotidienne et hebdomadaire de travail effectif de la personne détenue ainsi que les conditions dans lesquelles peut être mis en place un dispositif d'aménagement du temps de travail sur une durée supérieure à la semaine ;
+« 2° La durée du travail effectif à temps complet ;
+« 3° La durée minimale de travail en cas de recours au temps partiel ;
+« 4° Le régime des heures supplémentaires et complémentaires ;
+« 5° Le régime des temps de pause, du repos quotidien, du repos hebdomadaire et des jours fériés dont bénéficient les personnes détenues.
+
+« Sous-section 5
+« Dispositions diverses et dispositions d'application
+
+« Art. 719-16.-Dans les conditions et selon les modalités prévues aux articles L. 5135-1 à L. 5135-8 du code du travail, une période de mise en situation en milieu professionnel peut être effectuée par la personne détenue au sein d'une structure d'accueil en milieu libre dans le cadre d'un placement à l'extérieur, d'une permission de sortir ou selon les modalités prévues pour le travail à l'extérieur.
+
+« Art. 719-17.-Sous réserve de l'article 719-14, les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat. »
+
+II.-L'article 718 du code de procédure pénale est abrogé.
+III.-Au premier alinéa des articles 868-3 et 868-4 du code de procédure pénale, la référence : « le dernier alinéa de l'article 713-3 » est remplacée par la référence : « l'article 719-14 ».
+IV.-Après l'article 868-4 du code de procédure pénale, il est inséré un article 868-5 ainsi rédigé :
+
+« Art. 868-5.-Les références au code du travail figurant à la section 1 bis A du chapitre II du titre II du livre V sont remplacées, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, par les références aux dispositions applicables localement ayant le même objet. »
+
+V.-Au deuxième alinéa de l'article 937 du code de procédure pénale, la référence : « 718 » est remplacée par la référence : « 719-4 ».
+I.-L'article 33 de la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire est abrogé.
+II.-A la fin de la deuxième phrase du premier alinéa de l'article 12 de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, la référence : « au premier alinéa de l'article 33 de la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire » est remplacée par la référence : « à l'article 719-3 du code de procédure pénale ».
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de dix mois à compter de la promulgation de la présente loi, les mesures relevant du domaine de la loi aux fins :
+1° D'ouvrir ou de faciliter l'ouverture des droits sociaux aux personnes détenues afin de favoriser leur réinsertion :
+a) En prévoyant l'application d'une assiette minimale de cotisations pour l'acquisition de droits à l'assurance vieillesse pour les personnes travaillant sous le régime du contrat d'emploi pénitentiaire ;
+b) En prévoyant l'affiliation des personnes travaillant sous le régime du contrat d'emploi pénitentiaire au régime de retraite complémentaire mentionné à l'article L. 921-2-1 du code de la sécurité sociale ;
+c) En permettant aux personnes travaillant sous le régime du contrat d'emploi pénitentiaire de bénéficier, à l'issue de leur détention, de droits à l'assurance chômage au titre du travail effectué en détention :
+
+- en adaptant le régime de l'assurance chômage aux spécificités de la situation de ces personnes ;
+- en prévoyant les modalités de financement de l'allocation d'assurance chômage ;
+- en adaptant la période de déchéance des droits à l'assurance chômage afin de prolonger les droits constitués au titre d'un travail effectué avant la détention ;
+
+d) En permettant l'ouverture des droits aux prestations en espèces, en prenant en compte les périodes travaillées sous le régime du contrat d'emploi pénitentiaire ou le statut de stagiaire de la formation professionnelle et les périodes d'activité antérieures à la détention pour le respect des conditions d'ouverture de droits ainsi que pour l'application des règles de maintien des droits et de coordination entre régimes et de calcul des prestations, pour les prestations :
+
+- de l'assurance maternité prévues aux articles L. 331-3 à L. 331-6 du code de la sécurité sociale, en déterminant les modalités de versement des indemnités journalières en cas de difficulté médicale liée à la grossesse ;
+- de l'assurance invalidité et de l'assurance décès, notamment en adaptant la procédure d'attribution de la pension d'invalidité ;
+- de l'assurance maladie, à l'issue de la détention ;
+
+e) En permettant l'ouverture d'un droit au versement d'indemnités journalières pendant la détention au titre du régime d'indemnisation des accidents du travail et des maladies professionnelles, en cas d'accident du travail ou de maladie professionnelle survenus soit dans le cadre du contrat d'emploi pénitentiaire, soit dans le cadre d'une formation professionnelle, soit lors de périodes d'activité antérieures à la détention, en définissant les règles de coordination entre régimes et les règles de calcul des prestations ;
+f) En prévoyant les modalités d'affiliation des détenus stagiaires de la formation professionnelle continue au régime d'assurance maladie, maternité, invalidité et décès ainsi que les modalités d'affiliation et les règles de calcul des prestations au titre du régime d'indemnisation des accidents du travail et des maladies professionnelles ;
+2° De favoriser l'accès des femmes détenues aux activités en détention, en généralisant la mixité de ces activités, sous réserve du maintien du bon ordre et de la sécurité ;
+3° De lutter contre les discriminations et le harcèlement au travail en milieu carcéral, en permettant :
+a) De prévenir, poursuivre et condamner, à l'occasion du travail en détention, les différences de traitement qui ne seraient pas justifiées par des objectifs légitimes et ne répondraient pas à des exigences proportionnées ;
+b) De prévenir, poursuivre et condamner des mesures et des comportements de harcèlement moral ou sexuel à l'occasion du travail en détention ;
+4° De favoriser l'accès à la formation professionnelle à la sortie de détention et de valoriser les activités bénévoles auxquelles les personnes détenues participent en détention, en permettant :
+a) D'ouvrir en détention un compte personnel d'activité prévu à l'article L. 5151-1 du code du travail pour les personnes détenues susceptibles de bénéficier de l'un des comptes qu'il comprend, à l'exception du compte professionnel de prévention prévu à l'article L. 4163-4 du même code ;
+b) D'ouvrir et d'alimenter le compte personnel de formation prévu à l'article L. 6323-1 dudit code pour les personnes travaillant sous le régime du contrat d'emploi pénitentiaire, y compris en prévoyant un dispositif spécifique de financement et d'alimentation de ce compte et en permettant de mobiliser des droits acquis sur ce compte à la sortie de détention ;
+c) D'organiser l'ouverture du compte d'engagement citoyen prévu à l'article L. 5151-7 du même code pour les personnes détenues et d'en fixer les modalités d'abondement ;
+d) De créer une réserve civique thématique prévue à l'article 1er de la loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, selon les modalités prévues au même article 1er ;
+5° De déterminer les personnes et services ayant pour mission de prévenir toute altération de la santé des détenus du fait de leur travail en détention ainsi que les règles relatives à l'intervention de ces personnes et services, y compris celles relatives à l'évaluation de l'aptitude des personnes détenues et au suivi de leur état de santé ;
+6° De confier aux agents de contrôle de l'inspection du travail des prérogatives et des moyens d'intervention au sein des établissements pénitentiaires afin de veiller à l'application des dispositions régissant le travail en détention ;
+7° De permettre l'implantation dans les locaux de l'administration pénitentiaire d'établissements et services d'aide par le travail en détention, selon des modalités adaptées aux spécificités de la détention ;
+8° De prévoir des modalités de réservation de marchés ou de concessions relevant du code de la commande publique au bénéfice des opérateurs économiques employant des personnes sous le régime d'un contrat d'emploi pénitentiaire, au titre des activités qu'ils réalisent dans ce cadre ;
+9° Le cas échéant, d'étendre et d'adapter aux collectivités mentionnées à l'article 72-3 de la Constitution les mesures prises sur le fondement des 1° à 8° du présent I.
+II. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chacune des ordonnances prévues au I.
+L'article 12 de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel est ainsi modifié :
+1° A la première phrase du premier alinéa, le mot : « trois » est remplacé par le mot : « cinq » ;
+2° Après le même premier alinéa, sont insérés quatre alinéas ainsi rédigés :
+« Les personnes qui ont bénéficié de ce dispositif et souhaitent conclure un contrat d'apprentissage ou un contrat de professionnalisation dans le cadre d'une semi-liberté ou à l'issue de leur détention afin de terminer leur formation ne peuvent bénéficier de l'application :
+« 1° Des deux premiers alinéas de l'article L. 6222-7-1 et de l'article L. 6325-11 du code du travail relatifs aux durées des contrats ;
+« 2° Des quatrième et avant-dernier alinéas de l'article L. 6211-2 et du second alinéa de l'article L. 6325-13 du même code relatifs aux durées de formation ;
+« 3° Des dispositions du premier alinéa de l'article L. 6222-1 et du 1° de l'article L. 6325-1 dudit code relatives à l'âge maximal de l'apprenti ou du bénéficiaire du contrat de professionnalisation. »
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de dix mois à compter de la publication de la présente loi, toute mesure relevant du domaine de la loi nécessaire pour :
+1° Rassembler et organiser dans un code pénitentiaire les dispositions relatives au service public pénitentiaire, à son contrôle et à la prise en charge ainsi qu'aux droits et obligations des personnes qui lui sont confiées ;
+2° Assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes ainsi rassemblés, harmoniser l'état du droit, remédier aux éventuelles erreurs et abroger les dispositions, codifiées ou non, obsolètes ou devenues sans objet.
+II. - Les dispositions mentionnées au I sont celles en vigueur à la date de publication de l'ordonnance ainsi que, le cas échéant, les dispositions publiées mais non encore entrées en vigueur à cette date.
+III. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+I.-L'article 99 de la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire est ainsi modifié :
+1° Le I est ainsi rédigé :
+« I.-Sous réserve des adaptations prévues au présent article, la présente loi est applicable, dans sa rédaction résultant de la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. » ;
+2° Après le même I, il est inséré un I bis ainsi rédigé :
+« I bis.-Les trois derniers alinéas de l'article 21 et l'article 55 ne sont pas applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. » ;
+3° Après le II bis, il est inséré un II ter ainsi rédigé :
+« II ter.-Pour l'application de l'article 2-1 dans les îles Wallis et Futuna, le troisième alinéa est ainsi rédigé :
+« “ Des conventions entre l'administration pénitentiaire et les autres services de l'Etat, le territoire, les circonscriptions territoriales, les associations et d'autres personnes publiques ou privées définissent les conditions et modalités d'accès des personnes condamnées aux droits et dispositifs mentionnés au deuxième alinéa en détention. ” » ;
+4° Au VI, les mots : « et dans les îles Wallis et Futuna » sont supprimés ;
+5° Au XI, les mots : « dans les îles Wallis et Futuna, » sont supprimés ;
+6° Après le même XI, il est inséré un XI bis ainsi rédigé :
+« XI bis.-Pour l'application de l'article 46 dans les îles Wallis et Futuna, les mots : “ directeur général de l'agence régionale de santé ” sont remplacés par les mots : “ directeur de l'agence de santé ”. »
+II.-Après le 4 de l'article L. 6431-4 du code de la santé publique, il est inséré un 5 ainsi rédigé :
+« 5. Elle évalue et identifie les besoins sanitaires des personnes en détention. Elle définit et régule l'offre de soins en milieu pénitentiaire. »
+III.-L'article 844-2 du code de procédure pénale est abrogé.
+IV.-Le 12° de l'article L. 387 du code électoral est abrogé.
+A la dernière phrase de l'article 22 de la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire, après le mot : « handicap », sont insérés les mots : «, de l'identité de genre ».
+
+## Titre IV : SIMPLIFICATIONS PROCÉDURALES
+Le code de justice administrative est ainsi modifié :
+1° Le dernier alinéa de l'article L. 213-5 est supprimé ;
+2° Le chapitre III du titre Ier du livre II est complété par une section 4 ainsi rédigée :
+
+« Section 4
+« Médiation préalable obligatoire
+
+« Art. L. 213-11.-Les recours formés contre les décisions individuelles qui concernent la situation de personnes physiques et dont la liste est déterminée par décret en Conseil d'Etat sont, à peine d'irrecevabilité, précédés d'une tentative de médiation. Ce décret en Conseil d'Etat précise en outre le médiateur relevant de l'administration chargé d'assurer la médiation.
+
+« Art. L. 213-12.-Lorsque la médiation constitue un préalable obligatoire au recours contentieux, son coût est supporté exclusivement par l'administration qui a pris la décision attaquée.
+
+« Art. L. 213-13.-La saisine du médiateur compétent interrompt le délai de recours contentieux et suspend les délais de prescription, qui recommencent à courir à compter de la date à laquelle soit l'une des parties, soit les deux, soit le médiateur déclarent, de façon non équivoque et par tout moyen permettant d'en attester la connaissance par l'ensemble des parties, que la médiation est terminée.
+
+« Art. L. 213-14.-Lorsque le Défenseur des droits est saisi dans son champ de compétences d'une réclamation relative à une décision concernée par la médiation préalable obligatoire, cette saisine entraîne les mêmes effets que la saisine du médiateur compétent au titre de l'article L. 213-11. »
+Après l'article 25-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, il est inséré un article 25-2 ainsi rédigé :
+
+« Art. 25-2.-Les centres de gestion assurent par convention, à la demande des collectivités territoriales et de leurs établissements publics, une mission de médiation préalable obligatoire prévue à l'article L. 213-11 du code de justice administrative.
+« Les centres de gestion peuvent également assurer, dans les domaines relevant de leur compétence, à la demande des collectivités territoriales et de leurs établissements publics, une mission de médiation à l'initiative du juge ou à l'initiative des parties, prévue aux articles L. 213-5 à L. 213-10 du même code, à l'exclusion des avis ou décisions des instances paritaires, médicales, de jurys ou de toute autre instance collégiale administrative obligatoirement saisie ayant vocation à adopter des avis ou des décisions.
+« Des conventions peuvent être conclues entre les centres de gestion pour l'exercice de ces missions à un niveau régional ou interrégional, selon les modalités déterminées par le schéma régional ou interrégional de coordination, de mutualisation et de spécialisation mentionné à l'article 14 de la présente loi.
+« Les dépenses afférentes à l'accomplissement des missions mentionnées aux deux premiers alinéas du présent article sont financées dans les conditions fixées à l'avant-dernier alinéa de l'article 22. »
+L'article L. 441-2-3-1 du code de la construction et de l'habitation est ainsi modifié :
+1° Après le sixième alinéa du I, il est inséré un alinéa ainsi rédigé :
+« Lorsqu'il est manifeste, au vu de la situation du demandeur, que son logement ou relogement doit être ordonné, le président du tribunal administratif ou le magistrat désigné peut y procéder par ordonnance, après avoir mis le représentant de l'Etat en mesure de présenter ses observations en défense et clôturé l'instruction. » ;
+2° Après le quatrième alinéa du II, il est inséré un alinéa ainsi rédigé :
+« Lorsqu'il est manifeste, au vu de la situation du demandeur, que son accueil dans l'une des structures mentionnées au quatrième alinéa du présent II doit être ordonné, le président du tribunal administratif ou le magistrat désigné peut y procéder par ordonnance, après avoir mis le représentant de l'Etat en mesure de présenter ses observations en défense et clôturé l'instruction. »
+L'article L. 126-14 du code de la construction et de l'habitation, dans sa rédaction résultant de l'ordonnance n° 2020-71 du 29 janvier 2020 relative à la réécriture des règles de construction et recodifiant le livre Ier du code de la construction et de l'habitation, est ainsi modifié :
+1° Le premier alinéa est complété par les mots : «, dans des conditions fixées par décret en Conseil d'Etat » ;
+2° Le second alinéa est ainsi rédigé :
+« Les huissiers de justice ont accès aux boîtes aux lettres particulières selon les mêmes modalités que les agents chargés de la distribution au domicile agissant pour le compte des opérateurs mentionnés à l'article L. 126-12. »
+
+## Titre IER : DISPOSITIONS RELATIVES À L'ENREGISTREMENT ET À LA DIFFUSION DES AUDIENCES
+I.-La loi du 29 juillet 1881 sur la liberté de la presse est ainsi modifiée :
+1° Les troisième à antépénultième alinéas de l'article 35 sont remplacés par deux alinéas ainsi rédigés :
+« La vérité des faits diffamatoires peut toujours être prouvée, sauf lorsque l'imputation concerne la vie privée de la personne.
+« Le troisième alinéa du présent article ne s'applique pas lorsque les faits sont prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27 du code pénal et ont été commis contre un mineur. La preuve contraire est alors réservée. Si la preuve du fait diffamatoire est rapportée, le prévenu sera renvoyé des fins de la plainte. » ;
+2° A la première phrase du troisième alinéa de l'article 38 ter, après le mot : « punie », sont insérés les mots : « de deux mois d'emprisonnement et » ;
+3° Après le même article 38 ter, il est inséré un article 38 quater ainsi rédigé :
+
+« Art. 38 quater.-I.-Par dérogation au premier alinéa de l'article 38 ter, l'enregistrement sonore ou audiovisuel d'une audience peut être autorisé, pour un motif d'intérêt public d'ordre pédagogique, informatif, culturel ou scientifique, en vue de sa diffusion. La demande d'autorisation d'enregistrement et de diffusion est adressée au ministre de la justice. L'autorisation est délivrée, après avis du ministre de la justice, par le président du Tribunal des conflits, le vice-président du Conseil d'Etat, le premier président de la Cour de cassation et le premier président de la Cour des comptes, concernant leurs juridictions respectives. Elle est délivrée, après avis du ministre de la justice, par le président de la juridiction concernant les juridictions administratives et les juridictions comprenant un magistrat du siège membre de la Cour de cassation, et par le premier président de la cour d'appel concernant les cours d'appel et les juridictions de l'ordre judiciaire de leur ressort.
+« Lorsque l'audience n'est pas publique, l'enregistrement est subordonné à l'accord préalable et écrit des parties au litige. Lorsqu'un majeur bénéficiant d'une mesure de protection juridique est partie à l'audience, qu'elle soit publique ou non, l'enregistrement est subordonné à l'accord préalable du majeur apte à exprimer sa volonté ou, à défaut, de la personne chargée de la mesure de protection juridique. Lorsqu'un mineur est partie à l'audience, qu'elle soit publique ou non, l'enregistrement est subordonné à l'accord préalable du mineur capable de discernement ainsi qu'à celui de ses représentants légaux ou, le cas échéant, de l'administrateur ad hoc désigné.
+« Les modalités de l'enregistrement ne portent atteinte ni au bon déroulement de la procédure et des débats, ni au libre exercice de leurs droits par les parties et les personnes enregistrées, dont la confidentialité des échanges entre l'avocat et son client. Le magistrat chargé de la police de l'audience peut, à tout moment, suspendre ou arrêter l'enregistrement. Cette décision constitue une mesure d'administration judiciaire insusceptible de recours.
+« La diffusion, intégrale ou partielle, de l'enregistrement n'est possible qu'après que l'affaire a été définitivement jugée. En cas de révision d'un procès en application de l'article 622 du code de procédure pénale, la diffusion de l'enregistrement peut être suspendue.
+« La diffusion est réalisée dans des conditions ne portant atteinte ni à la sécurité, ni au respect de la vie privée des personnes enregistrées, ni au respect de la présomption d'innocence. Cette diffusion est accompagnée d'éléments de description de l'audience et d'explications pédagogiques et accessibles sur le fonctionnement de la justice.
+« Sans préjudice de l'article 39 sexies de la présente loi, l'image et les autres éléments d'identification des personnes enregistrées ne peuvent être diffusés qu'avec leur consentement donné par écrit avant la tenue de l'audience. Les personnes enregistrées peuvent rétracter ce consentement dans un délai de quinze jours à compter de la fin de l'audience.
+« L'image et les autres éléments d'identification des mineurs ou des majeurs bénéficiant d'une mesure de protection juridique ne peuvent, en aucun cas, être diffusés.
+« Aucun élément d'identification des personnes enregistrées ne peut être diffusé cinq ans après la première diffusion de l'enregistrement ou dix ans après l'autorisation d'enregistrement.
+« L'accord écrit des parties au litige ou des personnes enregistrées ne peut faire l'objet d'aucune contrepartie.
+« II.-Après recueil de l'avis des parties, les audiences publiques devant le Conseil d'Etat et la Cour de cassation peuvent également être diffusées le jour même, sur décision de l'autorité compétente au sein de la juridiction, dans des conditions fixées par décret en Conseil d'Etat.
+« III.-Le présent article est également applicable, par dérogation à l'article 11 du code de procédure pénale, aux audiences intervenant au cours d'une enquête ou d'une instruction ainsi qu'aux auditions, interrogatoires et confrontations réalisés par le juge d'instruction. Lors des auditions, interrogatoires et confrontations, l'enregistrement est subordonné à l'accord préalable et écrit des personnes entendues et le juge d'instruction peut, à tout moment, suspendre ou arrêter l'enregistrement.
+« IV.-Le fait de diffuser un enregistrement réalisé en application du I sans respecter les conditions de diffusion prévues au même I est puni d'un an d'emprisonnement et de 15 000 € d'amende.
+« V.-La cession des droits sur les images enregistrées emporte de droit transfert au cessionnaire des obligations et interdictions prévues au présent article.
+« VI.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat. » ;
+
+4° L'article 39 est ainsi modifié :
+a) A la première phrase du premier alinéa, les mots : « les cas prévus aux paragraphes a, b et c » sont remplacés par les mots : « le cas prévu au troisième alinéa » ;
+b) Avant le dernier alinéa, il est inséré un alinéa ainsi rédigé :
+« Les interdictions prévues au premier alinéa du présent article ne sont pas applicables lorsque les parties ont donné leur accord. » ;
+5° Au dernier alinéa de l'article 48, après la référence : « 13 », est insérée la référence : «, 38 quater ».
+II.-A la fin du a de l'article L. 221-2 du code du patrimoine, le mot : « vice-président » est remplacé par le mot : « président ».
+
+## Titre II : DISPOSITIONS AMÉLIORANT LE DÉROULEMENT DES PROCÉDURES PÉNALES
+
+### Chapitre Ier : Dispositions renforçant les garanties judiciaires au cours de l'enquête et de l'instruction
+
+#### Section 1 : Dispositions renforçant le respect du contradictoire et des droits de la défense
+I.-Le chapitre II du titre II du livre Ier du code de procédure pénale est ainsi modifié :
+1° Après l'article 75-2, il est inséré un article 75-3 ainsi rédigé :
+
+« Art. 75-3.-La durée d'une enquête préliminaire ne peut excéder deux ans à compter du premier acte de l'enquête, y compris si celui-ci est intervenu dans le cadre d'une enquête de flagrance.
+« L'enquête préliminaire peut toutefois être prolongée une fois pour une durée maximale d'un an à l'expiration du délai mentionné au premier alinéa, sur autorisation écrite et motivée du procureur de la République, qui est versée au dossier de la procédure.
+« Les enquêteurs clôturent leurs opérations et transmettent les éléments de la procédure au procureur de la République en application de l'article 19 avant l'expiration du délai de deux ans ou, en cas de prolongation, du délai de trois ans, afin de permettre soit la mise en mouvement de l'action publique, le cas échéant par l'ouverture d'une information judiciaire, soit la mise en œuvre d'une procédure alternative aux poursuites, soit le classement sans suite de la procédure. Tout acte d'enquête intervenant après l'expiration de ces délais est nul, sauf s'il concerne une personne qui a été mise en cause au cours de la procédure, au sens de l'article 75-2, depuis moins de deux ans ou, en cas de prolongation, de trois ans.
+« Lorsque l'enquête porte sur des crimes ou délits mentionnés aux articles 706-73 ou 706-73-1 ou relevant de la compétence du procureur de la République antiterroriste, les délais de deux ans et d'un an prévus au présent article sont portés respectivement à trois ans et à deux ans.
+« Pour la computation des délais prévus au présent article, il n'est pas tenu compte, lorsque l'enquête a donné lieu à une décision de classement sans suite puis a repris sur décision du procureur de la République, de la durée pendant laquelle l'enquête a été suspendue. Il n'est pas non plus tenu compte, en cas d'entraide judiciaire internationale, du délai entre la signature de la demande par le parquet émetteur et la réception par ce même parquet des pièces d'exécution. Lorsqu'il est procédé au regroupement de plusieurs enquêtes dans le cadre d'une même procédure, il est tenu compte, pour la computation des délais prévus au présent article, de la date de commencement de l'enquête la plus ancienne. » ;
+
+2° L'article 77-2 est ainsi rédigé :
+
+« Art. 77-2.-I.-A tout moment de l'enquête préliminaire, le procureur de la République peut, lorsqu'il estime que cette décision ne risque pas de porter atteinte à l'efficacité des investigations, indiquer à la personne mise en cause, à la victime ou à leurs avocats qu'une copie de tout ou partie du dossier de la procédure est mise à la disposition de leurs avocats, ou à leur disposition si elles ne sont pas assistées par un avocat, et qu'elles ont la possibilité de formuler toutes observations qui leur paraîtraient utiles.
+« Ces observations peuvent notamment porter sur la régularité de la procédure, sur la qualification des faits pouvant être retenue, sur le caractère éventuellement insuffisant de l'enquête, sur la nécessité de procéder à de nouveaux actes qui seraient nécessaires à la manifestation de la vérité et sur les modalités d'engagement éventuel des poursuites ou le recours éventuel à la procédure de comparution sur reconnaissance préalable de culpabilité.
+« II.-Sans préjudice du I, toute personne à l'encontre de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre, en tant qu'auteur ou complice, une infraction punie d'une peine privative de liberté peut demander au procureur de la République, par lettre recommandée avec demande d'avis de réception ou par déclaration au greffe contre récépissé, de prendre connaissance du dossier de la procédure afin de formuler ses observations lorsqu'au moins l'une des conditions suivantes est remplie :
+« 1° Si la personne a été interrogée dans le cadre d'une audition libre ou d'une garde à vue qui s'est tenue il y a plus d'un an ;
+« 2° S'il a été procédé à une perquisition chez la personne il y a plus d'un an ;
+« 3° S'il a été porté atteinte à la présomption d'innocence de la personne par un moyen de communication au public. Le présent 3° n'est pas applicable lorsque les révélations émanent de la personne elle-même ou de son avocat, directement ou indirectement, ou que l'enquête porte sur des faits relevant des articles 706-73 ou 706-73-1 ou relevant de la compétence du procureur de la République antiterroriste.
+« Lorsqu'une telle demande lui a été présentée et qu'il estime qu'il existe à l'encontre de la personne une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre, en tant qu'auteur ou complice, une infraction punie d'une peine privative de liberté, le procureur de la République avise cette personne ou son avocat de la mise à la disposition de son avocat, ou à sa disposition si elle n'est pas assistée par un avocat, d'une copie de la procédure et de la possibilité de formuler les observations prévues au I du présent article, selon les formes mentionnées au premier alinéa du présent II.
+« Par dérogation au cinquième alinéa du présent II et pour une durée maximale de six mois à compter de la réception de la demande, le procureur de la République peut refuser à la personne la communication de tout ou partie de la procédure si l'enquête est toujours en cours et si cette communication risque de porter atteinte à l'efficacité des investigations. Il statue dans un délai d'un mois à compter de la réception de la demande, par une décision motivée versée au dossier. À défaut, le silence vaut refus de communication. La personne à l'origine de la demande peut contester un refus devant le procureur général, qui statue également dans un délai d'un mois à compter de sa saisine, par une décision motivée versée au dossier. Lorsque l'enquête porte sur des crimes ou délits mentionnés aux articles 706-73 ou 706-73-1 ou relevant de la compétence du procureur de la République antiterroriste, le délai de six mois prévu au présent alinéa est porté à un an.
+« Dans la période d'un mois qui suit la réception de la demande, le procureur de la République ne peut prendre aucune décision de poursuites hors l'ouverture d'une information, l'application de l'article 393 ou le recours à la procédure de comparution sur reconnaissance préalable de culpabilité prévue aux articles 495-7 à 495-13.
+« Le procureur de la République peut décider de ne pas mettre à la disposition de la personne certaines pièces de la procédure en raison des risques de pression sur les victimes, les autres personnes mises en cause, leurs avocats, les témoins, les enquêteurs, les experts ou toute autre personne concourant à la procédure.
+« III.-Lorsqu'une enquête préliminaire fait l'objet d'une demande de communication dans les conditions prévues au II, la victime, si elle a porté plainte, est avisée par le procureur de la République qu'elle dispose des droits prévus au I dans les mêmes conditions que la personne à l'origine de la demande.
+« IV.-Les observations formulées en application du présent article sont versées au dossier de la procédure. Le procureur de la République apprécie les suites à apporter à ces observations. Il en informe les personnes concernées. S'il refuse de procéder à un acte demandé, sa décision peut être contestée devant le procureur général.
+« V.-Lorsqu'une période de deux ans s'est écoulée après l'un des actes mentionnés aux 1° et 2° du II, l'enquête préliminaire ne peut se poursuivre à l'égard des personnes ayant fait l'objet de l'un de ces actes et à l'encontre desquelles il existe une ou plusieurs raisons plausibles de soupçonner qu'elles ont commis ou tenté de commettre, en tant qu'auteurs ou complices, une infraction sans que le procureur de la République fasse application du I à leur profit ainsi qu'à celui du plaignant. » ;
+
+3° A la première phrase de l'article 77-3, la référence : « premier alinéa du I » est remplacée par la référence : « II ».
+II.-L'article 696-114 du code de procédure pénale est complété par un alinéa ainsi rédigé :
+« Lorsqu'il poursuit les investigations après l'expiration des délais d'enquête prévus à l'article 75-3, le procureur européen délégué est également tenu de procéder conformément aux dispositions applicables à l'instruction. »
+Le code de procédure pénale est ainsi modifié :
+1° Le III de l'article préliminaire est complété par un alinéa ainsi rédigé :
+« Le respect du secret professionnel de la défense et du conseil, prévu à l'article 66-5 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, est garanti au cours de la procédure pénale dans les conditions prévues par le présent code. » ;
+2° L'article 56-1 est ainsi modifié :
+a) A la première phrase du premier alinéa, après le mot : « prise », sont insérés les mots : « par le juge des libertés et de la détention saisi » et, à la fin, les mots : « et l'objet de celle-ci » sont remplacés par les mots : «, l'objet de celle-ci et sa proportionnalité au regard de la nature et de la gravité des faits » ;
+b) A la fin de la deuxième phrase du même premier alinéa, les mots : « dès le début de la perquisition à la connaissance du bâtonnier ou de son délégué par le magistrat » sont remplacés par les mots : « à la connaissance du bâtonnier ou de son délégué dès le début de la perquisition par le magistrat effectuant celle-ci » ;
+c) Avant la dernière phrase dudit premier alinéa, est insérée une phrase ainsi rédigée : « Lorsque la perquisition est justifiée par la mise en cause de l'avocat, elle ne peut être autorisée que s'il existe des raisons plausibles de le soupçonner d'avoir commis ou tenté de commettre, en tant qu'auteur ou complice, l'infraction qui fait l'objet de la procédure ou une infraction connexe au sens de l'article 203. » ;
+d) Le deuxième alinéa est complété par les mots : « et à ce qu'aucun document relevant de l'exercice des droits de la défense et couvert par le secret professionnel de la défense et du conseil, prévu à l'article 66-5 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, ne soit saisi et placé sous scellé » ;
+e) A la fin du quatrième alinéa, les mots : « non susceptible de recours » sont supprimés ;
+f) Après le septième alinéa, sont insérés deux alinéas ainsi rédigés :
+« La décision du juge des libertés et de la détention peut faire l'objet d'un recours suspensif dans un délai de vingt-quatre heures, formé par le procureur de la République, l'avocat ou le bâtonnier ou son délégué devant le président de la chambre de l'instruction. Celui-ci statue dans les cinq jours suivant sa saisine, selon la procédure prévue au cinquième alinéa du présent article.
+« Ce recours peut également être exercé par l'administration ou l'autorité administrative compétente. » ;
+3° Après le même article 56-1, sont insérés des articles 56-1-1 et 56-1-2 ainsi rédigés :
+
+« Art. 56-1-1.-Lorsque, à l'occasion d'une perquisition dans un lieu autre que ceux mentionnés à l'article 56-1, il est découvert un document mentionné au deuxième alinéa du même article 56-1, la personne chez qui il est procédé à ces opérations peut s'opposer à la saisie de ce document. Le document doit alors être placé sous scellé fermé et faire l'objet d'un procès-verbal distinct de celui prévu à l'article 57. Ce procès-verbal ainsi que le document placé sous scellé fermé sont transmis sans délai au juge des libertés et de la détention, avec l'original ou une copie du dossier de la procédure. Les quatrième à neuvième alinéas de l'article 56-1 sont alors applicables.
+
+« Art. 56-1-2.-Dans les cas prévus aux articles 56-1 et 56-1-1, sans préjudice des prérogatives du bâtonnier ou de son délégué prévues à l'article 56-1 et des droits de la personne perquisitionnée prévus à l'article 56-1-1, le secret professionnel du conseil n'est pas opposable aux mesures d'enquête ou d'instruction lorsque celles-ci sont relatives aux infractions mentionnées aux articles 1741 et 1743 du code général des impôts et aux articles 421-2-2,433-1,433-2 et 435-1 à 435-10 du code pénal ainsi qu'au blanchiment de ces délits, sous réserve que les consultations, correspondances ou pièces détenues ou transmises par l'avocat ou son client établissent la preuve de leur utilisation aux fins de commettre ou de faciliter la commission desdites infractions. » ;
+
+4° Après l'article 60-1, il est inséré un article 60-1-1 ainsi rédigé :
+
+« Art. 60-1-1.-Lorsque les réquisitions prévues à l'article 60-1 portent sur des données de connexion émises par un avocat et liées à l'utilisation d'un réseau ou d'un service de communications électroniques, qu'il s'agisse de données de trafic ou de données de localisation, elles ne peuvent être faites que sur ordonnance motivée du juge des libertés et de la détention, saisi à cette fin par le procureur de la République.
+« Cette ordonnance fait état des raisons plausibles de soupçonner que l'avocat a commis ou tenté de commettre, en tant qu'auteur ou complice, l'infraction qui fait l'objet de la procédure ou une infraction connexe au sens de l'article 203 ainsi que de la proportionnalité de la mesure au regard de la nature et de la gravité des faits.
+« Le bâtonnier de l'ordre des avocats en est avisé.
+« Les formalités prévues au présent article sont prescrites à peine de nullité. » ;
+
+5° A la fin du troisième alinéa de l'article 77-1-1, les mots : « est également applicable » sont remplacés par les mots : « et l'article 60-1-1 sont également applicables » ;
+6° L'article 99-3 est complété par un alinéa ainsi rédigé :
+« Lorsque les réquisitions portent sur des données mentionnées à l'article 60-1-1 et émises par un avocat, elles ne peuvent être faites que sur ordonnance motivée du juge des libertés et de la détention, saisi à cette fin par le juge d'instruction, et les trois derniers alinéas du même article 60-1-1 sont applicables. » ;
+7° L'article 100 est complété par un alinéa ainsi rédigé :
+« Aucune interception ne peut porter sur une ligne dépendant du cabinet d'un avocat ou de son domicile, sauf s'il existe des raisons plausibles de le soupçonner d'avoir commis ou tenté de commettre, en tant qu'auteur ou complice, l'infraction qui fait l'objet de la procédure ou une infraction connexe au sens de l'article 203 et à la condition que la mesure soit proportionnée au regard de la nature et de la gravité des faits. La décision est prise par ordonnance motivée du juge des libertés et de la détention, saisi à cette fin par ordonnance motivée du juge d'instruction, prise après avis du procureur de la République. » ;
+8° Le troisième alinéa de l'article 100-5 est complété par les mots : « et couvertes par le secret professionnel de la défense et du conseil, prévu à l'article 66-5 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, hors les cas prévus à l'article 56-1-2 du présent code » ;
+9° Au premier alinéa de l'article 706-95, les mots : « par les articles 100, deuxième alinéa, » sont remplacés par les mots : « aux deuxième et dernier alinéas de l'article 100 ainsi qu'aux articles ».
+
+#### Section 2 : Dispositions relatives au secret de l'enquête et de l'instruction et renforçant la protection de la présomption d'innocence
+I.-L'article 434-7-2 du code pénal est ainsi rédigé :
+
+« Art. 434-7-2.-Sans préjudice des droits de la défense reconnus à la personne suspectée ou poursuivie ou des droits des victimes, le fait pour toute personne qui, en raison de ses fonctions, a connaissance, en application du code de procédure pénale, d'informations issues d'une enquête ou d'une instruction en cours concernant un crime ou un délit de révéler sciemment ces informations à des tiers est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
+« Sans préjudice des droits de la défense reconnus à la personne suspectée ou poursuivie ou des droits des victimes, lorsque la révélation par une personne mentionnée au premier alinéa est faite à des personnes qu'elle sait susceptibles d'être impliquées comme auteurs, coauteurs, complices ou receleurs dans la commission de ces infractions, et que cette révélation est réalisée dans le dessein d'entraver le déroulement des investigations ou la manifestation de la vérité, les peines sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
+« Dans le cas prévu au deuxième alinéa du présent article, lorsque l'enquête ou l'instruction concerne un crime ou un délit puni de dix ans d'emprisonnement relevant de l'article 706-73 du code de procédure pénale, les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende. »
+
+II.-A l'article 114-1 du code de procédure pénale, le montant : « 10 000 € » est remplacé par les mots : « trois ans d'emprisonnement et de 45 000 € ».
+III.-L'article 11 du code de procédure pénale est ainsi modifié :
+1° Au deuxième alinéa, les références : « des articles 226-13 et 226-14 » sont remplacées par les mots : « prévues à l'article 434-7-2 » ;
+2° Le dernier alinéa est ainsi modifié :
+a) Après le mot : « public », sont insérés les mots : « ou lorsque tout autre impératif d'intérêt public le justifie » ;
+b) Après le mot : « parties », sont insérés les mots : «, directement ou par l'intermédiaire d'un officier de police judiciaire agissant avec son accord et sous son contrôle ».
+
+### Chapitre II : Dispositions tendant à limiter le recours à la détention provisoire
+La section 7 du chapitre Ier du titre III du livre Ier du code de procédure pénale est ainsi modifiée :
+1° Le premier alinéa de l'article 137-3 est complété par une phrase ainsi rédigée : « En matière correctionnelle, les décisions prolongeant la détention provisoire au-delà de huit mois ou rejetant une demande de mise en liberté concernant une détention de plus de huit mois doivent également comporter l'énoncé des considérations de fait sur le caractère insuffisant des obligations de l'assignation à résidence avec surveillance électronique mobile, prévue au troisième alinéa de l'article 142-5 et à l'article 142-12-1, ou du dispositif électronique prévu à l'article 138-3, lorsque cette mesure peut être ordonnée au regard de la nature des faits reprochés. » ;
+2° L'article 142-6 est ainsi modifié :
+a) Après le troisième alinéa, sont insérés quatre alinéas ainsi rédigés :
+« En matière correctionnelle, cette saisine est obligatoire dans les cas suivants :
+« 1° Si elle est demandée par une personne détenue ou son avocat un mois avant la date à laquelle la détention peut être prolongée, sauf décision de refus spécialement motivée du juge d'instruction ;
+« 2° Avant la date à laquelle la détention peut être prolongée lorsque la personne encourt une peine d'emprisonnement inférieure ou égale à cinq ans, sauf décision de refus spécialement motivée du juge ;
+« 3° Avant la date de la seconde prolongation de la détention lorsque la personne encourt une peine d'emprisonnement inférieure ou égale à cinq ans. Sauf s'il envisage un placement sous contrôle judiciaire, le juge ne peut refuser le placement de la personne sous assignation à résidence sous surveillance électronique qu'en cas d'impossibilité liée à la personnalité ou à la situation matérielle de la personne. » ;
+b) Les quatrième et avant-dernier alinéas sont supprimés ;
+c) Au dernier alinéa, la première occurrence du mot : « et » est remplacée par le mot : « à ».
+
+### Chapitre III : Dispositions améliorant la procédure de jugement des crimes
+I.-Le code de procédure pénale est ainsi modifié :
+1° Le quatrième alinéa de l'article 181 est ainsi rédigé :
+« Lorsqu'elle est devenue définitive, l'ordonnance de mise en accusation couvre, s'il en existe, les vices de la procédure, sous réserve de l'article 269-1. » ;
+2° A l'article 234-1, la référence : « 249, » est supprimée ;
+3° L'article 249 est ainsi modifié :
+a) A la fin du premier alinéa, les mots : « tribunal judiciaire du lieu de la tenue des assises » sont remplacés par les mots : « ressort de la cour d'appel » ;
+b) Le second alinéa est ainsi rédigé :
+« Le premier président de la cour d'appel peut désigner un des assesseurs, lorsque la cour d'assises statue en premier ressort, parmi les magistrats exerçant à titre temporaire ou, lorsqu'elle statue en premier ressort ou en appel, parmi les magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. » ;
+4° Après l'article 269, il est inséré un article 269-1 ainsi rédigé :
+
+« Art. 269-1.-Lorsque l'accusé n'a pas été régulièrement informé, selon le cas, de sa mise en examen ou de sa qualité de partie à la procédure, de l'avis de fin d'information judiciaire ou de l'ordonnance de mise en accusation et que cette défaillance ne procède pas d'une manœuvre de sa part ou de sa négligence, il peut saisir le président de la chambre de l'instruction, alors même que l'ordonnance de mise en accusation est devenue définitive et au plus tard trois mois avant la date de sa comparution devant la cour d'assises, d'une requête contestant les éventuelles irrégularités de la procédure d'information.
+« Le président de la chambre de l'instruction statue dans un délai d'un mois, au vu des observations écrites de l'accusé ou de son avocat et des observations écrites du ministère public, par une décision motivée susceptible de pourvoi en cassation.
+« A défaut pour l'accusé d'avoir exercé ce recours, l'ordonnance de mise en accusation couvre les vices de la procédure. » ;
+
+5° Après l'article 276, il est inséré un article 276-1 ainsi rédigé :
+
+« Art. 276-1.-Après avoir procédé à l'interrogatoire de l'accusé en application de l'article 272, le président de la cour d'assises organise en chambre du conseil une réunion préparatoire criminelle. Si l'accusé est en détention provisoire, le président de la cour d'assises sollicite la communication d'une copie de son dossier individuel de détention. La réunion se tient en présence du ministère public et des avocats de l'ensemble des parties, le cas échéant par tout moyen de télécommunication, afin de rechercher un accord sur la liste des témoins et des experts qui seront cités à l'audience, sur leur ordre de déposition et sur la durée de l'audience, notamment lorsqu'il a été fait application de l'article 380-2-1 A.
+« Si un accord intervient, il ne fait obstacle, en cas de nécessité, ni à la possibilité pour le ministère public et les parties de citer d'autres témoins ou experts que ceux qui avaient été prévus, ni à une modification de leur ordre de déposition. À défaut d'accord, il est procédé dans les conditions prévues aux articles 277 à 287. » ;
+
+6° Après l'article 304, il est inséré un article 304-1 ainsi rédigé :
+
+« Art. 304-1.-Lorsque la cour d'assises statuant en appel doit se prononcer uniquement sur la peine, le discours aux jurés prévu à l'article 304 est ainsi modifié :
+« 1° Les mots : “ les charges qui seront portées contre X … ” sont remplacés par les mots : “ les éléments de preuves retenus contre X, qui ont conduit à sa déclaration de culpabilité ” ;
+« 2° Les mots : “ de vous rappeler que l'accusé est présumé innocent et que le doute doit lui profiter ; de vous décider d'après les charges et les moyens de défense ” sont remplacés par les mots : “ de vous prononcer sur la peine d'après les charges et les moyens de défense ”. » ;
+
+7° La première phrase de l'article 305-1 est ainsi rédigée : « L'exception tirée d'une nullité autre que celles purgées par la décision de renvoi devenue définitive ou en application de l'article 269-1 et entachant la procédure qui précède l'ouverture des débats doit, à peine de forclusion, être soulevée dès que le jury de jugement est définitivement constitué. » ;
+8° Après le mot : « ils », la fin du deuxième alinéa de l'article 327 est ainsi rédigée : « résultent de l'information, y compris, s'il y a lieu, les éléments à décharge mentionnés par les observations de l'avocat déposées en application du III de l'article 175, même si ces éléments ne figurent pas dans l'ordonnance de renvoi prise en application de l'article 184. » ;
+9° A l'article 359, le mot : « six » est remplacé par le mot : « sept » ;
+10° Le deuxième alinéa de l'article 362 est ainsi modifié :
+a) A la deuxième phrase, le mot : « six » est remplacé par le mot : « sept » ;
+b) Après le mot : « perpétuité », la fin de la troisième phrase est supprimée ;
+11° L'article 366 est complété par un alinéa ainsi rédigé :
+« La lecture des textes de loi et des réponses faites aux questions n'est pas obligatoire si l'accusé ou son défenseur y renonce. » ;
+12° L'article 367 est ainsi modifié :
+a) Au deuxième alinéa, après la première occurrence du mot : « cas », sont insérés les mots : «, si l'accusé est condamné à une peine de réclusion criminelle » ;
+b) Le même deuxième alinéa est complété par une phrase ainsi rédigée : « Lorsque l'accusé n'est pas détenu au moment où l'arrêt est rendu et qu'il est condamné à une peine d'emprisonnement, la cour peut, par décision spéciale et motivée, décider de décerner mandat de dépôt, à effet immédiat ou différé, si les éléments de l'espèce justifient une mesure particulière de sûreté. » ;
+c) Le troisième alinéa est complété par une phrase ainsi rédigée : « Si la peine prononcée est supérieure à six mois, la cour peut également prononcer un mandat de dépôt à effet différé. » ;
+13° Aux articles 888 et 923, la première occurrence du mot : « six » est remplacée par le mot : « sept ».
+II.-Les articles 622 à 626-1 du code de procédure pénale sont applicables aux condamnations prononcées par une cour d'assises sous l'empire du code d'instruction criminelle après des aveux recueillis à la suite de violences exercées par les enquêteurs.
+La commission d'instruction de la cour de révision et de réexamen est alors compétente pour procéder à l'annulation des pièces du dossier faisant état de déclarations de personnes entendues comme suspect ou comme témoin dont il apparaît qu'elles ont été recueillies à la suite de violences exercées par les enquêteurs.
+Le code de procédure pénale est ainsi modifié :
+1° Les quatrième et avant-dernier alinéas de l'article 52-1 sont ainsi rédigés :
+« Les juges d'instruction composant un pôle de l'instruction sont seuls compétents pour connaître des informations donnant lieu à une cosaisine dans les conditions prévues aux articles 83-1 et 83-2.
+« Ils sont également seuls compétents pour connaître des informations en matière de crime et le demeurent en cas de requalification des faits au cours de l'information ou lors du règlement de celle-ci. Toutefois, s'il s'agit d'un crime puni de quinze ans ou de vingt ans de réclusion criminelle, lorsqu'il n'est pas commis en état de récidive légale et si le procureur de la République considère qu'il résulte des circonstances de l'espèce et de son absence de complexité que le recours à la cosaisine, même en cours d'instruction, paraît peu probable, il peut requérir l'ouverture de l'information auprès du juge d'instruction du tribunal judiciaire dans lequel il n'y a pas de pôle de l'instruction. » ;
+2° Au premier alinéa du II de l'article 80, après le mot : « criminelle, », sont insérés les mots : « lorsque la gravité ou la complexité de l'affaire le justifie » ;
+3° Le dernier alinéa de l'article 118 est ainsi modifié :
+a) Après la première occurrence du mot : « instruction », sont insérés les mots : « et lorsque la gravité ou la complexité de l'affaire le justifie » ;
+b) Les mots : « se dessaisit » sont remplacés par les mots : « peut se dessaisir, d'office ou sur réquisition du procureur de la République, » ;
+4° A la dernière phrase du dernier alinéa de l'article 397-2, les mots : « les faits relèvent de la compétence d'un pôle de l'instruction » sont remplacés par les mots : « la gravité ou la complexité de l'affaire justifie que le tribunal commette un juge du pôle de l'instruction compétent » ;
+5° A la première phrase de l'article 397-7, après le mot : « objet », sont insérés les mots : «, en raison de leur gravité ou de leur complexité, ».
+Le livre IV du code de procédure pénale est ainsi modifié :
+1° Après le 2° de l'article 706-54, il est inséré un alinéa ainsi rédigé :
+« Le fichier contient également, sur décision du procureur de la République ou du juge d'instruction, pour une durée et un régime d'effacement similaires à ceux des traces dans les dossiers criminels, les empreintes génétiques des victimes d'un crime mentionné à l'article 706-106-1 du présent code, ainsi que, lorsque l'empreinte génétique de la victime n'a pu être recueillie ou qu'il est nécessaire de confirmer son identification, les empreintes génétiques des ascendants, descendants et collatéraux de ces victimes, sous réserve de leur consentement éclairé, exprès et écrit, et de leur possibilité de demander à tout moment au procureur de la République d'effacer leur empreinte du fichier. » ;
+2° Après le titre XXV, il est inséré un titre XXV bis ainsi rédigé :
+
+« Titre XXV BIS
+« DE LA PROCÉDURE APPLICABLE AUX CRIMES SÉRIELS OU NON ÉLUCIDÉS
+
+« Art. 706-106-1.-Un ou plusieurs tribunaux judiciaires désignés par décret exercent une compétence concurrente à celle qui résulte de l'application des articles 43,52 et 382 du présent code pour l'enquête, la poursuite, l'instruction et le jugement des crimes prévus aux articles 221-1 à 221-5,222-1,222-3 à 222-6,222-23 à 222-26 et 224-1 à 224-3 du code pénal et de tous les délits connexes à ces crimes, lorsque l'une au moins des deux conditions ci-après est remplie et que les investigations les concernant présentent une particulière complexité :
+« 1° Ces crimes ont été commis ou sont susceptibles d'avoir été commis de manière répétée à des dates différentes par une même personne à l'encontre de différentes victimes ;
+« 2° Leur auteur n'a pas pu être identifié plus de dix-huit mois après leur commission.
+« Lorsqu'ils sont compétents pour la poursuite ou l'instruction des infractions mentionnées au présent article, le procureur de la République et le juge d'instruction des juridictions désignées exercent leurs attributions sur toute l'étendue du ressort territorial précisé par le décret prévu au premier alinéa du présent article. Si une seule juridiction spécialisée est désignée, cette compétence s'étend à l'ensemble du territoire national.
+« La juridiction saisie demeure compétente, quelles que soient les incriminations retenues lors du règlement ou du jugement de l'affaire. Toutefois, si les faits constituent une contravention, le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent en application de l'article 522.
+
+« Art. 706-106-2.-Au sein de ce ou ces tribunaux judiciaires, le procureur général et le premier président, après avis du procureur de la République et du président du tribunal judiciaire, désignent respectivement un ou plusieurs magistrats du parquet et juges d'instruction chargés spécialement de l'enquête, de la poursuite et de l'instruction des infractions entrant dans le champ d'application de l'article 706-106-1.
+« Les magistrats du parquet et juges d'instruction désignés ainsi que le procureur général près la cour d'appel compétente peuvent demander à des assistants spécialisés, désignés dans les conditions prévues à l'article 706, de participer, selon les modalités prévues au même article 706, aux procédures concernant les crimes et délits entrant dans le champ d'application de l'article 706-106-1.
+
+« Art. 706-106-3.-Le procureur de la République près un tribunal judiciaire autre que celui ou ceux mentionnés à l'article 706-106-1 peut, pour les infractions relevant du même article 706-106-1, d'office, sur proposition du juge d'instruction ou à la requête des parties, requérir du juge d'instruction initialement saisi de se dessaisir au profit de la juridiction d'instruction compétente en application dudit article 706-106-1.
+« Si elles ne sont pas à l'origine de la demande, les parties sont avisées de ces réquisitions et sont invitées par le juge d'instruction à faire connaître leurs observations.
+« L'ordonnance statuant sur le dessaisissement est rendue huit jours au plus tôt et un mois au plus tard à compter des réquisitions ou de l'avis donné aux parties.
+« Les trois derniers alinéas de l'article 706-77 et l'article 706-78 sont applicables à cette ordonnance.
+
+« Art. 706-106-4.-Le procureur de la République peut ordonner une enquête ou saisir le juge d'instruction d'une information ayant pour objet de retracer l'éventuel parcours criminel d'une personne condamnée pour des faits relevant de l'article 706-106-1 ou pour laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre de tels faits.
+
+« Art. 706-106-5.-Les modalités d'application du présent titre, notamment les conditions dans lesquelles des officiers de police judiciaire spécialement désignés peuvent assister les magistrats désignés en application de l'article 706-106-2, sont précisées par voie réglementaire. »
+I.-Le code de procédure pénale est ainsi modifié :
+1° Le premier alinéa de l'article 181 est complété par les mots : «, sous réserve de l'article 181-1 » ;
+2° Après l'article 181, sont insérés des articles 181-1 et 181-2 ainsi rédigés :
+
+« Art. 181-1.-S'il existe, à l'issue de l'information, des charges suffisantes contre la personne d'avoir commis, hors récidive, un crime puni de quinze ans ou de vingt ans de réclusion criminelle, elle est mise en accusation par le juge d'instruction, selon les modalités prévues à l'article 181, devant la cour criminelle départementale, sauf s'il existe un ou plusieurs coaccusés ne répondant pas aux conditions prévues au présent alinéa.
+« Le délai d'un an prévu au huitième alinéa de l'article 181 est alors porté à six mois et il ne peut être procédé qu'à une seule prolongation en application du neuvième alinéa du même article 181.
+
+« Art. 181-2.-Lorsqu'une ordonnance de mise en accusation du juge d'instruction qui n'est plus susceptible d'appel a, au regard des qualifications criminelles retenues, renvoyé par erreur l'accusé devant la cour d'assises au lieu de la cour criminelle départementale ou inversement, le président de la chambre de l'instruction peut, sur requête du procureur de la République ou d'une partie, procéder par ordonnance motivée à la rectification de cette erreur en renvoyant l'accusé devant la juridiction criminelle compétente.
+« Si l'affaire est renvoyée devant la cour d'assises, les délais prévus à l'article 181 sont alors applicables.
+« Si l'affaire est renvoyée devant la cour criminelle départementale, les délais applicables sont ceux prévus au second alinéa de l'article 181-1 à compter de la décision prévue au premier alinéa du présent article, sans pouvoir dépasser les délais prévus à l'article 181. » ;
+
+3° Au premier alinéa de l'article 186, après la référence : « 181 », est insérée la référence : «, 181-1 » ;
+4° Le premier alinéa de l'article 186-3 est complété par les mots : « ou devant la cour criminelle départementale » ;
+5° L'article 214 est ainsi modifié :
+a) Le premier alinéa est complété par les mots : « ou devant la cour criminelle départementale » ;
+b) Au second alinéa, les mots : « cette juridiction » sont remplacés par les mots : « la juridiction criminelle compétente » ;
+6° L'intitulé du titre Ier du livre II est complété par les mots : « et de la cour criminelle départementale » ;
+7° Au début du même titre Ier, il est ajouté un sous-titre Ier intitulé : « De la cour d'assises » et comprenant les chapitres Ier à IX ;
+8° Au début du premier alinéa de l'article 231, sont ajoutés les mots : « Sous réserve des dispositions de l'article 380-16, » ;
+9° Le titre Ier du livre II est complété par un sous-titre II ainsi rédigé :
+
+« Sous-titre II
+« DE LA COUR CRIMINELLE DÉPARTEMENTALE
+
+« Art. 380-16.-Par dérogation aux chapitres Ier à V du sous-titre Ier du présent titre, les personnes majeures accusées d'un crime puni de quinze ans ou de vingt ans de réclusion criminelle, lorsqu'il n'est pas commis en état de récidive légale, sont jugées en premier ressort par la cour criminelle départementale.
+« Cette cour est également compétente pour le jugement des délits connexes.
+« Elle n'est pas compétente s'il existe un ou plusieurs coaccusés ne répondant pas aux conditions prévues au présent article.
+
+« Art. 380-17.-La cour criminelle départementale, qui siège au même lieu que la cour d'assises ou, par exception et dans les conditions prévues à l'article 235, dans un autre tribunal judiciaire du même département, est composée d'un président et de quatre assesseurs, choisis par le premier président de la cour d'appel, pour le président, parmi les présidents de chambre et les conseillers du ressort de la cour d'appel exerçant ou ayant exercé les fonctions de président de la cour d'assises et, pour les assesseurs, parmi les conseillers et les juges de ce ressort. Le premier président de la cour d'appel peut désigner deux assesseurs au plus parmi les magistrats exerçant à titre temporaire ou les magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+
+« Art. 380-18.-Sur proposition du ministère public, l'audiencement de la cour criminelle départementale est fixé par son président ou, à la demande du procureur général, par le premier président de la cour d'appel.
+
+« Art. 380-19.-La cour criminelle départementale applique les dispositions du présent code relatives aux cours d'assises sous les réserves suivantes :
+« 1° Il n'est pas tenu compte des dispositions qui font mention du jury ou des jurés ;
+« 2° Les attributions confiées à la cour d'assises sont exercées par la cour criminelle départementale et celles confiées au président de la cour d'assises sont exercées par le président de la cour criminelle départementale ;
+« 3° La section 2 du chapitre III du sous-titre Ier du présent livre, l'article 282, la section 1 du chapitre V du même sous-titre Ier, les deux derniers alinéas de l'article 293 et les articles 295 à 305 ne sont pas applicables ;
+« 4° Pour l'application des articles 359,360 et 362, les décisions sont prises à la majorité ;
+« 5° Les deux derniers alinéas de l'article 347 ne sont pas applicables et la cour criminelle départementale délibère en étant en possession de l'entier dossier de la procédure.
+
+« Art. 380-20.-Si la cour criminelle départementale estime, au cours ou à l'issue des débats, que les faits dont elle est saisie constituent un crime puni de trente ans de réclusion criminelle ou de la réclusion criminelle à perpétuité, elle renvoie l'affaire devant la cour d'assises. Si l'accusé comparaissait détenu, il demeure placé en détention provisoire jusqu'à sa comparution devant la cour d'assises ; dans le cas contraire, la cour criminelle départementale peut, après avoir entendu le ministère public et les parties ou leurs avocats, décerner, par la même décision, mandat de dépôt ou mandat d'arrêt contre l'accusé.
+
+« Art. 380-21.-L'appel des décisions de la cour criminelle départementale est examiné par la cour d'assises dans les conditions prévues au sous-titre Ier du présent titre pour l'appel des arrêts rendus par les cours d'assises en premier ressort.
+
+« Art. 380-22.-Pour l'application des dispositions relatives à l'aide juridictionnelle, la cour criminelle départementale est assimilée à la cour d'assises. » ;
+
+10° Le chapitre IV du titre II du livre VI est complété par un article 888-1 ainsi rédigé :
+
+« Art. 888-1.-Les dispositions relatives à la cour criminelle départementale ne sont pas applicables dans le Département de Mayotte. »
+
+II.-Il est institué, jusqu'à la date d'entrée en vigueur du présent article, un comité d'évaluation chargé du suivi de l'expérimentation prévue aux II et III de l'article 63 de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice. Ce comité comprend deux députés et deux sénateurs, respectivement désignés par le Président de l'Assemblée nationale et le Président du Sénat. Sa composition, ses missions et ses modalités de fonctionnement sont précisées par décret. Il établit un rapport public au plus tard deux mois avant l'entrée en vigueur du présent article.
+I. - Un des assesseurs de la cour criminelle départementale, désigné par ordonnance du premier président de la cour d'appel, peut être un avocat honoraire exerçant des fonctions juridictionnelles dans les conditions prévues à l'article 3 de la loi organique n° 2021-1728 du 22 décembre 2021 pour la confiance dans l'institution judiciaire. Dans cette hypothèse, le premier président de la cour d'appel ne peut désigner en qualité d'assesseur à la cour criminelle départementale, par dérogation à l'article 380-17 du code de procédure pénale, qu'un seul magistrat exerçant à titre temporaire ou magistrat honoraire exerçant des fonctions juridictionnelles.
+II. - Le présent article est applicable, à titre expérimental, dans au moins deux départements et au plus vingt départements, déterminés par arrêté du ministre de la justice, pendant une durée de trois ans à compter de la date fixée par ce même arrêté, et au plus tard six mois après l'entrée en vigueur du présent article.
+Six mois au moins avant le terme de l'expérimentation, le Gouvernement remet au Parlement un rapport d'évaluation de cette expérimentation.
+
+### Chapitre IV : Dispositions relatives à l'exécution des peines
+Le code de procédure pénale est ainsi modifié :
+1° Le III de l'article 706-56 est abrogé ;
+2° L'article 710 est ainsi modifié :
+a) La deuxième phrase du premier alinéa est supprimée ;
+b) A la seconde phrase du troisième alinéa, les mots : « de confusion » sont supprimés ;
+3° Après le même article 710, il est inséré un article 710-1 ainsi rédigé :
+
+« Art. 710-1.-Lorsqu'une personne condamnée demande, en application de l'article 132-4 du code pénal, la confusion de peines prononcées contre elle après que les condamnations sont devenues définitives, sa demande est portée devant le tribunal correctionnel, dont la décision peut faire l'objet d'un appel devant la chambre des appels correctionnels. Sont compétents le ou les tribunaux correctionnels ayant prononcé les peines ou se trouvant au siège d'une des juridictions ayant prononcé les peines. Les deux derniers alinéas de l'article 710 du présent code sont alors applicables. Si l'une ou plusieurs des peines prononcées sont des peines criminelles, le renvoi à la formation collégiale du tribunal ou de la chambre des appels correctionnels est de droit s'il est demandé par le condamné ou le ministère public. » ;
+
+4° Après la première occurrence du mot : « pénitentiaire », la fin du premier alinéa de l'article 712-4-1 est ainsi rédigée : «, d'un représentant du service pénitentiaire d'insertion et de probation et d'un représentant du corps de commandement ou du corps d'encadrement et d'application du personnel de surveillance. » ;
+5° Le premier alinéa de l'article 712-19 est complété par une phrase ainsi rédigée : « Il en est de même lorsque la juridiction de jugement a fixé, en application du deuxième alinéa de l'article 131-9 du code pénal ou du second alinéa de l'article 131-11 du même code, une durée maximale d'emprisonnement dont le juge de l'application des peines peut ordonner la mise à exécution et que le condamné ne respecte pas les obligations ou interdictions résultant de la ou des peines prononcées. » ;
+6° A la première phrase du dernier alinéa du même article 712-19, après la référence : « 712-6 », sont insérés les mots : « du présent code » ;
+7° A la seconde phrase du premier alinéa de l'article 713-43, la seconde occurrence du mot : « public » est supprimée ;
+8° Après la référence : « 721 », la fin de la seconde phrase du cinquième alinéa de l'article 717-1 est ainsi rédigée : « et 729 du présent code, sur l'octroi ou le retrait de réductions de peine ou l'octroi d'une libération conditionnelle. » ;
+9° L'article 720 est ainsi modifié :
+a) Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+b) Au cinquième alinéa, deux fois, et au sixième alinéa, le mot : « article » est remplacé par la référence : « I » ;
+c) Sont ajoutés des II et III ainsi rédigés :
+« II.-Lorsqu'il reste au condamné exécutant une ou plusieurs peines privatives de liberté d'une durée totale inférieure ou égale à deux ans un reliquat de peine à exécuter qui est inférieur ou égal à trois mois, la libération sous contrainte s'applique de plein droit, sauf en cas d'impossibilité matérielle résultant de l'absence d'hébergement. Le juge de l'application des peines détermine, après avis de la commission de l'application des peines, la mesure applicable.
+« En cas de non-respect de la mesure et des obligations et interdictions le cas échéant fixées, le juge de l'application des peines peut ordonner, selon les modalités prévues à l'article 712-6, le retrait ou la révocation de la mesure et la réincarcération de la personne pour une durée égale au plus au cumul de la peine qu'il lui restait à exécuter au moment de la décision et des réductions de peine octroyées qui n'avaient pas fait l'objet d'un retrait.
+« III.-Le II du présent article n'est pas applicable :
+« 1° Aux condamnés incarcérés pour l'exécution d'une ou de plusieurs peines dont l'une au moins a été prononcée pour une infraction qualifiée de crime, pour une infraction prévue aux articles 421-1 à 421-6 du code pénal, pour une infraction prévue au titre II du livre II du même code lorsqu'elle a été commise sur la personne d'un mineur de moins de quinze ans ou sur une personne dépositaire de l'autorité publique ou pour une infraction commise avec la circonstance aggravante définie à l'article 132-80 dudit code ;
+« 2° Aux personnes détenues ayant fait l'objet, pendant la durée de leur détention, d'une sanction disciplinaire prononcée pour l'un des faits suivants :
+« a) Exercer ou tenter d'exercer des violences physiques à l'encontre d'un membre du personnel de l'établissement ou d'une personne en mission ou en visite dans l'établissement ;
+« b) Exercer ou tenter d'exercer des violences physiques à l'encontre d'une personne détenue ;
+« c) Opposer une résistance violente aux injonctions des membres du personnel pénitentiaire de l'établissement ;
+« d) Participer ou tenter de participer à toute action collective de nature à compromettre la sécurité de l'établissement ou à en perturber l'ordre. » ;
+10° L'article 721 est ainsi rédigé :
+
+« Art. 721.-Une réduction de peine peut être accordée par le juge de l'application des peines, après avis de la commission de l'application des peines, aux condamnés exécutant une ou plusieurs peines privatives de liberté qui ont donné des preuves suffisantes de bonne conduite et qui ont manifesté des efforts sérieux de réinsertion.
+« Cette réduction ne peut excéder six mois par année d'incarcération et quatorze jours par mois pour une durée d'incarcération inférieure à un an.
+« Les preuves suffisantes de bonne conduite sont appréciées en tenant compte notamment de l'absence d'incidents en détention, du respect du règlement intérieur de l'établissement ou des instructions de service, de l'implication dans la vie quotidienne ou du comportement avec le personnel pénitentiaire ou exerçant à l'établissement, avec les autres personnes détenues et avec les personnes en mission ou en visite.
+« Les efforts sérieux de réinsertion sont appréciés en tenant compte notamment du suivi avec assiduité d'une formation scolaire, universitaire ou professionnelle ayant pour objet l'acquisition de connaissances nouvelles, des progrès dans le cadre d'un enseignement ou d'une formation, de l'engagement dans l'apprentissage de la lecture, de l'écriture et du calcul, de l'exercice d'une activité de travail, de la participation à des activités culturelles, notamment de lecture, de la participation à des activités sportives encadrées, du suivi d'une thérapie destinée à limiter les risques de récidive, de l'investissement soutenu dans un programme de prise en charge proposé par le service pénitentiaire d'insertion et de probation ou des versements volontaires des sommes dues aux victimes et au Trésor public.
+« Dès que la condamnation est devenue définitive, le service pénitentiaire d'insertion et de probation travaille avec la personne en vue de la préparation d'une sortie encadrée. Dans le cadre de l'examen des réductions de peine, l'avis remis par le service pénitentiaire d'insertion et de probation au juge de l'application des peines comporte des éléments lui permettant de déterminer les mesures favorisant l'accompagnement des condamnés en fin de peine à travers un aménagement, une libération sous contrainte ou le suivi prévu à l'article 721-2.
+« Pour l'application du présent article, la situation de chaque condamné est examinée au moins une fois par an.
+« La réduction de peine est prononcée en une seule fois si l'incarcération est inférieure à une année et par fractions annuelles dans le cas contraire.
+« Sauf décision contraire du juge de l'application des peines, lorsque la personne condamnée pour une infraction pour laquelle le suivi socio-judiciaire est encouru ne suit pas le traitement qui lui a été proposé en application des articles 717-1 et 763-7, elle ne peut bénéficier de la réduction de peine prévue au présent article qu'à hauteur de trois mois par année d'incarcération et de sept jours par mois pour une durée d'incarcération inférieure à un an. Il en est de même lorsque la personne condamnée dans les circonstances mentionnées au second alinéa de l'article 122-1 du code pénal refuse les soins qui lui sont proposés.
+« Le présent article s'applique également aux personnes condamnées qui bénéficient d'un aménagement de peine sous écrou.
+« Dans l'année suivant son octroi, la réduction de peine peut être rapportée en tout ou en partie, après avis de la commission de l'application des peines, en cas de mauvaise conduite du condamné. Le retrait est prononcé par ordonnance motivée du juge de l'application des peines agissant d'office, sur saisine du chef d'établissement ou sur réquisitions du procureur de la République. Le condamné est mis en mesure de faire valoir ses observations, le cas échéant par l'intermédiaire de son avocat.
+« Lors de sa mise sous écrou, le condamné est informé par le greffe des règles afférentes à la réduction de peine prévue au présent article, des critères d'appréciation et d'attribution de cette réduction ainsi que des possibilités de retrait de tout ou partie de cette réduction.
+« Les modalités d'application du présent article sont précisées par voie réglementaire. » ;
+
+11° Les quatre premiers alinéas et la seconde phrase du dernier alinéa de l'article 721-1 sont supprimés ;
+12° L'article 721-1-1 est ainsi modifié :
+a) A la fin de la première phrase, les mots : « bénéficient pas des crédits de réduction de peine mentionnés à l'article 721 du présent code » sont remplacés par les mots : « peuvent bénéficier des réductions de peine mentionnées à l'article 721 du présent code qu'à hauteur de trois mois par année d'incarcération et de sept jours par mois pour une durée d'incarcération inférieure à un an » ;
+b) La seconde phrase est supprimée ;
+13° L'article 721-1-2 est ainsi rédigé :
+
+« Art. 721-1-2.-Les personnes condamnées à une peine privative de liberté pour une ou plusieurs infractions mentionnées aux articles 221-3,221-4,222-3,222-8,222-10,222-12,222-14-1 et 222-15-1 du code pénal au préjudice d'une personne investie d'un mandat électif public, d'un magistrat, d'un militaire de la gendarmerie nationale, d'un militaire déployé sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du code de la défense, d'un fonctionnaire de la police nationale, des douanes ou de l'administration pénitentiaire, d'un agent de police municipale, d'un sapeur-pompier professionnel ou volontaire ou de toute autre personne dépositaire de l'autorité publique ne peuvent bénéficier des réductions de peine mentionnées à l'article 721 du présent code qu'à hauteur, s'il s'agit d'un crime, de trois mois par année d'incarcération et sept jours par mois pour une durée d'incarcération inférieure à un an ou, s'il s'agit d'un délit, de quatre mois par année d'incarcération et neuf jours par mois pour une durée d'incarcération inférieure à un an. » ;
+
+14° La seconde phrase de l'article 721-1-3 est supprimée ;
+15° L'article 721-2 est ainsi modifié :
+a) Au premier alinéa du I et à la première phrase du premier alinéa du II, les mots : « d'une ou plusieurs des réductions de peines prévues aux articles 721 et 721-1 » sont remplacés par les mots : « de réductions de peine prévues à l'article 721 » ;
+b) La seconde phrase de l'avant-dernier alinéa du I et du dernier alinéa du II est ainsi rédigée : « Les articles 712-17 et 712-19 sont applicables. » ;
+c) Le dernier alinéa du I est supprimé ;
+16° La section 4 du chapitre II du titre II du livre V est complétée par un article 721-4 ainsi rédigé :
+
+« Art. 721-4.-Une réduction de peine exceptionnelle, dont le quantum peut aller jusqu'au tiers de la peine prononcée, peut être accordée aux condamnés ayant permis, au cours de leur détention, y compris provisoire, d'éviter ou de mettre fin à toute action individuelle ou collective de nature à perturber gravement le maintien du bon ordre et la sécurité de l'établissement ou à porter atteinte à la vie ou à l'intégrité physique ou psychique des membres du personnel pénitentiaire ou des détenus de l'établissement. Dans le cas des condamnés à la réclusion criminelle à perpétuité, une réduction exceptionnelle du temps d'épreuve prévu au neuvième alinéa de l'article 729, dont le quantum peut aller jusqu'à cinq années, peut être accordée.
+« Pour les condamnés exécutant une ou plusieurs peines privatives de liberté d'une durée totale supérieure à sept ans, ces réductions exceptionnelles sont accordées par le tribunal de l'application des peines, sur demande du condamné, sur saisine du chef d'établissement, sur réquisitions du procureur de la République ou à l'initiative du juge de l'application des peines dont relève le condamné en application de l'article 712-10, selon les modalités prévues à l'article 712-7.
+« Pour les condamnés exécutant une ou plusieurs peines privatives de liberté d'une durée totale inférieure ou égale à sept ans, ces réductions exceptionnelles sont accordées, après avis de la commission de l'application des peines, par ordonnance motivée du juge de l'application des peines, agissant d'office, sur demande du condamné, sur saisine du chef d'établissement ou sur réquisitions du procureur de la République, selon les modalités prévues à l'article 712-4-1. » ;
+
+17° A l'article 723-29, les mots : « au crédit de réduction de peine et aux réductions de peines supplémentaires » sont remplacés par les mots : « aux réductions de peine » ;
+18° Le deuxième alinéa de l'article 728-15 est remplacé par deux alinéas ainsi rédigés :
+« Il peut procéder à cette transmission à la demande de l'autorité compétente de l'Etat d'exécution.
+« Sous réserve de l'article 728-22-1, il peut également procéder à cette transmission d'office ou à la demande de la personne concernée. » ;
+19° Le premier alinéa de l'article 728-22 est ainsi rédigé :
+« Tant que l'exécution de la peine n'a pas commencé, le représentant du ministère public peut, à tout moment, décider de retirer le certificat, sous réserve de l'article 728-22-1. Il indique à l'autorité compétente de l'Etat d'exécution le motif de ce retrait. » ;
+20° Le paragraphe 1 de la section 2 du chapitre VI du titre II du livre V est complété par un article 728-22-1 ainsi rédigé :
+
+« Art. 728-22-1.-La personne condamnée peut contester devant le président de la chambre de l'application des peines de la cour d'appel la décision du représentant du ministère public :
+« 1° De transmission d'office à l'autorité compétente d'un autre Etat membre de l'Union européenne d'une décision de condamnation aux fins d'exécution en application du troisième alinéa de l'article 728-15 ;
+« 2° De refus de transmettre une telle décision en application du même troisième alinéa, malgré la demande en ce sens du condamné ;
+« 3° De retrait du certificat pris en application du premier alinéa de l'article 728-22.
+« Ce recours est suspensif.
+« Le dossier ou sa copie est alors transmis par le représentant du ministère public au président de la chambre de l'application des peines de la cour d'appel dans le ressort de laquelle se trouve la juridiction ayant prononcé la décision de condamnation.
+« Le président statue, après avoir recueilli les observations écrites du représentant du ministère public et de la personne condamnée, par une ordonnance motivée qui n'est pas susceptible de recours. » ;
+
+21° Au deuxième alinéa de l'article 729, les mots : « réadaptation sociale » sont remplacés par le mot : « réinsertion » ;
+22° A la première phrase de l'article 729-1, la référence : « 721-1 » est remplacée par la référence : « 721 » ;
+23° Au quatrième alinéa du I de l'article 803-8, le mot : « dix » est remplacé par le mot : « sept ».
+A la seconde phrase du dernier alinéa de l'article 221-4 du code pénal, les mots : « en bande organisée » sont supprimés.
+Le troisième alinéa du I de l'article 728-1 du code de procédure pénale est remplacé par trois alinéas ainsi rédigés :
+« En cas d'évasion du détenu, la part disponible de son compte nominatif est affectée d'office à l'indemnisation des parties civiles. Le reliquat est versé au Trésor, sauf décision de l'administration pénitentiaire qu'il soit rétabli en tout ou partie au profit du détenu lorsque ce dernier a été repris.
+« A l'expiration d'un délai d'un an à compter de l'évasion du détenu et si sa reprise n'a pas été signalée, les objets laissés sont remis à l'administration chargée des domaines et les valeurs pécuniaires sont versées au Trésor.
+« Les modalités d'application de ces dispositions sont précisées par décret. »
+
+### Chapitre V : Dispositions diverses
+I.-Le code de procédure pénale est ainsi modifié :
+1° Le III de l'article préliminaire est complété par un alinéa ainsi rédigé :
+« En matière de crime ou de délit, le droit de se taire sur les faits qui lui sont reprochés est notifié à toute personne suspectée ou poursuivie avant tout recueil de ses observations et avant tout interrogatoire, y compris pour obtenir des renseignements sur sa personnalité ou pour prononcer une mesure de sûreté, lors de sa première présentation devant un service d'enquête, un magistrat, une juridiction ou toute personne ou tout service mandaté par l'autorité judiciaire. Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations faites sans que ledit droit ait été notifié. » ;
+2° Au 8° de l'article 10-2 et à l'article 10-4, après le mot : « choix, », sont insérés les mots : « y compris par un avocat, » ;
+3° Le neuvième alinéa de l'article 41 est ainsi rédigé :
+« Ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire lorsque la peine encourue n'excède pas cinq ans d'emprisonnement et en cas de poursuites selon la procédure de comparution immédiate prévue aux articles 395 à 397-6 ou lorsque la personne est déférée devant le procureur de la République en application de l'article 393 et en cas de poursuites selon la procédure de comparution sur reconnaissance préalable de culpabilité prévue aux articles 495-7 à 495-13. » ;
+4° Le 1° de l'article 41-1 est ainsi rédigé :
+« 1° Adresser à l'auteur de l'infraction qui a reconnu sa culpabilité un avertissement pénal probatoire lui rappelant les obligations résultant de la loi ou du règlement ainsi que les peines encourues et lui indiquant que cette décision est revue en cas de commission d'une nouvelle infraction dans un délai de deux ans ; ce délai est fixé à un an en matière contraventionnelle. Cet avertissement ne peut être adressé que par le procureur de la République ou son délégué ; il ne peut intervenir à l'égard d'une personne qui a déjà été condamnée ou à la suite d'un délit de violences contre les personnes ou d'un délit commis contre une personne dépositaire de l'autorité publique ou investie d'un mandat électif public. Lorsque l'infraction a causé un préjudice à une personne physique ou morale, l'avertissement ne peut intervenir que si le préjudice a déjà été réparé ou s'il est également fait application de la mesure prévue au 4° ; »
+5° A l'avant-dernier alinéa de l'article 41-2, après le mot : « temporaire », sont insérés les mots : « ou tout magistrat honoraire exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, » ;
+6° A la première phrase du sixième alinéa de l'article 145, après le mot : « examen », sont insérés les mots : « à laquelle a été notifié son droit de se taire sur les faits qui lui sont reprochés » ;
+7° A la première phrase du premier alinéa de l'article 148-2, les mots : « audition du ministère public, du prévenu ou de » sont remplacés par les mots : « avoir entendu le ministère public, le prévenu, auquel est préalablement notifié son droit de se taire sur les faits qui lui sont reprochés, ou » ;
+8° Le premier alinéa de l'article 180-1 est ainsi modifié :
+a) Les mots : «, du mis en examen et de la partie civile » sont remplacés par les mots : « ou du mis en examen » ;
+b) Est ajoutée une phrase ainsi rédigée : « Lorsqu'une partie civile est constituée, cette ordonnance ne peut être prise qu'après avoir mis celle-ci en mesure de faire valoir ses observations ou, en cas de plainte avec constitution de partie civile, qu'avec son accord. » ;
+9° Le quatrième alinéa de l'article 199 est complété par une phrase ainsi rédigée : « Lorsque la personne mise en examen comparaît devant la chambre, elle ne peut être entendue qu'après avoir été informée de son droit de se taire sur les faits qui lui sont reprochés. » ;
+10° A la deuxième phrase du dernier alinéa de l'article 394, après le mot : « prévenu », sont insérés les mots : « préalablement informé de son droit de se taire sur les faits qui lui sont reprochés » ;
+11° Après le mot : « provisoire », la fin du deuxième alinéa de l'article 396 est remplacée par deux phrases ainsi rédigées : « Après avoir informé le prévenu de son droit de se taire, il recueille ses observations éventuelles ou celles de son avocat. L'ordonnance rendue n'est pas susceptible d'appel. » ;
+12° L'article 495-15 est ainsi rédigé :
+
+« Art. 495-15.-Le prévenu qui a fait l'objet, pour l'un des délits mentionnés à l'article 495-7, d'une citation directe ou d'une convocation en justice en application des articles 390 ou 390-1, d'une convocation par procès-verbal en application de l'article 394 ou d'une ordonnance de renvoi en application de l'article 179 peut, soit lui-même, soit par l'intermédiaire de son avocat, indiquer au procureur de la République qu'il reconnaît les faits qui lui sont reprochés et demander l'application de la procédure prévue à la présente section. Dans ce cas, le procureur de la République peut, s'il l'estime opportun, procéder dans les conditions prévues à l'article 495-8, après avoir convoqué le prévenu et son avocat ainsi que, le cas échéant, la victime. L'acte de saisine du tribunal correctionnel est alors caduc, sauf si la personne n'accepte pas les peines proposées ou si le président du tribunal judiciaire ou le juge délégué par lui refuse de les homologuer, lorsque l'un ou l'autre de ces refus intervient plus de dix jours avant la date de l'audience devant se tenir sur le fond devant le tribunal correctionnel.
+« Le procureur de la République peut également prendre l'initiative de proposer au prévenu de procéder conformément au premier alinéa du présent article.
+« Le présent article est applicable tant que le tribunal correctionnel n'a pas examiné l'affaire sur le fond, y compris si celle-ci a fait l'objet d'une décision de renvoi.
+« Lorsque le tribunal a été saisi par une citation directe délivrée par la partie civile ou que l'ordonnance de renvoi a été prise par le juge d'instruction saisi par une plainte avec constitution de partie civile, le présent article ne peut être mis en œuvre qu'avec l'accord de la partie civile.
+« Le présent article est applicable au prévenu condamné par le tribunal correctionnel qui a formé appel en limitant la portée de celui-ci aux peines prononcées, lors de la déclaration d'appel ou ultérieurement. Les attributions confiées au procureur de la République et au président du tribunal ou à son délégué par la présente section sont alors exercées respectivement par le procureur général et par le président de la chambre des appels correctionnels ou son délégué. » ;
+
+13° Le second alinéa de l'article 523 est complété par les mots et une phrase ainsi rédigée : « ou par un magistrat honoraire exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. Si l'importance du contentieux le justifie, le président du tribunal judiciaire peut décider qu'à titre exceptionnel, le magistrat exerçant à titre temporaire ou le magistrat honoraire exerçant des fonctions juridictionnelles préside une partie des audiences du tribunal de police consacrées aux contraventions de la cinquième classe, à l'exception de celles déterminées par décret en Conseil d'Etat. » ;
+14° Le second alinéa de l'article 541 est ainsi rédigé :
+« Les articles 470-1 et 472 sont applicables. » ;
+15° Le premier alinéa de l'article 543 est ainsi rédigé :
+« Sont applicables à la procédure devant le tribunal de police les articles 475-1 à 486 concernant les frais de justice et dépens, la restitution des objets placés sous la main de la justice et la forme des jugements. » ;
+16° L'article 656-1 est complété par un alinéa ainsi rédigé :
+« Le présent article est applicable au témoignage des agents étrangers affectés dans des services de police judiciaire spécialement chargés de la lutte contre le terrorisme sur des faits dont ils auraient eu connaissance à l'occasion de l'exercice de leurs fonctions. » ;
+17° Le titre IV bis du livre IV est complété par un article 656-2 ainsi rédigé :
+
+« Art. 656-2.-L'autorité judiciaire peut recueillir le témoignage d'experts d'organisations internationales ou utiliser un rapport qu'ils ont rédigé comme faisceau d'indices permettant d'établir l'élément matériel de l'infraction ou comme éléments permettant de contribuer à la manifestation de la vérité. La demande de témoignage est transmise par le ministre des affaires étrangères. » ;
+
+18° Le premier alinéa de l'article 698-6 est complété par deux phrases ainsi rédigées : « Le premier président de la cour d'appel peut désigner, lorsque la cour d'assises statue en premier ressort, deux assesseurs au plus, parmi les magistrats exerçant à titre temporaire ou les magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. Lorsqu'elle statue en appel, il peut désigner trois assesseurs au plus, parmi les magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la même section II. » ;
+19° L'article 704 est ainsi modifié :
+a) Après la première phrase du dix-septième alinéa, est insérée une phrase ainsi rédigée : « Pour siéger au sein du tribunal correctionnel, peuvent être désignés des magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. » ;
+b) Le dix-huitième alinéa est complété par une phrase ainsi rédigée : « Pour siéger au sein de la chambre des appels correctionnels, peuvent être désignés des magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée. » ;
+20° L'article 706-75-1 est ainsi modifié :
+a) Le premier alinéa est complété par une phrase ainsi rédigée : « Pour siéger au sein du tribunal correctionnel, peuvent être désignés des magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. » ;
+b) Le deuxième alinéa est complété par une phrase ainsi rédigée : « Peuvent être désignés des magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues au second alinéa de l'article 249. » ;
+c) Le dernier alinéa est complété par une phrase ainsi rédigée : « Pour siéger au sein de la chambre des appels correctionnels, peuvent être désignés des magistrats honoraires exerçant des fonctions juridictionnelles dans les conditions prévues à la section II du chapitre V bis de l'ordonnance n° 58-1270 du 22 décembre 1958 précitée. » ;
+21° Après l'article 706-112-2, il est inséré un article 706-112-3 ainsi rédigé :
+
+« Art. 706-112-3.-Lorsque les éléments recueillis au cours d'une enquête préliminaire font apparaître qu'une personne chez laquelle il doit être procédé à une perquisition fait l'objet d'une mesure de protection juridique révélant qu'elle n'est pas en mesure d'exercer seule son droit de s'opposer à la réalisation de cette opération, l'officier en avise par tout moyen son curateur ou son tuteur, afin que l'assentiment éventuel de la personne prévu aux deux premiers alinéas de l'article 76 ne soit donné qu'après qu'elle a pu s'entretenir avec lui. A défaut, la perquisition doit être autorisée par le juge des libertés et de la détention en application de l'avant-dernier alinéa du même article 76. » ;
+
+22° Au début de l'article 706-113, il est ajouté un alinéa ainsi rédigé :
+« Sans préjudice de l'application des articles 706-112-1 à 706-112-3, lorsque la personne fait l'objet de poursuites, le procureur de la République ou le juge d'instruction en avise le curateur ou le tuteur ainsi que le juge des tutelles. Il en est de même si la personne fait l'objet d'une alternative aux poursuites consistant en la réparation du dommage ou en une médiation, d'une composition pénale ou d'une comparution sur reconnaissance préalable de culpabilité ou si elle est entendue comme témoin assisté. » ;
+23° Au début de l'article 800-2, il est ajouté un alinéa ainsi rédigé :
+« A la demande de l'intéressé, toute juridiction prononçant un non-lieu, une relaxe, un acquittement ou toute décision autre qu'une condamnation ou une déclaration d'irresponsabilité pénale peut accorder à la personne poursuivie pénalement ou civilement responsable une indemnité qu'elle détermine au titre des frais non payés par l'Etat et exposés par celle-ci. Il en est de même, pour la personne civilement responsable, en cas de décision la mettant hors de cause. » ;
+24° Le troisième alinéa du même article 800-2 est ainsi rédigé :
+« Les deuxième et troisième alinéas sont applicables devant la Cour de cassation en cas de rejet d'un pourvoi portant sur une décision mentionnée au deuxième alinéa. » ;
+25° Le dernier alinéa du II de l'article 803-1 est ainsi rédigé :
+« Le présent II est également applicable, selon des modalités précisées par voie réglementaire, lorsque le présent code impose une signification par voie d'huissier de justice à destination du ministère public, des parties civiles, des experts et des témoins ainsi que, lorsque ces personnes ne sont pas détenues, des prévenus ou des condamnés. »
+II.-Au premier alinéa de l'article L. 332-1 du code de la justice pénale des mineurs, les mots : « de comparution, » sont supprimés.
+III.-L'article L. 322-3 du code de la justice pénale des mineurs est complété par un alinéa ainsi rédigé :
+« Le mineur entendu par le service de la protection judiciaire de la jeunesse est informé, préalablement à l'entretien, de son droit de se taire sur les faits qui lui sont reprochés. »
+IV.-Après le premier alinéa de l'article L. 423-11 du code de la justice pénale des mineurs, sont insérés deux alinéas ainsi rédigés :
+« Le juge des enfants peut, en cas d'incident, délivrer à l'encontre d'un mineur un mandat de comparution.
+« Lorsque le mineur se soustrait aux obligations et interdictions d'un contrôle judiciaire ou d'une assignation à résidence avec surveillance électronique, le juge des enfants peut également ordonner à l'encontre du mineur un mandat d'amener ou, si le mineur est en fuite ou réside à l'étranger, un mandat d'arrêt. Il est alors procédé dans les conditions prévues aux articles 123 à 134 du code de procédure pénale. Le mineur retenu en exécution d'un mandat bénéficie des droits prévus à l'article L. 332-1 du présent code. »
+V.-Le code de la justice pénale des mineurs est ainsi modifié :
+1° Après le premier alinéa du 2° de l'article L. 423-9 et après le deuxième alinéa de l'article L. 423-11, il est inséré un alinéa ainsi rédigé :
+« Le mineur est informé que la décision ne pourra intervenir qu'à l'issue d'un débat contradictoire et qu'il a le droit de demander un délai pour préparer sa défense. Si le mineur ou son avocat sollicite un tel délai, le juge des libertés et de la détention statue selon les modalités prévues aux trois derniers alinéas de l'article L. 521-21. » ;
+2° L'article L. 423-11 est complété par un alinéa ainsi rédigé :
+« Faute pour le juge des libertés et de la détention d'avoir statué dans le délai prévu à l'avant-dernier alinéa, le mineur ou son avocat et le procureur de la République peuvent saisir la chambre spéciale des mineurs de la cour d'appel, qui statue selon les modalités prévues au second alinéa de l'article L. 521-23. »
+VI.-Le code des douanes est ainsi modifié :
+1° L'article 67 F est complété par un alinéa ainsi rédigé :
+« Lorsque la personne entendue est mineure, le titre Ier du livre III et les chapitres Ier et II du titre Ier du livre IV du code de la justice pénale des mineurs sont applicables. » ;
+2° A l'article 323-10, la référence : « et L. 411-1 » est remplacée par les références : «, L. 411-1 et L. 413-1 ».
+VII.-Le 15° du I entre en vigueur le 31 décembre 2021.
+I.-Le code pénal est ainsi modifié :
+1° Au premier alinéa de l'article 432-12, le mot : « quelconque » est remplacé par les mots : « de nature à compromettre son impartialité, son indépendance ou son objectivité » ;
+2° Après le même article 432-12, il est inséré un article 432-12-1 ainsi rédigé :
+
+« Art. 432-12-1.-Constitue une prise illégale d'intérêts punie des peines prévues à l'article 432-12 le fait, par un magistrat ou toute personne exerçant des fonctions juridictionnelles, de prendre, recevoir ou conserver, directement ou indirectement, dans une entreprise ou dans une opération à l'égard de laquelle elle a la charge de prendre une décision judiciaire ou juridictionnelle, un intérêt de nature à influencer, au moment de sa décision, l'exercice indépendant, impartial et objectif de sa fonction. »
+
+II.-L'article 6-1 du code de procédure pénale est ainsi modifié :
+1° La première phrase est ainsi modifiée :
+a) Les mots : « judiciaire impliquerait la violation d'une disposition de procédure pénale » sont remplacés par les mots : « pénale ou d'une instance devant une juridiction impliquerait la violation d'une règle de procédure » ;
+b) Après la seconde occurrence du mot : « poursuite », sont insérés les mots : «, de la décision intervenue » ;
+c) Sont ajoutés les mots : « ou en application des voies de recours prévues par la loi ou le règlement » ;
+2° Il est ajouté un alinéa ainsi rédigé :
+« Le présent article est notamment applicable en cas de poursuites sur le fondement de l'article 432-12-1 du code pénal. »
+Les deux derniers alinéas de l'article 198 du code de procédure pénale sont remplacés par un alinéa ainsi rédigé :
+« Ces mémoires sont déposés au greffe de la chambre de l'instruction et visés par le greffier avec l'indication du jour et de l'heure du dépôt ou sont adressés au greffier, au ministère public et aux autres parties par télécopie ou par lettre recommandée avec demande d'avis de réception, qui doit parvenir aux destinataires avant le jour de l'audience. »

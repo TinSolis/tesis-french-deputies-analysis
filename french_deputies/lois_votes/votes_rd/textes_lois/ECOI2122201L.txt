@@ -1,0 +1,592 @@
+LOI | NOR: ECOI2122201L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante (1)
+
+## Chapitre Ier : De la simplification de différents statuts de l'entrepreneur
+
+### Section 1 : Des conditions d'exercice de l'entrepreneur individuel
+Le chapitre VI du titre II du livre V du code de commerce est ainsi modifié :
+1° L'intitulé est ainsi rédigé : « De la protection de l'entrepreneur individuel » ;
+2° Sont ajoutées des sections 3 et 4 ainsi rédigées :
+
+« Section 3
+« Du statut de l'entrepreneur individuel
+
+« Art. L. 526-22.-L'entrepreneur individuel est une personne physique qui exerce en son nom propre une ou plusieurs activités professionnelles indépendantes.
+« Les biens, droits, obligations et sûretés dont il est titulaire et qui sont utiles à son activité ou à ses activités professionnelles indépendantes constituent le patrimoine professionnel de l'entrepreneur individuel. Sous réserve du livre VI du présent code, ce patrimoine ne peut être scindé. Les éléments du patrimoine de l'entrepreneur individuel non compris dans le patrimoine professionnel constituent son patrimoine personnel.
+« La distinction des patrimoines personnel et professionnel de l'entrepreneur individuel ne l'autorise pas à se porter caution en garantie d'une dette dont il est débiteur principal.
+« Par dérogation aux articles 2284 et 2285 du code civil et sans préjudice des dispositions légales relatives à l'insaisissabilité de certains biens, notamment la section 1 du présent chapitre et l'article L. 526-7 du présent code, l'entrepreneur individuel n'est tenu de remplir son engagement à l'égard de ses créanciers dont les droits sont nés à l'occasion de son exercice professionnel que sur son seul patrimoine professionnel, sauf sûretés conventionnelles ou renonciation dans les conditions prévues à l'article L. 526-25.
+« Les dettes dont l'entrepreneur individuel est redevable envers les organismes de recouvrement des cotisations et contributions sociales sont nées à l'occasion de son exercice professionnel.
+« Seul le patrimoine personnel de l'entrepreneur individuel constitue le gage général des créanciers dont les droits ne sont pas nés à l'occasion de son exercice professionnel. Toutefois, si le patrimoine personnel est insuffisant, le droit de gage général des créanciers peut s'exercer sur le patrimoine professionnel, dans la limite du montant du bénéfice réalisé lors du dernier exercice clos. En outre, les sûretés réelles consenties par l'entrepreneur individuel avant le commencement de son activité ou de ses activités professionnelles indépendantes conservent leur effet, quelle que soit leur assiette.
+« La charge de la preuve incombe à l'entrepreneur individuel pour toute contestation de mesures d'exécution forcée ou de mesures conservatoires qu'il élève concernant l'inclusion ou non de certains éléments d'actif dans le périmètre du droit de gage général du créancier. Sans préjudice de l'article L. 121-2 du code des procédures civiles d'exécution, la responsabilité du créancier saisissant peut être recherchée pour abus de saisie lorsqu'il a procédé à une mesure d'exécution forcée ou à une mesure conservatoire sur un élément d'actif ne faisant manifestement pas partie de son gage général.
+« Dans le cas où un entrepreneur individuel cesse toute activité professionnelle indépendante, le patrimoine professionnel et le patrimoine personnel sont réunis. Il en est de même en cas de décès de l'entrepreneur individuel, sous réserve des articles L. 631-3 et L. 640-3 du présent code.
+« Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+« Art. L. 526-23.-La dérogation prévue au quatrième alinéa de l'article L. 526-22 ne s'applique qu'aux créances nées à compter de l'immatriculation au registre dont relève l'entrepreneur individuel pour son activité, lorsque celle-ci est prévue. Lorsqu'il relève de plusieurs registres, la dérogation prend effet à compter de la date d'immatriculation la plus ancienne.
+« Lorsque la date d'immatriculation est postérieure à la date déclarée du début d'activité, la dérogation prend effet à compter de la date déclarée du début d'activité, dans les conditions prévues par décret en Conseil d'Etat.
+« A défaut d'obligation d'immatriculation, la dérogation court à compter du premier acte qu'il exerce en qualité d'entrepreneur individuel, cette qualité devant apparaître sur les documents et les correspondances à usage professionnel.
+
+« Art. L. 526-24.-Le droit de gage de l'administration fiscale et des organismes de sécurité sociale porte sur l'ensemble des patrimoines professionnel et personnel de l'entrepreneur individuel en cas de manœuvres frauduleuses ou d'inobservation grave et répétée de ses obligations fiscales, dans les conditions prévues aux I et II de l'article L. 273 B du livre des procédures fiscales, ou d'inobservation grave et répétée dans le recouvrement des cotisations et contributions sociales, dans les conditions prévues à l'article L. 133-4-7 du code de la sécurité sociale. Le droit de gage de l'administration fiscale porte également sur l'ensemble des patrimoines professionnel et personnel de l'entrepreneur individuel pour les impositions mentionnées au III de l'article L. 273 B du livre des procédures fiscales.
+« Le droit de gage des organismes de recouvrement mentionnés aux articles L. 225-1 et L. 752-4 du code de la sécurité sociale porte également sur l'ensemble des patrimoines professionnel et personnel pour les impositions et contributions mentionnées au deuxième alinéa de l'article L. 133-4-7 du même code.
+« Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+« Art. L. 526-25.-L'entrepreneur individuel peut, sur demande écrite d'un créancier, renoncer à la dérogation prévue au quatrième alinéa de l'article L. 526-22, pour un engagement spécifique dont il doit rappeler le terme et le montant, qui doit être déterminé ou déterminable. Cette renonciation doit respecter, à peine de nullité, des formes prescrites par décret.
+« Cette renonciation ne peut intervenir avant l'échéance d'un délai de réflexion de sept jours francs à compter de la réception de la demande de renonciation. Si l'entrepreneur individuel fait précéder sa signature de la mention manuscrite énoncée par décret et uniquement de celle-ci, le délai de réflexion est réduit à trois jours francs.
+
+« Art. L. 526-26.-La présente section s'entend sans préjudice des pouvoirs reconnus aux époux pour administrer leurs biens communs et en disposer.
+
+« Section 4
+« Du transfert du patrimoine professionnel de l'entrepreneur individuel
+
+« Art. L. 526-27.-L'entrepreneur individuel peut céder à titre onéreux, transmettre à titre gratuit entre vifs ou apporter en société l'intégralité de son patrimoine professionnel, sans procéder à la liquidation de celui-ci. Le transfert non intégral d'éléments de ce patrimoine demeure soumis aux conditions légales applicables à la nature dudit transfert et, le cas échéant, à celle du ou des éléments transférés.
+« Le transfert universel du patrimoine professionnel emporte cession des droits, biens, obligations et sûretés dont celui-ci est constitué. Il peut être consenti à titre onéreux ou gratuit. Lorsque le bénéficiaire est une société, le transfert des droits, biens et obligations peut revêtir la forme d'un apport.
+« Sous réserve de la présente section, les dispositions légales relatives à la vente, à la donation ou à l'apport en société de biens de toute nature sont applicables, selon le cas. Il en est de même des dispositions légales relatives à la cession de créances, de dettes et de contrats.
+« Dans le cas où le cédant s'est obligé contractuellement à ne pas céder un élément de son patrimoine professionnel ou à ne pas transférer celui-ci à titre universel, l'inexécution de cette obligation engage sa responsabilité sur l'ensemble de ses biens, sans emporter la nullité du transfert.
+« Le transfert de propriété ainsi opéré n'est opposable aux tiers qu'à compter de sa publicité, dans des conditions prévues par décret.
+
+« Art. L. 526-28.-Les créanciers de l'entrepreneur individuel dont la créance est née avant la publicité du transfert de propriété peuvent former opposition au transfert du patrimoine professionnel, dans un délai fixé par décret.
+« L'opposition formée par un créancier n'a pas pour effet d'interdire le transfert du patrimoine professionnel.
+« La décision de justice statuant sur l'opposition soit rejette celle-ci, soit ordonne le remboursement des créances ou la constitution de garanties, si le cessionnaire, le donataire ou le bénéficiaire en offre et si elles sont jugées suffisantes.
+« Lorsque la décision de justice lui ordonne le remboursement des créances, l'entrepreneur individuel auteur du transfert est tenu de remplir son engagement dans les conditions prévues à l'article 2284 du code civil, sans préjudice de l'article L. 526-1 du présent code.
+
+« Art. L. 526-29.-Ne sont pas applicables au transfert universel du patrimoine professionnel d'un entrepreneur individuel, toute clause contraire étant réputée non écrite :
+« 1° L'article 815-14 du code civil ;
+« 2° L'article 1699 du même code ;
+« 3° Les articles L. 141-12 à L. 141-22 du présent code.
+
+« Art. L. 526-30.-A peine de nullité du transfert prévu à l'article L. 526-27 :
+« 1° Le transfert doit porter sur l'intégralité du patrimoine professionnel de l'entrepreneur individuel, qui ne peut être scindé ;
+« 2° En cas d'apport à une société nouvellement créée, l'actif disponible du patrimoine professionnel doit permettre de faire face au passif exigible sur ce même patrimoine ;
+« 3° Ni l'auteur, ni le bénéficiaire du transfert ne doivent avoir été frappés de faillite personnelle ou d'une peine d'interdiction prévue à l'article L. 653-8 du présent code ou à l'article 131-27 du code pénal, par une décision devenue définitive.
+
+« Art. L. 526-31.-Sous réserve des articles L. 223-9, L. 225-8-1 et L. 227-1, lorsque le patrimoine professionnel apporté en société contient des biens constitutifs d'un apport en nature, il est fait recours à un commissaire aux apports. »
+Le premier alinéa de l'article L. 145-16 du code de commerce est complété par les mots : « ou au bénéficiaire du transfert universel de son patrimoine professionnel ».
+Le premier alinéa de l'article L. 161-1 du code des procédures civiles d'exécution est remplacé par deux alinéas ainsi rédigés :
+« Une procédure d'exécution à l'encontre d'un débiteur entrepreneur individuel ne peut porter que sur les biens du patrimoine sur lequel le créancier dispose d'un droit de gage général en vertu de l'article L. 526-22 du code de commerce.
+« L'entrepreneur individuel qui a renoncé au bénéfice des dispositions du quatrième alinéa du même article L. 526-22 dans les conditions prévues à l'article L. 526-25 du même code peut, s'il établit que la valeur des biens qui constituent son patrimoine professionnel est suffisante pour garantir le paiement de la créance, demander au créancier que l'exécution soit en priorité poursuivie sur ces biens. »
+I.-Le 12° de la section III du chapitre Ier du titre IV du livre des procédures fiscales est ainsi modifié :
+1° L'intitulé est complété par les mots : « et entrepreneur individuel » ;
+2° L'article L. 273 B est ainsi modifié :
+a) Au I, après le mot : « commerce », sont insérés les mots : « ou l'entrepreneur individuel dont le statut est défini à la section 3 du chapitre VI du titre II du livre V du même code » et, à la fin, les mots : « dès lors que le tribunal compétent a constaté la réalité de ces agissements » sont remplacés par les mots : « s'agissant de l'entrepreneur individuel à responsabilité limitée ou sur le patrimoine personnel s'agissant de l'entrepreneur individuel » ;
+b) Au II, après le mot : « commerce », sont insérés les mots : « ou dont le patrimoine professionnel est celui défini à l'article L. 526-22 du même code » et, à la fin, les mots : « dès lors que le tribunal compétent a constaté la réalité de ces agissements » sont remplacés par les mots : « s'agissant de l'entrepreneur individuel à responsabilité limitée ou sur le patrimoine professionnel s'agissant de l'entrepreneur individuel » ;
+c) Après le même II, il est inséré un III ainsi rédigé :
+« III.-Le recouvrement de l'impôt sur le revenu et des prélèvements sociaux ainsi que de la taxe foncière afférente aux biens immeubles utiles à l'activité professionnelle dont est redevable la personne physique exerçant une activité professionnelle en tant qu'entrepreneur individuel ou son foyer fiscal peut être recherché sur l'ensemble des patrimoines professionnel et personnel. Le présent III n'est pas applicable au recouvrement de l'impôt sur le revenu et des prélèvements sociaux lorsque l'entrepreneur individuel a opté pour l'impôt sur les sociétés dans les conditions prévues à l'article 1655 sexies du code général des impôts. » ;
+d) Le dernier alinéa est supprimé.
+II.-A la fin du dernier alinéa de l'article L. 526-1 du code de commerce, les mots : «, au sens de l'article 1729 du code général des impôts » sont supprimés.
+III.-L'article L. 133-4-7 du code de la sécurité sociale est ainsi modifié :
+1° Après le mot : « commerce », sont insérés les mots : « ou l'entrepreneur individuel dont le statut est défini à la section 3 du chapitre VI du titre II du livre V du même code » ;
+2° A la fin, les mots : « dès lors que le tribunal compétent a constaté la réalité de ces agissements » sont supprimés ;
+3° Sont ajoutés deux alinéas ainsi rédigés :
+« La dérogation mentionnée au quatrième alinéa de l'article L. 526-22 dudit code n'est pas opposable aux organismes de recouvrement mentionnés aux articles L. 225-1 et L. 752-4 du présent code pour le recouvrement de l'impôt sur le revenu dû par les travailleurs indépendants relevant de l'article L. 613-7 ou pour le recouvrement des contributions mentionnées à l'article L. 136-3 du présent code et à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale dont le travailleur indépendant mentionné à l'article L. 611-1 du présent code est redevable.
+« Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. »
+I.-Le livre VI du code de commerce est ainsi modifié :
+1° A la deuxième phrase du premier alinéa de l'article L. 611-13, après le mot : « limitée », sont insérés les mots : « ou entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+2° Le chapitre Ier du titre Ier est complété par un article L. 611-17 ainsi rédigé :
+
+« Art. L. 611-17.-Le présent chapitre s'applique, sous réserve des conditions qu'il énonce, à l'entrepreneur dont le statut est défini à la section 3 du chapitre VI du titre II du livre V en ce qu'il concerne son patrimoine professionnel. » ;
+
+3° Au second alinéa de l'article L. 620-2, les mots : « individuel à responsabilité limitée » sont supprimés ;
+4° A la première phrase du troisième alinéa de l'article L. 621-2, les mots : « entrepreneur individuel à responsabilité limitée » sont supprimés ;
+5° L'article L. 622-6 est ainsi modifié :
+a) Le premier alinéa est ainsi modifié :
+
+-à la première phrase, après le mot : « débiteur », sont insérés les mots : « qui constitue le gage de ses créanciers professionnels » ;
+-à la dernière phrase, les mots : « individuel à responsabilité limitée » sont supprimés ;
+
+b) A la première phrase du deuxième alinéa, après le mot : « judiciaire », sont insérés les mots : «, pour les besoins de l'exercice de leur mandat, » ;
+6° La section 4 du chapitre IV du titre II est ainsi modifiée :
+a) A la fin de l'intitulé, les mots : « entrepreneur individuel à responsabilité limitée » sont remplacés par les mots : « titulaire de plusieurs patrimoines » ;
+b) A la première phrase de l'article L. 624-19, les mots : « entrepreneur individuel à responsabilité limitée » sont supprimés ;
+7° La seconde phrase de l'article L. 626-13 est ainsi rédigée : « L'interdiction est levée sur les seuls comptes afférents au patrimoine concerné par le plan. » ;
+8° Après le premier alinéa de l'article L. 631-1, il est inséré un alinéa ainsi rédigé :
+« Cette condition s'apprécie, s'il y a lieu, pour le seul patrimoine engagé par l'activité ou les activités professionnelles. » ;
+9° Au second alinéa de l'article L. 631-2, les mots : « individuel à responsabilité limitée » sont supprimés ;
+10° A la première phrase du second alinéa de l'article L. 631-3, le mot : « en » est remplacé par les mots : « alors que le patrimoine engagé par l'activité ou les activités professionnelles était en situation de » ;
+11° La seconde phrase du second alinéa de l'article L. 631-11 est ainsi rédigée : « Le juge-commissaire tient compte des revenus éventuellement perçus au titre du ou des patrimoines non visés par la procédure. » ;
+12° Le 12° du I de l'article L. 632-1 est ainsi rédigé :
+« 12° Toute affectation ou modification dans l'affectation d'un bien, sous réserve du versement des revenus que l'entrepreneur a déterminés, dont il est résulté un appauvrissement du patrimoine visé par la procédure au bénéfice d'un autre patrimoine de cet entrepreneur ; »
+13° Au second alinéa de l'article L. 640-2, les mots : « individuel à responsabilité limitée » sont supprimés ;
+14° A la première phrase du second alinéa de l'article L. 640-3, le mot : « en » est remplacé par les mots : « alors que le patrimoine engagé par l'activité ou les activités professionnelles était en situation de » ;
+15° Le premier alinéa de l'article L. 641-2 est complété par une phrase ainsi rédigée : « Toutefois, les droits mentionnés au premier alinéa de l'article L. 526-1 ne peuvent faire obstacle à l'ouverture d'une procédure de liquidation judiciaire simplifiée. » ;
+16° Au deuxième alinéa de l'article L. 641-4, les mots : « que, s'agissant d'une personne morale ou d'un entrepreneur individuel à responsabilité limitée, » sont remplacés par le mot : « qu'» ;
+17° L'article L. 641-9 est ainsi modifié :
+a) A la première phrase du premier alinéa du I, après le mot : « biens », sont insérés les mots : « composant le patrimoine engagé par l'activité professionnelle, » ;
+b) Le IV est ainsi rédigé :
+« IV.-Lorsque le débiteur relève du statut défini à la section 3 du chapitre VI du titre II du livre V, les conditions d'exercice d'une nouvelle activité mentionnée au premier alinéa de l'article L. 640-2 sont définies au titre VIII bis du présent livre. » ;
+18° La dernière phrase du deuxième alinéa de l'article L. 641-15 est ainsi rédigée : « Il y a également lieu à remise ou à restitution immédiate du courrier intéressant un patrimoine du débiteur autre que celui visé par la procédure. » ;
+19° L'article L. 642-22 est ainsi rédigé :
+
+« Art. L. 642-22.-I.-Le liquidateur ne peut, sauf accord du débiteur, réaliser les biens ou droits acquis au titre d'une succession ouverte après l'ouverture ou le prononcé de la liquidation judiciaire, ni provoquer le partage de l'indivision pouvant en résulter.
+« II.-Sur la demande du débiteur et avec l'autorisation du juge-commissaire ou du tribunal, le liquidateur peut réaliser des biens ou droits composant un autre patrimoine de l'entrepreneur ou insaisissables par les créanciers dont les droits naissent à l'occasion de l'activité professionnelle de celui-ci, lorsque cette cession facilite la réalisation des actifs du patrimoine saisi par l'effet de l'ouverture de la liquidation judiciaire.
+« III.-La contrepartie de la valeur de ces biens ou droits s'y substitue dans le patrimoine dont ils sont issus. » ;
+
+20° Après le même article L. 642-22, il est inséré un article L. 642-22-1 ainsi rédigé :
+
+« Art. L. 642-22-1.-Toute cession d'entreprise et toute réalisation d'actif doivent être précédées d'une publicité, dont les modalités sont déterminées par décret en Conseil d'Etat en fonction de la taille de l'entreprise et de la nature des actifs à vendre. » ;
+
+21° La première phrase du premier alinéa de l'article L. 643-1 est complétée par les mots : « dont le patrimoine saisi par l'effet de la procédure constitue le gage » ;
+22° L'article L. 643-11 est ainsi modifié :
+a) A la première phrase du VI, après le mot : « ouverte », sont insérés les mots : « à l'égard d'un débiteur relevant du statut défini à la section 3 du chapitre VI du titre II du livre V ou » et, après le mot : « dans », sont insérés les mots : « le patrimoine personnel ou » ;
+b) A la première phrase du VII, les mots : « un patrimoine n'avait pas été affecté » sont remplacés par les mots : « il n'avait pas affecté volontairement un patrimoine distinct » ;
+23° Le premier alinéa de l'article L. 643-12 est complété par une phrase ainsi rédigée : « En présence d'un débiteur entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V, elle est limitée aux comptes afférents à son patrimoine professionnel, sauf en cas de clôture de la procédure prévue à l'article L. 645-1. » ;
+24° Les deux derniers alinéas de l'article L. 645-1 sont ainsi rédigés :
+« La procédure de rétablissement professionnel a pour objet le traitement simplifié du passif grevant le ou les patrimoines du débiteur personne physique. Lorsque le débiteur est titulaire de plusieurs patrimoines, le seuil mentionné au premier alinéa du présent article est déterminé en prenant en compte l'ensemble de ses patrimoines.
+« La procédure ne peut être ouverte en cas d'instance prud'homale en cours impliquant le débiteur au titre de l'un quelconque de ses patrimoines. » ;
+25° L'article L. 645-11 est complété par deux alinéas ainsi rédigés :
+« Ne peuvent être effacées les dettes grevant un patrimoine dont la situation n'est pas irrémédiablement compromise.
+« Aucune dette ne peut être effacée lorsqu'il apparaît que le montant du passif total est disproportionné au regard de la valeur de l'actif, biens insaisissables de droit non compris. » ;
+26° A la fin de l'article L. 651-1, les mots : « et aux entrepreneurs individuels à responsabilité limitée » sont remplacés par les mots : «, aux entrepreneurs individuels à responsabilité limitée et aux entrepreneurs individuels relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+27° Après le deuxième alinéa de l'article L. 651-2, il est inséré un alinéa ainsi rédigé :
+« Lorsque la liquidation judiciaire a été ouverte ou prononcée à l'égard d'un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V du présent code, le tribunal peut également, dans les mêmes conditions, condamner cet entrepreneur à payer tout ou partie de l'insuffisance d'actif. La somme mise à sa charge s'impute sur son patrimoine personnel. » ;
+28° Au dernier alinéa de l'article L. 651-3, les mots : « ou l'entrepreneur individuel à responsabilité limitée » sont remplacés par les mots : «, l'entrepreneur individuel à responsabilité limitée ou l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+29° L'article L. 651-4 est ainsi modifié :
+a) Au premier alinéa, après le mot : « limitée », sont insérés les mots : « ou sur les revenus et le patrimoine personnel de l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V, » ;
+b) La première phrase du deuxième alinéa est complétée par les mots : « ou des biens, droits ou sûretés du patrimoine personnel de l'entrepreneur individuel relevant du statut défini à la même section 3 » ;
+30° Le II de l'article L. 653-3 est ainsi modifié :
+a) Au premier alinéa, après le mot : « limitée », sont insérés les mots : « ou d'un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+b) Au 2°, le mot : « visée » est remplacé par les mots : « ou du patrimoine visés » et sont ajoutés les mots : « ou de ce patrimoine » ;
+c) Le 3° est ainsi rédigé :
+« 3° Avoir fait des biens ou du crédit de l'entreprise ou du patrimoine visés par la procédure un usage contraire à l'intérêt de cette entreprise ou de ce patrimoine à des fins personnelles ou pour favoriser une personne morale ou une entreprise dans laquelle il était intéressé, directement ou indirectement, ou un patrimoine distinct lui appartenant. » ;
+31° A l'article L. 653-6, les mots : « ou de l'entrepreneur individuel à responsabilité limitée » sont remplacés par les mots : «, de l'entrepreneur individuel à responsabilité limité ou l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+32° Au 1° de l'article L. 654-9, après le mot : « limitée », sont insérés les mots : « ou un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+33° Le second alinéa de l'article L. 654-14 est ainsi modifié :
+a) Après le mot : « limitée », sont insérés les mots : « ou un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+b) Après la première occurrence du mot : « affecté », sont insérés les mots : « ou à raison d'une ou de plusieurs activités professionnelles de l'entrepreneur individuel relevant du statut défini à la même section 3 » ;
+c) Après la seconde occurrence du mot : « affecté », sont insérés les mots : « ou de son patrimoine personnel pour l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V » ;
+34° Après le titre VIII, il est inséré un titre VIII bis ainsi rédigé :
+
+« Titre VIII BIS
+« DISPOSITIONS PARTICULIÈRES À L'ENTREPRENEUR INDIVIDUEL RELEVANT DU STATUT DÉFINI À LA SECTION 3 DU CHAPITRE VI DU TITRE II DU LIVRE V
+
+« Art. L. 681-1.-Toute demande d'ouverture d'une procédure prévue aux titres II à IV du présent livre ou d'une procédure de surendettement prévue au livre VII du code de la consommation à l'égard d'un entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V du présent code est portée devant le tribunal compétent pour connaître des procédures prévues aux titres II à IV du présent livre.
+« Sous réserve des règles propres au rétablissement professionnel, le tribunal, saisi d'une telle demande, apprécie à la fois :
+« 1° Si les conditions d'ouverture d'une procédure prévue aux titres II à IV du présent livre sont réunies, en fonction de la situation du patrimoine professionnel de l'entrepreneur individuel ;
+« 2° Si les conditions prévues à l'article L. 711-1 du code de la consommation sont réunies, en fonction de l'actif du patrimoine personnel et de l'ensemble des dettes exigibles ou à échoir dont le recouvrement peut être poursuivi sur cet actif.
+
+« Art. L. 681-2.-I.-Le tribunal ouvre une procédure prévue aux titres II à IV du présent livre si les conditions en sont réunies. Les dispositions propres à la procédure ouverte s'appliquent, sous réserve du présent titre.
+« II.-Dans le cadre de la procédure ouverte, si les conditions prévues au 2° de l'article L. 681-1 ne sont pas réunies à la date du jugement d'ouverture, les dispositions des titres II à IV du présent livre qui intéressent les biens, droits ou obligations du débiteur sont comprises, sauf dispositions contraires, comme visant les éléments du seul patrimoine professionnel. Celles qui intéressent les droits ou obligations des créanciers du débiteur s'appliquent, sauf dispositions contraires, dans les limites du seul patrimoine professionnel.
+« III.-Si les conditions prévues aux 1° et 2° de l'article L. 681-1 sont réunies à la date du jugement d'ouverture, les dispositions des titres II à IV du présent livre qui intéressent les biens, droits ou obligations du débiteur entrepreneur individuel sont comprises, sauf dispositions contraires, comme visant à la fois les éléments du patrimoine professionnel et ceux du patrimoine personnel.
+« Les droits de chaque créancier sur le patrimoine professionnel, le patrimoine personnel ou tout ou partie de ces patrimoines sont déterminés conformément à la section 3 du chapitre VI du titre II du livre V et du présent livre.
+« Le tribunal traite, dans un même jugement, des dettes dont l'entrepreneur individuel est redevable sur ses patrimoines professionnel et personnel, en fonction du droit de gage de chaque créancier, sauf dispositions contraires.
+« IV.-Par dérogation au III, lorsque la distinction des patrimoines professionnel et personnel a été strictement respectée et que le droit de gage des créanciers dont les droits sont nés à l'occasion de l'activité professionnelle de l'entrepreneur individuel ne porte pas sur le patrimoine personnel de ce dernier, le tribunal qui ouvre la procédure saisit, avec l'accord du débiteur, la commission de surendettement aux fins de traitement des dettes dont l'entrepreneur individuel est redevable sur son patrimoine personnel. Le livre VII du code de la consommation ainsi que le sixième alinéa de l'article L. 526-22 du présent code sont alors applicables. Le tribunal exerce les fonctions du juge des contentieux de la protection, qu'il peut déléguer en tout ou partie au juge-commissaire.
+« Le tribunal et la commission de surendettement s'informent réciproquement de l'évolution de chacune des procédures ouvertes.
+« V.-Le tribunal connaît des contestations relatives à la séparation des patrimoines de l'entrepreneur individuel qui s'élèvent à l'occasion de la procédure ouverte.
+« VI.-Le jugement d'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire emporte, de plein droit, jusqu'à la clôture de la procédure ou, le cas échéant, jusqu'à la fin des opérations du plan, interdiction pour tout débiteur entrepreneur individuel, sous réserve du versement de ses revenus, de modifier son patrimoine professionnel, lorsqu'il en résulterait une diminution de l'actif de ce patrimoine.
+« Tout acte passé en violation du présent article est annulé à la demande de tout intéressé ou du ministère public dans le délai de trois ans à compter de sa date.
+« VII.-Lorsqu'une procédure de liquidation judiciaire est ouverte, l'entrepreneur individuel peut exercer une nouvelle activité professionnelle. Un nouveau patrimoine professionnel est alors constitué. Ce patrimoine professionnel n'est pas concerné par la procédure ouverte.
+« Le débiteur ne peut constituer plus de deux patrimoines distincts de son patrimoine personnel.
+« La faculté d'exercer une nouvelle activité professionnelle dans les conditions prévues au premier alinéa du présent VII ne s'applique pas au débiteur qui, au titre de l'un quelconque de ses patrimoines, a fait l'objet, depuis moins de cinq ans, d'une procédure de liquidation judiciaire clôturée pour insuffisance d'actif ou d'une décision de clôture d'une procédure de rétablissement professionnel.
+« En cas de scission du patrimoine professionnel prévue au présent VII, le jugement de liquidation judiciaire emporte interdiction de toute opération entraînant une diminution de l'actif du patrimoine faisant l'objet de la procédure au profit de toute autre activité exercée par le débiteur.
+
+« Art. L. 681-3.-Si les conditions prévues au 2° de l'article L. 681-1 sont seules réunies, le tribunal dit n'y avoir lieu à l'ouverture d'une procédure prévue aux titres II à IV du présent livre et renvoie l'affaire, avec l'accord du débiteur, devant la commission de surendettement. Le livre VII du code de la consommation ainsi que le sixième alinéa de l'article L. 526-22 du présent code sont alors applicables.
+« Si la commission de surendettement constate au cours de la procédure que les conditions en sont remplies, elle invite le débiteur à demander l'ouverture d'une procédure prévue aux titres II à IV du présent livre. Le tribunal qui ouvre cette procédure en informe la commission de surendettement, qui est dessaisie, sauf si les conditions prévues au IV de l'article L. 681-2 sont réunies. Dans ce dernier cas, le tribunal et la commission de surendettement s'informent réciproquement de l'évolution de chacune des procédures ouvertes. Les dispositions du présent alinéa relatives à la commission de surendettement sont également applicables au juge des contentieux de la protection.
+
+« Art. L. 681-4.-Un décret en Conseil d'Etat précise les conditions d'application du présent titre. »
+
+II.-Le chapitre Ier du titre V du livre III du code rural et de la pêche maritime est ainsi modifié :
+1° L'intitulé est complété par les mots : « et les procédures instituées par les titres II, III et IV du livre VI du code de commerce » ;
+2° L'article L. 351-1 est ainsi modifié :
+a) Le deuxième alinéa est ainsi modifié :
+
+-la référence : « par la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises » est remplacée par la référence : « au chapitre Ier du titre Ier du livre VI du code de commerce » ;
+-sont ajoutés les mots : « du présent code » ;
+
+b) A la fin du dernier alinéa, la référence : « à la loi n° 84-148 du 1er mars 1984 précitée » est remplacée par la référence : « au chapitre Ier du titre Ier du livre VI du code de commerce » ;
+c) Il est ajouté un alinéa ainsi rédigé :
+« La procédure de règlement amiable s'applique à l'entrepreneur dont le statut est défini à la section 3 du chapitre VI du titre II du livre V du même code, notamment en ce qu'elle concerne son patrimoine professionnel. » ;
+3° L'intitulé de la section 2 est ainsi rédigé : « Les procédures instituées par les titres II, III et IV du livre VI du code de commerce » ;
+4° A l'article L. 351-8, les mots : « de sauvegarde, de redressement judiciaire et de liquidation judiciaire » sont remplacés par les mots : « de sauvegarde accélérée, sous réserve du second alinéa de l'article L. 611-5 du même code, de sauvegarde, de redressement judiciaire, de liquidation judiciaire et de rétablissement professionnel ».
+III.-Le chapitre Ier du titre Ier du livre VII du code de la consommation est complété par une section 5 ainsi rédigée :
+
+« Section 5
+« Dispositions relatives à l'entrepreneur individuel
+
+« Art. L. 711-9.-Le présent livre est applicable à l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V du code de commerce lorsque la commission de surendettement est saisie dans les conditions prévues au titre VIII bis du livre VI du même code et sous les réserves ci-après énoncées.
+« Les dispositions qui intéressent les biens, droits et obligations du débiteur doivent être comprises comme visant les seuls éléments du patrimoine personnel. Celles qui intéressent les droits et obligations des créanciers du débiteur s'appliquent dans les limites du seul patrimoine personnel.
+« Pour l'application du 1° de l'article L. 724-1 et du second alinéa de l'article L. 742-21 du présent code, les biens non professionnels indispensables à l'exercice de l'activité professionnelle du débiteur ne sont pas pris en compte. »
+
+IV.-L'article L. 213-4-7 du code de l'organisation judiciaire est complété par les mots : «, à l'exception du cas prévu au IV de l'article L. 681-2 du code de commerce ».
+
+### Section 2 : De la mise en extinction du statut de l'entreprise individuelle à responsabilité limitée
+I.-La section 2 du chapitre VI du titre II du livre V du code de commerce est ainsi modifiée :
+1° L'article L. 526-5-1 est abrogé ;
+2° Le II de l'article L. 526-8 est ainsi modifié :
+a) A la première phrase du deuxième alinéa, les mots : « qui exerçait son activité professionnelle antérieurement à la déclaration mentionnée à l'article L. 526-7 » sont supprimés ;
+b) A la seconde phrase du même deuxième alinéa, les mots : « le premier exercice » sont remplacés par les mots : « l'exercice suivant » ;
+c) Au dernier alinéa, après le mot : « individuel », sont insérés les mots : « à responsabilité limitée » ;
+3° L'article L. 526-16 est abrogé ;
+4° A la première phrase du deuxième alinéa du II de l'article L. 526-17, après le mot : « affecté », sont insérés les mots : « à un entrepreneur individuel ou » ;
+5° Le second alinéa de l'article L. 526-19 est supprimé.
+II.-A compter de la publication de la présente loi, nul ne peut affecter à son activité professionnelle un patrimoine séparé de son patrimoine personnel en application de l'article L. 526-6 du code de commerce. L'affectation à un patrimoine affecté déjà constitué ou le retrait d'éléments de celui-ci demeurent possibles.
+Les personnes physiques exerçant leur activité sous le régime de l'entrepreneur individuel à responsabilité limitée à la date de publication de la présente loi demeurent régies par la section 2 du chapitre VI du titre II du livre V du code de commerce, dans sa rédaction résultant de la présente loi.
+Le présent II est applicable dans les îles Wallis et Futuna.
+
+### Section 3 : Des dispositions applicables aux professions libérales réglementées
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à prendre par voie d'ordonnance, dans un délai d'un an à compter de la promulgation de la présente loi, toutes dispositions relevant du domaine de la loi permettant de :
+1° Clarifier, simplifier et mettre en cohérence les règles relatives aux professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé, d'une part, en précisant les règles communes qui leur sont applicables et, d'autre part, en adaptant les différents régimes juridiques leur permettant d'exercer sous forme de société ;
+2° Faciliter le développement et le financement des structures d'exercice des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé, à l'exclusion de toute ouverture supplémentaire à des tiers extérieurs à ces professions du capital et des droits de vote.
+II. - Un projet de loi de ratification est déposé devant le Parlement dans un délai de six mois à compter de la publication de l'ordonnance.
+
+## Chapitre III : De la création d'un environnement juridique plus protecteur
+
+### Section 1 : Des dettes professionnelles dont sont redevables certains débiteurs ne relevant pas des procédures instituées par le livre VI du code de commerce
+La section 1 du chapitre Ier du titre Ier du livre VII du code de la consommation est ainsi modifiée :
+1° Le deuxième alinéa de l'article L. 711-1 est ainsi modifié :
+a) A la première phrase, les mots : « non professionnelles » sont remplacés par les mots : «, professionnelles et non professionnelles, » ;
+b) A la seconde phrase, le mot : « non-professionnelles » est remplacé par les mots : « professionnelles et non professionnelles » ;
+2° A l'article L. 711-2, après le mot : « dettes », sont insérés les mots : « professionnelles et ».
+
+### Section 2 : De la sécurisation des parcours et des transitions professionnelles des travailleurs indépendants
+I.-La section 4 du chapitre IV du titre II du livre IV de la cinquième partie du code du travail est ainsi modifiée :
+1° L'article L. 5424-25 est complété par un 3° ainsi rédigé :
+« 3° Ou dont l'entreprise a fait l'objet d'une déclaration de cessation totale et définitive d'activité soit auprès du centre de formalités des entreprises compétent, soit auprès de l'organisme unique mentionné au deuxième alinéa de l'article L. 123-33 du même code dans les conditions prévues à la seconde phrase du VIII de l'article 1er de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises, lorsque cette activité n'est pas économiquement viable. Le caractère non viable de l'activité est attesté par un tiers de confiance désigné dans des conditions définies par décret en Conseil d'Etat. » ;
+2° L'article L. 5424-27 est ainsi modifié :
+a) A la première phrase du premier alinéa, après la seconde occurrence du mot : « activité », sont insérés les mots : « ainsi que les critères d'appréciation et les modalités d'attestation du caractère non viable de l'activité » et le mot : « auxquelles » est remplacé par le mot : « auxquels » ;
+b) Le 1° est ainsi modifié :
+
+-après le mot : « montant », il est inséré le mot : « forfaitaire » ;
+-les mots : «, qui est forfaitaire, » sont supprimés ;
+
+c) Le même 1° est complété par une phrase ainsi rédigée : « Si ce montant forfaitaire est supérieur au montant moyen mensuel des revenus d'activité antérieurs perçus sur la durée antérieure d'activité à laquelle est subordonné le droit à l'allocation des travailleurs indépendants, l'allocation versée mensuellement est réduite d'autant, sans pouvoir être inférieure à un montant fixé par décret ; »
+3° Il est ajouté un article L. 5424-29 ainsi rédigé :
+
+« Art. L. 5424-29.-Une personne ne peut bénéficier de l'allocation des travailleurs indépendants pendant une période de cinq ans à compter de la date à laquelle cette personne a cessé d'en bénéficier au titre d'une activité antérieure. »
+
+II.-Au plus tard le 31 décembre 2024, le Gouvernement remet au Parlement un rapport évaluant la mise en œuvre de l'allocation des travailleurs indépendants. Ce rapport comprend un bilan précis du nombre de bénéficiaires recensés depuis cette mise en œuvre, une analyse des motifs de rejet des demandes déposées et une analyse de la capacité d'insertion dans l'emploi des bénéficiaires à l'issue de la période d'indemnisation ainsi que des possibilités d'étendre l'information et l'accès aux dispositifs d'assurance contre la perte d'emploi pour les indépendants. Il comprend également un bilan précis de la situation des travailleurs mentionnés à l'article L. 7341-1 du code du travail au regard de l'allocation des travailleurs indépendants. Ce rapport traite également de la pertinence de la période incompressible de cinq ans entre la cessation du bénéfice de l'allocation des travailleurs indépendants et la restauration de ce bénéfice. Les organisations syndicales de salariés et d'employeurs représentatives au niveau national et interprofessionnel peuvent remettre au Parlement un avis sur ce rapport.
+I.-Le livre VII du code rural et de la pêche maritime est ainsi modifié :
+1° L'article L. 718-2-1 est ainsi modifié :
+a) Au troisième alinéa, le mot : « directement » est supprimé ;
+b) Après le même troisième alinéa, sont insérés quatre alinéas ainsi rédigés :
+« Les caisses centrales de mutualité sociale agricole reversent les contributions recouvrées à France compétences, qui procède à la répartition et à l'affectation des fonds conformément à l'article L. 6123-5 du code du travail :
+« 1° A un fonds d'assurance formation habilité à cet effet par l'Etat, dans des conditions fixées par décret en Conseil d'Etat ;
+« 2° A l'organisme mentionné à l'article L. 6333-1 du même code, pour le financement du compte personnel de formation des personnes mentionnées aux deux premiers alinéas du présent article ;
+« 3° Aux opérateurs chargés de la mise en œuvre du conseil en évolution professionnelle. » ;
+c) Les deux derniers alinéas sont ainsi rédigés :
+« Les montants des deux fractions de la collecte affectée au financement du compte personnel de formation et au conseil en évolution professionnelle sont déterminés par arrêté des ministres chargés de la formation professionnelle et de l'agriculture.
+« Pour l'application du présent article dans les départements d'outre-mer, les caisses générales de sécurité sociale mentionnées à l'article L. 781-2 exercent les fonctions dévolues aux caisses de mutualité sociale agricole. » ;
+2° L'article L. 723-11 est complété par deux alinéas ainsi rédigés :
+« Sous réserve de dispositions législatives ou réglementaires spécifiques, la caisse centrale de la mutualité sociale agricole perçoit des frais de gestion, dont les modalités sont déterminées par convention conclue entre ladite caisse et l'attributaire et approuvée par les ministres chargés de l'agriculture, de la sécurité sociale et, le cas échéant, des autres ministres concernés, pour le recouvrement des cotisations et contributions sociales, ainsi que des majorations et pénalités de retard y afférentes, à l'exclusion de celles dues au titre des régimes de protection sociale agricole dont les caisses locales de mutualité sociale agricole assurent l'application.
+« La caisse centrale de la mutualité sociale agricole assure la notification et le versement à chaque attributaire des sommes recouvrées qui lui reviennent. »
+II.-Le 3° de l'article L. 6123-5 du code du travail est ainsi modifié :
+1° Au premier alinéa, après la référence : « L. 6131-4 », sont insérées les références : « ainsi qu'aux articles L. 6331-48, L. 6331-53 et L. 6331-65 » ;
+2° Le h est complété par les mots : «, sur la base de la nature d'activité du travailleur indépendant déterminée dans les conditions mentionnées aux cinquième à huitième alinéas de l'article L. 6331-50 ».
+III.-Au deuxième alinéa de l'article L. 6323-29 du code du travail, la référence : « troisième alinéa » est remplacée par la référence : « 1° ».
+IV.-Le titre III du livre III de la sixième partie du code du travail est ainsi modifié :
+1° L'article L. 6331-48 est ainsi modifié :
+a) Au premier alinéa, la référence : « L. 6331-1 » est remplacée par la référence : « L. 6313-1 » ;
+b) Le 2° est ainsi modifié :
+
+-à la fin du premier alinéa, le mot : « dont : » est remplacé par le signe : «. » ;
+-les a et b sont abrogés ;
+
+c) La seconde phrase du sixième alinéa est supprimée ;
+2° L'article L. 6331-50 est ainsi rédigé :
+
+« Art. L. 6331-50.-Les contributions mentionnées à l'article L. 6331-48 sont recouvrées par les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et sont reversées à France compétences, selon les modalités définies à l'article L. 6123-5 du présent code. France compétences procède à la répartition et à l'affectation des fonds, selon les modalités prévues au même article L. 6123-5 :
+« 1° Aux fonds d'assurance formation de non-salariés mentionnés à l'article L. 6332-9 ;
+« 2° A l'organisme mentionné à l'article L. 6333-1, pour le financement du compte personnel de formation des travailleurs indépendants ;
+« 3° Aux opérateurs chargés de la mise en œuvre du conseil en évolution professionnelle.
+« Pour l'affectation des fonds dans les conditions prévues au 1° du présent article, les organismes mentionnés au premier alinéa identifient les montants des contributions dues :
+« a) Par les personnes mentionnées au 2° de l'article L. 6331-48 qui ont l'obligation de s'inscrire au répertoire des métiers ou qui y demeurent immatriculées ;
+« b) Par les personnes exerçant les professions mentionnées à l'article L. 640-1 du code de la sécurité sociale, dans sa rédaction antérieure à la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018, et à l'article L. 651-1 du code de la sécurité sociale ;
+« c) Par les autres travailleurs indépendants qui ont notamment obligation de s'inscrire au registre du commerce et des sociétés. » ;
+
+3° Le troisième alinéa de l'article L. 6331-51 est supprimé ;
+4° L'article L. 6331-52 est ainsi rédigé :
+
+« Art. L. 6331-52.-Pour le recouvrement des contributions mentionnées aux articles L. 6331-48 et L. 6331-53, l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale perçoit des frais de gestion selon les modalités prévues au 5° du même article L. 225-1-1.
+« Lorsque le recouvrement de la contribution mentionnée à l'article L. 6331-53 du présent code est effectué par l'organisme mentionné à l'article L. 723-11 du code rural et de la pêche maritime, cet organisme perçoit, pour sa part, des frais de gestion selon des modalités déterminées par une convention conclue entre cet organisme et l'institution mentionnée à l'article L. 6123-5 du présent code, approuvée par les ministres chargés de la sécurité sociale et de l'agriculture. » ;
+
+5° L'article L. 6331-53 est ainsi modifié :
+a) Au deuxième alinéa, le mot : « directement » est supprimé et, après le mot : « cotisations », la fin est ainsi rédigée : « de sécurité sociale. Par dérogation, la contribution due par les non-salariés agricoles occupés aux activités ou dans les entreprises ou établissements définis au 4° de l'article L. 722-1 du code rural et de la pêche maritime et, le cas échéant, par leurs conjoints, s'ils sont collaborateurs ou associés, est recouvrée par les caisses de mutualité sociale agricole. » ;
+b) Les deux derniers alinéas sont remplacés par cinq alinéas ainsi rédigés :
+« Le montant annuel de la collecte des contributions mentionnées au premier alinéa du présent article est reversé par les organismes mentionnés à l'article L. 723-11 du code rural et de la pêche maritime et à l'article L. 225-1-1 du code de la sécurité sociale à France compétences, qui procède, selon les modalités prévues à l'article L. 6123-5 du présent code, à la répartition et à l'affectation des fonds :
+« 1° A un opérateur de compétences agréé dans des conditions déterminées par décret en Conseil d'Etat ;
+« 2° A l'organisme mentionné à l'article L. 6333-1, pour le financement du compte personnel de formation ;
+« 3° Aux opérateurs chargés de la mise en œuvre du conseil en évolution professionnelle.
+« Les montants des deux fractions de la collecte affectées au financement du compte personnel de formation des travailleurs indépendants et au conseil en évolution professionnelle sont déterminés par un arrêté des ministres chargés de la formation professionnelle, de l'agriculture, des gens de mer et de la pêche maritime. » ;
+6° L'article L. 6331-67 est ainsi rédigé :
+
+« Art. L. 6331-67.-Pour le recouvrement des contributions mentionnées à l'article L. 6331-65, l'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale perçoit des frais de gestion selon les modalités prévues au 5° du même article L. 225-1-1. » ;
+
+7° L'article L. 6331-68 est ainsi modifié :
+a) Le premier alinéa est remplacé par cinq alinéas ainsi rédigés :
+« Les contributions prévues à l'article L. 6331-65 sont reversées à France compétences, qui procède, conformément à l'article L. 6123-5, à la répartition et à l'affectation des fonds :
+« 1° A l'opérateur de compétences agréé, au titre des contributions versées en application de l'article L. 6331-55, au sein d'une section particulière ;
+« 2° A l'organisme mentionné à l'article L. 6333-1, pour le financement du compte personnel de formation ;
+« 3° Aux opérateurs chargés de la mise en œuvre du conseil en évolution professionnelle.
+« Les montants des deux fractions de la collecte affectées au financement du compte personnel de formation des travailleurs indépendants et au conseil en évolution professionnelle sont déterminés par un arrêté conjoint des ministres chargés de la sécurité sociale, de la culture et de la formation professionnelle. » ;
+b) A la fin du dernier alinéa, la référence : « premier alinéa » est remplacée par la référence : « 1° du présent article » ;
+8° L'article L. 6332-9 est complété par un alinéa ainsi rédigé :
+« Les fonds d'assurance formation de non-salariés sont agréés par l'autorité administrative pour gérer les fonds mentionnés au h du 3° de l'article L. 6123-5, selon les critères mentionnés aux 1°, 2° et 5° du II de l'article L. 6332-1-1 et en fonction de leur aptitude à assurer leurs missions et de leur capacité à assurer des services de proximité aux entreprises compte tenu de leurs moyens. » ;
+9° A la fin de l'article L. 6332-11, les mots : « et versées respectivement à l'organisme mentionné à l'article L. 6333-1 et à France compétences » sont supprimés.
+V.-Après la deuxième occurrence du mot : « au », la fin du dernier alinéa de l'article 59 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat est ainsi rédigée : « 2° de l'article L. 6331-48 du code du travail. »
+VI.-L'article 8 de l'ordonnance n° 2003-1213 du 18 décembre 2003 relative aux mesures de simplification des formalités concernant les entreprises, les travailleurs indépendants, les associations et les particuliers employeurs est ainsi modifié :
+1° A la fin de la première phrase du dernier alinéa du 1° du II, les mots : « le fonds d'assurance formation des chefs d'entreprises mentionné au III » sont remplacés par les mots : « un fonds d'assurance formation de non-salariés mentionné à l'article L. 6332-9 du même code » ;
+2° Le III est ainsi rédigé :
+« III.-Lorsqu'un fonds d'assurance formation dont le champ d'intervention professionnel comprend les chefs d'entreprise exerçant une activité artisanale est créé en application de l'article L. 6332-9 du code du travail, son conseil d'administration ou les organes chargés de la préparation des décisions du conseil d'administration tiennent compte de la diversité des représentants des secteurs adhérents du fonds d'assurance formation. Les représentants de structures ayant une activité d'organisme de formation ne peuvent exercer de mandat exécutif au sein du fonds d'assurance formation. » ;
+3° Les IV et IX sont abrogés.
+VII.-A compter du 1er janvier 2023, au a de l'article L. 6331-50 du code du travail, dans sa rédaction résultant du IV du présent article, les mots : « s'inscrire au répertoire des métiers ou qui y demeurent immatriculés » sont remplacés par les mots : « s'immatriculer au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat ou qui y demeurent immatriculés en tant que telle ».
+
+### Section 3 : Du renforcement de la procédure disciplinaire des experts-comptables
+Le titre IV de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable est ainsi modifié :
+1° L'article 49 est ainsi rédigé :
+
+« Art. 49.-Sauf dispositions contraires, il est institué auprès de chaque conseil régional de l'ordre une chambre régionale de discipline.
+« La chambre régionale de discipline est composée :
+« 1° D'un magistrat, président de la chambre ;
+« 2° De deux membres du conseil régional de l'ordre.
+« Un magistrat chargé des poursuites est rattaché à la chambre régionale de discipline. Il nomme un rapporteur, qui instruit les affaires. Au vu des éléments recueillis au cours de l'instruction, le magistrat chargé des poursuites décide, le cas échéant, de notifier aux parties intéressées les griefs retenus.
+« Le rapporteur et le magistrat chargé des poursuites ne participent pas aux délibérations sur les affaires que ce dernier a renvoyées devant la chambre.
+« Le président, son suppléant et le magistrat chargé des poursuites sont désignés par le premier président de la cour d'appel dans le ressort de laquelle le conseil régional de l'ordre a son siège, parmi les magistrats en activité ou honoraires de cette cour et des autres cours d'appel de la circonscription du conseil régional de l'ordre.
+« Les membres du conseil régional de l'ordre et leurs suppléants sont élus par ce conseil lors de chaque renouvellement. » ;
+
+2° Après le même article 49, sont insérés des articles 49-1 à 49-3 ainsi rédigés :
+
+« Art. 49-1.-La chambre régionale de discipline près le conseil régional de l'ordre d'Ile-de-France est composée de deux sections, chacune composée :
+« 1° D'un magistrat, président de la section ;
+« 2° De deux membres du conseil régional de l'ordre.
+« Un magistrat chargé des poursuites est rattaché à chaque section de la chambre régionale de discipline. Il nomme un rapporteur, qui instruit les affaires. Au vu des éléments recueillis au cours de l'instruction, le magistrat chargé des poursuites décide, le cas échéant, de notifier aux parties intéressées les griefs retenus.
+« Le rapporteur et le magistrat chargé des poursuites ne participent pas aux délibérations sur les affaires que ce dernier a renvoyées devant la section.
+« Le premier président de la cour d'appel de Paris désigne, parmi les magistrats en activité ou honoraires de cette cour, l'un des deux présidents de section de la chambre de discipline, son suppléant et le magistrat chargé des poursuites rattaché à la section. Le président de section ainsi désigné préside la chambre régionale de discipline.
+« Le premier président de la cour d'appel de Versailles désigne, parmi les magistrats en activité ou honoraires de cette cour, l'autre président de section, son suppléant et le magistrat chargé des poursuites rattaché à la section.
+« Les membres du conseil régional de l'ordre et leurs suppléants sont élus par ce conseil lors de chaque renouvellement.
+
+« Art. 49-2.-Il est institué une chambre interrégionale de discipline auprès des conseils régionaux de l'ordre de Guadeloupe et de Martinique. Cette chambre exerce également le pouvoir disciplinaire à l'égard des membres de l'ordre inscrits au comité départemental de l'ordre de Guyane.
+« Elle est composée :
+« 1° D'un magistrat, président de la chambre ;
+« 2° D'un membre du conseil régional de l'ordre de Guadeloupe ;
+« 3° D'un membre du conseil régional de l'ordre de Martinique.
+« Un magistrat chargé des poursuites est rattaché à la chambre interrégionale de discipline. Il nomme un rapporteur, qui instruit les affaires. Au vu des éléments recueillis au cours de l'instruction, le magistrat chargé des poursuites décide, le cas échéant, de notifier aux parties intéressées les griefs retenus.
+« Le rapporteur et le magistrat chargé des poursuites ne participent pas aux délibérations sur les affaires que ce dernier a renvoyées devant la chambre.
+« Le premier président de la cour d'appel de Martinique désigne le président de la chambre interrégionale de discipline et un suppléant de celui-ci parmi les magistrats en activité ou honoraires de cette cour.
+« Le premier président de la cour d'appel de Guadeloupe désigne le magistrat chargé des poursuites parmi les magistrats en activité ou honoraires de cette cour.
+« Le membre du conseil régional de l'ordre de Guadeloupe, le membre du conseil régional de l'ordre de Martinique et leurs suppléants sont élus respectivement par chacun de ces conseils lors de chaque renouvellement.
+
+« Art. 49-3.-La chambre régionale de discipline près le conseil régional de l'ordre de La Réunion exerce également le pouvoir disciplinaire à l'égard des membres de l'ordre inscrits au comité départemental de Mayotte. » ;
+
+3° L'article 49 bis est ainsi modifié :
+a) Avant le dernier alinéa, sont insérés trois alinéas ainsi rédigés :
+« Un magistrat chargé des poursuites est rattaché à cette commission. Il nomme un rapporteur, qui instruit les affaires. Au vu des éléments recueillis au cours de l'instruction, le magistrat chargé des poursuites décide, le cas échéant, de notifier aux parties intéressées les griefs retenus.
+« Le magistrat chargé des poursuites est nommé selon les mêmes modalités que le président de la commission.
+« Le rapporteur et le magistrat chargé des poursuites ne participent pas aux délibérations sur les affaires que ce dernier a renvoyées devant la commission. » ;
+b) Au dernier alinéa, le mot : « déterminées » est remplacé par le mot : « précisées » ;
+4° L'article 50 est ainsi modifié :
+a) Au 1°, après le mot : « un », sont insérés les mots : « magistrat ayant qualité de » et sont ajoutés les mots : « en activité ou honoraires » ;
+b) Au dernier alinéa, après le mot : « président », il est inséré le mot : « suppléant » ;
+c) Sont ajoutés trois alinéas ainsi rédigés :
+« Un magistrat chargé des poursuites est rattaché à la chambre nationale de discipline. Il nomme un rapporteur, qui instruit les affaires. Au vu des éléments recueillis au cours de l'instruction, le magistrat chargé des poursuites décide, le cas échéant, de notifier aux parties intéressées les griefs retenus.
+« Le magistrat chargé des poursuites est nommé selon les mêmes modalités que le président de la chambre nationale de discipline.
+« Le rapporteur et le magistrat chargé des poursuites ne participent pas aux délibérations sur les affaires que ce dernier a renvoyées devant la chambre. » ;
+5° Le dixième alinéa de l'article 53 est complété par une phrase ainsi rédigée : « Si, dans un délai de cinq ans à compter du prononcé de la peine, le membre de l'ordre, la succursale, l'association de gestion et de comptabilité ou le professionnel ayant été autorisé à exercer partiellement l'activité d'expertise comptable a commis une infraction ou une faute ayant conduit au prononcé d'une nouvelle peine disciplinaire, celle-ci entraîne l'exécution de la première peine sans confusion avec la seconde, sauf décision motivée. »
+Au début du 2° de l'article 50 de l'ordonnance n° 45-2138 du 19 septembre 1945 précitée, les mots : « D'un conseiller référendaire à la Cour des comptes et d'un fonctionnaire » sont remplacés par les mots : « De deux fonctionnaires ».
+I.-Au neuvième alinéa de l'article 1653 C du code général des impôts, la seconde occurrence du mot : « supérieur » est remplacée par le mot : « national ».
+II.-A la troisième phrase du dernier alinéa du 1° du I de l'article L. 6323-2-1 du code des transports, dans sa rédaction résultant de l'article 130 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises, le mot : « supérieur » est remplacé par le mot : « national ».
+III.-L'ordonnance n° 45-2138 du 19 septembre 1945 précitée est ainsi modifiée :
+1° Au deuxième alinéa de l'article 1er, le mot : « supérieur » est remplacé par le mot : « national » ;
+2° A la fin du deuxième alinéa de l'article 12, le mot : « supérieur » est remplacé par le mot : « national » ;
+3° A la première phrase du second alinéa de l'article 17, le mot : « supérieur » est remplacé par le mot : « national » ;
+4° A l'avant-dernier alinéa de l'article 20, le mot : « supérieur » est remplacé par le mot : « national » ;
+5° A la seconde phrase du troisième alinéa de l'article 22, le mot : « supérieur » est remplacé par le mot : « national » ;
+6° Au dernier alinéa de l'article 25, le mot : « supérieur » est remplacé par le mot : « national » ;
+7° L'article 26-1 est ainsi modifié :
+a) Au cinquième alinéa, le mot : « supérieur » est remplacé par le mot : « national » ;
+b) A la première phrase de l'avant-dernier alinéa, le mot : « supérieur » est remplacé par le mot : « national » ;
+8° Au deuxième alinéa de l'article 27, le mot : « supérieur » est remplacé par le mot : « national » ;
+9° A la fin du 3°, au 8° et au dernier alinéa de l'article 31, le mot : « supérieur » est remplacé par le mot : « national » ;
+10° A la fin de l'intitulé de la section III, le mot : « supérieur » est remplacé par le mot : « national » ;
+11° Aux premier et second alinéas de l'article 33, le mot : « supérieur » est remplacé par le mot : « national » ;
+12° A l'article 34, le mot : « supérieur » est remplacé par le mot : « national » ;
+13° Au premier alinéa de l'article 37, le mot : « supérieur » est remplacé par le mot : « national » ;
+14° A l'article 37-1, le mot : « supérieur » est remplacé par le mot : « national » ;
+15° L'article 38 est ainsi modifié :
+a) Le premier alinéa est ainsi modifié :
+
+-à la première phrase, la première occurrence du mot : « supérieur » est remplacée par le mot : « national » ;
+-à la fin des première et seconde phrases, le mot : « supérieur » est remplacé par le mot : « national » ;
+
+b) A la première phrase du second alinéa, les deux occurrences du mot : « supérieur » sont remplacées par le mot : « national » ;
+16° Au premier alinéa de l'article 42 bis, le mot : « supérieur » est remplacé par le mot : « national » ;
+17° A l'article 43, le mot : « supérieur » est remplacé par le mot : « national » ;
+18° Au premier alinéa et au 2° de l'article 49 bis, le mot : « supérieur » est remplacé par le mot : « national » ;
+19° Au premier alinéa, au 3° et à la seconde phrase de l'avant-dernier alinéa de l'article 50, le mot : « supérieur » est remplacé par le mot : « national » ;
+20° Au premier alinéa de l'article 56, le mot : « supérieur » est remplacé par le mot : « national » ;
+21° Au premier alinéa et à la première phrase du dernier alinéa de l'article 57, le mot : « supérieur » est remplacé par le mot : « national » ;
+22° Au premier alinéa de l'article 60, la première occurrence du mot : « supérieur » est remplacée par le mot : « national » ;
+23° A l'article 84 bis, le mot : « supérieur » est remplacé par le mot : « national ».
+IV.-Dans tous les codes et lois en vigueur, les mots : « Conseil supérieur de l'ordre des experts-comptables » sont remplacés par les mots : « Conseil national de l'ordre des experts-comptables. »
+
+### Section 4 : Des règles de gestion des personnels des chambres de commerce et d'industrie
+I.-Le titre Ier du livre VII du code de commerce est ainsi modifié :
+1° Les deux dernières phrases du treizième alinéa de l'article L. 710-1 sont supprimées ;
+2° Le premier alinéa du 6° de l'article L. 711-16 est ainsi modifié :
+a) A la fin de la deuxième phrase, les mots : « institution représentative nationale du réseau » sont remplacés par les mots : « instance nationale représentative du personnel » ;
+b) Au début de la troisième phrase, sont ajoutés les mots : « Dans les conditions prévues à l'article L. 712-11 du présent code et » ;
+3° L'article L. 712-11 est ainsi modifié :
+a) A la première phrase du second alinéa, après le mot : « employés », il est inséré le mot : « directement » ;
+b) La seconde phrase du même second alinéa est complétée par les mots : «, pris après avis de l'instance nationale représentative du personnel » ;
+c) Sont ajoutés six alinéas ainsi rédigés :
+« Les conventions et accords collectifs mentionnés au 6° de l'article L. 711-16 sont négociés et signés par le président de CCI France, dans le respect des orientations fixées par son comité directeur, pour le compte de CCI France et pour celui des chambres de commerce et d'industrie de région, dans les conditions prévues à l'article L. 2232-12 du code du travail.
+« Les modalités de dépôt de ces conventions et accords sont celles prévues à la section 3 du chapitre Ier du titre III du livre II de la deuxième partie du même code.
+« Lorsque ces conventions et accords le prévoient, leurs stipulations se substituent, selon le cas, aux dispositions du statut du personnel administratif des chambres de commerce et d'industrie ou aux stipulations des accords nationaux ou régionaux ayant le même objet.
+« La représentativité des organisations syndicales au niveau national est appréciée conformément aux règles définies aux articles L. 2122-1 à L. 2122-3 dudit code, par addition de l'ensemble des suffrages exprimés lors des élections de leurs comités sociaux et économiques par les personnels employés directement par CCI France et les chambres de commerce et d'industrie de région.
+« Des élections partielles peuvent être organisées dans les conditions prévues à l'article L. 2314-10 du même code.
+« Les résultats obtenus lors de telles élections ne peuvent avoir pour effet de modifier la mesure de la représentativité calculée lors des dernières élections générales. Celle-ci est établie pour toute la durée du cycle électoral. »
+II.-L'article 40 de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises est ainsi modifié :
+1° Le II est ainsi modifié :
+a) Les mots : « à l'agrément par arrêté du ministre chargé de la tutelle des chambres de commerce et d'industrie » sont remplacés par les mots : « au dépôt » ;
+b) A la fin, la seconde occurrence de la référence : « L. 710-1 du code de commerce » est remplacée par les mots : « L. 712-11 du code de commerce ou, en cas d'échec des négociations, jusqu'à la date butoir prévue au III du présent article » ;
+2° Le III est ainsi modifié :
+a) Le premier alinéa est remplacé par deux alinéas ainsi rédigés :
+« III.-Le président de CCI France négocie et signe la convention collective mentionnée à l'article L. 712-11 du code de commerce après les élections des comités économiques et sociaux mentionnées au IV du présent article et dans un délai de dix-huit mois à compter de la promulgation de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante.
+« En cas d'échec des négociations, par dérogation à l'article L. 2261-2 du code du travail, la convention collective applicable au personnel des chambres de commerce et d'industrie de région et de CCI France, à l'exception du personnel des services industriels et commerciaux, est celle qui s'applique aux activités d'appui, d'accompagnement et de conseil auprès des entreprises. » ;
+b) Au second alinéa, les mots : « à la publication de l'arrêté d'agrément de la convention collective mentionné au II du présent article » sont remplacés par les mots : « au dépôt de la convention collective mentionné au II du présent article ou, en cas d'échec des négociations, jusqu'au terme du délai fixé au premier alinéa du présent III » ;
+c) Au même second alinéa, après le mot : « jour », sont insérés les mots : «, la durée et l'aménagement du temps de travail, les congés payés » ;
+d) Il est ajouté un alinéa ainsi rédigé :
+« L'application de plein droit de la convention collective mentionnée au troisième alinéa du présent III en lieu et place de celle du statut ne constitue pas une modification du contrat de travail des salariés concernés. » ;
+3° Les deux premiers alinéas du IV sont ainsi rédigés :
+« IV.-Les comités sociaux et économiques prévus au livre III de la deuxième partie du code du travail sont mis en place concomitamment au niveau de chaque chambre de commerce et d'industrie de région et de CCI France, dans un délai de six mois à compter de la promulgation de la loi n° 2022-172 du 14 février 2022 précitée. Ils sont élus par le personnel de droit privé et les agents de droit public, qui constituent un corps électoral unique. Ils exercent leurs prérogatives à l'égard de l'ensemble de ce personnel.
+« Jusqu'à la proclamation des résultats de ces élections, sont maintenues : » ;
+4° Au premier alinéa du V, les mots : «, à compter de son élection, à l'institution » sont remplacés par les mots : « à l'instance » et sont ajoutés les mots : «, dans des conditions prévues par décret » ;
+5° Le VI est ainsi modifié :
+a) A la fin de la première phrase du premier alinéa, les mots : « dans un délai de douze mois suivant l'agrément de la convention collective mentionné au II du présent article » sont supprimés ;
+b) A la fin de la seconde phrase du même premier alinéa, les mots : « ladite convention collective » sont remplacés par les mots : « un accord collectif ou, à défaut, par décret » ;
+c) Au second alinéa, les mots : « dans ce délai » sont supprimés et le mot : « particulière » est remplacé par le mot : « individuelle ».
+Après le II de l'article 40 de la loi n° 2019-486 du 22 mai 2019 précitée, il est inséré un II bis ainsi rédigé :
+« II bis.-Par dérogation à la loi n° 52-1311 du 10 décembre 1952 relative à l'établissement obligatoire d'un statut du personnel administratif des chambres d'agriculture, des chambres de commerce et des chambres de métiers, les agents des chambres de commerce et d'industrie bénéficient du congé de paternité et d'accueil de l'enfant, dans les conditions prévues aux articles L. 1225-35 à L. 1225-36 du code du travail. Ce congé se substitue à celui prévu à l'article 32.3 du statut du personnel des chambres de commerce et d'industrie. »
+
+## Chapitre II : De l'artisanat
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est habilité à modifier par voie d'ordonnance les dispositions législatives du code de l'artisanat afin d'en clarifier la rédaction et le plan. Cette nouvelle codification est effectuée à droit constant, sous réserve des modifications nécessaires pour assurer le respect de la hiérarchie des normes, garantir la cohérence rédactionnelle des textes, harmoniser l'état du droit et abroger les dispositions obsolètes ou devenues sans objet.
+L'ordonnance prise sur le fondement du premier alinéa du présent I peut en outre :
+1° Intégrer dans le code de l'artisanat les dispositions relevant du domaine de la loi relatives à l'artisanat qui n'ont pas été codifiées, qui sont codifiées dans un autre code ou qui résultent de la présente loi ;
+2° Actualiser les dispositions applicables aux départements de la Moselle, du Haut-Rhin, du Bas-Rhin et de Mayotte en procédant aux adaptations nécessaires.
+II. - L'ordonnance mentionnée au I est prise dans un délai de quatorze mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.
+Le I de l'article 16 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat est complété par un alinéa ainsi rédigé :
+
+«-l'activité de toilettage des chiens, chats et autres animaux de compagnie. »
+
+## Chapitre IV : Dispositions d'applicabilité outre-mer et dispositions finales
+I.-Le I de l'article L. 950-1 du code de commerce est ainsi modifié :
+1° Le tableau du second alinéa du 5° est ainsi modifié :
+a) La neuvième ligne est remplacée par quatre lignes ainsi rédigées :
+«
+
+Articles L. 526-6 et L. 526-7
+la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises
+Article L. 526-8
+la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante
+Articles L. 526-8-1 à L. 526-15
+la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises
+Article L. 526-17
+la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises
+
+» ;
+b) La onzième ligne est ainsi rédigée :
+«
+
+Article L. 526-19
+la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante
+
+» ;
+c) Est ajoutée une ligne ainsi rédigée :
+«
+
+Articles L. 526-22, à l'exclusion du cinquième alinéa, L. 526-23 et L. 526-25 à L. 526-31
+la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante
+
+» ;
+2° Le 6° est ainsi modifié :
+a) Après le troisième alinéa du a, il est inséré un alinéa ainsi rédigé :
+« Les articles L. 611-13 et L. 611-17 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante. » ;
+b) Au deuxième alinéa du b, les références : « L. 620-2, L. 621-2, » sont supprimées ;
+c) Le même b est complété par un alinéa ainsi rédigé :
+« Les articles L. 620-2, L. 621-2, L. 622-6, L. 624-19 et L. 626-13 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ; »
+d) Au dernier alinéa du c, la référence : « L. 631-1, » est supprimée et les références : «, L. 631-22 et L. 632-1 » sont remplacées par la référence : « et L. 631-22 » ;
+e) Le même c est complété par un alinéa ainsi rédigé :
+« Les articles L. 631-1, L. 631-2, L. 631-3, L. 631-11 et L. 632-1 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ; »
+f) Le d est ainsi modifié :
+
+-à la fin du deuxième alinéa, les mots : « qui est applicable dans sa rédaction résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises » sont remplacés par les mots : « et de l'article L. 640-3, qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+-au troisième alinéa, la référence : « L. 641-2, » est supprimée ;
+-le même troisième alinéa est complété par les mots : « et des articles L. 641-2, L. 641-4, L. 641-9 et L. 641-15 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+-le quatrième alinéa est complété par les mots : « et des articles L. 642-22 et L. 642-22-1 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+-le cinquième alinéa est complété par les mots : « et des articles L. 643-11 et L. 643-12 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+-au dernier alinéa, les mots : « de l'article L. 645-1 qui est applicable dans sa rédaction résultant de l'ordonnance n° 2021-1193 du 15 septembre 2021 portant modification du livre VI du code de commerce, » sont supprimés et, à la fin, les mots : « de l'article L. 645-11 qui est applicable dans sa rédaction résultant de la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle » sont remplacés par les mots : « des articles L. 645-1 et L. 645-11 qui sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+
+g) Les deuxième et troisième alinéas du e sont remplacés par un alinéa ainsi rédigé :
+« Les articles L. 651-1, L. 651-2, L. 651-3, L. 651-4, L. 653-3 et L. 653-6 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ; »
+h) Le dernier alinéa du même e est complété par les mots : « et les articles L. 654-9 et L. 654-14 sont applicables dans leur rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+i) Il est ajouté un h ainsi rédigé :
+« h) Le titre VIII bis dans sa rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ; ».
+II.-Le tableau du second alinéa de l'article L. 771-2 du code de la consommation est ainsi modifié :
+1° La deuxième ligne est remplacée par deux lignes ainsi rédigées :
+«
+
+L. 711-1 et L. 711-2
+Résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante
+L. 711-3 et L. 711-6
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation
+
+» ;
+2° Après la troisième ligne, sont insérées deux lignes ainsi rédigées :
+«
+
+L. 711-7 et L. 711-8
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 relative à la partie législative du code de la consommation
+L. 711-9
+Résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante
+
+» ;
+3° La trente-cinquième ligne est remplacée par trois lignes ainsi rédigées :
+«
+
+L. 741-1
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18 novembre 2016
+L. 741-2
+Résultant de la loi n° 2020-734 du 17 juin 2020
+L. 741-3 à L. 741-9
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18 novembre 2016
+
+» ;
+4° La trente-huitième ligne est remplacée par trois lignes ainsi rédigées :
+«
+
+L. 742-3 à L. 742-16 et L. 742-18 à L. 742-21
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+L. 742-22
+Résultant de la loi n° 2020-734 du 17 juin 2020
+L. 742-23
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+»
+III.-L'avant-dernier alinéa de l'article L. 641-1 du code des procédures civiles d'exécution est remplacé par trois alinéas ainsi rédigés :
+« Les articles L. 111-5, L. 121-4 et L. 125-1 sont applicables dans leur rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice.
+« L'article L. 161-1 est applicable dans sa rédaction résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante.
+« Les articles L. 211-1-1, L. 433-2 et L. 523-1-1 sont applicables dans leur rédaction résultant de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice. »
+IV.-La seconde colonne du tableau du second alinéa de l'article L. 375-2 du code rural et de la pêche maritime est ainsi modifiée :
+1° La quatrième ligne est ainsi rédigée :
+« Résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante » ;
+2° La dernière ligne est ainsi rédigée :
+« Résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante ».
+I. - Les articles 1er à 5 entrent en vigueur à l'expiration d'un délai de trois mois à compter de la promulgation de la présente loi.
+Les articles L. 526-22 à L. 526-31 du code de commerce s'appliquent aux créances nées après l'entrée en vigueur des articles 1er à 5 de la présente loi.
+L'article 5 n'est pas applicable aux procédures en cours au jour de son entrée en vigueur.
+Le 3° du I de l'article 6 entre en vigueur à l'expiration d'un délai de six mois à compter de la promulgation de la présente loi.
+II. - L'article 9 entre en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Toute personne qui, à la date d'entrée en vigueur du même article 9, exerce effectivement l'activité en cause en qualité de salarié ou pour son propre compte est réputée justifier de la qualification requise.
+III. - A. - L'article 11 entre en vigueur le premier jour du mois suivant la publication de la présente loi pour les demandes d'allocation introduites à compter de cette date.
+B. - A compter du 1er janvier 2023, à la première phrase du 3° de l'article L. 5424-25 du code du travail, dans sa rédaction résultant de l'article 11 de la présente loi, les mots : « soit auprès du centre de formalités des entreprises compétent, soit » et les mots : « dans les conditions prévues à la seconde phrase du VIII de l'article 1er de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises » sont supprimés.
+IV. - L'article 12 entre en vigueur le 1er septembre 2022.
+Jusqu'au 31 août 2022, la part de collecte non affectée au financement du compte personnel de formation des travailleurs indépendants et du conseil en évolution professionnelle versée par les personnes immatriculées au répertoire des métiers est reversée au fonds d'assurance formation des chefs d'entreprise exerçant une activité artisanale mentionné au III de l'article 8 de l'ordonnance n° 2003-1213 du 18 décembre 2003 relative aux mesures de simplification des formalités concernant les entreprises, les travailleurs indépendants, les associations et les particuliers employeurs.
+V. - Les 1° à 4° de l'article 13 entrent en vigueur à la date d'entrée en vigueur du décret en Conseil d'Etat pris pour leur application, et au plus tard à l'expiration d'un délai de six mois à compter de la promulgation de la présente loi.
+Le Gouvernement remet au Parlement, avant le 1er mars 2024, un rapport relatif à l'application du statut de l'entrepreneur individuel issu de la présente loi.
+Ce rapport fait notamment état des conditions d'accès au crédit des entrepreneurs individuels et propose, le cas échéant, les améliorations législatives nécessaires concernant leurs relations avec les établissements de crédit.
+Il évalue quantitativement les renonciations accordées par les entrepreneurs individuels, en faveur de leurs créanciers professionnels, au principe de séparation des patrimoines personnel et professionnel ainsi que l'existence de potentiels abus du recours à cette garantie de la part des établissements bancaires.
+I. - Le Gouvernement remet au Parlement, dans un délai de six mois à compter de l'entrée en vigueur de l'article 12 de la présente loi, un rapport d'information relatif aux dispositifs de formation professionnelle destinés aux travailleurs indépendants.
+II. - Le rapport s'attache tout particulièrement à documenter les points suivants :
+1° Le nombre d'utilisateurs, les modalités d'alimentation du compte personnel de formation et les actions de formation suivies ;
+2° L'utilisation de la part des contributions à la formation professionnelle versées aux fonds d'assurance formation, avec une attention particulière portée aux pistes de simplification et d'harmonisation des conditions d'accès à la formation ;
+3° La performance globale des fonds d'assurance formation des indépendants, à la fois sous l'angle de l'adéquation des formations proposées aux besoins des travailleurs indépendants mais aussi en termes de gouvernance globale du système de financement de la formation.
+La présente loi sera exécutée comme loi de l'Etat.

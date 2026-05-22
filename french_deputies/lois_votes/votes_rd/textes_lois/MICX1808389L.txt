@@ -1,0 +1,115 @@
+LOI | NOR: MICX1808389L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont délibéré,
+L'Assemblée nationale a adopté,
+Vu la décision du Conseil constitutionnel n° 2018-773 DC ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information (1)
+
+## Titre III : DEVOIR DE COOPÉRATION DES OPÉRATEURS DE PLATEFORME EN LIGNE EN MATIÈRE DE LUTTE CONTRE LA DIFFUSION DE FAUSSES INFORMATIONS
+I. - Les opérateurs de plateforme en ligne mentionnés au premier alinéa de l'article L. 163-1 du code électoral mettent en œuvre des mesures en vue de lutter contre la diffusion de fausses informations susceptibles de troubler l'ordre public ou d'altérer la sincérité d'un des scrutins mentionnés au premier alinéa de l'article 33-1-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+Ils mettent en place un dispositif facilement accessible et visible permettant à leurs utilisateurs de signaler de telles informations, notamment lorsque celles-ci sont issues de contenus promus pour le compte d'un tiers.
+Ils mettent également en œuvre des mesures complémentaires pouvant notamment porter sur :
+1° La transparence de leurs algorithmes ;
+2° La promotion des contenus issus d'entreprises et d'agences de presse et de services de communication audiovisuelle ;
+3° La lutte contre les comptes propageant massivement de fausses informations ;
+4° L'information des utilisateurs sur l'identité de la personne physique ou la raison sociale, le siège social et l'objet social des personnes morales leur versant des rémunérations en contrepartie de la promotion de contenus d'information se rattachant à un débat d'intérêt général ;
+5° L'information des utilisateurs sur la nature, l'origine et les modalités de diffusion des contenus ;
+6° L'éducation aux médias et à l'information.
+Ces mesures, ainsi que les moyens qu'ils y consacrent, sont rendus publics. Chaque opérateur adresse chaque année au Conseil supérieur de l'audiovisuel une déclaration dans laquelle sont précisées les modalités de mise en œuvre desdites mesures.
+II. - Le présent article est applicable en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+Après l'article 17-1 de la loi n° 86-1067 du 30 septembre 1986 précitée, il est inséré un article 17-2 ainsi rédigé :
+
+« Art. 17-2.-Le Conseil supérieur de l'audiovisuel contribue à la lutte contre la diffusion de fausses informations susceptibles de troubler l'ordre public ou de porter atteinte à la sincérité d'un des scrutins mentionnés au premier alinéa de l'article 33-1-1 de la présente loi.
+« En cas de nécessité, il adresse, à ce titre, aux opérateurs de plateforme en ligne mentionnés au premier alinéa de l'article L. 163-1 du code électoral des recommandations visant à améliorer la lutte contre la diffusion de telles informations.
+« Il s'assure du suivi de l'obligation pour les opérateurs de plateforme en ligne de prendre les mesures prévues à l'article 11 de la loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information.
+« Il publie un bilan périodique de leur application et de leur effectivité. A cette fin, il recueille auprès de ces opérateurs, dans les conditions fixées à l'article 19 de la présente loi, toutes les informations nécessaires à l'élaboration de ce bilan. »
+Les opérateurs de plateforme en ligne mentionnés au premier alinéa de l'article L. 163-1 du code électoral désignent un représentant légal exerçant les fonctions d'interlocuteur référent sur le territoire français pour l'application des dispositions prévues au présent titre et au troisième alinéa du 7 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
+Les opérateurs de plateforme en ligne mentionnés au premier alinéa de l'article L. 163-1 du code électoral qui recourent à des algorithmes de recommandation, classement ou référencement de contenus d'information se rattachant à un débat d'intérêt général publient des statistiques agrégées sur leur fonctionnement.
+Sont mentionnées pour chaque contenu :
+1° La part d'accès direct, sans recours aux algorithmes de recommandation, classement ou référencement ;
+2° Les parts d'accès indirects imputables, d'une part, à l'algorithme du moteur de recherche interne de la plateforme le cas échéant et, d'autre part, aux autres algorithmes de recommandation, classement ou référencement de la plateforme qui sont intervenus dans l'accès aux contenus.
+Ces statistiques sont publiées en ligne et accessibles à tous, dans un format libre et ouvert.
+Les opérateurs de plateforme en ligne mentionnés au premier alinéa de l'article L. 163-1 du code électoral, les agences de presse au sens de l'ordonnance n° 45-2646 du 2 novembre 1945 portant réglementation des agences de presse, les éditeurs de publication de presse ou de services de presse en ligne au sens de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, les éditeurs de services de communication audiovisuelle au sens de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, les annonceurs au sens du code de la consommation, les organisations représentatives des journalistes et toute autre organisation susceptible de contribuer à la lutte contre la diffusion de fausses informations peuvent conclure des accords de coopération relatifs à la lutte contre la diffusion de fausses informations.
+
+## Titre II : DISPOSITIONS MODIFIANT LA LOI DU 30 SEPTEMBRE 1986 RELATIVE À LA LIBERTÉ DE COMMUNICATION
+Le I de l'article 33-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication est complété par deux alinéas ainsi rédigés :
+« Le Conseil supérieur de l'audiovisuel peut rejeter la demande tendant à la conclusion d'une convention si la diffusion du service de radio ou de télévision comporte un risque grave d'atteinte à la dignité de la personne humaine, à la liberté et à la propriété d'autrui, au caractère pluraliste de l'expression des courants de pensée et d'opinion, à la protection de l'enfance et de l'adolescence, à la sauvegarde de l'ordre public, aux besoins de la défense nationale ou aux intérêts fondamentaux de la Nation, dont le fonctionnement régulier de ses institutions. Il en est de même lorsque la diffusion dudit service, eu égard à sa nature même, constituerait une violation des lois en vigueur.
+« Lorsque la conclusion de la convention est sollicitée par une personne morale contrôlée, au sens de l'article L. 233-3 du code de commerce, par un Etat étranger ou placée sous l'influence de cet Etat, le conseil peut, pour apprécier la demande, tenir compte des contenus que le demandeur, ses filiales, la personne morale qui le contrôle ou les filiales de celle-ci éditent sur d'autres services de communication au public par voie électronique. »
+Après l'article 33-1 de la loi n° 86-1067 du 30 septembre 1986 précitée, il est inséré un article 33-1-1 ainsi rédigé :
+
+« Art. 33-1-1.-Pendant les trois mois précédant le premier jour du mois de l'élection du Président de la République, des élections générales des députés, de l'élection des sénateurs, de l'élection des représentants au Parlement européen et des opérations référendaires, et jusqu'à la date du tour de scrutin où ces élections sont acquises, le Conseil supérieur de l'audiovisuel, s'il constate que le service ayant fait l'objet d'une convention conclue avec une personne morale contrôlée, au sens de l'article L. 233-3 du code de commerce, par un Etat étranger ou placée sous l'influence de cet Etat diffuse, de façon délibérée, de fausses informations de nature à altérer la sincérité du scrutin, peut, pour prévenir ou faire cesser ce trouble, ordonner la suspension de la diffusion de ce service par tout procédé de communication électronique jusqu'à la fin des opérations de vote.
+« S'il estime que les faits justifient l'engagement de la procédure prévue au présent article, le conseil notifie les griefs aux personnes mises en cause. Celles-ci peuvent présenter leurs observations dans un délai de quarante-huit heures à compter de la notification. Le présent alinéa n'est pas applicable dans les cas prévus aux 1° et 2° de l'article L. 121-2 du code des relations entre le public et l'administration.
+« La décision du conseil prise au terme de la procédure prévue au présent article est motivée et notifiée aux personnes mises en cause ainsi qu'aux distributeurs ou aux opérateurs satellitaires qui assurent la diffusion du service en France et doivent assurer l'exécution de la mesure de suspension. »
+Le 1° de l'article 42-1 de la loi n° 86-1067 du 30 septembre 1986 précitée est ainsi rédigé :
+« 1° La suspension, pour un mois au plus, de l'édition, de la diffusion ou de la distribution du ou des services, d'une catégorie de programme, d'une partie du programme ou d'une ou plusieurs séquences publicitaires ; ».
+L'article 42-6 de la loi n° 86-1067 du 30 septembre 1986 précitée est ainsi rétabli :
+
+« Art. 42-6.-Le Conseil supérieur de l'audiovisuel peut, après mise en demeure, prononcer la sanction de résiliation unilatérale de la convention conclue en application du I de l'article 33-1 de la présente loi avec une personne morale contrôlée, au sens de l'article L. 233-3 du code de commerce, par un Etat étranger ou placée sous l'influence de cet Etat si le service ayant fait l'objet de ladite convention porte atteinte aux intérêts fondamentaux de la Nation, dont le fonctionnement régulier de ses institutions, notamment par la diffusion de fausses informations. Pour apprécier cette atteinte, le conseil peut tenir compte des contenus que la société avec laquelle il a conclu la convention, ses filiales, la personne morale qui la contrôle ou les filiales de celle-ci éditent sur d'autres services de communication au public par voie électronique, sans toutefois pouvoir fonder sa décision sur ces seuls éléments. »
+Au premier alinéa et à la deuxième phrase du premier alinéa du 6° de l'article 42-7 de loi n° 86-1067 du 30 septembre 1986 précitée, après la référence : « 42-4, », est insérée la référence : « 42-6, ».
+I.-L'article 42-10 de la loi n° 86-1067 du 30 septembre 1986 précitée est ainsi modifié :
+1° A la seconde phrase du premier alinéa, après le mot : « satellitaire », sont insérés les mots : « ou un distributeur de services » ;
+2° Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« La demande peut avoir pour objet de faire cesser la diffusion ou la distribution, par un opérateur de réseaux satellitaires ou un distributeur de services, d'un service de communication audiovisuelle relevant de la compétence de la France et contrôlé, au sens de l'article L. 233-3 du code de commerce, par un Etat étranger ou placé sous l'influence de cet Etat si ce service porte atteinte aux intérêts fondamentaux de la Nation, dont le fonctionnement régulier de ses institutions, notamment par la diffusion de fausses informations. Pour apprécier cette atteinte, le juge peut, le cas échéant, tenir compte des contenus que l'éditeur du service, ses filiales, la personne morale qui le contrôle ou les filiales de celle-ci éditent sur d'autres services de communication au public par voie électronique. »
+II.-L'article L. 553-1 du code de justice administrative est ainsi modifié :
+1° Au premier alinéa, les mots : « ci-après reproduit : » sont supprimés ;
+2° Les trois derniers alinéas sont supprimés.
+
+## Titre Ier : DISPOSITIONS MODIFIANT LE CODE ÉLECTORAL
+Le livre Ier du code électoral est ainsi modifié :
+1° L'article L. 112 est ainsi rétabli :
+
+« Art. L. 112.-Toute infraction aux dispositions de l'article L. 163-1 est punie d'un an d'emprisonnement et de 75 000 € d'amende.
+« Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de l'infraction définie au premier alinéa du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du même code, les peines prévues aux 2° et 9° de l'article 131-39 dudit code. L'interdiction prévue au 2° du même article 131-39 est prononcée pour une durée de cinq ans au plus et porte sur l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise. » ;
+
+2° Au début du chapitre VI du titre II, sont insérés des articles L. 163-1 et L. 163-2 ainsi rédigés :
+
+« Art. L. 163-1.-Pendant les trois mois précédant le premier jour du mois d'élections générales et jusqu'à la date du tour de scrutin où celles-ci sont acquises, les opérateurs de plateforme en ligne au sens de l'article L. 111-7 du code de la consommation dont l'activité dépasse un seuil déterminé de nombre de connexions sur le territoire français sont tenus, au regard de l'intérêt général attaché à l'information éclairée des citoyens en période électorale et à la sincérité du scrutin :
+« 1° De fournir à l'utilisateur une information loyale, claire et transparente sur l'identité de la personne physique ou sur la raison sociale, le siège social et l'objet social de la personne morale et de celle pour le compte de laquelle, le cas échéant, elle a déclaré agir, qui verse à la plateforme des rémunérations en contrepartie de la promotion de contenus d'information se rattachant à un débat d'intérêt général ;
+« 2° De fournir à l'utilisateur une information loyale, claire et transparente sur l'utilisation de ses données personnelles dans le cadre de la promotion d'un contenu d'information se rattachant à un débat d'intérêt général ;
+« 3° De rendre public le montant des rémunérations reçues en contrepartie de la promotion de tels contenus d'information lorsque leur montant est supérieur à un seuil déterminé.
+« Ces informations sont agrégées au sein d'un registre mis à la disposition du public par voie électronique, dans un format ouvert, et régulièrement mis à jour au cours de la période mentionnée au premier alinéa du présent article.
+« Les modalités d'application du présent article sont définies par décret.
+
+« Art. L. 163-2.-I.-Pendant les trois mois précédant le premier jour du mois d'élections générales et jusqu'à la date du tour de scrutin où celles-ci sont acquises, lorsque des allégations ou imputations inexactes ou trompeuses d'un fait de nature à altérer la sincérité du scrutin à venir sont diffusées de manière délibérée, artificielle ou automatisée et massive par le biais d'un service de communication au public en ligne, le juge des référés peut, à la demande du ministère public, de tout candidat, de tout parti ou groupement politique ou de toute personne ayant intérêt à agir, et sans préjudice de la réparation du dommage subi, prescrire aux personnes physiques ou morales mentionnées au 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ou, à défaut, à toute personne mentionnée au 1 du même I toutes mesures proportionnées et nécessaires pour faire cesser cette diffusion.
+« II.-Le juge des référés se prononce dans un délai de quarante-huit heures à compter de la saisine.
+« En cas d'appel, la cour se prononce dans un délai de quarante-huit heures à compter de la saisine.
+« III.-Les actions fondées sur le présent article sont exclusivement portées devant un tribunal de grande instance et une cour d'appel déterminés par décret. »
+I.-Au début du chapitre V du titre IV du livre II du code électoral, l'article L. 306 est ainsi rétabli :
+
+« Art. L. 306.-Les articles L. 163-1 et L. 163-2 sont applicables. »
+
+II.-A l'article L. 327 du code électoral, la référence : « L. 113 » est remplacée par la référence : « L. 112 ».
+Au début du chapitre V de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, il est ajouté un article 14-2 ainsi rédigé :
+
+« Art. 14-2.-Les articles L. 163-1 et L. 163-2 du code électoral sont applicables à l'élection des représentants au Parlement européen. »
+Après le 1° de l'article L. 558-46 du code électoral, il est inséré un 1° bis ainsi rédigé :
+« 1° bis Les articles L. 163-1 et L. 163-2 ; ».
+
+## Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+I.-Le livre V du code électoral est ainsi modifié :
+1° Au premier alinéa de l'article L. 388, la référence : « loi n° 2017-1339 du 15 septembre 2017 pour la confiance dans la vie politique » est remplacée par la référence : « loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information » ;
+2° A l'article L. 395, la référence : « loi n° 2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections » est remplacée par la référence : « loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information » ;
+3° A l'article L. 439, la référence : « loi n° 2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections » est remplacée par la référence : « loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information ».
+II.-Les dispositions du 1° bis de l'article L. 558-46 du code électoral sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+III.-Le code de l'éducation est ainsi modifié :
+1° L'article L. 371-1 est complété par un alinéa ainsi rédigé :
+« Les articles L. 312-15 et L. 332-5 sont applicables dans leur rédaction résultant de la loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information. » ;
+2° Les articles L. 771-1, L. 773-1 et L. 774-1 sont complétés par un alinéa ainsi rédigé :
+« L'article L. 721-2 est applicable dans sa rédaction résultant de la loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information. »
+IV.-Après le mot : « rédaction », la fin du premier alinéa de l'article 26 de la loi n° 77-729 du 7 juillet 1977 précitée est ainsi rédigée : « résultant de la loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information, est applicable : ».
+V.-A la fin du premier alinéa de l'article 108 de la loi n° 86-1067 du 30 septembre 1986 précitée, la référence : « loi n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique » est remplacée par la référence : « loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information ».
+VI.-Les articles 13,14 et 15 de la présente loi sont applicables en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Titre IV : DISPOSITIONS RELATIVES À L'ÉDUCATION AUX MÉDIAS ET À L'INFORMATION
+L'article L. 312-15 du code de l'éducation est ainsi modifié :
+1° La première phrase du premier alinéa est complétée par les mots : «, y compris dans leur usage de l'internet et des services de communication au public en ligne » ;
+2° A la seconde phrase de l'avant-dernier alinéa, après le mot : « moyens », sont insérés les mots : « de vérifier la fiabilité d'une information, ».
+L'article L. 332-5 du code de l'éducation est complété par les mots : « qui comprend une formation à l'analyse critique de l'information disponible ».
+L'avant-dernier alinéa de l'article L. 721-2 du code de l'éducation est ainsi modifié :
+1° A la première phrase, après le mot : « culture », sont insérés les mots : «, à ceux de l'éducation aux médias et à l'information » ;
+2° A la deuxième phrase, après le mot : « discriminations », sont insérés les mots : «, à la manipulation de l'information ».
+Le 3° de l'article 28 de la loi n° 86-1067 du 30 septembre 1986 précitée est ainsi rétabli :
+« 3° Les mesures propres à contribuer à l'éducation aux médias et à l'information ; ».

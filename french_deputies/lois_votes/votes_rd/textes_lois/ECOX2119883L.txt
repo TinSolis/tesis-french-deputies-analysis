@@ -1,0 +1,336 @@
+LOI_ORGANIQUE | NOR: ECOX2119883L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Conseil constitutionnel a déclaré conforme à la Constitution,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI organique n° 2021-1836 du 28 décembre 2021 relative à la modernisation de la gestion des finances publiques (1)
+
+## Titre IER : DISPOSITIONS RELATIVES À LA PROGRAMMATION DES FINANCES PUBLIQUES
+I.-Au début de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances, il est ajouté un titre préliminaire ainsi rédigé :
+
+« Titre PRÉLIMINAIRE
+« DISPOSITIONS RELATIVES À LA PROGRAMMATION DES FINANCES PUBLIQUES
+
+« Art. 1 A.-Dans le respect de l'objectif d'équilibre des comptes des administrations publiques prévu à l'article 34 de la Constitution, la loi de programmation des finances publiques fixe l'objectif à moyen terme des administrations publiques mentionné à l'article 3 du traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signé à Bruxelles le 2 mars 2012.
+« Elle détermine, en vue de la réalisation de cet objectif à moyen terme et conformément aux stipulations du traité précité, les trajectoires des soldes structurels et effectifs annuels successifs des comptes des administrations publiques, au sens de la comptabilité nationale, avec l'indication des calculs permettant le passage des uns aux autres ainsi que l'évolution de la dette publique. Le solde structurel est le solde corrigé des variations conjoncturelles, déduction faite des mesures ponctuelles et temporaires.
+« La loi de programmation des finances publiques détermine l'effort structurel au titre de chacun des exercices de la période de programmation. L'effort structurel est défini comme l'incidence des mesures nouvelles sur les recettes et la contribution des dépenses à l'évolution du solde structurel.
+« La loi de programmation des finances publiques présente la décomposition des soldes effectifs annuels par sous-secteur des administrations publiques.
+« La loi de programmation des finances publiques détermine, au titre de chacun des exercices de la période de programmation, un objectif, exprimé en volume, d'évolution des dépenses des administrations publiques présentées selon les conventions de la comptabilité nationale et une prévision, exprimée en milliards d'euros courants, de ces dépenses en valeur.
+« La loi de programmation des finances publiques détermine, pour l'ensemble de la période de programmation, une prévision d'évolution exprimée en volume ainsi qu'une prévision exprimée en milliards d'euros courants du montant des dépenses des administrations publiques considérées comme des dépenses d'investissement.
+
+« Art. 1 B.-Outre celles mentionnées à l'article 1er A, les orientations pluriannuelles des finances publiques définies par la loi de programmation des finances publiques comprennent, pour chacun des exercices auxquels elles se rapportent :
+« 1° Une déclinaison, par sous-secteur d'administration publique, de l'objectif d'évolution en volume et de la prévision en milliards d'euros courants des dépenses des administrations publiques, mentionnés au même article 1er A ;
+« 2° Un montant maximal pour les crédits du budget général de l'Etat, pour les prélèvements sur les recettes de l'Etat ainsi que pour les créations, suppressions ou modifications d'impositions de toutes natures affectées à des personnes publiques ou privées autres que les collectivités territoriales, leurs établissements publics et les organismes de sécurité sociale ;
+« 3° L'objectif de dépenses des régimes obligatoires de base de sécurité sociale et des organismes concourant à leur financement ainsi que l'objectif national de dépenses d'assurance maladie de l'ensemble de ces régimes et le taux d'évolution de ses sous-objectifs ;
+« 4° L'incidence minimale des dispositions nouvelles, législatives ou prises par le Gouvernement par voie réglementaire, relatives aux impositions de toutes natures et aux cotisations sociales, en distinguant l'incidence des dispositions portant sur les dépenses fiscales et des dispositions portant sur les exonérations, abattements d'assiette et réductions de taux applicables aux cotisations sociales ;
+« 5° Les plafonds de crédits alloués aux missions du budget général de l'Etat ;
+« 6° L'indication de l'ampleur et du calendrier des mesures de correction pouvant être mises en œuvre en cas d'écart important au regard des orientations pluriannuelles de solde structurel, au sens du II de l'article 62, ainsi que les conditions de prise en compte, le cas échéant, des circonstances exceptionnelles définies à l'article 3 du traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signé à Bruxelles le 2 mars 2012.
+« La loi de programmation des finances publiques peut comporter des orientations pluriannuelles relatives à l'encadrement des dépenses, des recettes et du solde ou au recours à l'endettement de tout ou partie des administrations publiques.
+« La loi de programmation des finances publiques précise le champ des crédits, prélèvements et impositions mentionnés au 2° du présent article. Les montants et objectifs mentionnés aux 2° et 3° s'entendent à périmètre constant.
+
+« Art. 1 C.-La loi de programmation des finances publiques précise, pour chacune des orientations pluriannuelles qu'elle définit, la période de programmation couverte. Cette période représente une durée minimale de trois années civiles.
+
+« Art. 1 D.-La loi de programmation des finances publiques peut comporter des règles relatives à la gestion des finances publiques ne relevant pas du domaine exclusif des lois de finances et des lois de financement de la sécurité sociale ainsi qu'à l'information et au contrôle du Parlement sur cette gestion. Ces règles peuvent en particulier avoir pour objet d'encadrer les dépenses, les recettes et le solde ou le recours à l'endettement de tout ou partie des administrations publiques.
+« Les dispositions mentionnées au premier alinéa sont présentées de manière distincte des orientations pluriannuelles des finances publiques.
+
+« Art. 1 E.-Un rapport annexé au projet de loi de programmation des finances publiques et donnant lieu à approbation par le Parlement indique :
+« 1° Les hypothèses et les méthodes retenues pour établir la programmation ;
+« 2° Une présentation, pour l'ensemble de la période de la programmation, des principales dépenses des administrations publiques considérées comme des dépenses d'investissement au sens du dernier alinéa de l'article 1er A, compte tenu de leur contribution à la croissance potentielle du produit intérieur brut, à la transformation structurelle du pays et à son développement social et environnemental à long terme. Cette présentation retrace notamment leur nature, leur montant et leurs effets attendus ;
+« 3° Pour chacun des exercices de la période de la programmation, les perspectives de recettes, de dépenses, de solde et d'endettement des administrations publiques et de chacun de leurs sous-secteurs, exprimées en valeur et selon les conventions de la comptabilité nationale ;
+« 4° Pour chacun des exercices de la période de la programmation, une évaluation minimaliste, moyenne et maximaliste de l'évolution des taux d'intérêt et de son impact sur les comptes de l'Etat ;
+« 5° Pour chacun des exercices de la période de la programmation, l'estimation des dépenses d'assurance vieillesse et des dépenses d'allocations familiales ;
+« 6° Pour chacun des exercices de la période de la programmation, les perspectives de recettes, de dépenses et de solde des régimes complémentaires de retraite et de l'assurance chômage, exprimées selon les conventions de la comptabilité nationale ;
+« 7° Les mesures de nature à garantir le respect de la programmation ;
+« 8° Toute autre information utile au contrôle du respect des plafonds et objectifs mentionnés aux 2° et 3° de l'article 1er B, notamment les principes permettant de comparer les montants que la loi de programmation des finances publiques prévoit avec les montants figurant dans les lois de finances de l'année et les lois de financement de la sécurité sociale de l'année ;
+« 9° Les projections de finances publiques à politiques inchangées, au sens de la directive 2011/85/ UE du Conseil du 8 novembre 2011 sur les exigences applicables aux cadres budgétaires des Etats membres, et la description des politiques envisagées pour réaliser l'objectif à moyen terme au regard de ces projections ;
+« 10° Le montant et la date d'échéance des engagements financiers significatifs de l'Etat en cours n'ayant pas d'implication immédiate sur le solde structurel ;
+« 11° Les modalités de calcul de l'effort structurel mentionné à l'article 1er A de la présente loi organique, la répartition de cet effort entre chacun des sous-secteurs des administrations publiques et les éléments permettant d'établir la correspondance entre la notion d'effort structurel et celle de solde structurel ;
+« 12° Les hypothèses de produit intérieur brut et de produit intérieur brut potentiel retenues pour la programmation des finances publiques. Le rapport présente et justifie les différences éventuelles par rapport aux estimations de la Commission européenne ;
+« 13° Les hypothèses ayant permis l'estimation des effets de la conjoncture sur les dépenses et les recettes publiques, notamment les hypothèses d'élasticité à la conjoncture des différentes catégories de prélèvements obligatoires et des dépenses d'indemnisation du chômage. Le rapport présente et justifie les différences éventuelles par rapport aux estimations de la Commission européenne ;
+« 14° Les modalités de calcul du solde structurel annuel mentionné à l'article 1er A.
+« Ce rapport présente également la situation de la France, par rapport aux autres Etats membres de l'Union européenne, au regard des objectifs stratégiques européens.
+
+« Art. 1 F.-La loi de programmation des finances publiques comprend quatre parties distinctes relatives au cadre financier pluriannuel :
+« 1° De l'ensemble des administrations publiques ;
+« 2° Des administrations publiques centrales ;
+« 3° Des administrations publiques locales ;
+« 4° Des administrations de sécurité sociale.
+
+« Art. 1 G.-La loi de programmation des finances publiques présente de façon sincère les perspectives de dépenses, de recettes, de solde et d'endettement des administrations publiques. Sa sincérité s'apprécie compte tenu des informations disponibles et des prévisions qui peuvent raisonnablement en découler.
+
+« Art. 1 H.-La loi de finances de l'année, les lois de finances rectificatives, les lois de financement rectificatives de la sécurité sociale et les lois de finances de fin de gestion comprennent un article liminaire présentant un tableau de synthèse retraçant, pour l'année sur laquelle elles portent et en rappelant les prévisions de la loi de programmation des finances publiques en vigueur pour l'année en question :
+« 1° L'état des prévisions de solde structurel et de solde effectif de l'ensemble des administrations publiques, avec l'indication des calculs permettant d'établir le passage de l'un à l'autre, et des prévisions de solde par sous-secteur ;
+« 2° L'état de la prévision, déclinée par sous-secteur d'administration publique, de l'objectif d'évolution en volume et de la prévision en milliards d'euros courants des dépenses des administrations publiques ;
+« 3° L'état des prévisions de prélèvements obligatoires, de dépenses et d'endettement de l'ensemble des administrations publiques, exprimées en pourcentage du produit intérieur brut.
+« Le tableau de synthèse de la loi de finances de l'année indique également les agrégats mentionnés aux 1°, 2° et 3°, résultant de la dernière année écoulée et des prévisions d'exécution de l'année en cours.
+« L'article liminaire présente également, pour l'année en question, l'état des prévisions portant sur les principales dépenses des administrations publiques considérées comme des dépenses d'investissement au sens du dernier alinéa de l'article 1er A et du 2° de l'article 1er E.
+« Il est indiqué, dans l'exposé des motifs du projet de loi de finances de l'année, du projet de loi de finances rectificative ou du projet de loi de financement rectificative de la sécurité sociale, si les hypothèses ayant permis le calcul du solde structurel sont les mêmes que celles ayant permis de le calculer pour cette même année dans le cadre de la loi de programmation des finances publiques.
+
+« Art. 1 I.-La loi relative aux résultats de la gestion et portant approbation des comptes de l'année comprend un article liminaire présentant un tableau de synthèse retraçant, pour l'année à laquelle elle se rapporte :
+« 1° Le solde structurel et le solde effectif de l'ensemble des administrations publiques résultant de l'exécution ;
+« 2° Les dépenses des administrations publiques résultant de l'exécution, exprimées en milliards d'euros courants, ainsi que l'évolution des dépenses publiques sur l'année, exprimée en volume ;
+« 3° Les prélèvements obligatoires, les dépenses et l'endettement de l'ensemble des administrations publiques résultant de l'exécution, exprimés en pourcentage du produit intérieur brut.
+« L'article liminaire présente également, pour l'année en question, les principales dépenses des administrations publiques considérées comme des dépenses d'investissement au sens du dernier alinéa de l'article 1er A et du 2° de l'article 1er E.
+« Le cas échéant, l'écart par rapport aux prévisions de soldes de la loi de finances de l'année et de la loi de programmation des finances publiques est indiqué. Il est également indiqué, dans l'exposé des motifs du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année, si les hypothèses ayant permis le calcul du solde structurel sont les mêmes que celles ayant permis de le calculer, pour cette même année, dans le cadre de la loi de finances de l'année et dans le cadre de la loi de programmation des finances publiques.
+
+« Art. 1 J.-Le rapport annexé au projet de loi de finances de l'année mentionné à l'article 50 présente, pour l'année à laquelle il se rapporte et pour l'ensemble des administrations publiques, l'évaluation prévisionnelle de l'effort structurel défini à l'article 1er A et du solde effectif, détaillée par sous-secteur des administrations publiques, ainsi que les éléments permettant d'établir la correspondance entre la notion d'effort structurel et celle de solde structurel.
+
+« Art. 1 K.-Au plus tard quinze jours avant la présentation par le Gouvernement aux institutions européennes des documents prévus par le droit de l'Union européenne dans le cadre des procédures de coordination des politiques économiques et budgétaires, le Gouvernement transmet l'ensemble de ces documents au Parlement et y joint, dans la perspective de l'examen et du vote du projet de loi de finances de l'année suivante, un rapport sur l'évolution de l'économie nationale et sur les orientations des finances publiques comportant :
+« 1° Une analyse des évolutions économiques constatées depuis l'établissement du rapport mentionné à l'article 50 ;
+« 2° Une description des grandes orientations de sa politique économique et budgétaire au regard des engagements européens de la France ;
+« 3° L'évaluation pluriannuelle de l'évolution des recettes et des dépenses des administrations de sécurité sociale ainsi que de l'objectif national de dépenses d'assurance maladie ;
+« 4° Une analyse de la situation financière des administrations publiques locales ;
+« 5° Une actualisation des données contenues dans le rapport mentionné au II de l'article 48.
+« Les documents transmis au Parlement peuvent donner lieu à un débat à l'Assemblée nationale et au Sénat. »
+
+II.-La loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifiée :
+1° Au premier alinéa de l'article 34, la référence : « 7 de la loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques » est remplacée par la référence : « 1er H » ;
+2° A la fin du I A de l'article 37, la référence : « 8 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée » est remplacée par la référence : « 1er İ » ;
+3° A la fin de la dernière phrase du premier alinéa de l'article 50, la référence : « 9 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée » est remplacée par la référence : « 1er J » ;
+4° Le 3° de l'article 58 est ainsi rédigé :
+« 3° Le dépôt, avant la fin du mois de juin, d'un rapport relatif à la situation et aux perspectives des finances publiques ; ».
+III.-Les chapitres Ier et II de la loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques sont abrogés.
+
+## Titre II : DISPOSITIONS RELATIVES AUX LOIS DE FINANCES
+I.-A la fin du 2° de l'article 1er, aux I A, I et II, à la première phrase du III, à la fin du premier alinéa du IV et au V de l'article 37, à l'article 41, à la fin de l'intitulé du chapitre II du titre IV, à l'article 46, à la fin du premier alinéa et du 4° de l'article 54 et au 4° et à la seconde phrase du 5° de l'article 58 de la loi organique n° 2001-692 du 1er août 2001 précitée ainsi qu'à la fin des première et dernière phrases du premier alinéa et de la seconde phrase du second alinéa de l'article LO 132-1 du code des juridictions financières, les mots : « de règlement » sont remplacés par les mots : « relative aux résultats de la gestion et portant approbation des comptes de l'année ».
+II.-L'article 1er de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° A la fin du 1°, les mots : « et les lois de finances rectificatives » sont supprimés ;
+2° Le 2° devient le 4° ;
+3° Le 3° devient le 5° ;
+4° Sont rétablis des 2° et 3° ainsi rédigés :
+« 2° Les lois de finances rectificatives ;
+« 3° La loi de finances de fin de gestion ; ».
+III.-Le II entre en vigueur le 1er janvier 2023.
+I.-L'article 2 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+2° Le second alinéa est remplacé par un II ainsi rédigé :
+« II.-Les impositions de toutes natures peuvent être directement affectées aux collectivités territoriales, à leurs établissements publics et aux organismes de sécurité sociale, sous les réserves prévues au III du présent article et aux articles 34 et 51.
+« Les impositions de toutes natures ne peuvent, sous les mêmes réserves, être affectées à un tiers autre que ceux mentionnés au premier alinéa du présent II et leur affectation ne peut être maintenue que si ce tiers est doté de la personnalité morale et si ces impositions sont en lien avec les missions de service public qui lui sont confiées. » ;
+3° Sont ajoutés des III et IV ainsi rédigés :
+« III.-L'affectation, totale ou partielle, à un tiers d'une ressource établie au profit de l'Etat ne peut résulter que d'une disposition d'une loi de finances.
+« IV.-L'affectation du produit d'une imposition de toute nature à un tiers ne peut résulter que d'une disposition d'une loi de finances. Le présent IV ne s'applique pas aux impositions affectées aux collectivités territoriales, à leurs établissements publics et aux organismes de sécurité sociale, à l'exception des impositions dont le produit est, en tout ou partie, affecté au budget de l'Etat. »
+II.-L'article 36 de la loi organique n° 2001-692 du 1er août 2001 précitée est abrogé.
+III.-Au 1° de l'article 51 de la loi organique n° 2001-692 du 1er août 2001 précitée, les mots : « impositions de toute nature » sont remplacés par le mot : « ressources ».
+IV.-Les I et II entrent en vigueur lors du dépôt du projet de loi de finances pour l'année 2025.
+L'article 3 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Au 3°, après le mot : « concours », sont insérés les mots : « finançant des dépenses autres que les dépenses d'investissement au sens du 5° du I de l'article 5 » ;
+2° Après le même 3°, il est inséré un 3° bis ainsi rédigé :
+« 3° bis Les fonds de concours finançant des dépenses d'investissement au sens du même 5° ; ».
+La seconde phrase de l'article 4 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi rédigée : « Ces décrets sont joints en annexe au projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année afférent à l'année concernée. »
+Après le quatorzième alinéa du II de l'article 5 de la loi organique n° 2001-692 du 1er août 2001 précitée, il est inséré un alinéa ainsi rédigé :
+
+«-les subventions pour charges d'investissement. »
+I.-Le dernier alinéa de l'article 6 de la loi organique n° 2001-692 du 1er août 2001 précitée est remplacé par deux alinéas ainsi rédigés :
+« Un montant déterminé de recettes de l'Etat peut être rétrocédé directement au profit des collectivités territoriales ou de l'Union européenne.
+« Ces prélèvements sur les recettes de l'Etat sont, dans leur montant, évalués de façon précise et distincte dans la loi de finances. Ils sont institués par une loi de finances, qui précise l'objet du prélèvement ainsi que les catégories de collectivités territoriales qui en sont bénéficiaires. »
+II.-Au début du 4° du I de l'article 34 de la loi organique n° 2001-692 du 1er août 2001 précitée, sont ajoutés les mots : « Institue et ».
+III.-L'article 52 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi rétabli :
+
+« Art. 52.-Est joint au projet de loi de finances de l'année un rapport portant sur :
+« 1° La situation des finances publiques locales ;
+« 2° L'évolution des charges résultant des transferts de compétences entre l'Etat et les collectivités territoriales et leurs groupements ;
+« 3° L'évolution et l'efficacité des transferts financiers entre l'Etat et les collectivités territoriales et leurs groupements, d'une part, et entre les collectivités territoriales elles-mêmes, d'autre part, notamment ceux effectués à des fins de péréquation au sens de l'article 72-2 de la Constitution ;
+« 4° L'état de l'objectif d'évolution des dépenses des administrations publiques locales inscrit dans la loi de programmation des finances publiques en application de l'article 1er B de la présente loi organique ;
+« 5° La présentation de la nature et des conséquences, notamment financières, de l'ensemble des mesures inscrites dans le projet de loi de finances de l'année et relatives aux collectivités territoriales et à leurs groupements ;
+« 6° Pour chaque allègement facultatif de fiscalité locale prévu par la loi, le nombre de délibérations en vigueur, en distinguant par catégorie de collectivités territoriales.
+« Ce rapport peut faire l'objet d'un débat à l'Assemblée nationale et au Sénat. »
+L'article 10 de la loi organique n° 2001-692 du 1er août 2001 précitée est complété par un alinéa ainsi rédigé :
+« Les crédits relatifs aux remboursements, restitutions et dégrèvements des impositions de toutes natures revenant à l'Etat ne sont pas pris en compte pour l'évaluation des recettes et la présentation du tableau d'équilibre prévues à l'article 34. »
+Le premier alinéa de l'article 11 de la loi organique n° 2001-692 du 1er août 2001 précitée est complété par une phrase ainsi rédigée : « Lorsque ce décret occasionne une répartition de crédits excédant 100 millions d'euros, le ministre chargé des finances informe, trois jours au moins avant sa publication, les présidents et rapporteurs généraux des commissions de l'Assemblée nationale et du Sénat chargées des finances du montant et du motif de cette répartition ainsi que des programmes concernés. »
+Le II de l'article 15 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Le 1° est ainsi rédigé :
+« 1° A l'exception des crédits ouverts sur un programme en application du II de l'article 17, les crédits inscrits sur le titre des dépenses de personnel ne peuvent faire l'objet d'un report sur l'année suivante ; »
+2° La seconde phrase du 2° est remplacée par trois phrases ainsi rédigées : « Ce plafond peut faire l'objet d'une majoration par une disposition dûment motivée de la loi de finances. Le montant total des crédits de paiement ainsi reportés ne peut excéder 5 % des crédits ouverts par la loi de finances de l'année. Toutefois, en cas de nécessité impérieuse d'intérêt national, la loi de finances peut autoriser une dérogation à ce plafond. »
+Au IV de l'article 15 de la loi organique n° 2001-692 du 1er août 2001 précitée, la date : « 31 mars » est remplacée par la date : « 15 mars ».
+I.-La loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifiée :
+1° L'article 18 est ainsi modifié :
+a) Au premier alinéa du I, le mot : « seules » est supprimé ;
+b) Le même premier alinéa est complété par une phrase ainsi rédigée : « Les opérations associées à celles mentionnées à la première phrase du présent alinéa peuvent également être retracées sur les budgets annexes. » ;
+c) Le deuxième alinéa du II est supprimé ;
+d) L'avant-dernier alinéa du même II est ainsi rédigé :
+« Les ressources et les charges des budgets annexes comprennent les ressources et les charges budgétaires ainsi que les ressources et les charges de trésorerie, définies selon les règles établies aux articles 3,5 et 25. La dette nette de chaque budget annexe fait l'objet d'un suivi spécifique. » ;
+2° Le 9° du I de l'article 34 est complété par les mots : « ainsi que, pour chaque budget annexe, le plafond de l'encours total de dette autorisé » ;
+3° L'article 51 est ainsi modifié :
+a) A la première phrase du 6°, les mots : « chaque budget annexe et » sont supprimés ;
+b) Après le même 6°, il est inséré un 6° bis ainsi rédigé :
+« 6° bis Des annexes explicatives développant, pour chaque budget annexe, d'une part, le montant des recettes et, d'autre part, le montant des crédits proposés pour l'année considérée et présentés à titre prévisionnel pour les deux années suivantes, par programme. Elles sont accompagnées du projet annuel de performances de chaque programme, dans les conditions prévues au 5°, en justifiant les prévisions de recettes. Ce projet évalue les ressources et les charges de trésorerie qui concourent à la réalisation de l'équilibre financier ainsi que la dette nette, présentées dans un tableau de financement ; »
+4° L'article 54 est ainsi modifié :
+a) A la première phrase du 5°, les mots : « chaque budget annexe et » sont supprimés ;
+b) Après le même 5°, il est inséré un 5° bis ainsi rédigé :
+« 5° bis Des annexes explicatives développant, pour chaque budget annexe, d'une part, le montant définitif des recettes et, d'autre part, des dépenses constatées par programme et des crédits ouverts, ainsi que les modifications de crédits demandées. Elles sont accompagnées du rapport annuel de performances de chaque programme, dans les conditions prévues au 4°, en justifiant les réalisations de recettes. Ce rapport présente la réalisation de l'équilibre financier ainsi que la dette nette de l'année correspondante, présentées dans un tableau de financement ; ».
+II.-Le présent article entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023. Il est applicable pour la première fois aux lois de finances afférentes à l'année 2023.
+Le deuxième alinéa du I de l'article 21 de la loi organique n° 2001-692 du 1er août 2001 précitée est complété par deux phrases ainsi rédigées : « Toutefois, les versements du budget général au profit de ce compte excédant la limite prévue au même premier alinéa donnent lieu à une information préalable des présidents et des rapporteurs généraux des commissions de l'Assemblée nationale et du Sénat chargées des finances, portant sur le montant et le motif de ces versements. Cette information n'est pas rendue publique. »
+Au deuxième alinéa de l'article 27 de la loi organique n° 2001-692 du 1er août 2001 précitée, les mots : « destinée à analyser les coûts » sont remplacés par le mot : « analytique ».
+I.-L'article 34 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° A la fin du 2° du I, les mots : « qui affectent l'équilibre budgétaire » sont supprimés ;
+2° Après le 3° du même I, il est inséré un 3° bis ainsi rédigé :
+« 3° bis Peut comporter des dispositions relatives à l'assiette, au taux, à l'affectation et aux modalités de recouvrement des impositions de toutes natures affectées à une personne morale autre que l'Etat ; »
+3° Après le 5° dudit I, il est inséré un 5° bis ainsi rédigé :
+« 5° bis Présente la liste et le produit prévisionnel de l'ensemble des impositions de toutes natures dont le produit est affecté à une personne morale autre que les collectivités territoriales, leurs établissements publics et les organismes de sécurité sociale et décide, le cas échéant, d'attribuer totalement ou partiellement ce produit à l'Etat ; »
+4° Le 7° du même I est complété par cinq phrases ainsi rédigées : « Ce tableau distingue également les ressources de fonctionnement et d'investissement et les charges de fonctionnement et d'investissement prévues par le projet de loi de finances. Les ressources de fonctionnement sont constituées des ressources mentionnées aux 1° à 3°, 4° et 7° de l'article 3, déduction faite des prélèvements sur recettes mentionnés aux quatrième et avant-dernier alinéas de l'article 6. Les ressources d'investissement sont constituées des ressources mentionnées aux 3° bis, 5° et 6° de l'article 3 ainsi que des émissions de dette à moyen et long terme nettes des rachats. Les charges de fonctionnement sont constituées des charges mentionnées aux 1° à 4° et 6° du I de l'article 5. Les charges d'investissement sont constituées des charges mentionnées aux 5° et 7° du même I ; »
+5° Après le 2° du II, il est inséré un 2° bis ainsi rédigé :
+« 2° bis Fixe le plafond d'autorisation des emplois des opérateurs de l'Etat par mission, le plafond d'autorisation des emplois des établissements à autonomie financière mentionnés à l'article 66 de la loi de finances pour 1974 (n° 73-1150 du 27 décembre 1973) ainsi que le plafond d'autorisation des emplois des autorités publiques indépendantes dotées de la personnalité morale ; »
+6° Le 4° du même II est complété par les mots : « de la présente loi organique » ;
+7° Après le même 4°, sont insérés des 4° bis et 4° ter ainsi rédigés :
+« 4° bis Définit, pour chaque mission du budget général, chaque budget annexe et chaque compte spécial, des objectifs de performance et des indicateurs associés à ces objectifs ;
+« 4° ter Récapitule, pour chaque mission du budget général, d'une part, le montant des crédits de paiement de la mission, en distinguant les crédits de subventions aux opérateurs et ceux finançant des dépenses d'investissement au sens du 5° du I de l'article 5 et, d'autre part, les montants respectifs des dépenses fiscales, des ressources affectées, des prélèvements sur recettes mentionnés aux quatrième et avant-dernier alinéas de l'article 6 et des crédits des comptes spéciaux qui concourent à la mise en œuvre des politiques publiques financées par cette mission ; »
+8° Le 7° dudit II est ainsi modifié :
+a) Le a est abrogé ;
+b) Le b est ainsi rédigé :
+« b) Comporter des dispositions affectant directement les dépenses budgétaires :
+
+«-soit de l'année ;
+«-soit de l'année et d'une ou de plusieurs années ultérieures ; »
+
+c) Le c est complété par les mots : « ou des recettes fiscales affectées à ces dernières et à leurs établissements publics » ;
+d) Au f, les mots : « de l'Etat » sont remplacés par le mot : « publique » ;
+e) Il est ajouté un g ainsi rédigé :
+« g) Comporter des dispositions autorisant le transfert de données fiscales, lorsque celui-ci permet de limiter les charges ou d'accroître les ressources de l'Etat. » ;
+9° Après le mot : « prévues », la fin du III est ainsi rédigée : « aux 1°, 5°, 6°, 7°, 8° et 9° du I ainsi qu'aux 1°, 2°, 3°, 4° bis et 4° ter du II. »
+II.-A la première phrase du premier alinéa de l'article 35 de la loi organique n° 2001-692 du 1er août 2001 précitée, la référence : « et 3° » est remplacée par les références : «, 3° et 4° ».
+III.-Le présent article entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023. Il est applicable pour la première fois aux lois de finances afférentes à l'année 2023.
+I.-L'article 35 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Le premier alinéa est ainsi modifié :
+a) A la première phrase, après le mot : « rectificatives », sont insérés les mots : « et les lois de finances de fin de gestion » ;
+b) La seconde phrase est supprimée ;
+2° Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Le cas échéant, les lois de finances rectificatives et les lois de finances de fin de gestion ratifient les modifications apportées par décret d'avance aux crédits ouverts par la dernière loi de finances. » ;
+3° Au deuxième alinéa, après le mot : « rectificatives », sont insérés les mots : « et les lois de finances de fin de gestion » ;
+4° Après le même deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« Les lois de finances de fin de gestion ne peuvent comporter les dispositions prévues aux 2° et 3° bis du I et au 7° du II du même article 34, à l'exception de celles prévues au b du même 7° lorsque les dispositions affectent directement les dépenses budgétaires de l'année. Elles peuvent toutefois comporter des dispositions tendant à modifier, pour l'année en cours, l'affectation d'impositions de toutes natures. » ;
+5° A la première phrase du dernier alinéa, après le mot : « rectificatives », sont insérés les mots : « et les lois de finances de fin de gestion ».
+II.-Au II de l'article 14, à la seconde phrase du quatrième alinéa de l'article 28, à l'article 42 et au premier alinéa de l'article 44 de la loi organique n° 2001-692 du 1er août 2001 précitée, après le mot : « rectificative », sont insérés les mots : « ou de fin de gestion ».
+III.-L'intitulé du chapitre Ier du titre IV et le premier alinéa de l'article 53 de la loi organique n° 2001-692 du 1er août 2001 précitée sont complétés par les mots : « ou de fin de gestion ».
+IV.-Les I à III du présent article entrent en vigueur le 1er janvier 2023.
+I.-L'article 39 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° A la première phrase du premier alinéa, les mots : « et distribué » sont supprimés ;
+2° Après le mot : « assemblées », la fin du second alinéa est ainsi rédigée : « avant le début de l'examen du projet de loi de finances de l'année en séance publique par l'Assemblée nationale. »
+II.-A l'article 46 de la loi organique n° 2001-692 du 1er août 2001 précitée, les mots : « et distribué » sont supprimés.
+III.-Le I entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023.
+IV.-Le II entre en vigueur lors du dépôt du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2022.
+A l'avant-dernier alinéa de l'article 40 et à la fin de la seconde phrase des 1° et 2° et du quatrième alinéa de l'article 45 de la loi organique n° 2001-692 du 1er août 2001 précitée, les mots : « d'urgence » sont remplacés par le mot : « accélérée ».
+L'article 44 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Après le mot : « prend », la fin du premier alinéa est ainsi rédigée : « un décret portant désignation des ministres bénéficiaires des crédits ouverts sur chaque programme, dotation ou compte spécial. » ;
+2° Les quatre derniers alinéas sont supprimés.
+A l'article 46 de la loi organique n° 2001-692 du 1er août 2001 précitée, le mot : « juin » est remplacé par le mot : « mai ».
+L'article 6 de la loi organique n° 2001-692 du 1er août 2001 précitée est complété par un alinéa ainsi rédigé :
+« Les recettes des établissements du réseau de coopération et d'action culturelle français à l'étranger, services des missions diplomatiques disposant d'une autonomie financière conformément à l'article 66 de la loi de finances pour 1974 (n° 73-1150 du 27 décembre 1973), sont affectées directement à leurs dépenses. A l'exception des dotations de l'Etat, les recettes et les dépenses consolidées de ces établissements sont retracées au sein d'états financiers joints au projet de loi de finances de l'année en application de l'article 51 de la présente loi organique. »
+
+## Titre III : DISPOSITIONS RELATIVES À L'INFORMATION ET AU CONTRÔLE SUR LES FINANCES PUBLIQUES
+Le titre V de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est ainsi modifié :
+1° L'intitulé est ainsi rédigé : « De l'information, du contrôle et de l'évaluation » ;
+2° L'intitulé du chapitre II est complété par les mots : « et de l'évaluation ».
+I.-L'article 48 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi rédigé :
+
+« Art. 48.-I.-En vue de l'examen et du vote du projet de loi de finances de l'année suivante par le Parlement, le Gouvernement présente, avant le 15 juillet, un rapport indiquant les plafonds de crédits envisagés pour l'année à venir pour chaque mission du budget général, l'état de la prévision de l'objectif, exprimé en volume, d'évolution de la dépense des administrations publiques et de la prévision, exprimée en milliards d'euros courants, de cette dépense en valeur, chacun décliné par sous-secteur d'administration publique, ainsi que les montants prévus des concours aux collectivités territoriales. Ce rapport indique également la liste des missions, des programmes et des indicateurs de performance associés à chacune de ces missions et à chacun de ces programmes, envisagés pour le projet de loi de finances de l'année suivante.
+« II.-Le Gouvernement présente, avant le début de la session ordinaire, un rapport analysant la trajectoire, les conditions de financement et la soutenabilité de la dette de l'ensemble des administrations publiques et de leurs sous-secteurs. Ce rapport peut donner lieu à un débat à l'Assemblée nationale et au Sénat. »
+
+II.-Le présent article entre en vigueur le 1er janvier 2022.
+L'article 50 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Après le premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Ce rapport présente, pour chacun des exercices de la loi de programmation des finances publiques en vigueur, les écarts cumulés entre, d'une part, les prévisions en milliards d'euros courants des dépenses des administrations publiques qui figurent dans cette même loi et, d'autre part, les dépenses réalisées ou prévues au sein de la dernière loi de finances afférente à l'exercice concerné. Il précise les raisons et les hypothèses expliquant ces écarts cumulés ainsi que, le cas échéant, les mesures prévues par le Gouvernement pour les réduire. » ;
+2° Au troisième alinéa, la référence : « règlement (CE) n° 2223/96 du Conseil, du 25 juin 1996, relatif au système européen des comptes nationaux et régionaux dans la Communauté, » est remplacée par les mots : « système européen des comptes nationaux et régionaux en vigueur ».
+I.-L'article 51 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Après le 1°, il est inséré un 1° bis ainsi rédigé :
+« 1° bis Une annexe explicative récapitulant les dispositions relatives aux règles concernant l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures adoptées depuis le dépôt du projet de loi de finances de l'année précédente. Cette annexe précise, pour chacune de ces dispositions, la loi qui l'a créée, son objet, la période pendant laquelle il est prévu de l'appliquer et son effet, pour l'année de son entrée en vigueur et les trois années suivantes, sur les recettes :
+« a) De l'Etat ;
+« b) Des collectivités territoriales ;
+« c) Des tiers, autres que les organismes de sécurité sociale, bénéficiaires d'une ou de plusieurs impositions de toutes natures affectées ; »
+2° Après le mot : « budgétaires », la fin du 3° est ainsi rédigée : « en une section de fonctionnement et une section d'investissement. Les ressources de fonctionnement sont constituées des ressources mentionnées aux 1° à 3°, 4° et 7° de l'article 3, déduction faite des prélèvements sur recettes mentionnés aux quatrième et avant-dernier alinéas de l'article 6. Les ressources d'investissement sont constituées des ressources mentionnées aux 3° bis, 5° et 6° de l'article 3, ainsi que des émissions de dette à moyen et long termes nettes des rachats. Les charges de fonctionnement sont constituées des charges mentionnées aux 1° à 4° et 6° du I de l'article 5. Les charges d'investissement sont constituées des charges mentionnées aux 5° et 7° du même I ; »
+3° Le 4° est complété par une phrase et des a à d ainsi rédigés : « Cette annexe comporte, pour les dépenses fiscales :
+« a) L'évaluation de leur montant et le nombre de bénéficiaires ;
+« b) La liste de celles qui feront l'objet d'une évaluation dans l'année ;
+« c) Pour chaque mission, l'évaluation de l'écart entre le montant exécuté au titre d'une année et la prévision correspondant à cette année inscrite dans le projet de loi de finances ainsi que les éléments d'explication de cet écart ;
+« d) La présentation, par mission, du ratio entre le montant prévisionnel des dépenses fiscales et le montant des crédits budgétaires ; »
+4° Le 5° est ainsi modifié :
+a) Au premier alinéa, les mots : « et l'année considérée » sont remplacés par les mots : «, l'année considérée et, à titre prévisionnel, les deux années suivantes » ;
+b) Après le a, il est inséré un a bis ainsi rédigé :
+« a bis) Une présentation des crédits alloués à titre prévisionnel pour les deux années suivant l'année considérée ; »
+5° A la première phrase du 6°, après le mot : « proposés », sont insérés les mots : « pour l'année considérée et présentés à titre prévisionnel pour les deux années suivantes, » ;
+6° Au 7°, les mots : « et règlements » sont remplacés par les mots : « de finances, » ;
+7° Il est ajouté un alinéa ainsi rédigé :
+« Les données chiffrées mentionnées aux 1°, 3°, 4°, 4° bis, 5°, 6° et 6° bis du présent article sont publiées sous forme électronique, dans un standard ouvert aisément réutilisable et exploitable par un système de traitement automatisé. »
+II.-Le présent article entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023.
+L'article 57 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° A la deuxième phrase du premier alinéa, après le mot : « attributions », sont insérés les mots : « définis par ces commissions » ;
+2° Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« En vue de l'évaluation des conséquences, notamment financières, des dispositions relevant du domaine des lois de finances ainsi que de la réalisation des travaux prévus à la première phrase du premier alinéa, le président et le rapporteur général des commissions de l'Assemblée nationale et du Sénat chargées des finances [Dispositions délcarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-831 DC du 23 décembre 2021.] sont habilités à accéder à l'ensemble des informations qui relèvent de la statistique publique ainsi qu'à celles recueillies à l'occasion des opérations de détermination de l'assiette, de contrôle, de recouvrement ou de contentieux des impôts, droits, taxes et redevances et qui sont, le cas échéant, couvertes par le secret statistique ou fiscal. L'accès à ces informations s'effectue dans des conditions préservant la confidentialité des données. Les travaux issus de l'exploitation de ces données ne peuvent en aucun cas faire état des personnes auxquelles elles se rapportent ni permettre leur identification. Les modalités d'application du présent alinéa sont fixées par décret en Conseil d'Etat. » ;
+3° A la fin de la seconde phrase du dernier alinéa, la référence : « à l'alinéa précédent » est remplacée par la référence : « au deuxième alinéa » ;
+4° Il est ajouté un alinéa ainsi rédigé :
+« Les autorités administratives indépendantes et les autorités publiques indépendantes peuvent être sollicitées par les commissions de l'Assemblée nationale et du Sénat chargées des finances pour l'obtention d'informations relatives aux finances publiques. »
+Après le 3° de l'article 53 de la loi organique n° 2001-692 du 1er août 2001 précitée, il est inséré un 3° bis ainsi rédigé :
+
+ 3° bis Des tableaux récapitulant, pour chaque mission du budget général, chaque budget annexe et chaque compte spécial, par programme, ainsi qu'en fonction des titres mentionnés au I de l'article 5, le montant des autorisations d'engagement et des crédits de paiement consommés et disponibles au jour de la transmission du projet de loi au Conseil d'Etat ; .
+L'article 54 de la loi organique n° 2001-692 du 1er août 2001 précitée est complété par un alinéa ainsi rédigé :
+« Les données chiffrées mentionnées aux 1° à 7° et au 9° sont publiées sous forme électronique, dans un standard ouvert aisément réutilisable et exploitable par un système de traitement automatisé. »
+L'article 58 de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi modifié :
+1° Au premier alinéa, la référence : « dernier alinéa de l'article 47 » est remplacée par la référence : « premier alinéa de l'article 47-2 » ;
+2° La première phrase du 5° est complétée par les mots : « au regard des règles mentionnées à l'article 30 ».
+I.-Le titre VI de la loi organique n° 2001-692 du 1er août 2001 précitée est ainsi rédigé :
+
+« Titre VI
+« DISPOSITIONS RELATIVES AU HAUT CONSEIL DES FINANCES PUBLIQUES ET AU MÉCANISME DE CORRECTION
+
+« Art. 61.-I.-Le Haut Conseil des finances publiques, organisme indépendant, est placé auprès de la Cour des comptes. Il est présidé par le premier président de la Cour des comptes.
+« Outre son président, le Haut Conseil des finances publiques comprend dix membres :
+« 1° Quatre magistrats de la Cour des comptes en activité à la Cour, désignés par son premier président ;
+« 2° Quatre membres nommés, respectivement, par le président de l'Assemblée nationale, le président du Sénat et les présidents des commissions de l'Assemblée nationale et du Sénat chargées des finances en raison de leurs compétences dans le domaine des prévisions macroéconomiques et des finances publiques. Ils ne peuvent exercer de fonctions publiques électives ;
+« 3° Un membre nommé par le président du Conseil économique, social et environnemental en raison de ses compétences dans le domaine des prévisions macroéconomiques et des finances publiques. Il ne peut exercer de fonctions publiques électives ;
+« 4° Le directeur général de l'Institut national de la statistique et des études économiques.
+« Les membres du Haut Conseil des finances publiques ne sont pas rémunérés.
+« Les membres du Haut Conseil des finances publiques mentionnés aux 1° à 3° du présent I sont nommés pour cinq ans ; le mandat des membres mentionnés au 1° est renouvelable une fois ; le mandat des membres mentionnés aux 2° et 3° n'est pas renouvelable.
+« Les membres du Haut Conseil des finances publiques mentionnés aux 1° à 3° sont renouvelés par moitié tous les trente mois.
+« Lors de leur nomination, les membres mentionnés aux 1° à 4° remettent au premier président de la Cour des comptes une déclaration d'intérêts.
+« Dans l'exercice de leurs missions, les membres du Haut Conseil des finances publiques ne peuvent solliciter ou recevoir aucune instruction du Gouvernement ou de toute personne publique ou privée.
+« En cas de décès ou de démission d'un membre mentionné aux 1°, 2° ou 3°, de cessation des fonctions d'un membre dans les conditions prévues au dernier alinéa du présent I ou, s'agissant d'un magistrat de la Cour des comptes, de cessation de son activité à la Cour, il est pourvu à son remplacement pour la durée du mandat restant à courir. Si cette durée est inférieure à un an, le mandat du nouveau membre est renouvelable une fois.
+« Il ne peut être mis fin aux fonctions d'un membre du Haut Conseil des finances publiques mentionné aux 1°, 2° ou 3° que par l'autorité l'ayant désigné et sur avis conforme émis à la majorité des deux tiers des autres membres constatant qu'une incapacité physique permanente ou qu'un manquement grave à ses obligations empêche la poursuite de son mandat.
+« II.-Lorsqu'il exprime un avis sur l'estimation du produit intérieur brut potentiel sur laquelle repose le projet de loi de programmation des finances publiques, le Haut Conseil des finances publiques le motive, notamment au regard des estimations du Gouvernement et de la Commission européenne.
+« Lorsqu'il exprime un avis sur une prévision de croissance, il tient compte des prévisions d'un ensemble d'organismes dont il a établi et rendu publique la liste.
+« III.-Le Haut Conseil des finances publiques est saisi par le Gouvernement des prévisions macroéconomiques et de l'estimation du produit intérieur brut potentiel sur lesquelles repose le projet de loi de programmation des finances publiques. Au plus tard une semaine avant que le Conseil d'Etat soit saisi du projet de loi de programmation des finances publiques, le Gouvernement transmet au Haut Conseil ce projet ainsi que tout autre élément lui permettant d'apprécier la cohérence de la programmation envisagée au regard de l'objectif à moyen terme retenu et des engagements européens de la France.
+« Le Haut Conseil rend un avis sur l'ensemble des éléments mentionnés au premier alinéa du présent III. Cet avis est joint au projet de loi de programmation des finances publiques lors de sa transmission au Conseil d'Etat. Il est joint au projet de loi de programmation des finances publiques déposé au Parlement et rendu public par le Haut Conseil lors de ce dépôt.
+« IV.-Le Haut Conseil des finances publiques est saisi par le Gouvernement des prévisions macroéconomiques sur lesquelles reposent le projet de loi de finances de l'année et le projet de loi de financement de la sécurité sociale de l'année. Au plus tard une semaine avant que le Conseil d'Etat soit saisi du projet de loi de finances de l'année et du projet de loi de financement de la sécurité sociale de l'année, le Gouvernement transmet au Haut Conseil les éléments du projet de loi de finances de l'année et du projet de loi de financement de la sécurité sociale de l'année lui permettant d'apprécier :
+« 1° La cohérence de l'article liminaire du projet de loi de finances de l'année, au regard des orientations pluriannuelles de solde structurel et de dépenses des administrations publiques mentionnées à l'article 1er A de la présente loi organique et définies dans la loi de programmation des finances publiques, ainsi que le réalisme des prévisions de recettes et de dépenses du projet de loi de finances de l'année ;
+« 2° La cohérence de l'article liminaire du projet de loi de financement de la sécurité sociale de l'année, au regard des orientations pluriannuelles de solde structurel et de dépenses des administrations publiques mentionnées au même article 1er A et définies dans la loi de programmation des finances publiques, ainsi que le réalisme des prévisions de recettes et de dépenses du projet de loi de financement de la sécurité sociale de l'année.
+« Le Haut Conseil rend un avis sur l'ensemble des éléments mentionnés au 1° du présent IV. Cet avis est joint au projet de loi de finances de l'année lors de sa transmission au Conseil d'Etat et joint au projet de loi déposé à l'Assemblée nationale. Il est rendu public par le Haut Conseil lors de ce dépôt.
+« Le Haut Conseil rend un avis sur l'ensemble des éléments mentionnés au 2° du présent IV. Cet avis est joint au projet de loi de financement de la sécurité sociale de l'année lors de sa transmission au Conseil d'Etat et joint au projet de loi déposé à l'Assemblée nationale. Il est rendu public par le Haut Conseil lors de ce dépôt.
+« V.-Lorsque le Gouvernement prévoit de déposer à l'Assemblée nationale un projet de loi de finances rectificative, un projet de loi de finances de fin de gestion ou un projet de loi de financement rectificative de la sécurité sociale, il informe sans délai le Haut Conseil des finances publiques des prévisions macroéconomiques qu'il retient pour l'élaboration de ce projet. Le Gouvernement transmet au Haut Conseil les éléments permettant à ce dernier d'apprécier la cohérence du projet de loi, notamment de son article liminaire, au regard des orientations pluriannuelles de solde structurel définies dans la loi de programmation des finances publiques, ainsi que le réalisme des prévisions de recettes et de dépenses du projet de loi.
+« Le Haut Conseil rend un avis sur l'ensemble des éléments mentionnés au premier alinéa du présent V. Cet avis est joint au projet de loi de finances rectificative, au projet de loi de finances de fin de gestion ou au projet de loi de financement rectificative de la sécurité sociale lors de sa transmission au Conseil d'Etat et joint au projet de loi déposé à l'Assemblée nationale. Il est rendu public par le Haut Conseil lors de ce dépôt.
+« VI.-Lorsque, au cours de l'examen par le Parlement d'un projet de loi de programmation des finances publiques, d'un projet de loi de finances ou d'un projet de loi de financement de la sécurité sociale, le Gouvernement entend réviser les prévisions macroéconomiques sur lesquelles reposait initialement son projet, il informe sans délai le Haut Conseil des finances publiques du nouvel état de ses prévisions. Avant l'adoption définitive de la loi de programmation des finances publiques, de la loi de finances ou de la loi de financement de la sécurité sociale, le Haut Conseil rend un avis public sur ces prévisions.
+« VII.-Le Haut Conseil des finances publiques est saisi par le Gouvernement des dispositions des projets de loi de programmation mentionnés au vingtième alinéa de l'article 34 de la Constitution ayant une incidence sur les finances publiques. Au plus tard quinze jours avant que le Conseil d'Etat soit saisi d'un tel projet de loi, le Gouvernement transmet au Haut Conseil les éléments de ce projet de loi lui permettant d'évaluer la compatibilité de ces dispositions avec les objectifs de dépenses prévus, en application de l'avant-dernier alinéa de l'article 1er A de la présente loi organique, par la loi de programmation des finances publiques en vigueur ou, à défaut, par l'article liminaire de la dernière loi de finances.
+« Le Haut Conseil rend un avis sur l'ensemble des éléments mentionnés au premier alinéa du présent VII. Cet avis est joint au projet de loi de programmation des finances publiques lors de sa transmission au Conseil d'Etat, puis lors de son dépôt. Il est rendu public par le Haut Conseil lors de ce dépôt.
+« VIII.-Le Haut Conseil des finances publiques est saisi par le Gouvernement des prévisions macroéconomiques sur lesquelles repose le projet de programme de stabilité établi au titre de la coordination des politiques économiques des Etats membres de l'Union européenne.
+« Il rend public son avis au moins deux semaines avant la date limite de transmission du programme de stabilité au Conseil de l'Union européenne et à la Commission européenne.
+« L'avis du Haut Conseil des finances publiques est joint au programme de stabilité lors de cette transmission.
+« IX.-Le Haut Conseil des finances publiques peut procéder à l'audition des représentants de l'ensemble des administrations compétentes dans le domaine des finances publiques, de la statistique et de la prévision économique.
+« Il peut faire appel à des organismes ou des personnalités extérieurs à l'administration, notamment pour apprécier les perspectives de recettes, de dépenses, de solde et d'endettement des administrations publiques et de chacun de leurs sous-secteurs.
+« Le Gouvernement répond aux demandes d'information que lui adresse le Haut Conseil dans le cadre de la préparation de ses avis.
+« X.-Le Haut Conseil des finances publiques et le Parlement sont informés par le Gouvernement, lors de l'examen du projet de loi de finances de l'année, des engagements financiers de l'Etat significatifs nouvellement autorisés n'ayant pas d'implication immédiate sur le solde structurel.
+« XI.-Le Haut Conseil des finances publiques se réunit sur convocation de son président. Il délibère valablement s'il réunit, outre son président, cinq de ses membres, dont deux ont été désignés dans les conditions prévues aux 2° et 3° du I. Il se prononce à la majorité des voix. En cas de partage égal des voix, celle de son président est prépondérante.
+« Ses membres sont tenus au secret de ses délibérations. Il ne peut publier d'opinion dissidente.
+« Il ne peut délibérer ni publier d'avis dans d'autres cas ou sur d'autres sujets que ceux prévus au présent titre.
+« XII.-Le président du Haut Conseil des finances publiques gère les crédits nécessaires à l'accomplissement des missions de celui-ci.
+
+« Art. 62.-I.-En vue du dépôt du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année, le Haut Conseil des finances publiques rend un avis identifiant, le cas échéant, les écarts importants, au sens du II, que fait apparaître la comparaison des résultats de l'exécution de l'année écoulée avec les orientations pluriannuelles de solde structurel définies dans la loi de programmation des finances publiques. Cette comparaison est effectuée en retenant la trajectoire de produit intérieur brut potentiel figurant dans le rapport annexé à cette même loi.
+« Cet avis est rendu public par le Haut Conseil des finances publiques et joint au projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année. Il tient compte, le cas échéant, des circonstances exceptionnelles, définies à l'article 3 du traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signé à Bruxelles le 2 mars 2012, de nature à justifier les écarts constatés.
+« Lorsque l'avis du Haut Conseil identifie de tels écarts, le Gouvernement en expose les raisons et indique les mesures de correction envisagées lors de l'examen du projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année par chaque assemblée.
+« II.-Un écart est considéré comme important au regard des orientations pluriannuelles de solde structurel de l'ensemble des administrations publiques définies par la loi de programmation des finances publiques lorsqu'il représente au moins 0,5 % du produit intérieur brut sur une année donnée ou au moins 0,25 % du produit intérieur brut par an en moyenne sur deux années consécutives.
+« III.-Le Gouvernement tient compte d'un écart important au plus tard dans le prochain projet de loi de finances de l'année et dans le prochain projet de loi de financement de la sécurité sociale de l'année.
+« Un rapport, annexé au prochain projet de loi de finances de l'année ou au prochain projet de loi de financement de la sécurité sociale de l'année, analyse les mesures de correction envisagées, qui peuvent porter sur l'ensemble des administrations publiques ou seulement sur certains de leurs sous-secteurs, en vue de retourner aux orientations pluriannuelles de solde structurel définies par la loi de programmation des finances publiques. Le cas échéant, ce rapport justifie les différences apparaissant, dans l'ampleur et le calendrier de ces mesures de correction, par rapport aux indications figurant dans la loi de programmation des finances publiques en application du 6° de l'article 1er B.
+« L'avis du Haut Conseil des finances publiques mentionné au IV de l'article 61 comporte une appréciation de ces mesures de correction et, le cas échéant, de ces différences.
+« IV.-A.-Le Gouvernement peut demander au Haut Conseil des finances publiques de constater que les conditions mentionnées à l'article 3 du traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signé à Bruxelles le 2 mars 2012, pour la définition des circonstances exceptionnelles sont réunies ou ont cessé de l'être.
+« Le Haut Conseil répond sans délai, par un avis motivé et rendu public.
+« B.-Suivant l'avis du Haut Conseil mentionné au second alinéa du A du présent IV, l'article liminaire du premier projet de loi de finances, autre que la loi relative aux résultats de la gestion et portant approbation des comptes de l'année, déclare une situation de circonstances exceptionnelles ou constate que de telles circonstances n'existent plus.
+« V.-L'avis rendu public par le Haut Conseil des finances publiques en application du I porte également sur le respect des objectifs de dépenses des administrations publiques mentionnés à l'article 1er A au regard des résultats de l'exécution de l'année écoulée et, au moins une fois tous les quatre ans, sur les écarts entre les prévisions macroéconomiques, de recettes et de dépenses des lois de finances et de financement de la sécurité sociale et leur réalisation. »
+
+II.-A la fin du 4° ter de l'article 51 et du 8° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001 précitée, la référence : « 23 de la loi organique n° 2012-1403 du 17 décembre 2012 précitée » est remplacée par la référence : « 62 ».
+III.-Les chapitres III à V de la loi organique n° 2012-1403 du 17 décembre 2012 précitée sont abrogés.
+A la fin du 1° de l'article 3 ainsi qu'aux 1° et 10° du I de l'article 34 de la loi organique n° 2001-692 du 1er août 2001 précitée, les mots : « toute nature » sont remplacés par les mots : « toutes natures ».
+La loi organique n° 2001-692 du 1er août 2001 précitée est complétée par un titre VII ainsi rédigé :
+
+« Titre VII
+« APPLICATION DE LA LOI ORGANIQUE
+
+« Art. 63.-Les modalités d'exécution de la présente loi organique sont fixées par décret en Conseil d'Etat. »
+La présente loi organique entre en vigueur lors du dépôt du projet de loi de finances pour l'année 2023 et s'applique pour la première fois aux lois de finances afférentes à l'année 2023, à l'exception des dispositions dont l'entrée en vigueur est spécifiée.
+La présente loi sera exécutée comme loi de l'Etat.

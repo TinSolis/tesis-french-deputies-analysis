@@ -1,0 +1,45 @@
+LOI | NOR: ECOX1907688L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2019-810 du 1er août 2019 visant à préserver les intérêts de la défense et de la sécurité nationale de la France dans le cadre de l'exploitation des réseaux radioélectriques mobiles (1)
+Le chapitre II du titre Ier du livre II du code des postes et des communications électroniques est complété par une section 7 ainsi rédigée :
+
+« Section 7
+« Régime d'autorisation préalable de l'exploitation des équipements de réseaux radioélectriques
+
+« Art. L. 34-11.-I.-Est soumise à une autorisation du Premier ministre, dans le but de préserver les intérêts de la défense et de la sécurité nationale, l'exploitation sur le territoire national des appareils, à savoir tous dispositifs matériels ou logiciels, permettant de connecter les terminaux des utilisateurs finaux au réseau radioélectrique mobile, à l'exception des réseaux de quatrième génération et des générations antérieures, qui, par leurs fonctions, présentent un risque pour la permanence, l'intégrité, la sécurité, la disponibilité du réseau, ou pour la confidentialité des messages transmis et des informations liées aux communications, à l'exclusion des appareils installés chez les utilisateurs finaux ou dédiés exclusivement à un réseau indépendant, des appareils électroniques passifs ou non configurables et des dispositifs matériels informatiques non spécialisés incorporés aux appareils.
+« L'autorisation mentionnée au premier alinéa du présent I n'est requise que pour l'exploitation, directe ou par l'intermédiaire de tiers fournisseurs, d'appareils par les opérateurs mentionnés à l'article L. 1332-1 du code de la défense, ainsi désignés en vertu de leur activité d'exploitant d'un réseau de communications électroniques ouvert au public.
+« La liste des appareils dont l'exploitation est soumise à l'autorisation mentionnée au premier alinéa du présent I est fixée par arrêté du Premier ministre, pris après avis de l'Autorité de régulation des communications électroniques et des postes. Cette liste énumère les différents appareils concernés en référence à la terminologie utilisée dans les standards internationaux associés aux réseaux radioélectriques mobiles de cinquième génération et des générations ultérieures.
+« II.-L'autorisation d'exploitation d'un appareil peut être octroyée après examen d'un dossier de demande d'autorisation remis par l'opérateur. Le dossier précise les modèles et les versions des appareils pour lesquels l'autorisation est sollicitée.
+« L'autorisation est octroyée, le cas échéant sous conditions, pour une durée maximale de huit ans. Le renouvellement de l'autorisation fait l'objet d'un dossier de demande de renouvellement, qui est remis au moins deux mois avant l'expiration de l'autorisation en vigueur.
+« Les modalités d'octroi de l'autorisation, les conditions dont elle peut être assortie ainsi que la composition du dossier de demande d'autorisation et du dossier de demande de renouvellement sont fixées par décret en Conseil d'Etat, pris après avis de l'Autorité de régulation des communications électroniques et des postes et de la Commission supérieure du numérique et des postes, qui se prononcent dans un délai d'un mois à compter de leur saisine.
+
+« Art. L. 34-12.-Le Premier ministre refuse l'octroi de l'autorisation prévue à l'article L. 34-11 s'il estime qu'il existe un risque sérieux d'atteinte aux intérêts de la défense et de la sécurité nationale résultant du manque de garantie du respect des règles mentionnées aux a, b, e, f et f bis du I de l'article L. 33-1 relatives à la permanence, à l'intégrité, à la sécurité, à la disponibilité du réseau, ou à la confidentialité des messages transmis et des informations liées aux communications. Sa décision est motivée sauf lorsque la communication des motifs pourrait être de nature à porter atteinte à l'un des secrets ou intérêts protégés par les dispositions des a à f du 2° de l'article L. 311-5 du code des relations entre le public et l'administration.
+« Le Premier ministre prend en considération, pour l'appréciation de ce risque, le niveau de sécurité des appareils, leurs modalités de déploiement et d'exploitation envisagées par l'opérateur et le fait que l'opérateur ou ses prestataires, y compris par sous-traitance, est sous le contrôle ou soumis à des actes d'ingérence d'un Etat non membre de l'Union européenne.
+
+« Art. L. 34-13.-I.-Si l'exploitation des appareils mentionnés au I de l'article L. 34-11 est réalisée sur le territoire national sans autorisation préalable ou sans respecter les conditions fixées par l'autorisation, le Premier ministre peut enjoindre à l'opérateur de déposer une demande d'autorisation ou de renouvellement ou de faire rétablir à ses frais la situation antérieure, dans un délai qu'il fixe.
+« Ces injonctions ne peuvent intervenir qu'après que l'opérateur a été mis en demeure de présenter des observations dans un délai de quinze jours, sauf en cas d'urgence, de circonstances exceptionnelles ou d'atteinte imminente à la sécurité nationale.
+« II.-Est nul tout engagement, convention ou clause contractuelle prévoyant l'exploitation des appareils mentionnés au I de l'article L. 34-11 lorsque cette activité n'a pas fait l'objet de l'autorisation préalable exigée sur le fondement du même article L. 34-11 ou d'une régularisation dans les délais impartis.
+
+« Art. L. 34-14.-La présente section est applicable dans les îles Wallis et Futuna. »
+Le livre II du code des postes et des communications électroniques est ainsi modifié :
+1° Après l'article L. 39-1, il est inséré un article L. 39-1-1 ainsi rédigé :
+
+« Art. L. 39-1-1.-Est puni de cinq ans d'emprisonnement et de 300 000 euros d'amende le fait :
+« 1° D'exploiter des appareils mentionnés au I de l'article L. 34-11 sans autorisation préalable ou sans respecter les conditions fixées par l'autorisation ;
+« 2° De ne pas exécuter, totalement ou partiellement, les injonctions prises sur le fondement du I de l'article L. 34-13.
+« Le présent article est applicable dans les îles Wallis et Futuna. » ;
+
+2° A l'article L. 39-6, la référence : « et L. 39-1 » est remplacée par les références : «, L. 39-1 et L. 39-1-1 » ;
+3° Au premier alinéa de l'article L. 39-10 et au 4° du I de l'article L. 42-1, après la référence : « L. 39-1 », est insérée la référence : «, L. 39-1-1 » ;
+4° Au premier alinéa de l'article L. 81, le nombre : « 3 750 » est remplacé par le nombre : « 75 000 ».
+L'article 1er est applicable à l'exploitation des appareils mentionnés au I de l'article L. 34-11 du code des postes et des communications électroniques installés depuis le 1er février 2019.
+Les opérateurs qui, à la date de publication de la présente loi, exploitent des appareils soumis à autorisation en vertu du même article L. 34-11 disposent d'un délai de deux mois pour déposer la demande d'autorisation préalable prévue audit article L. 34-11. Ce délai court à compter de la date de publication la plus tardive de l'arrêté mentionné au I ou du décret mentionné au II du même article L. 34-11, et au plus tard à compter de la fin du deuxième mois suivant la publication de la présente loi.
+L'arrêté mentionné au I et le décret mentionné au II du même article L. 34-11 sont publiés au plus tard deux mois à compter de la publication de la présente loi.
+L'article 226-3 du code pénal est complété par un alinéa ainsi rédigé :
+« Le présent article n'est pas applicable à la détention ou à l'acquisition par les opérateurs mentionnés à l'article L. 1332-1 du code de la défense, ainsi désignés en vertu de leur activité d'exploitant d'un réseau de communications électroniques ouvert au public, des appareils soumis à une autorisation du Premier ministre en application de la section 7 du chapitre II du titre Ier du livre II du code des postes et des communications électroniques. »
+A compter du 1er juillet 2020, le Gouvernement remet au Parlement un rapport annuel sur l'application du régime d'autorisation préalable mis en place par la présente loi.
+Ce rapport analyse les impacts de ce régime sur les opérateurs et l'ensemble de leurs prestataires et sous-traitants, sur le rythme et le coût des déploiements des équipements de quatrième et cinquième générations sur l'ensemble du territoire, sur l'accès des usagers aux services de communications électroniques rendus grâce aux réseaux radioélectriques mobiles et évalue le nombre d'appareils n'ayant pas pu être installés ou ayant dû être retirés à la suite d'une décision de refus.
+La présente loi sera exécutée comme loi de l'Etat.

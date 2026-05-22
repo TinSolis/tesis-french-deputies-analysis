@@ -1,0 +1,88 @@
+===========================================================================
+EJEMPLO DE ENMIENDA (AMENDEMENT) ALMACENADA
+Formato: texto plano limpio, listo para NLP
+Origen: open data Assemblée nationale (Amendements_XV.xml.zip)
+===========================================================================
+
+CSV con esta info: votes_rd/processed/amendements_votos_con_texto.csv
+
+---------------------------------------------------------------------------
+EJEMPLO 1
+---------------------------------------------------------------------------
+
+Scrutin (votación):    100
+Fecha:                 2017-07-28
+Amendement n°:         223
+Autor:                 M. Aviragnet (Député)
+Ley:                   "Pour la confiance dans la vie publique"
+Dossier UID:           DLR5L15N35824
+Artículo afectado:     Article 5
+Resultado del voto:    rejeté (no fue adoptado en la votación)
+Estado de la enmienda: Rejeté
+
+DISPOSITIF (el cambio concreto propuesto al texto de la ley):
+"Compléter cet article par l'alinéa suivant : « 4° Fournir des prestations
+de conseil à des gouvernements étrangers, des entreprises publiques
+étrangères, des autorités administratives étrangères ou toute autre
+structure publique étrangère. »"
+
+EXPOSE SOMMAIRE (justificación del autor):
+"Cet amendement vise à interdire à tout député d'exercer des fonctions de
+conseil pour le compte d'un Gouvernement étranger, d'une entreprise
+publique étrangère, d'une autorité administrative étrangère ou tout autre
+type de structure publique étrangère. Cet amendement vient compléter le
+régime des incompatibilités du mandat de parlementaire avec d'autres
+activités professionnelles notamment celle de lobbyiste pour le compte
+d'un Gouvernement étranger."
+
+===========================================================================
+COBERTURA TOTAL
+===========================================================================
+
+Total scrutins de enmiendas en la XVe législature: 3.126
+Con texto vinculado en CSV final:                  2.904 (93%)
+
+Texto promedio por enmienda (dispositif):          544 caracteres
+Texto total acumulado:                             ~1.6 M caracteres
+
+===========================================================================
+COLUMNAS DEL CSV: amendements_votos_con_texto.csv
+===========================================================================
+
+Identificadores y voto:
+  scrutin_id              ID de la votación
+  fecha                   Fecha de la votación
+  sort_voto               Resultado de la votación (adopté / rejeté)
+  amendement_num          Número de enmienda
+  es_sous_amendement      1 si es sous-amendement
+  es_identiques           1 si es vote sobre "amendements identiques"
+  demandeur               Autor (extraído del título del scrutin)
+  article_ref             Artículo al que aplica (extraído del título)
+
+Contexto de la ley:
+  ley_tipo                "projet de loi" o "proposition de loi"
+  ley_titulo_corto        Título corto de la ley
+  titulo_scrutin          Título completo del scrutin
+
+Match con dossier:
+  dossier_uid_matched     Dossier al que se vinculó la enmienda
+  dossier_titulo          Título canónico del dossier
+  match_score             Calidad del match (0–1, Jaccard sobre tokens)
+  match_confianza         alta / media / baja / ninguna
+
+Datos del XML de la enmienda:
+  amendement_uid          ID único de la enmienda en la AN
+  texte_legislatif_ref    ID del bill / texte_legislatif
+  auteur_type             "Député" o "Gouvernement"
+  auteur_ref              ID PA del autor principal
+  signataires_libelle     Lista legible de autores
+  n_cosignataires         Cuántos cofirmaron
+  article_titre           Artículo afectado (en el XML)
+  sort_amend              Resultado de la enmienda (XML)
+  etat_amend              Estado detallado
+  date_depot              Fecha de depósito
+  date_publication        Fecha de publicación oficial
+
+Textos:
+  dispositif              TEXTO COMPLETO del cambio propuesto a la ley
+  expose_sommaire         Justificación del autor (motivación)

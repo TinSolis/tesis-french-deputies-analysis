@@ -1,0 +1,17 @@
+LOI | NOR: ECOX2028976L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2022-309 du 3 mars 2022 pour la mise en place d'une certification de cybersécurité des plateformes numériques destinée au grand public (1)
+Le livre Ier du code de la consommation est ainsi modifié :
+1° Après l'article L. 111-7-2, il est inséré un article L. 111-7-3 ainsi rédigé :
+
+« Art. L. 111-7-3.-Les opérateurs de plateformes en ligne mentionnés à l'article L. 111-7 du présent code et les personnes qui fournissent des services de communications interpersonnelles non fondés sur la numérotation, au sens du 6° quater de l'article L. 32 du code des postes et des communications électroniques, dont l'activité dépasse un ou plusieurs seuils définis par décret réalisent un audit de cybersécurité, dont les résultats sont présentés au consommateur dans les conditions prévues au dernier alinéa du présent article, portant sur la sécurisation et la localisation des données qu'ils hébergent, directement ou par l'intermédiaire d'un tiers, et sur leur propre sécurisation, dans les conditions prévues au présent article.
+« L'audit mentionné au premier alinéa est effectué par des prestataires d'audit qualifiés par l'Agence nationale de la sécurité des systèmes d'information.
+« Un arrêté conjoint des ministres chargés du numérique et de la consommation, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les critères qui sont pris en compte par l'audit prévu au même premier alinéa et ses conditions en matière de durée de validité ainsi que les modalités de sa présentation.
+« Le résultat de l'audit est présenté au consommateur de façon lisible, claire et compréhensible et est accompagné d'une présentation ou d'une expression complémentaire, au moyen d'un système d'information coloriel. » ;
+
+2° Au premier alinéa de l'article L. 131-4, les références : « à l'article L. 111-7 et à l'article L. 111-7-2 » sont remplacées par les références : « aux articles L. 111-7, L. 111-7-2 et L. 111-7-3 ».
+La présente loi entre en vigueur le 1er octobre 2023.
+La présente loi sera exécutée comme loi de l'Etat.

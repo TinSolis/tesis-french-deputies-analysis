@@ -1,0 +1,47 @@
+LOI | NOR: ECHX2127873L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2022-92 du 31 janvier 2022 interdisant les pratiques visant à modifier l'orientation sexuelle ou l'identité de genre d'une personne (1)
+
+## Chapitre Ier : Création d'une infraction relative aux pratiques visant à modifier l'orientation sexuelle ou l'identité de genre
+I.-Après la section 1 quater du chapitre V du titre II du livre II du code pénal, est insérée une section 1 quinquies ainsi rédigée :
+
+« Section 1 quinquies
+« Des pratiques visant à modifier l'orientation sexuelle ou l'identité de genre
+
+« Art. 225-4-13.-Les pratiques, les comportements ou les propos répétés visant à modifier ou à réprimer l'orientation sexuelle ou l'identité de genre, vraie ou supposée, d'une personne et ayant pour effet une altération de sa santé physique ou mentale sont punis de deux ans d'emprisonnement et de 30 000 euros d'amende.
+« Les faits mentionnés au premier alinéa sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'ils sont commis :
+« 1° Au préjudice d'un mineur ou lorsqu'un mineur était présent au moment des faits et y a assisté ;
+« 2° Par un ascendant ou toute personne ayant sur la victime une autorité de droit ou de fait ;
+« 3° Sur une personne dont la particulière vulnérabilité ou dépendance, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique, à un état de grossesse ou à la précarité de sa situation économique ou sociale, est apparente ou connue de leur auteur ;
+« 4° Par plusieurs personnes agissant en qualité d'auteurs ou de complices ;
+« 5° Par l'utilisation d'un service de communication au public en ligne ou par le biais d'un support numérique ou électronique.
+« L'infraction prévue au premier alinéa n'est pas constituée lorsque les propos répétés invitent seulement à la prudence et à la réflexion, eu égard notamment à son jeune âge, la personne qui s'interroge sur son identité de genre et qui envisage un parcours médical tendant au changement de sexe.
+« Lorsque l'infraction est commise par une personne titulaire de l'autorité parentale sur le mineur, la juridiction de jugement se prononce sur le retrait total ou partiel de l'autorité parentale ou sur le retrait de l'exercice de cette autorité en application des articles 378 et 379-1 du code civil. »
+
+II.-Le troisième alinéa de l'article 2-6 du code de procédure pénale est ainsi modifié :
+1° Après la référence : « 222-18 », est insérée la référence : «, 225-4-13 » ;
+2° Après le mot : « sexe », sont insérés les mots : «, de l'orientation sexuelle, de l'identité de genre ».
+III.-Au troisième alinéa du 7 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, après la référence : « 225-4-1, », est insérée la référence : « 225-4-13, ».
+Au dernier alinéa de l'article 132-77 du code pénal, après la référence : « 225-1 », est insérée la référence : «, 225-4-13 ».
+
+## Chapitre III : Application outre-mer
+I.-L'article 711-1 du code pénal est ainsi rédigé :
+
+« Art. 711-1.-Sous réserve des adaptations prévues au présent titre, les livres Ier à V du présent code sont applicables, dans leur rédaction résultant de la loi n° 2022-92 du 31 janvier 2022 interdisant les pratiques visant à modifier l'orientation sexuelle ou l'identité de genre d'une personne, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. »
+
+II.-L'article 807 du code de procédure pénale est ainsi rédigé :
+
+« Art. 807.-Pour l'application de l'article 2-6, les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables localement en matière de droit du travail. »
+
+La présente loi sera exécutée comme loi de l'Etat.
+
+## Chapitre II : Interdiction des pratiques visant à modifier l'orientation sexuelle ou l'identité de genre dans le système de santé
+Le chapitre III du titre VI du livre Ier de la quatrième partie du code de la santé publique est complété par un article L. 4163-11 ainsi rédigé :
+
+« Art. L. 4163-11.-Le fait de donner des consultations ou de prescrire des traitements en prétendant pouvoir modifier ou réprimer l'orientation sexuelle ou l'identité de genre, vraie ou supposée, d'une personne est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+« L'infraction prévue au premier alinéa n'est pas constituée lorsque le professionnel de santé invite seulement à la réflexion et à la prudence, eu égard notamment à son jeune âge, la personne qui s'interroge sur son identité de genre et qui envisage un parcours médical tendant au changement de sexe.
+« Une interdiction d'exercer la profession de médecin peut également être prononcée, pour une durée ne pouvant excéder dix ans, à l'encontre des personnes physiques coupables de l'infraction prévue au même premier alinéa.
+« Les faits mentionnés audit premier alinéa sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'ils sont commis au préjudice d'un mineur ou d'une personne dont la particulière vulnérabilité ou dépendance, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique, à un état de grossesse ou à la précarité de sa situation économique ou sociale, est apparente ou connue de leur auteur. »

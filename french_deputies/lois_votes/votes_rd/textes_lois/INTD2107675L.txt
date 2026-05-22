@@ -1,0 +1,336 @@
+LOI | NOR: INTD2107675L
+--- VISA ---
+L'Assemblée nationale et le Sénat ont délibéré,
+L'Assemblée nationale a adopté,
+Vu la décision du Conseil constitutionnel n° 2021-822 DC du 30 juillet 2021 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+
+# LOI n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement (1)
+
+## Chapitre III : Dispositions relatives à la lutte contre les aéronefs circulant sans personne à bord et présentant une menace
+L'article L. 33-3-1 du code des postes et des communications électroniques est ainsi modifié :
+1° Au I, les mots : « appareils de communications électroniques » sont remplacés par les mots : « équipements radioélectriques ou des appareils intégrant des équipements radioélectriques » ;
+2° Le II est complété par un alinéa ainsi rédigé :
+« L'utilisation par les services de l'Etat de dispositifs destinés à rendre inopérant l'équipement radioélectrique d'un aéronef circulant sans personne à bord est autorisée, en cas de menace imminente, pour les besoins de l'ordre public, de la défense et de la sécurité nationales ou du service public de la justice ou afin de prévenir le survol d'une zone en violation d'une interdiction prononcée dans les conditions prévues au premier alinéa de l'article L. 6211-4 du code des transports. Un décret en Conseil d'Etat détermine les modalités de mise en œuvre de ces dispositifs, afin de garantir leur nécessité et leur proportionnalité au regard des finalités poursuivies, ainsi que les autorités compétentes pour y procéder. »
+
+## Chapitre II : Dispositions relatives au renseignement
+I.-L'article L. 822-3 du code de la sécurité intérieure est ainsi modifié :
+1° Le premier alinéa est ainsi modifié :
+a) Au début, est ajoutée la mention : « I.-» ;
+b) A la première phrase, les mots : « ou extraits » sont remplacés par les mots : «, extraits ou transmis » ;
+c) La seconde phrase est supprimée ;
+2° Après le même premier alinéa, sont insérés sept alinéas ainsi rédigés :
+« Lorsqu'un service spécialisé de renseignement mentionné à l'article L. 811-2 ou un service désigné par le décret en Conseil d'Etat prévu à l'article L. 811-4 obtient, à la suite de la mise en œuvre d'une technique mentionnée au titre V du présent livre, des renseignements utiles à la poursuite d'une finalité différente de celle qui en a justifié le recueil, il peut les transcrire ou les extraire pour le seul exercice de ses missions, dans la limite des finalités mentionnées à l'article L. 811-3.
+« II.-Sous réserve du deuxième alinéa et des 1° et 2° du présent II, un service spécialisé de renseignement mentionné à l'article L. 811-2 ou un service désigné par le décret en Conseil d'Etat prévu à l'article L. 811-4 peut transmettre à un autre de ces services les renseignements collectés, extraits ou transcrits dont il dispose, si cette transmission est strictement nécessaire à l'exercice des missions du service destinataire, dans la limite des finalités mentionnées à l'article L. 811-3.
+« Sont subordonnées à une autorisation préalable du Premier ministre, délivrée dans les conditions prévues aux articles L. 821-1 à L. 821-4 après avis de la Commission nationale de contrôle des techniques de renseignement :
+« 1° Les transmissions de renseignements collectés, lorsqu'elles poursuivent une finalité différente de celle qui en a justifié le recueil ;
+« 2° Les transmissions de renseignements collectés, extraits ou transcrits qui sont issus de la mise en œuvre d'une technique de recueil de renseignements à laquelle le service destinataire n'aurait pu recourir au titre de la finalité motivant la transmission.
+« Ces transmissions sont sans effet sur la durée de conservation de chacun des renseignements collectés, qui court à compter de la date de leur recueil. A l'issue de cette durée, chaque service procède à la destruction des renseignements, selon les modalités définies à l'article L. 822-4.
+« Le responsable de chaque service spécialisé de renseignement mentionné à l'article L. 811-2 ou de chaque service désigné par le décret en Conseil d'Etat prévu à l'article L. 811-4 désigne un agent chargé de veiller, sous son contrôle, au respect de l'application du présent II. Cet agent est informé par ses homologues dans les autres services de la destruction, dans les conditions fixées à l'avant-dernier alinéa du présent II, des renseignements que son service a été autorisé à recueillir. Il rend compte sans délai au responsable de son service de toute difficulté dans l'application du présent II. » ;
+3° Le second alinéa est ainsi modifié :
+a) Au début, est ajoutée la mention : « III.-» ;
+b) A la fin, les mots : « de ces finalités » sont remplacés par les mots : « des finalités mentionnées au I » ;
+4° Il est ajouté un IV ainsi rédigé :
+« IV.-Les opérations mentionnées aux I à III sont soumises au contrôle de la Commission nationale de contrôle des techniques de renseignement. »
+II.-L'article L. 822-4 du code de la sécurité intérieure est ainsi rédigé :
+
+« Art. L. 822-4.-Les opérations de destruction des renseignements collectés mentionnées à l'article L. 822-2, les transcriptions et les extractions mentionnées au I de l'article L. 822-3 ainsi que les transmissions mentionnées au II du même article L. 822-3 sont effectuées par des agents individuellement désignés et habilités. Elles font l'objet de relevés tenus à la disposition de la Commission nationale de contrôle des techniques de renseignement, qui précisent :
+« 1° S'agissant des transcriptions ou des extractions, si elles ont été effectuées pour une finalité différente de celle qui en a justifié le recueil ;
+« 2° S'agissant des transmissions, leur nature, leur date et leur finalité ainsi que les services qui en ont été destinataires.
+« Lorsque les transcriptions, les extractions ou les transmissions poursuivent une finalité différente de celle au titre de laquelle les renseignements ont été recueillis, les relevés sont immédiatement transmis à la Commission nationale de contrôle des techniques de renseignement. »
+
+III.-Au 2° de l'article L. 833-2 du code de la sécurité intérieure, les mots : « et extractions » sont remplacés par les mots : «, extractions et transmissions ».
+IV.-L'article L. 854-6 du code de la sécurité intérieure est ainsi modifié :
+1° Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« Un service spécialisé de renseignement mentionné à l'article L. 811-2 peut, dans les conditions définies aux deux premiers alinéas et au 2° du II de l'article L. 822-3, transmettre tout renseignement transcrit ou extrait à un autre de ces services ou à un service désigné par le décret en Conseil d'Etat prévu à l'article L. 811-4. » ;
+2° Au troisième alinéa, les mots : « au même article » sont remplacés par les mots : « à l'article » ;
+3° Le dernier alinéa est ainsi rédigé :
+« Les opérations de destruction des renseignements collectés, les transcriptions, les extractions et les transmissions sont effectuées dans les conditions prévues à l'article L. 822-4. »
+V.-A la troisième phrase du premier alinéa de l'article L. 854-9 du code de la sécurité intérieure, les mots : « et extractions » sont remplacés par les mots : «, extractions et transmissions » et la seconde occurrence des mots : « mentionnés à » est remplacée par les mots : « réalisés en application de ».
+VI.-Au 3° de l'article L. 833-6 du code de la sécurité intérieure, les mots : « ou la destruction » sont remplacés par les mots : «, la destruction » et, après le mot : « collectés », sont insérés les mots : « ou leur transmission entre services ».
+VII.-L'article L. 863-2 du code de la sécurité intérieure est ainsi rédigé :
+
+« Art. L. 863-2.-Les autorités administratives, autres que les services de renseignement, mentionnées au I de l'article 1er de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives peuvent transmettre aux services spécialisés de renseignement mentionnés à l'article L. 811-2 du présent code et aux services désignés par le décret en Conseil d'Etat prévu à l'article L. 811-4, à la demande d'un de ces services, toute information, même couverte par un secret protégé par la loi, strictement nécessaire à l'accomplissement des missions de ce service et susceptible de concourir à la défense et la promotion des intérêts fondamentaux de la Nation mentionnés à l'article L. 811-3.
+« Les données à caractère personnel mentionnées au I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des données génétiques, peuvent faire l'objet de cette transmission.
+« Les traitements de données à caractère personnel mis en œuvre par les autorités administratives mentionnées au premier alinéa du présent article assurent la traçabilité des transmissions, en précisant leur date et leur finalité, la nature des données transmises ainsi que les services qui en ont été destinataires.
+« Toute personne qui est rendue destinataire de ces transmissions est tenue au secret professionnel, dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal.
+« Le service destinataire des informations transmises les détruit dès lors qu'elles ne sont pas ou plus nécessaires à l'accomplissement de ses missions.
+« L'agent mentionné au dernier alinéa du II de l'article L. 822-3 du présent code est chargé d'assurer la traçabilité de ces transmissions et de veiller au respect de l'application du présent article. »
+
+VIII.-A.-L'article L. 135 S du livre des procédures fiscales est abrogé.
+B.-L'article 22 de la loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007 est abrogé.
+IX.-La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés est ainsi modifiée :
+1° L'article 48 est complété par un alinéa ainsi rédigé :
+« Le premier alinéa ne s'applique pas à l'information selon laquelle des données à caractère personnel ont été transmises en application du premier alinéa de l'article L. 863-2 du code de la sécurité intérieure. » ;
+2° Le dernier alinéa de l'article 49 est remplacé par trois alinéas ainsi rédigés :
+« Le même premier alinéa ne s'applique pas :
+« 1° Lorsque les données à caractère personnel sont conservées sous une forme excluant manifestement tout risque d'atteinte à la vie privée et à la protection des données des personnes concernées, pendant une durée n'excédant pas celle nécessaire aux seules finalités d'établissement de statistiques ou de réalisation de recherches scientifiques ou historiques ;
+« 2° A l'information selon laquelle des données à caractère personnel ont été transmises en application du premier alinéa de l'article L. 863-2 du code de la sécurité intérieure. »
+I.-L'article L. 822-2 du code de la sécurité intérieure est ainsi modifié :
+1° A la fin du 1° du I, les mots : « et pour les paroles captées en application de l'article L. 853-1 » sont supprimés ;
+2° Il est ajouté un III ainsi rédigé :
+« III.-Aux seules fins de recherche et de développement en matière de capacités techniques de recueil et d'exploitation des renseignements et à l'exclusion de toute utilisation pour la surveillance des personnes concernées, les services spécialisés de renseignement mentionnés à l'article L. 811-2 peuvent conserver au delà des durées prévues au présent article les renseignements mentionnés au I du présent article. Cette conservation est opérée dans la mesure strictement nécessaire à l'acquisition des connaissances suffisantes pour développer, améliorer et valider les capacités techniques de recueil et d'exploitation.
+« Les renseignements mentionnés au premier alinéa du présent III sont conservés de manière à n'être accessibles, dans les locaux des services mentionnés au même premier alinéa, qu'aux seuls agents des services mentionnés audit premier alinéa spécialement habilités à cet effet et exclusivement affectés à cette mission, dans des conditions ne faisant plus apparaître les motifs et les finalités pour lesquels ils ont été collectés et ne permettant pas de rechercher l'identité des personnes concernées. Ils sont également accessibles, dans les mêmes conditions, aux agents du service du ministère de la défense mentionné à l'article L. 2371-2 du code de la défense spécialement habilités à cet effet.
+« Les paramètres techniques applicables à chaque programme de recherche afin de garantir le respect des conditions prévues aux deux premiers alinéas du présent III ainsi que toute évolution substantielle de ces paramètres sont soumis à une autorisation préalable du Premier ministre, délivrée après avis de la Commission nationale de contrôle des techniques de renseignement.
+« Les renseignements mentionnés au premier alinéa du présent III sont détruits dès que leur conservation n'est plus indispensable à la validation de capacités techniques de recueil et d'exploitation mentionnées au même premier alinéa, et au plus tard cinq ans après leur recueil.
+« La Commission nationale de contrôle des techniques de renseignement veille à ce que la mise en œuvre des programmes de recherche respecte les conditions prévues au présent III. Elle peut adresser au Premier ministre, à tout moment, une recommandation tendant à la suspension ou à l'interruption d'un programme de recherche dont elle estime qu'il ne respecte plus ces conditions. »
+II.-Après l'article L. 822-2 du code de la sécurité intérieure, il est inséré un article L. 822-2-1 ainsi rédigé :
+
+« Art. L. 822-2-1.-Le service du Premier ministre mentionné aux articles L. 851-1, L. 851-3, L. 851-4, L. 851-6 et L. 852-1 peut conserver, dans les conditions prévues au III de l'article L. 822-2 et avec l'accord du ou des services pour lesquels ces renseignements ont été collectés, les renseignements mentionnés au I du même article L. 822-2 dont il organise la centralisation et qui ne sont accessibles qu'à ses agents spécialement habilités à cette fin. »
+
+III.-Après le mot : « livre », la fin du 2° de l'article L. 833-2 du code de la sécurité intérieure est ainsi rédigée : «, aux dispositifs de traçabilité des renseignements collectés et aux locaux où sont centralisés ces renseignements en application de l'article L. 822-1 ainsi qu'aux renseignements mentionnés au III de l'article L. 822-2 ; ».
+Le chapitre III du titre V du livre VIII du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 853-2 est ainsi modifié :
+a) Le I est ainsi rédigé :
+« I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre, peut être autorisée, lorsque les renseignements ne peuvent être recueillis par un autre moyen légalement autorisé, l'utilisation de dispositifs techniques permettant d'accéder à des données informatiques stockées dans un système informatique, de les enregistrer, de les conserver et de les transmettre, et permettant d'accéder à ces mêmes données informatiques, de les enregistrer, de les conserver et de les transmettre, telles qu'elles s'affichent sur un écran pour l'utilisateur d'un système de traitement automatisé de données, telles qu'il les y introduit par saisie de caractères ou telles qu'elles sont reçues et émises par des périphériques. » ;
+b) La première phrase du II est ainsi rédigée : « Par dérogation à l'article L. 821-4, l'autorisation de mise en œuvre de la technique mentionnée au I du présent article est délivrée pour une durée maximale de deux mois. » ;
+2° A la seconde phrase du premier alinéa du I de l'article L. 853-3, la référence : « au 1° du I de » est remplacée par le mot : « à ».
+I.-L'article L. 871-3 du code de la sécurité intérieure est ainsi modifié :
+1° Les mots : « l'exploitant public, les autres exploitants de réseaux publics de communications électroniques et les autres fournisseurs de services de communications électroniques autorisés » sont remplacés par les mots : « les exploitants de réseaux ouverts au public de communications électroniques et les fournisseurs de services de communications électroniques au public » ;
+2° Après la deuxième occurrence du mot : « livre », la fin est ainsi rédigée : «, de la section 3 du chapitre Ier du titre III du livre Ier du code de procédure pénale relatives aux interceptions de correspondances émises par la voie des télécommunications ordonnées par l'autorité judiciaire et des sections 5 et 6 du chapitre II du titre XXV du livre IV du même code. »
+II.-A l'article L. 871-6 du code de la sécurité intérieure, la référence : « et L. 852-1 » est remplacée par les références : «, L. 851-6, L. 852-1 et L. 853-2 » et le mot : « télécommunications » est remplacé par les mots : « communications électroniques ».
+III.-A l'article L. 871-7 du code de la sécurité intérieure, la référence : « et L. 852-1 » est remplacée par les références : «, L. 851-6, L. 852-1 et L. 853-2 ».
+I.-Le livre VIII du code de la sécurité intérieure est ainsi modifié :
+1° Au 1° du I de l'article L. 822-2, la référence : « et L. 852-2 » est remplacée par les références : «, L. 852-2 et L. 852-3 » ;
+2° Le chapitre II du titre V est complété par un article L. 852-3 ainsi rédigé :
+
+« Art. L. 852-3.-I.-Dans les conditions prévues au chapitre Ier du titre II du présent livre et pour les seules finalités prévues aux 1°, 2°, 4° et 6° de l'article L. 811-3, peut être autorisée l'utilisation, par les services spécialisés de renseignement et les services mentionnés à l'article L. 811-4 désignés, au regard de leurs missions, par un décret en Conseil d'Etat pris après avis de la Commission nationale de contrôle des techniques de renseignement, d'un appareil ou d'un dispositif technique mentionné au 1° de l'article 226-3 du code pénal afin d'intercepter des correspondances émises ou reçues par la voie satellitaire, lorsque cette interception ne peut être mise en œuvre sur le fondement du I de l'article L. 852-1 du présent code, pour des raisons techniques ou pour des motifs de confidentialité faisant obstacle au concours des opérateurs ou des personnes mentionnés à l'article L. 851-1. Les correspondances interceptées dans ce cadre sont détruites dès qu'il apparaît qu'elles sont sans lien avec la personne concernée par l'autorisation, et au plus tard au terme du délai prévu au 1° du I de l'article L. 822-2.
+« II.-Par dérogation à l'article L. 821-4, l'autorisation est délivrée pour une durée maximale de trente jours, renouvelable dans les mêmes conditions de durée. Elle vaut autorisation de recueil des informations ou documents mentionnés à l'article L. 851-1 associés à l'exécution de l'interception et à son exploitation.
+« III.-Un service du Premier ministre organise la centralisation des correspondances interceptées et des informations ou documents recueillis en application des I et II du présent article. Cette centralisation intervient dès l'interception des communications, sauf impossibilité technique. Dans ce cas, les données collectées font l'objet d'un chiffrement dès leur collecte et jusqu'à leur centralisation effective au sein du service du Premier ministre mentionné au présent alinéa. La demande prévue à l'article L. 821-2 précise les motifs faisant obstacle à la centralisation immédiate des correspondances interceptées.
+« Les opérations de transcription et d'extraction des communications interceptées, auxquelles la Commission nationale de contrôle des techniques de renseignement dispose d'un accès permanent, complet, direct et immédiat, sont effectuées au sein du service du Premier ministre mentionné au premier alinéa du présent III.
+« IV.-Le nombre maximal des autorisations d'interception en vigueur simultanément est arrêté par le Premier ministre, après avis de la Commission nationale de contrôle des techniques de renseignement. La décision fixant ce contingent et sa répartition entre les ministres mentionnés au premier alinéa de l'article L. 821-2 ainsi que le nombre d'autorisations d'interception délivrées sont portés à la connaissance de la commission. »
+
+II.-Le I est applicable jusqu'au 31 juillet 2025.
+Le Gouvernement adresse au Parlement un rapport d'évaluation sur l'application de ces dispositions au plus tard six mois avant cette échéance.
+La loi n° 2015-912 du 24 juillet 2015 relative au renseignement est ainsi modifiée :
+1° L'article 24 est ainsi modifié :
+a) Au premier alinéa, la référence : «, 25 » est supprimée ;
+b) Au dernier alinéa, les mots : « les articles 25 et » sont remplacés par les mots : « l'article » ;
+2° L'article 25 est abrogé.
+I.-L'article L. 851-3 du code de la sécurité intérieure est ainsi modifié :
+1° Le I est ainsi modifié :
+a) Au premier alinéa, les mots : « il peut être imposé aux opérateurs et aux personnes mentionnés à l'article L. 851-1 la mise en œuvre sur leurs réseaux de » sont remplacés par les mots : « à la demande des services spécialisés de renseignement mentionnés à l'article L. 811-2, peuvent être autorisés, sur les données transitant par les réseaux des opérateurs et des personnes mentionnées à l'article L. 851-1, des » ;
+b) Au deuxième alinéa, après la référence : « L. 851-1 », sont insérés les mots : « ainsi que les adresses complètes de ressources utilisées sur internet » et la seconde occurrence des mots : « ou documents » est remplacée par les mots : «, documents ou adresses » ;
+2° Au III, les mots : « pour cette mise en œuvre » sont supprimés ;
+3° Le IV est ainsi modifié :
+a) Après la seconde occurrence du mot : « délai », la fin de la seconde phrase est supprimée ;
+b) Il est ajouté un alinéa ainsi rédigé :
+« Les données non détectées par les traitements comme susceptibles de révéler une menace à caractère terroriste sont détruites immédiatement. » ;
+4° Il est ajouté un VI ainsi rédigé :
+« VI.-Un service du Premier ministre est seul habilité à exécuter les traitements et opérations mis en œuvre sur le fondement des I et IV, sous le contrôle de la Commission nationale de contrôle des techniques de renseignement. »
+II.-Le Gouvernement adresse au Parlement, au plus tard le 31 juillet 2024, un rapport sur l'application de l'article L. 851-3 du code de la sécurité intérieure.
+Le code de la sécurité intérieure est ainsi modifié :
+1° La première phrase du I de l'article L. 851-2 est complétée par les mots : «, ainsi que des adresses complètes de ressources sur internet utilisées par cette personne » ;
+2° Au 2° du I de l'article L. 822-2, après le mot : « pour », sont insérés les mots : « les adresses complètes de ressources sur internet recueillies par la mise en œuvre de la technique prévue à l'article L. 851-2 et pour ».
+I.-L'article L. 34-1 du code des postes et des communications électroniques est ainsi modifié :
+1° A la fin du premier alinéa du II, les mots : « anonyme toute donnée relative au trafic, sous réserve des dispositions des III, IV, V et VI » sont remplacés par les mots : « anonymes, sous réserve des II bis à VI, les données relatives aux communications électroniques » ;
+2° Après le même II, il est inséré un II bis ainsi rédigé :
+« II bis.-Les opérateurs de communications électroniques sont tenus de conserver :
+« 1° Pour les besoins des procédures pénales, de la prévention des menaces contre la sécurité publique et de la sauvegarde de la sécurité nationale, les informations relatives à l'identité civile de l'utilisateur, jusqu'à l'expiration d'un délai de cinq ans à compter de la fin de validité de son contrat ;
+« 2° Pour les mêmes finalités que celles énoncées au 1° du présent II bis, les autres informations fournies par l'utilisateur lors de la souscription d'un contrat ou de la création d'un compte ainsi que les informations relatives au paiement, jusqu'à l'expiration d'un délai d'un an à compter de la fin de validité de son contrat ou de la clôture de son compte ;
+« 3° Pour les besoins de la lutte contre la criminalité et la délinquance grave, de la prévention des menaces graves contre la sécurité publique et de la sauvegarde de la sécurité nationale, les données techniques permettant d'identifier la source de la connexion ou celles relatives aux équipements terminaux utilisés, jusqu'à l'expiration d'un délai d'un an à compter de la connexion ou de l'utilisation des équipements terminaux. » ;
+3° Le III est ainsi rédigé :
+« III.-Pour des motifs tenant à la sauvegarde de la sécurité nationale, lorsqu'est constatée une menace grave, actuelle ou prévisible, contre cette dernière, le Premier ministre peut enjoindre par décret aux opérateurs de communications électroniques de conserver, pour une durée d'un an, certaines catégories de données de trafic, en complément de celles mentionnées au 3° du II bis, et de données de localisation précisées par décret en Conseil d'Etat.
+« L'injonction du Premier ministre, dont la durée d'application ne peut excéder un an, peut être renouvelée si les conditions prévues pour son édiction continuent d'être réunies. Son expiration est sans incidence sur la durée de conservation des données mentionnées au premier alinéa du présent III. » ;
+4° Après le même III, il est inséré un III bis ainsi rédigé :
+« III bis.-Les données conservées par les opérateurs en application du présent article peuvent faire l'objet d'une injonction de conservation rapide par les autorités disposant, en application de la loi, d'un accès aux données relatives aux communications électroniques à des fins de prévention et de répression de la criminalité, de la délinquance grave et des autres manquements graves aux règles dont elles ont la charge d'assurer le respect, afin d'accéder à ces données. » ;
+5° A la première phrase du V, les mots : « et sous réserve des nécessités des enquêtes judiciaires » sont supprimés ;
+6° Le VI est ainsi modifié :
+a) Au premier alinéa, les références : « III, IV et V » sont remplacées par les références : « II bis à V » ;
+b) Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+« Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés et de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, détermine, selon l'activité des opérateurs et la nature des communications, les informations et catégories de données conservées en application des II bis et III ainsi que les modalités de compensation des surcoûts identifiables et spécifiques des prestations assurées à ce titre, à la demande de l'Etat, par les opérateurs. »
+II.-Le II de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique est ainsi modifié :
+1° Au début du premier alinéa, les mots : « Les personnes mentionnées aux 1 et 2 du I » sont remplacés par les mots : « Dans les conditions fixées aux II bis, III et III bis de l'article L. 34-1 du code des postes et des communications électroniques, les personnes mentionnées aux 1 et 2 du I du présent article » ;
+2° Les troisième et avant-dernier alinéas sont supprimés.
+III.-L'article L. 2321-3 du code de la défense est ainsi modifié :
+1° Au premier alinéa, la référence : « III » est remplacée par la référence : « II bis » ;
+2° Au dernier alinéa, la référence : « III » est remplacée par la référence : « VI ».
+Le livre VIII du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 821-1 est ainsi modifié :
+a) Après le premier alinéa, sont insérés deux alinéas ainsi rédigés :
+« Lorsque l'autorisation est délivrée après un avis défavorable de la Commission nationale de contrôle des techniques de renseignement, le Conseil d'Etat est immédiatement saisi par le président de la commission ou, à défaut, par l'un des membres de la commission parmi ceux mentionnés aux 2° et 3° de l'article L. 831-1 du présent code. La formation spécialisée mentionnée à l'article L. 773-2 du code de justice administrative, le président de la formation restreinte mentionnée au même article L. 773-2 ou le membre qu'il délègue statue dans un délai de vingt-quatre heures à compter de cette saisine. La décision d'autorisation du Premier ministre ne peut être exécutée avant que le Conseil d'Etat ait statué, sauf en cas d'urgence dûment justifiée et si le Premier ministre a ordonné sa mise en œuvre immédiate.
+« Lorsqu'il est saisi en application du deuxième alinéa du présent article, le Conseil d'Etat statue dans les conditions prévues au chapitre III bis du titre VII du livre VII du code de justice administrative. » ;
+b) Au début du second alinéa, les mots : « Ces techniques » sont remplacés par les mots : « Les techniques de recueil de renseignement » ;
+2° L'article L. 821-5 est abrogé ;
+3° L'article L. 821-7 est ainsi modifié :
+a) La dernière phrase du premier alinéa est supprimée ;
+b) Après le même premier alinéa, il est inséré un alinéa ainsi rédigé :
+« Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué pour les autorisations concernant l'une des personnes mentionnées au premier alinéa du présent article ou ses véhicules, ses bureaux ou ses domiciles. » ;
+4° L'article L. 833-9 est ainsi modifié :
+a) Le 5° est abrogé ;
+b) Le 6° devient le 5° ;
+5° Le II de l'article L. 851-2 est abrogé ;
+6° Le V de l'article L. 851-3 est ainsi rédigé :
+« V.-Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué pour les autorisations délivrées sur le fondement des I et II du présent article. » ;
+7° Après le IV de l'article L. 853-1, il est inséré un IV bis ainsi rédigé :
+« IV bis.-Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué que si l'autorisation prévue au présent article a été délivrée au titre du 1°, du 4° ou du a du 5° de l'article L. 811-3. » ;
+8° Après le IV de l'article L. 853-2, il est inséré un IV bis ainsi rédigé :
+« IV bis.-Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué que si l'autorisation prévue au présent article a été délivrée au titre du 1°, du 4° ou du a du 5° de l'article L. 811-3. » ;
+9° Le second alinéa du III de l'article L. 853-3 est ainsi rédigé :
+« Le caractère d'urgence mentionné à la dernière phrase du deuxième alinéa de l'article L. 821-1 ne peut être invoqué que si l'autorisation prévue au présent article a été délivrée au titre du 1°, du 4° ou du a du 5° de l'article L. 811-3. Lorsque l'introduction mentionnée au I du présent article porte sur un lieu privé à usage d'habitation, le caractère d'urgence ne peut être invoqué que si l'autorisation a été délivrée au titre du 4° de l'article L. 811-3. »
+Le livre VIII du code de la sécurité intérieure est ainsi modifié :
+1° A la seconde phrase du dernier alinéa de l'article L. 832-3, après la référence : « L. 821-2 », sont insérés les mots : « et des avis rendus en application de la dernière phrase du premier alinéa du I de l'article L. 853-3 du code de la sécurité intérieure » ;
+2° Le premier alinéa du I de l'article L. 853-3 est ainsi modifié :
+a) A la seconde phrase, les mots : « l'autorisation ne peut être donnée » sont remplacés par les mots : « la mise en place et l'utilisation de ces dispositifs ne peuvent être autorisées » ;
+b) Est ajoutée une phrase ainsi rédigée : « La maintenance et le retrait de ces mêmes dispositifs peuvent être autorisés après avis exprès rendu dans les conditions prévues au premier alinéa de l'article L. 832-3. »
+La section 8 du chapitre II du titre XXV du livre IV du code de procédure pénale est complétée par un article 706-105-1 ainsi rédigé :
+
+« Art. 706-105-1.-I.-Par dérogation à l'article 11, le procureur de la République de Paris peut, pour les procédures d'enquête ou d'instruction entrant dans le champ d'application de l'article 706-72-1, communiquer aux services de l'Etat mentionnés au second alinéa de l'article L. 2321-2 du code de la défense, de sa propre initiative ou à la demande de ces services, des éléments de toute nature figurant dans ces procédures et nécessaires à l'exercice de leur mission en matière de sécurité et de défense des systèmes d'information. Si la procédure fait l'objet d'une information, cette communication ne peut intervenir que sur avis favorable du juge d'instruction.
+« Le juge d'instruction peut également procéder à cette communication, dans les mêmes conditions et pour les mêmes finalités que celles mentionnées au premier alinéa du présent I, pour les procédures d'information dont il est saisi, après avoir recueilli l'avis du procureur de la République de Paris.
+« II.-Par dérogation à l'article 11, le procureur de la République de Paris peut, pour les procédures d'enquête ou d'instruction relevant de la compétence des juridictions mentionnées au dernier alinéa de l'article 706-75 et portant sur les infractions mentionnées aux 3°, 5°, 12° et 13° de l'article 706-73 ainsi que sur le blanchiment de ces infractions, communiquer aux services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la sécurité intérieure ainsi qu'aux services mentionnés à l'article L. 811-4 du même code désignés, au regard de leurs missions, par décret en Conseil d'Etat, de sa propre initiative ou à la demande de ces services, des éléments de toute nature figurant dans ces procédures et nécessaires à l'exercice des missions de ces services au titre de la prévention de la criminalité et de la délinquance organisées. Si la procédure fait l'objet d'une information, cette communication ne peut intervenir que sur avis favorable du juge d'instruction.
+« Le juge d'instruction peut également procéder à cette communication, dans les mêmes conditions et pour les mêmes finalités que celles mentionnées au premier alinéa du présent II, pour les procédures d'information dont il est saisi, après avoir recueilli l'avis du procureur de la République de Paris.
+« III.-Les informations communiquées en application du présent article ne peuvent faire l'objet d'un échange avec des services de renseignement étrangers ou avec des organismes internationaux compétents dans le domaine du renseignement.
+« Sauf si l'information porte sur une condamnation prononcée publiquement, les personnes qui en sont destinataires sont tenues au secret professionnel, dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. »
+L'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires est ainsi modifié :
+1° Le I est ainsi modifié :
+a) Après le mot : « renseignement », la fin de la première phrase du deuxième alinéa est ainsi rédigée : «, évalue la politique publique en ce domaine et assure un suivi des enjeux d'actualité et des défis à venir qui s'y rapportent. » ;
+b) Après le 6°, il est inséré un 7° ainsi rédigé :
+« 7° Sur une base semestrielle, la liste des rapports de l'inspection des services de renseignement ainsi que des rapports des services d'inspection générale des ministères portant sur les services de renseignement qui relèvent de leur compétence, produits au cours du semestre précédent. » ;
+c) L'avant-dernier alinéa est ainsi rédigé :
+« La délégation peut, dans la limite de son besoin d'en connaître, solliciter du Premier ministre la communication de tout ou partie des rapports mentionnés au 7° du présent I ainsi que de tout autre document, information et élément d'appréciation nécessaire à l'accomplissement de sa mission. » ;
+2° Le III est ainsi modifié :
+a) Le premier alinéa est remplacé par neuf alinéas ainsi rédigés :
+« III.-La délégation peut entendre :
+« 1° Le Premier ministre ;
+« 2° Les membres du Gouvernement et leur directeur de cabinet ;
+« 3° Le secrétaire général de la défense et de la sécurité nationale ;
+« 4° Le coordonnateur national du renseignement et de la lutte contre le terrorisme ;
+« 5° Le directeur de l'Académie du renseignement ;
+« 6° Les directeurs en fonction des services mentionnés au I, accompagnés des collaborateurs de leur choix en fonction de l'ordre du jour de la délégation, ainsi que toute personne placée auprès de ces directeurs et occupant un emploi pourvu en conseil des ministres ;
+« 7° Toute personne exerçant des fonctions de direction au sein des services mentionnés au même I ou du service du Premier ministre mentionné à l'article L. 851-1 du code de la sécurité intérieure, en présence de sa hiérarchie, sauf si celle-ci y renonce ;
+« 8° Les directeurs des autres administrations centrales ayant à connaître des activités des services de renseignement. » ;
+b) Le deuxième alinéa est supprimé ;
+c) Au début du troisième alinéa, le mot : « Elle » est remplacé par les mots : « La délégation » ;
+d) Après le même troisième alinéa, il est inséré un alinéa ainsi rédigé :
+« Sans préjudice du dernier alinéa du I du présent article, la délégation peut inviter chaque année le coordonnateur national du renseignement et de la lutte contre le terrorisme à lui présenter le plan national d'orientation du renseignement. » ;
+3° A la seconde phrase du second alinéa du VI, le mot : « transmet » est remplacé par le mot : « présente ».
+Le second alinéa du VI de l'article 154 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) est ainsi rédigé :
+« Le rapport est présenté par le président de la commission aux membres de la délégation parlementaire au renseignement qui ne sont pas membres de la commission ainsi qu'au Président de l'Assemblée nationale, au Président du Sénat et aux présidents et rapporteurs généraux des commissions permanentes de l'Assemblée nationale et du Sénat chargées des finances, autorisés à cet effet à connaître ès qualités des informations du rapport protégées au titre de l'article 413-9 du code pénal. Le rapport est également remis au Président de la République et au Premier ministre. »
+Le premier alinéa de l'article L. 854-9 du code de la sécurité intérieure est ainsi modifié :
+1° A la première phrase, les mots : « délais prévus » sont remplacés par les mots : « conditions prévues » ;
+2° Après la même première phrase, est insérée une phrase ainsi rédigée : « Lorsque l'autorisation mentionnée au V de l'article L. 854-2 est délivrée après un avis défavorable de la commission, la procédure prévue au deuxième alinéa de l'article L. 821-1 est applicable. » ;
+3° Au début de la deuxième phrase, le mot : « Elle » est remplacé par les mots : « La commission ».
+
+## Chapitre V : Dispositions relatives aux outre-mer
+Les articles 1er et 14 de la présente loi sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+Le code de la sécurité intérieure est ainsi modifié :
+1° Au premier alinéa des articles L. 285-1, L. 286-1, L. 287-1 et L. 288-1, la référence : « n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés » est remplacée par la référence : « n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement » ;
+2° Au premier alinéa des articles L. 895-1, L. 896-1, L. 897-1 et L. 898-1, la référence : « l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère personnel » est remplacée par la référence : « la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement » ;
+3° Au 2° des articles L. 895-1 et L. 896-1, après la référence : « L. 871-2, », est insérée la référence : « L. 871-3, ».
+Le premier alinéa de l'article 804 du code de procédure pénale est ainsi rédigé :
+« Le présent code est applicable, dans sa rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, sous réserve des adaptations prévues au présent titre et aux seules exceptions : ».
+Le second alinéa du I de l'article L. 3844-1 du code de la santé publique est ainsi modifié :
+1° Après la référence : « L. 3211-12-2, », est insérée la référence : « L. 3211-12-7, » ;
+2° Les mots : « version résultant de la loi n° 2016-41 du 26 janvier 2016 » sont remplacés par les mots : « rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement ».
+L'article 125 de la loi n° 78-17 du 6 janvier 1978 précitée est ainsi rédigé :
+« La présente loi est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, dans sa rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement. »
+Après le mot : « résultant », la fin du premier alinéa du I de l'article 57 de la loi n° 2004-575 du 21 juin 2004 précitée est ainsi rédigée : « de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement. »
+Le code des postes et des communications électroniques est ainsi modifié :
+1° A l'article L. 33-3-2, après le mot : « Nouvelle-Calédonie », sont insérés les mots : «, dans sa rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement, » ;
+2° Le premier alinéa de l'article L. 34-4 est complété par les mots : « dans leur rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement ».
+L'article L. 760-2 du code du patrimoine est ainsi modifié :
+1° Au 1°, après la référence : « L. 213-1 », est insérée la référence : «, L. 213-3 » ;
+2° Il est ajouté un 3° ainsi rédigé :
+« 3° L'article L. 213-2 dans sa rédaction résultant de la loi n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement. »
+A la fin de l'article L. 770-1 du code du patrimoine, la référence : « n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice » est remplacée par la référence : « n° 2021-998 du 30 juillet 2021 relative à la prévention d'actes de terrorisme et au renseignement ».
+La présente loi entre en vigueur le lendemain de sa publication dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+La présente loi entrera en vigueur immédiatement et sera exécutée comme loi de l'Etat.
+
+## Chapitre IV : Dispositions relatives aux archives intéressant la défense nationale
+I.-L'article L. 213-2 du code du patrimoine est ainsi modifié :
+1° Le I est ainsi modifié :
+a) A la première phrase du premier alinéa du 3°, après le mot : « nationale, », sont insérés les mots : « et qui ont pour ce motif fait l'objet d'une mesure de classification mentionnée à l'article 413-9 du code pénal, ou porte atteinte » et, à la fin, sont ajoutés les mots : « du présent I » ;
+b) Le second alinéa du même 3° est remplacé par six alinéas ainsi rédigés :
+« Ce délai est prolongé pour les documents dont la communication porte atteinte aux intérêts mentionnés au premier alinéa du présent 3° et qui :
+« a) Sont relatifs aux caractéristiques techniques des installations militaires, des installations et ouvrages nucléaires civils, des barrages hydrauliques de grande dimension, des locaux des missions diplomatiques et consulaires françaises et des installations utilisées pour la détention des personnes, jusqu'à la date, constatée par un acte publié, de fin de l'affectation à ces usages de ces infrastructures ou parties d'infrastructures ou d'infrastructures ou parties d'infrastructures présentant des caractéristiques similaires ;
+« b) Sont relatifs à la conception technique et aux procédures d'emploi des matériels de guerre et matériels assimilés mentionnés au second alinéa de l'article L. 2335-2 du code de la défense, désignés par un arrêté du ministre de la défense révisé chaque année, jusqu'à la fin de leur emploi par les forces armées et les formations rattachées mentionnées à l'article L. 3211-1-1 du même code ;
+« c) Révèlent des procédures opérationnelles ou des capacités techniques des services de renseignement mentionnés à l'article L. 811-2 du code de la sécurité intérieure, jusqu'à la date de la perte de leur valeur opérationnelle ;
+« d) Révèlent des procédures opérationnelles ou des capacités techniques de certains services de renseignement mentionnés à l'article L. 811-4 du même code désignés par décret en Conseil d'Etat qui exercent une mission de renseignement à titre principal, jusqu'à la date de la perte de leur valeur opérationnelle. Un décret en Conseil d'Etat définit les services de renseignement concernés par le présent d ;
+« e) Sont relatifs à l'organisation, à la mise en œuvre et à la protection des moyens de la dissuasion nucléaire, jusqu'à la date de la perte de leur valeur opérationnelle ; »
+c) La première phrase du second alinéa du 5° est ainsi rédigée : « Les mêmes délais s'appliquent aux documents dont la communication est de nature à porter atteinte à la sécurité de personnes nommément désignées ou facilement identifiables impliquées dans des activités de renseignement, que ces documents aient fait ou ne fassent pas l'objet d'une mesure de classification. » ;
+2° Au II, après le mot : « nucléaires, », il est inséré le mot : « radiologiques, » ;
+3° Il est ajouté un III ainsi rédigé :
+« III.-Toute mesure de classification mentionnée à l'article 413-9 du code pénal prend automatiquement fin à la date à laquelle le document qui en a fait l'objet devient communicable de plein droit en application du présent chapitre.
+« Par exception, les mesures de classification dont font l'objet, le cas échéant, les documents mentionnés au 4° du I du présent article prennent automatiquement fin dès l'expiration des délais prévus au 3° du même I. »
+II.-Le chapitre III du titre Ier du livre II du code du patrimoine est ainsi modifié :
+1° Après l'article L. 213-3, il est inséré un article L. 213-3-1 ainsi rédigé :
+
+« Art. L. 213-3-1.-Les services publics d'archives informent les usagers, par tout moyen approprié, des délais de communicabilité des archives qu'ils conservent et de la faculté de demander un accès anticipé à ces archives conformément à la procédure prévue à l'article L. 213-3. » ;
+
+2° A l'article L. 213-7, la référence : « L. 213-3 » est remplacée par la référence : « L. 213-3-1 ».
+III.-Les règles de communicabilité prévues au I ne sont pas applicables :
+1° Aux documents n'ayant pas fait l'objet d'une mesure de classification ou ayant fait l'objet d'une mesure formelle de déclassification et pour lesquels le délai de cinquante ans prévu au 3° du I de l'article L. 213-2 du code du patrimoine, dans sa rédaction antérieure à la présente loi, a expiré avant l'entrée en vigueur du présent article ;
+2° Aux fonds ou parties de fonds d'archives publiques ayant fait l'objet, avant l'entrée en vigueur du présent article, d'une ouverture anticipée conformément au II de l'article L. 213-3 du code du patrimoine.
+
+## Chapitre Ier : Dispositions renforçant la prévention d'actes de terrorisme
+Le II de l'article 5 de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme est abrogé.
+L'article L. 226-1 du code de la sécurité intérieure est ainsi modifié :
+1° Le quatrième alinéa est ainsi modifié :
+a) A la première phrase, après le mot : « responsabilité », sont insérés les mots : « et le contrôle effectif » ;
+b) A la dernière phrase, après le mot : « autorité », sont insérés les mots : « et le contrôle effectif et continu » ;
+2° Le dernier alinéa est complété par une phrase ainsi rédigée : « Pour les lieux faisant l'objet du périmètre de protection, l'arrêté ne peut être renouvelé qu'une seule fois, pour une durée ne pouvant excéder un mois, dès lors que les conditions prévues au premier alinéa continuent d'être réunies. »
+Le chapitre VII du titre II du livre II du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 227-1 est ainsi modifié :
+a) Au début du premier alinéa, est ajoutée la mention : « I.-» ;
+b) Il est ajouté un II ainsi rédigé :
+« II.-Peuvent également faire l'objet d'une mesure de fermeture, selon les modalités prévues aux deux derniers alinéas du I, des locaux dépendant du lieu de culte dont la fermeture est prononcée sur le fondement du I et dont il existe des raisons sérieuses de penser qu'ils seraient utilisés aux mêmes fins pour faire échec à l'exécution de cette mesure. La fermeture de ces locaux prend fin à l'expiration de la mesure de fermeture du lieu de culte. » ;
+2° A l'article L. 227-2, après le mot : « culte », sont insérés les mots : « ou d'un lieu en dépendant ».
+I.-Le chapitre VIII du titre II du livre II du code de la sécurité intérieure est ainsi modifié :
+1° L'article L. 228-2 est ainsi modifié :
+a) Au 3°, après le mot : « Déclarer », sont insérés les mots : « et justifier de » et le mot : « et » est remplacé par les mots : « ainsi que de » ;
+b) Après le même 3°, il est inséré un alinéa ainsi rédigé :
+« L'obligation prévue au 1° du présent article peut être assortie d'une interdiction de paraître dans un ou plusieurs lieux déterminés se trouvant à l'intérieur du périmètre géographique mentionné au même 1° et dans lesquels se tient un événement exposé, par son ampleur ou ses circonstances particulières, à un risque de menace terroriste. Cette interdiction tient compte de la vie familiale et professionnelle de la personne concernée. Sa durée est strictement limitée à celle de l'événement, dans la limite de trente jours. Sauf urgence dûment justifiée, elle doit être notifiée à la personne concernée au moins quarante-huit heures avant son entrée en vigueur. » ;
+c) [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-822 DC du 30 juillet 2021.]
+d) Après le sixième alinéa, il est inséré un alinéa ainsi rédigé :
+« En cas de saisine d'un tribunal territorialement incompétent, le délai de jugement de soixante-douze heures court à compter de l'enregistrement de la requête par le tribunal auquel celle-ci a été renvoyée. La mesure en cours demeure en vigueur jusqu'à l'expiration de ce délai, pour une durée maximale de sept jours à compter de son terme initial. La décision de renouvellement ne peut entrer en vigueur avant que le juge ait statué sur la demande. » ;
+e) Aux première et dernière phrases du dernier alinéa, le mot : « sixième » est remplacé par le mot : « huitième » ;
+2° L'article L. 228-4 est ainsi modifié :
+a) Au 1°, après le mot : « Déclarer », sont insérés les mots : « et justifier de » et le mot : « et » est remplacé par les mots : « ainsi que de » ;
+b) [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-822 DC du 30 juillet 2021.]
+c) Avant le dernier alinéa, il est inséré un alinéa ainsi rédigé :
+« En cas de saisine d'un tribunal territorialement incompétent, le délai de jugement [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-822 DC du 30 juillet 2021.] court à compter de l'enregistrement de la requête par le tribunal auquel celle-ci a été renvoyée. La mesure en cours demeure en vigueur jusqu'à l'expiration de ce délai, pour une durée maximale de sept jours à compter de son terme initial. La décision de renouvellement ne peut entrer en vigueur avant que le juge ait statué sur la demande. » ;
+3° L'article L. 228-5 est ainsi modifié :
+a) Le premier alinéa est complété par une phrase ainsi rédigée : « Cette obligation tient compte de la vie familiale de la personne concernée. » ;
+b) [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2021-822 DC du 30 juillet 2021.]
+c) Après le troisième alinéa, il est inséré un alinéa ainsi rédigé :
+« En cas de saisine d'un tribunal territorialement incompétent, le délai de jugement de soixante-douze heures court à compter de l'enregistrement de la requête par le tribunal auquel celle-ci a été renvoyée. La mesure en cours demeure en vigueur jusqu'à l'expiration de ce délai, pour une durée maximale de sept jours à compter de son terme initial. La décision de renouvellement ne peut entrer en vigueur avant que le juge ait statué sur la demande. » ;
+d) Aux première et dernière phrases du dernier alinéa, le mot : « troisième » est remplacé par le mot : « quatrième » ;
+4° Après la première phrase de l'article L. 228-6, est insérée une phrase ainsi rédigée : « La définition des obligations prononcées sur le fondement de ces articles tient compte, dans le respect des principes de nécessité et de proportionnalité, des obligations déjà prescrites par l'autorité judiciaire. »
+II.-Les mesures prononcées sur le fondement des articles L. 228-1 à L. 228-5 du code de la sécurité intérieure qui sont en cours à la date de promulgation de la présente loi et dont le terme survient moins de sept jours après cette promulgation demeurent en vigueur pour une durée de sept jours à compter de ce terme si le ministre de l'intérieur a procédé, au plus tard le lendemain de la publication de la présente loi, à la notification de leur renouvellement selon la procédure prévue aux huitième et neuvième alinéas de l'article L. 228-2, aux septième et avant-dernier alinéas de l'article L. 228-4 et aux quatrième et cinquième alinéas de l'article L. 228-5 du même code.
+Après le premier alinéa du I de l'article L. 229-5 du code de la sécurité intérieure, il est inséré un alinéa ainsi rédigé :
+« Lorsque l'occupant des lieux ou son représentant mentionné au troisième alinéa de l'article L. 229-2 fait obstacle à l'accès aux données contenues dans tout système informatique ou équipement terminal présent sur les lieux de la visite, mention en est faite au procès-verbal prévu au même article L. 229-2. Il peut alors être procédé à la saisie de ces supports, dans les conditions prévues au présent I. »
+Le titre XV du livre IV du code de procédure pénale est complété par une section 5 ainsi rédigée :
+
+« Section 5
+« De la mesure judiciaire de prévention de la récidive terroriste et de réinsertion
+
+« Art. 706-25-16.-I.-Lorsqu'une personne a été condamnée à une peine privative de liberté, non assortie du sursis, d'une durée supérieure ou égale à cinq ans pour une ou plusieurs des infractions mentionnées aux articles 421-1 à 421-6 du code pénal, à l'exclusion de celles définies aux articles 421-2-5 et 421-2-5-1 du même code, ou d'une durée supérieure ou égale à trois ans lorsque l'infraction a été commise en état de récidive légale, et qu'il est établi, à l'issue d'un réexamen de sa situation intervenant à la fin de l'exécution de sa peine, que cette personne présente une particulière dangerosité caractérisée par une probabilité très élevée de récidive et par une adhésion persistante à une idéologie ou à des thèses incitant à la commission d'actes de terrorisme, faisant ainsi obstacle à sa réinsertion, le tribunal de l'application des peines de Paris peut, sur réquisitions du procureur de la République antiterroriste, ordonner, aux seules fins de prévenir la récidive et d'assurer la réinsertion, une mesure judiciaire de prévention de la récidive terroriste et de réinsertion.
+« La décision définit les conditions d'une prise en charge sanitaire, sociale, éducative, psychologique ou psychiatrique destinée à permettre la réinsertion de la personne concernée et l'acquisition des valeurs de la citoyenneté. Cette prise en charge peut, le cas échéant, intervenir au sein d'un établissement d'accueil adapté.
+« La décision peut imposer à la personne concernée d'exercer une activité professionnelle ou de suivre un enseignement ou une formation professionnelle ; elle peut également lui interdire de se livrer à l'activité dans l'exercice ou à l'occasion de laquelle l'infraction a été commise.
+« La décision précise les conditions dans lesquelles la personne concernée doit communiquer au service pénitentiaire d'insertion et de probation les renseignements ou documents de nature à permettre le contrôle de ses moyens d'existence et de l'exécution de ses obligations et répondre aux convocations du juge de l'application des peines ou du service pénitentiaire d'insertion et de probation. Elle peut aussi l'astreindre à établir sa résidence en un lieu déterminé.
+« Les obligations auxquelles la personne concernée est astreinte sont mises en œuvre par le juge de l'application des peines du tribunal judiciaire de Paris, assisté du service pénitentiaire d'insertion et de probation, le cas échéant avec le concours des organismes habilités à cet effet.
+« II.-Le tribunal de l'application des peines de Paris ne peut prononcer la mesure judiciaire de prévention de la récidive terroriste et de réinsertion qu'après s'être assuré que la personne condamnée a été mise en mesure de bénéficier, pendant l'exécution de sa peine, de mesures de nature à favoriser sa réinsertion.
+« III.-La mesure judiciaire de prévention de la récidive terroriste et de réinsertion prévue au I peut être ordonnée pour une durée maximale d'un an. A l'issue de cette durée, la mesure peut être renouvelée sur réquisitions du procureur de la République antiterroriste par le tribunal de l'application des peines de Paris, après avis de la commission pluridisciplinaire des mesures de sûreté prévue à l'article 763-10, pour au plus la même durée, périodes de suspension comprises, dans la limite de cinq ans ou, lorsque le condamné est mineur, dans la limite de trois ans. Chaque renouvellement est subordonné à l'existence d'éléments nouveaux ou complémentaires qui le justifient précisément.
+« IV.-La mesure prévue au I ne peut être ordonnée que si elle apparaît strictement nécessaire pour prévenir la récidive et assurer la réinsertion de la personne concernée. Elle n'est pas applicable si la personne a été condamnée à un suivi socio-judiciaire en application de l'article 421-8 du code pénal ou si elle fait l'objet d'une mesure de surveillance judiciaire prévue à l'article 723-29 du présent code, d'une mesure de surveillance de sûreté prévue à l'article 706-53-19 ou d'une rétention de sûreté prévue à l'article 706-53-13.
+
+« Art. 706-25-17.-La situation des personnes détenues susceptibles de faire l'objet de la mesure prévue à l'article 706-25-16 est examinée, sur réquisitions du procureur de la République antiterroriste, au moins trois mois avant la date prévue pour leur libération, par la commission pluridisciplinaire des mesures de sûreté prévue à l'article 763-10, afin d'évaluer leur dangerosité et leur capacité à se réinsérer.
+« A cette fin, la commission pluridisciplinaire mentionnée au premier alinéa du présent article demande le placement de la personne concernée, pour une durée d'au moins six semaines, dans un service spécialisé chargé de l'observation des personnes détenues, aux fins notamment d'une évaluation pluridisciplinaire de dangerosité.
+« A l'issue de cette période, la commission adresse au tribunal de l'application des peines de Paris et à la personne concernée un avis motivé sur l'opportunité de prononcer la mesure mentionnée à l'article 706-25-16 au regard des critères définis au I du même article 706-25-16.
+
+« Art. 706-25-18.-La décision prévue à l'article 706-25-16 est prise, avant la date prévue pour la libération du condamné, par un jugement rendu après un débat contradictoire et, si le condamné le demande, public, au cours duquel le condamné est assisté par un avocat choisi ou commis d'office. Elle doit être spécialement motivée au regard des conclusions de l'évaluation et de l'avis mentionnés à l'article 706-25-17 ainsi que des conditions prévues aux II et IV de l'article 706-25-16.
+« Le jugement précise les obligations auxquelles le condamné est tenu ainsi que la durée de celles-ci.
+« La décision est exécutoire immédiatement à compter de la libération du condamné.
+« Le tribunal de l'application des peines de Paris peut, sur réquisitions du procureur de la République antiterroriste ou à la demande de la personne concernée, selon les modalités prévues à l'article 706-53-17 et, le cas échéant, après avis du procureur de la République antiterroriste, modifier la mesure ou ordonner sa mainlevée. Cette compétence s'exerce sans préjudice de la possibilité, pour le juge de l'application des peines, d'adapter à tout moment les obligations auxquelles le condamné est tenu.
+
+« Art. 706-25-19.-Les décisions du tribunal de l'application des peines de Paris prévues à la présente section peuvent faire l'objet du recours prévu au second alinéa de l'article 712-1.
+
+« Art. 706-25-20.-Les obligations prévues à l'article 706-25-16 sont suspendues si la personne concernée est détenue au cours de leur exécution.
+« Si la détention excède une durée de six mois, la reprise d'une ou de plusieurs des obligations prévues au même article 706-25-16 doit être confirmée par le tribunal de l'application des peines de Paris dans un délai de trois mois à compter de la cessation de la détention, à défaut de quoi il est mis fin d'office à la mesure.
+
+« Art. 706-25-21.-Le fait pour la personne soumise à une mesure prise en application de l'article 706-25-16 de ne pas respecter les obligations auxquelles elle est astreinte est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
+
+« Art. 706-25-22.-Un décret en Conseil d'Etat précise les conditions et les modalités d'application de la présente section. »
+Après l'article L. 3211-12-6 du code de la santé publique, il est inséré un article L. 3211-12-7 ainsi rédigé :
+
+« Art. L. 3211-12-7.-Aux seules fins d'assurer le suivi d'une personne qui représente une menace grave pour la sécurité et l'ordre publics en raison de sa radicalisation à caractère terroriste, le représentant de l'Etat dans le département et, à Paris, le préfet de police ainsi que les représentants des services de renseignement mentionnés aux articles L. 811-2 et L. 811-4 du code de la sécurité intérieure désignés à cette fin par un décret en Conseil d'Etat et qui exercent une mission de renseignement à titre principal peuvent, lorsque la personne fait l'objet d'une mesure de soins psychiatriques sans consentement, se voir communiquer les données d'identification de cette personne et les données relatives à sa situation administrative portées à la connaissance du représentant de l'Etat dans le département d'hospitalisation ou, à Paris, du préfet de police en application des articles L. 3212-5, L. 3212-8 et L. 3213-9 du présent code et de l'article 706-135 du code de procédure pénale, lorsque ces données sont strictement nécessaires à l'accomplissement de leurs missions. Ces mêmes données ne peuvent être communiquées lorsqu'elles sont antérieures de plus de trois ans à la date de levée de la mesure de soins sans consentement. »
+Après le mot : « application », la fin du second alinéa de l'article L. 22-10-1 du code de la sécurité intérieure est ainsi rédigée : « des mesures administratives prises en application du présent titre et des dispositifs judiciaires préventifs mis en œuvre aux fins de lutter contre le terrorisme. »
