@@ -52,6 +52,18 @@ french_deputies/twitter_zeeschuimer/processed/tweets_with_deputies.csv
 french_deputies/twitter_zeeschuimer/processed/tweets_text_only.csv
 french_deputies/twitter_zeeschuimer/captures/*.ndjson
 
-# BERTopic: resultados generados (regenerar con los scripts en bertopic_analysis/scripts/)
-french_deputies/**/bertopic_analysis/results/*.csv
-french_deputies/**/bertopic_analysis/results/*.html
+# BERTopic: resultados generados (regenerar con los scripts en bertopic_analysis/<fuente>/run.py)
+# Solo se versionan los códigos (run.py, common/) y el README. Todo lo demás (CSVs, HTMLs,
+# logs, backups) se ignora porque se reproduce con `python3 -u <fuente>/run.py`.
+french_deputies/bertopic_analysis/**/results/
+french_deputies/bertopic_analysis/**/results_backup_*/
+french_deputies/bertopic_analysis/*.log
+
+# ManifestoBERTa: resultados generados (regenerar con los scripts en manifestoberta_analysis/<fuente>/run.py)
+# Mismo criterio que arriba: solo código + README.
+french_deputies/manifestoberta_analysis/**/results/
+french_deputies/manifestoberta_analysis/validation/
+
+# KG-Gen: outputs del demo (regenerar con scripts/01..03 + Ollama local)
+french_deputies/kg-gen/data/
+french_deputies/kg-gen/results/
