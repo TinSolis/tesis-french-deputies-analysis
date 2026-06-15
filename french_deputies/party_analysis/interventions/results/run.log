@@ -1,0 +1,43 @@
+
+=== interventions: 338,192 quasi-frases, 10 partidos ===
+
+Enfasis por dominio (%):
+domain    External Relations  Freedom & Democracy  Political System  Economy  Welfare & QoL  Fabric of Society  Social Groups
+party                                                                                                                        
+EDS                     1.75                13.09             22.64    14.81          33.62               7.42           6.67
+GDR-PCF                 3.03                11.82             31.44    11.24          27.24               5.96           9.27
+LFI                     2.92                13.23             32.22     9.34          25.73               9.58           6.97
+LR                      1.76                12.21             41.44    10.50          18.52               9.76           5.81
+LREM                    2.89                12.67             36.49    11.34          22.17               8.92           5.51
+LT                      2.47                 9.99             29.02    15.39          30.63               6.57           5.94
+MoDem                   3.13                14.49             39.80     9.53          19.55               8.34           5.16
+NI                      2.64                14.99             25.47     8.57          21.31              21.67           5.35
+PS                      2.36                12.13             39.27     9.91          23.92               6.72           5.68
+UDI-Agir                4.56                11.93             26.45    11.59          27.44              11.74           6.29
+
+Concentracion de agenda (evenness; bajo=monotematico):
+   party  n_docs  agenda_evenness       top_domain
+      LR   89741            0.679 Political System
+      PS   30844            0.683 Political System
+   MoDem   28403            0.684 Political System
+     LFI   33499            0.701 Political System
+ GDR-PCF   22234            0.703 Political System
+    LREM  100021            0.706 Political System
+     EDS    4408            0.717    Welfare & QoL
+      NI    7350            0.729 Political System
+      LT    7539            0.739    Welfare & QoL
+UDI-Agir   14153            0.749    Welfare & QoL
+
+Categoria mas distintiva por partido:
+  LR         305 - Political Authority                (+7.78 pp)
+  NI         605 - Law and Order: Positive            (+6.08 pp)
+  MoDem      305 - Political Authority                (+5.72 pp)
+  PS         305 - Political Authority                (+5.7 pp)
+  LT         501 - Environmental Protection: Positive (+5.03 pp)
+  EDS        501 - Environmental Protection: Positive (+4.47 pp)
+  LFI        305 - Political Authority                (+3.3 pp)
+  GDR-PCF    701 - Labour Groups: Positive            (+2.95 pp)
+  LREM       303 - Governmental and Administrative Ef (+2.86 pp)
+  UDI-Agir   504 - Welfare State Expansion            (+1.85 pp)
+
+Resultados en /Users/agustin.solis/Tesis/french_deputies/party_analysis/interventions/results/

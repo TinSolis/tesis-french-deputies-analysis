@@ -1,0 +1,121 @@
+party,category,direction,party_pct,corpus_pct,diff_pp
+EDS,501 - Environmental Protection: Positive,over,12.7,3.68,9.01
+EDS,503 - Equality: Positive,over,8.3,4.53,3.77
+EDS,202 - Democracy,over,8.93,5.19,3.74
+EDS,502 - Culture: Positive,over,8.3,5.58,2.72
+EDS,201 - Freedom and Human Rights,over,4.44,2.96,1.49
+EDS,604 - Traditional Morality: Negative,over,2.79,1.44,1.36
+EDS,305 - Political Authority,under,17.82,27.06,-9.25
+EDS,504 - Welfare State Expansion,under,4.99,8.7,-3.7
+EDS,703 - Agriculture and Farmers: Positive,under,1.06,3.01,-1.95
+EDS,104 - Military: Positive,under,0.04,1.46,-1.42
+EDS,301 - Federalism,under,0.47,1.56,-1.1
+EDS,601 - National Way of Life: Positive,under,1.65,2.61,-0.96
+GDR-PCF,504 - Welfare State Expansion,over,12.24,8.7,3.54
+GDR-PCF,701 - Labour Groups: Positive,over,3.56,1.5,2.07
+GDR-PCF,503 - Equality: Positive,over,5.83,4.53,1.3
+GDR-PCF,106 - Peace,over,1.63,1.01,0.62
+GDR-PCF,413 - Nationalisation,over,0.84,0.23,0.62
+GDR-PCF,703 - Agriculture and Farmers: Positive,over,3.61,3.01,0.6
+GDR-PCF,502 - Culture: Positive,under,3.26,5.58,-2.32
+GDR-PCF,605 - Law and Order: Positive,under,4.18,5.96,-1.78
+GDR-PCF,601 - National Way of Life: Positive,under,1.25,2.61,-1.37
+GDR-PCF,104 - Military: Positive,under,0.32,1.46,-1.14
+GDR-PCF,501 - Environmental Protection: Positive,under,2.69,3.68,-0.99
+GDR-PCF,107 - Internationalism: Positive,under,2.69,3.31,-0.62
+LFI,305 - Political Authority,over,37.28,27.06,10.22
+LFI,503 - Equality: Positive,over,6.79,4.53,2.27
+LFI,506 - Education Expansion,over,4.76,2.54,2.22
+LFI,304 - Political Corruption,over,2.76,1.77,0.99
+LFI,201 - Freedom and Human Rights,over,3.8,2.96,0.84
+LFI,701 - Labour Groups: Positive,over,2.33,1.5,0.83
+LFI,504 - Welfare State Expansion,under,5.81,8.7,-2.88
+LFI,502 - Culture: Positive,under,2.85,5.58,-2.73
+LFI,411 - Technology and Infrastructure,under,1.55,3.69,-2.15
+LFI,601 - National Way of Life: Positive,under,0.92,2.61,-1.69
+LFI,605 - Law and Order: Positive,under,4.78,5.96,-1.19
+LFI,501 - Environmental Protection: Positive,under,2.55,3.68,-1.13
+LR,502 - Culture: Positive,over,7.8,5.58,2.22
+LR,601 - National Way of Life: Positive,over,3.99,2.61,1.38
+LR,411 - Technology and Infrastructure,over,5.0,3.69,1.31
+LR,703 - Agriculture and Farmers: Positive,over,4.07,3.01,1.06
+LR,305 - Political Authority,over,27.86,27.06,0.8
+LR,605 - Law and Order: Positive,over,6.65,5.96,0.69
+LR,503 - Equality: Positive,under,2.38,4.53,-2.15
+LR,201 - Freedom and Human Rights,under,1.64,2.96,-1.32
+LR,501 - Environmental Protection: Positive,under,2.47,3.68,-1.21
+LR,107 - Internationalism: Positive,under,2.18,3.31,-1.13
+LR,604 - Traditional Morality: Negative,under,0.81,1.44,-0.62
+LR,403 - Market Regulation,under,0.87,1.4,-0.53
+LREM,411 - Technology and Infrastructure,over,5.09,3.69,1.4
+LREM,108 - European Community/Union: Positive,over,1.93,1.19,0.74
+LREM,402 - Incentives,over,1.24,0.59,0.64
+LREM,416 - Anti-Growth Economy: Positive,over,1.13,0.58,0.54
+LREM,703 - Agriculture and Farmers: Positive,over,3.48,3.01,0.47
+LREM,502 - Culture: Positive,over,6.05,5.58,0.47
+LREM,305 - Political Authority,under,25.43,27.06,-1.63
+LREM,202 - Democracy,under,4.35,5.19,-0.83
+LREM,304 - Political Corruption,under,1.11,1.77,-0.66
+LREM,301 - Federalism,under,1.12,1.56,-0.45
+LREM,504 - Welfare State Expansion,under,8.28,8.7,-0.42
+LREM,604 - Traditional Morality: Negative,under,1.12,1.44,-0.32
+LT,504 - Welfare State Expansion,over,13.0,8.7,4.3
+LT,301 - Federalism,over,4.92,1.56,3.36
+LT,604 - Traditional Morality: Negative,over,4.62,1.44,3.19
+LT,411 - Technology and Infrastructure,over,5.44,3.69,1.75
+LT,601 - National Way of Life: Positive,over,4.15,2.61,1.54
+LT,703 - Agriculture and Farmers: Positive,over,3.51,3.01,0.5
+LT,305 - Political Authority,under,24.08,27.06,-2.98
+LT,503 - Equality: Positive,under,2.53,4.53,-1.99
+LT,202 - Democracy,under,3.41,5.19,-1.78
+LT,605 - Law and Order: Positive,under,4.58,5.96,-1.38
+LT,104 - Military: Positive,under,0.42,1.46,-1.04
+LT,501 - Environmental Protection: Positive,under,2.67,3.68,-1.01
+MoDem,107 - Internationalism: Positive,over,5.82,3.31,2.52
+MoDem,104 - Military: Positive,over,3.47,1.46,2.01
+MoDem,108 - European Community/Union: Positive,over,3.09,1.19,1.9
+MoDem,106 - Peace,over,1.97,1.01,0.96
+MoDem,101 - Foreign Special Relationships: Positive,over,1.25,0.65,0.61
+MoDem,414 - Economic Orthodoxy,over,0.97,0.49,0.49
+MoDem,305 - Political Authority,under,24.86,27.06,-2.2
+MoDem,501 - Environmental Protection: Positive,under,2.61,3.68,-1.08
+MoDem,503 - Equality: Positive,under,3.49,4.53,-1.03
+MoDem,304 - Political Corruption,under,0.89,1.77,-0.88
+MoDem,502 - Culture: Positive,under,4.8,5.58,-0.78
+MoDem,703 - Agriculture and Farmers: Positive,under,2.26,3.01,-0.74
+NI,605 - Law and Order: Positive,over,10.58,5.96,4.62
+NI,305 - Political Authority,over,31.66,27.06,4.6
+NI,703 - Agriculture and Farmers: Positive,over,5.31,3.01,2.3
+NI,304 - Political Corruption,over,3.36,1.77,1.58
+NI,110 - European Community/Union: Negative,over,1.11,0.23,0.88
+NI,601 - National Way of Life: Positive,over,3.33,2.61,0.71
+NI,501 - Environmental Protection: Positive,under,1.58,3.68,-2.1
+NI,504 - Welfare State Expansion,under,6.78,8.7,-1.92
+NI,411 - Technology and Infrastructure,under,2.03,3.69,-1.67
+NI,107 - Internationalism: Positive,under,1.7,3.31,-1.61
+NI,503 - Equality: Positive,under,3.31,4.53,-1.21
+NI,506 - Education Expansion,under,1.43,2.54,-1.11
+PS,504 - Welfare State Expansion,over,11.02,8.7,2.32
+PS,502 - Culture: Positive,over,6.77,5.58,1.19
+PS,503 - Equality: Positive,over,5.19,4.53,0.67
+PS,606 - Civic Mindedness: Positive,over,2.15,1.51,0.63
+PS,403 - Market Regulation,over,1.78,1.4,0.38
+PS,602 - National Way of Life: Negative,over,0.7,0.5,0.21
+PS,605 - Law and Order: Positive,under,5.08,5.96,-0.88
+PS,601 - National Way of Life: Positive,under,1.79,2.61,-0.82
+PS,501 - Environmental Protection: Positive,under,2.95,3.68,-0.73
+PS,104 - Military: Positive,under,0.74,1.46,-0.72
+PS,703 - Agriculture and Farmers: Positive,under,2.45,3.01,-0.56
+PS,304 - Political Corruption,under,1.28,1.77,-0.49
+UDI-Agir,104 - Military: Positive,over,4.53,1.46,3.07
+UDI-Agir,107 - Internationalism: Positive,over,4.12,3.31,0.82
+UDI-Agir,601 - National Way of Life: Positive,over,3.23,2.61,0.62
+UDI-Agir,402 - Incentives,over,1.14,0.59,0.55
+UDI-Agir,105 - Military: Negative,over,0.96,0.51,0.45
+UDI-Agir,101 - Foreign Special Relationships: Positive,over,1.07,0.65,0.42
+UDI-Agir,503 - Equality: Positive,under,2.95,4.53,-1.58
+UDI-Agir,703 - Agriculture and Farmers: Positive,under,1.58,3.01,-1.43
+UDI-Agir,504 - Welfare State Expansion,under,7.59,8.7,-1.11
+UDI-Agir,501 - Environmental Protection: Positive,under,2.82,3.68,-0.86
+UDI-Agir,201 - Freedom and Human Rights,under,2.25,2.96,-0.7
+UDI-Agir,604 - Traditional Morality: Negative,under,0.87,1.44,-0.56

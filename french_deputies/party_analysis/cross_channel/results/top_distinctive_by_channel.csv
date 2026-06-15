@@ -1,0 +1,73 @@
+party,channel,category,signature_pp
+LFI,manifiesto,107 - Internationalism: Positive,4.87
+LFI,manifiesto,501 - Environmental Protection: Positive,3.06
+LFI,manifiesto,403 - Market Regulation,2.5
+LFI,manifiesto,416 - Anti-Growth Economy: Positive,1.7
+LFI,tweets,305 - Political Authority,9.0
+LFI,tweets,503 - Equality: Positive,2.1
+LFI,tweets,506 - Education Expansion,1.89
+LFI,tweets,304 - Political Corruption,1.11
+LFI,hemiciclo,201 - Freedom and Human Rights,2.12
+LFI,hemiciclo,605 - Law and Order: Positive,1.91
+LFI,hemiciclo,503 - Equality: Positive,1.66
+LFI,hemiciclo,701 - Labour Groups: Positive,1.33
+PS,manifiesto,504 - Welfare State Expansion,7.23
+PS,manifiesto,605 - Law and Order: Positive,4.13
+PS,manifiesto,501 - Environmental Protection: Positive,2.65
+PS,manifiesto,502 - Culture: Positive,2.04
+PS,tweets,504 - Welfare State Expansion,1.91
+PS,tweets,502 - Culture: Positive,1.51
+PS,tweets,606 - Civic Mindedness: Positive,0.51
+PS,tweets,503 - Equality: Positive,0.5
+PS,hemiciclo,305 - Political Authority,1.45
+PS,hemiciclo,504 - Welfare State Expansion,0.91
+PS,hemiciclo,301 - Federalism,0.74
+PS,hemiciclo,503 - Equality: Positive,0.26
+PCF,manifiesto,305 - Political Authority,15.8
+PCF,manifiesto,701 - Labour Groups: Positive,9.76
+PCF,manifiesto,202 - Democracy,4.1
+PCF,manifiesto,413 - Nationalisation,4.02
+PCF,tweets,504 - Welfare State Expansion,3.14
+PCF,tweets,701 - Labour Groups: Positive,1.69
+PCF,tweets,503 - Equality: Positive,1.13
+PCF,tweets,304 - Political Corruption,0.68
+PCF,hemiciclo,504 - Welfare State Expansion,3.53
+PCF,hemiciclo,701 - Labour Groups: Positive,2.62
+PCF,hemiciclo,503 - Equality: Positive,1.66
+PCF,hemiciclo,403 - Market Regulation,0.63
+MoDem,manifiesto,506 - Education Expansion,5.12
+MoDem,manifiesto,202 - Democracy,2.77
+MoDem,manifiesto,403 - Market Regulation,1.89
+MoDem,manifiesto,606 - Civic Mindedness: Positive,1.83
+MoDem,tweets,107 - Internationalism: Positive,2.39
+MoDem,tweets,104 - Military: Positive,2.09
+MoDem,tweets,108 - European Community/Union: Positive,1.69
+MoDem,tweets,106 - Peace,0.69
+MoDem,hemiciclo,202 - Democracy,1.85
+MoDem,hemiciclo,305 - Political Authority,1.47
+MoDem,hemiciclo,303 - Governmental and Administrative Efficiency,1.3
+MoDem,hemiciclo,604 - Traditional Morality: Negative,0.85
+LREM,manifiesto,303 - Governmental and Administrative Efficiency,5.28
+LREM,manifiesto,503 - Equality: Positive,2.5
+LREM,manifiesto,411 - Technology and Infrastructure,1.85
+LREM,manifiesto,601 - National Way of Life: Positive,1.44
+LREM,tweets,411 - Technology and Infrastructure,1.35
+LREM,tweets,501 - Environmental Protection: Positive,0.94
+LREM,tweets,502 - Culture: Positive,0.79
+LREM,tweets,601 - National Way of Life: Positive,0.74
+LREM,hemiciclo,303 - Governmental and Administrative Efficiency,2.32
+LREM,hemiciclo,501 - Environmental Protection: Positive,0.79
+LREM,hemiciclo,604 - Traditional Morality: Negative,0.76
+LREM,hemiciclo,402 - Incentives,0.49
+LR,manifiesto,601 - National Way of Life: Positive,3.23
+LR,manifiesto,706 - Non-economic Demographic Groups,2.68
+LR,manifiesto,605 - Law and Order: Positive,1.6
+LR,manifiesto,305 - Political Authority,1.23
+LR,tweets,502 - Culture: Positive,2.55
+LR,tweets,601 - National Way of Life: Positive,1.7
+LR,tweets,411 - Technology and Infrastructure,1.26
+LR,tweets,605 - Law and Order: Positive,1.17
+LR,hemiciclo,305 - Political Authority,3.53
+LR,hemiciclo,604 - Traditional Morality: Negative,0.95
+LR,hemiciclo,303 - Governmental and Administrative Efficiency,0.73
+LR,hemiciclo,703 - Agriculture and Farmers: Positive,0.66

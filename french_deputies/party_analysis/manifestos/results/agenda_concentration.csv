@@ -1,0 +1,11 @@
+party,n_docs,agenda_evenness,top_domain
+PCF,39,0.599,Political System
+PS,79,0.683,Welfare & QoL
+EELV,228,0.777,Welfare & QoL
+MoDem,493,0.795,Welfare & QoL
+PRG,625,0.795,Welfare & QoL
+FN,274,0.797,Welfare & QoL
+LR,282,0.798,Welfare & QoL
+UDI,282,0.798,Welfare & QoL
+LREM,386,0.799,Welfare & QoL
+LFI,1113,0.826,Welfare & QoL

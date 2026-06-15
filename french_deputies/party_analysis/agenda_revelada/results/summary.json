@@ -1,0 +1,228 @@
+{
+  "decomposition": {
+    "leyes": {
+      "n_units": 2075,
+      "n_scrutins": 335,
+      "r2_bloque": 0.469,
+      "r2_party": 0.573,
+      "r2_party_domain": 0.577,
+      "r2_party_x_domain": 0.593,
+      "delta_party_vs_bloque": 0.104,
+      "delta_domain": 0.02
+    },
+    "enmiendas": {
+      "n_units": 13256,
+      "n_scrutins": 2575,
+      "r2_bloque": 0.332,
+      "r2_party": 0.351,
+      "r2_party_domain": 0.356,
+      "r2_party_x_domain": 0.361,
+      "delta_party_vs_bloque": 0.019,
+      "delta_domain": 0.01
+    }
+  },
+  "support_lois_vs_amend": {
+    "EDS": {
+      "leyes": 77.2,
+      "enmiendas": 36.3
+    },
+    "GDR-PCF": {
+      "leyes": 18.7,
+      "enmiendas": 87.0
+    },
+    "LFI": {
+      "leyes": 11.5,
+      "enmiendas": 83.7
+    },
+    "LR": {
+      "leyes": 45.9,
+      "enmiendas": 70.9
+    },
+    "LREM": {
+      "leyes": 99.1,
+      "enmiendas": 15.7
+    },
+    "LT": {
+      "leyes": 54.0,
+      "enmiendas": 71.4
+    },
+    "MoDem": {
+      "leyes": 98.7,
+      "enmiendas": 22.4
+    },
+    "NI": {
+      "leyes": 37.8,
+      "enmiendas": 73.3
+    },
+    "PS": {
+      "leyes": 36.7,
+      "enmiendas": 82.7
+    },
+    "UDI-Agir": {
+      "leyes": 86.3,
+      "enmiendas": 51.9
+    }
+  },
+  "cleavage_sign_stability": [
+    {
+      "party": "EDS",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": 0.6,
+      "ci_low": -7.5,
+      "ci_high": 9.3,
+      "sign_stability": 0.531
+    },
+    {
+      "party": "GDR-PCF",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": 4.4,
+      "ci_low": -0.4,
+      "ci_high": 8.6,
+      "sign_stability": 0.962
+    },
+    {
+      "party": "LFI",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": 7.0,
+      "ci_low": 2.7,
+      "ci_high": 11.2,
+      "sign_stability": 0.999
+    },
+    {
+      "party": "LR",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -19.1,
+      "ci_low": -25.0,
+      "ci_high": -13.9,
+      "sign_stability": 1.0
+    },
+    {
+      "party": "LREM",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -4.1,
+      "ci_low": -7.6,
+      "ci_high": -0.9,
+      "sign_stability": 0.992
+    },
+    {
+      "party": "MoDem",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -2.8,
+      "ci_low": -6.8,
+      "ci_high": 1.0,
+      "sign_stability": 0.924
+    },
+    {
+      "party": "PS",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": 4.2,
+      "ci_low": -0.3,
+      "ci_high": 8.4,
+      "sign_stability": 0.961
+    },
+    {
+      "party": "UDI-Agir",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -6.8,
+      "ci_low": -13.3,
+      "ci_high": -0.3,
+      "sign_stability": 0.979
+    },
+    {
+      "party": "LT",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -5.5,
+      "ci_low": -12.4,
+      "ci_high": -0.0,
+      "sign_stability": 0.975
+    },
+    {
+      "party": "NI",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -19.9,
+      "ci_low": -27.8,
+      "ci_high": -12.5,
+      "sign_stability": 1.0
+    },
+    {
+      "party": "GDR-PCF",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -17.5,
+      "ci_low": -27.4,
+      "ci_high": -7.1,
+      "sign_stability": 0.999
+    },
+    {
+      "party": "LFI",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -15.9,
+      "ci_low": -23.9,
+      "ci_high": -8.4,
+      "sign_stability": 1.0
+    },
+    {
+      "party": "LR",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -4.8,
+      "ci_low": -10.1,
+      "ci_high": 0.6,
+      "sign_stability": 0.954
+    },
+    {
+      "party": "LREM",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -3.0,
+      "ci_low": -6.4,
+      "ci_high": 0.7,
+      "sign_stability": 0.944
+    },
+    {
+      "party": "LT",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -5.7,
+      "ci_low": -16.4,
+      "ci_high": 5.7,
+      "sign_stability": 0.839
+    },
+    {
+      "party": "MoDem",
+      "domain_name": "Fabric of Society",
+      "rel_pp": 3.3,
+      "ci_low": -1.1,
+      "ci_high": 7.9,
+      "sign_stability": 0.93
+    },
+    {
+      "party": "PS",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -21.9,
+      "ci_low": -29.7,
+      "ci_high": -14.2,
+      "sign_stability": 1.0
+    },
+    {
+      "party": "NI",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -3.7,
+      "ci_low": -11.4,
+      "ci_high": 4.1,
+      "sign_stability": 0.822
+    },
+    {
+      "party": "UDI-Agir",
+      "domain_name": "Fabric of Society",
+      "rel_pp": 7.7,
+      "ci_low": -0.2,
+      "ci_high": 15.6,
+      "sign_stability": 0.972
+    },
+    {
+      "party": "EDS",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -14.9,
+      "ci_low": -25.1,
+      "ci_high": -4.6,
+      "sign_stability": 0.995
+    }
+  ]
+}

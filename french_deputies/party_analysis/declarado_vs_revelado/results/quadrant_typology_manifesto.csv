@@ -1,0 +1,37 @@
+channel,party,domain,s_decl,s_rev,soporte_abs,soporte_global,tipo,tipo_band1pp
+manifiesto,LFI,Freedom & Democracy,1.8,6.9,90.6,83.7,énfasis respaldado,énfasis respaldado
+manifiesto,LFI,Political System,-6.4,-2.0,81.7,83.7,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LFI,Economy,3.4,-6.4,77.3,83.7,énfasis no respaldado,énfasis no respaldado
+manifiesto,LFI,Welfare & QoL,1.2,1.0,84.7,83.7,énfasis respaldado,neutro/intermedio
+manifiesto,LFI,Fabric of Society,-2.8,-15.9,67.8,83.7,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LFI,Social Groups,-2.7,-1.2,82.5,83.7,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LR,Freedom & Democracy,-3.6,-19.1,51.8,70.9,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LR,Political System,1.6,0.1,71.0,70.9,énfasis respaldado,neutro/intermedio
+manifiesto,LR,Economy,-3.0,-5.2,65.7,70.9,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LR,Welfare & QoL,-2.2,-3.8,67.1,70.9,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LR,Fabric of Society,4.1,-4.7,66.2,70.9,énfasis no respaldado,énfasis no respaldado
+manifiesto,LR,Social Groups,4.4,-7.9,63.0,70.9,énfasis no respaldado,énfasis no respaldado
+manifiesto,LREM,Freedom & Democracy,-3.4,-4.1,11.6,15.7,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,LREM,Political System,2.4,1.0,16.7,15.7,énfasis respaldado,neutro/intermedio
+manifiesto,LREM,Economy,0.3,3.9,19.6,15.7,énfasis respaldado,neutro/intermedio
+manifiesto,LREM,Welfare & QoL,2.4,1.6,17.3,15.7,énfasis respaldado,énfasis respaldado
+manifiesto,LREM,Fabric of Society,1.9,-3.0,12.7,15.7,énfasis no respaldado,énfasis no respaldado
+manifiesto,LREM,Social Groups,-2.5,1.0,16.7,15.7,apoyo no enfatizado,neutro/intermedio
+manifiesto,MoDem,Freedom & Democracy,2.4,-2.8,19.6,22.4,énfasis no respaldado,énfasis no respaldado
+manifiesto,MoDem,Political System,-3.1,2.2,24.6,22.4,apoyo no enfatizado,apoyo no enfatizado
+manifiesto,MoDem,Economy,2.5,5.5,27.9,22.4,énfasis respaldado,énfasis respaldado
+manifiesto,MoDem,Welfare & QoL,3.2,1.4,23.8,22.4,énfasis respaldado,énfasis respaldado
+manifiesto,MoDem,Fabric of Society,-0.8,3.4,25.8,22.4,apoyo no enfatizado,neutro/intermedio
+manifiesto,MoDem,Social Groups,-6.5,-0.1,22.3,22.4,baja prioridad y menor apoyo relativo,neutro/intermedio
+manifiesto,PCF,Freedom & Democracy,5.3,4.4,91.4,87.0,énfasis respaldado,énfasis respaldado
+manifiesto,PCF,Political System,10.5,-2.9,84.1,87.0,énfasis no respaldado,énfasis no respaldado
+manifiesto,PCF,Economy,-2.2,-2.5,84.5,87.0,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,PCF,Welfare & QoL,-17.4,1.3,88.3,87.0,apoyo no enfatizado,apoyo no enfatizado
+manifiesto,PCF,Fabric of Society,-2.3,-17.5,69.5,87.0,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,PCF,Social Groups,8.9,-3.7,83.3,87.0,énfasis no respaldado,énfasis no respaldado
+manifiesto,PS,Freedom & Democracy,-2.5,4.2,86.9,82.7,apoyo no enfatizado,apoyo no enfatizado
+manifiesto,PS,Political System,-5.0,-4.1,78.6,82.7,baja prioridad y menor apoyo relativo,baja prioridad y menor apoyo relativo
+manifiesto,PS,Economy,-1.1,1.0,83.7,82.7,apoyo no enfatizado,neutro/intermedio
+manifiesto,PS,Welfare & QoL,12.8,3.6,86.3,82.7,énfasis respaldado,énfasis respaldado
+manifiesto,PS,Fabric of Society,0.1,-21.9,60.8,82.7,énfasis no respaldado,neutro/intermedio
+manifiesto,PS,Social Groups,-1.5,-0.6,82.1,82.7,baja prioridad y menor apoyo relativo,neutro/intermedio

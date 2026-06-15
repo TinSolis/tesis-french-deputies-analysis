@@ -1,0 +1,138 @@
+{
+  "pooled_coherence": [
+    {
+      "channel": "manifiesto",
+      "domains": "sin_ExtRel",
+      "partidos": "todos",
+      "n_parties": 6,
+      "pooled_pearson": 0.12
+    },
+    {
+      "channel": "manifiesto",
+      "domains": "sin_ExtRel",
+      "partidos": "6p",
+      "n_parties": 6,
+      "pooled_pearson": 0.12
+    },
+    {
+      "channel": "manifiesto",
+      "domains": "con_ExtRel",
+      "partidos": "todos",
+      "n_parties": 6,
+      "pooled_pearson": 0.04
+    },
+    {
+      "channel": "manifiesto",
+      "domains": "con_ExtRel",
+      "partidos": "6p",
+      "n_parties": 6,
+      "pooled_pearson": 0.04
+    },
+    {
+      "channel": "tweets",
+      "domains": "sin_ExtRel",
+      "partidos": "todos",
+      "n_parties": 10,
+      "pooled_pearson": 0.28
+    },
+    {
+      "channel": "tweets",
+      "domains": "sin_ExtRel",
+      "partidos": "6p",
+      "n_parties": 6,
+      "pooled_pearson": 0.19
+    },
+    {
+      "channel": "tweets",
+      "domains": "con_ExtRel",
+      "partidos": "todos",
+      "n_parties": 10,
+      "pooled_pearson": 0.16
+    },
+    {
+      "channel": "tweets",
+      "domains": "con_ExtRel",
+      "partidos": "6p",
+      "n_parties": 6,
+      "pooled_pearson": 0.16
+    },
+    {
+      "channel": "hemiciclo",
+      "domains": "sin_ExtRel",
+      "partidos": "todos",
+      "n_parties": 10,
+      "pooled_pearson": 0.32
+    },
+    {
+      "channel": "hemiciclo",
+      "domains": "sin_ExtRel",
+      "partidos": "6p",
+      "n_parties": 6,
+      "pooled_pearson": 0.16
+    },
+    {
+      "channel": "hemiciclo",
+      "domains": "con_ExtRel",
+      "partidos": "todos",
+      "n_parties": 10,
+      "pooled_pearson": 0.22
+    },
+    {
+      "channel": "hemiciclo",
+      "domains": "con_ExtRel",
+      "partidos": "6p",
+      "n_parties": 6,
+      "pooled_pearson": 0.13
+    }
+  ],
+  "manifiesto_coherence": [
+    {
+      "party": "LFI",
+      "pearson": 0.26,
+      "spearman": 0.31,
+      "pearson_recentrado": 0.15,
+      "ci_low": -0.7,
+      "ci_high": 0.98
+    },
+    {
+      "party": "LR",
+      "pearson": 0.4,
+      "spearman": 0.26,
+      "pearson_recentrado": 0.65,
+      "ci_low": -0.91,
+      "ci_high": 0.99
+    },
+    {
+      "party": "LREM",
+      "pearson": 0.34,
+      "spearman": 0.38,
+      "pearson_recentrado": 0.45,
+      "ci_low": -0.7,
+      "ci_high": 0.99
+    },
+    {
+      "party": "MoDem",
+      "pearson": 0.12,
+      "spearman": 0.2,
+      "pearson_recentrado": -0.1,
+      "ci_low": -0.73,
+      "ci_high": 1.0
+    },
+    {
+      "party": "PCF",
+      "pearson": -0.02,
+      "spearman": -0.14,
+      "pearson_recentrado": 0.06,
+      "ci_low": -0.97,
+      "ci_high": 0.86
+    },
+    {
+      "party": "PS",
+      "pearson": 0.21,
+      "spearman": 0.03,
+      "pearson_recentrado": 0.17,
+      "ci_low": -0.95,
+      "ci_high": 0.96
+    }
+  ]
+}

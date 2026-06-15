@@ -1,0 +1,43 @@
+
+=== tweets: 224,056 quasi-frases, 10 partidos ===
+
+Enfasis por dominio (%):
+domain    External Relations  Freedom & Democracy  Political System  Economy  Welfare & QoL  Fabric of Society  Social Groups
+party                                                                                                                        
+EDS                     6.77                13.46             20.82     7.79          36.27              11.93           2.96
+GDR-PCF                 7.56                 8.52             31.91     7.50          26.75               9.35           8.42
+LFI                     6.65                 9.27             40.92     5.37          22.77               9.13           5.87
+LR                      6.44                 6.48             32.52     9.57          23.90              14.56           6.53
+LREM                    9.61                 7.21             28.55    10.52          25.09              12.95           6.06
+LT                      5.44                 6.64             30.96     8.75          26.12              16.93           5.16
+MoDem                  16.68                 8.30             27.84     8.71          21.66              12.32           4.49
+NI                      7.08                 8.13             36.58     5.26          18.14              17.71           7.11
+PS                      8.21                 8.01             30.26     7.92          28.42              11.83           5.35
+UDI-Agir               13.87                 7.18             31.43     9.04          21.14              13.66           3.68
+
+Concentracion de agenda (evenness; bajo=monotematico):
+   party  n_docs  agenda_evenness       top_domain
+     LFI    7052            0.654 Political System
+      NI    6313            0.689 Political System
+     EDS    2363            0.715    Welfare & QoL
+      LR   40421            0.719 Political System
+      PS   12808            0.721 Political System
+ GDR-PCF    6986            0.722 Political System
+      LT    5016            0.726 Political System
+    LREM  114693            0.742 Political System
+UDI-Agir    8485            0.742 Political System
+   MoDem   19919            0.746 Political System
+
+Categoria mas distintiva por partido:
+  LFI        305 - Political Authority                (+10.22 pp)
+  EDS        501 - Environmental Protection: Positive (+9.01 pp)
+  NI         605 - Law and Order: Positive            (+4.62 pp)
+  LT         504 - Welfare State Expansion            (+4.3 pp)
+  GDR-PCF    504 - Welfare State Expansion            (+3.54 pp)
+  UDI-Agir   104 - Military: Positive                 (+3.07 pp)
+  MoDem      107 - Internationalism: Positive         (+2.52 pp)
+  PS         504 - Welfare State Expansion            (+2.32 pp)
+  LR         502 - Culture: Positive                  (+2.22 pp)
+  LREM       411 - Technology and Infrastructure      (+1.4 pp)
+
+Resultados en /Users/agustin.solis/Tesis/french_deputies/party_analysis/tweets/results/

@@ -1,0 +1,72 @@
+=== Coherencia declarado–revelado (corr sobre 6 dominios, vs enmiendas) ===
+   party    channel  pearson  spearman  pearson_recentrado  small_manifesto  ci_low  ci_high
+     LFI manifiesto     0.26      0.31                0.15            False   -0.70     0.98
+      LR manifiesto     0.40      0.26                0.65            False   -0.91     0.99
+    LREM manifiesto     0.34      0.38                0.45            False   -0.70     0.99
+   MoDem manifiesto     0.12      0.20               -0.10            False   -0.73     1.00
+     PCF manifiesto    -0.02     -0.14                0.06             True   -0.97     0.86
+      PS manifiesto     0.21      0.03                0.17             True   -0.95     0.96
+     EDS     tweets     0.50      0.77                0.49            False     NaN      NaN
+     LFI     tweets     0.37      0.60                0.47            False     NaN      NaN
+      LR     tweets     0.67      0.31                0.72            False     NaN      NaN
+    LREM     tweets     0.49      0.67               -0.24            False     NaN      NaN
+      LT     tweets     0.13      0.26                0.39            False     NaN      NaN
+   MoDem     tweets     0.08      0.26                0.15            False     NaN      NaN
+      NI     tweets    -0.08      0.03                0.25            False     NaN      NaN
+     PCF     tweets     0.72      0.14                0.52            False     NaN      NaN
+      PS     tweets     0.53      0.66                0.34            False     NaN      NaN
+UDI-Agir     tweets     0.03      0.12                0.23            False     NaN      NaN
+     EDS  hemiciclo     0.73      0.94                0.69            False     NaN      NaN
+     LFI  hemiciclo     0.45      0.66                0.61            False     NaN      NaN
+      LR  hemiciclo     0.29      0.20                0.52            False     NaN      NaN
+    LREM  hemiciclo     0.04     -0.03                0.61            False     NaN      NaN
+      LT  hemiciclo     0.78      0.43                0.44            False     NaN      NaN
+   MoDem  hemiciclo    -0.16     -0.37                0.30            False     NaN      NaN
+      NI  hemiciclo    -0.18     -0.09                0.10            False     NaN      NaN
+     PCF  hemiciclo     0.60      0.26                0.28            False     NaN      NaN
+      PS  hemiciclo     0.18      0.26                0.26            False     NaN      NaN
+UDI-Agir  hemiciclo     0.64      0.61                0.41            False     NaN      NaN
+
+=== Coherencia pooled por canal ===
+   channel    domains partidos  n_parties  pooled_pearson
+manifiesto sin_ExtRel    todos          6            0.12
+manifiesto sin_ExtRel       6p          6            0.12
+manifiesto con_ExtRel    todos          6            0.04
+manifiesto con_ExtRel       6p          6            0.04
+    tweets sin_ExtRel    todos         10            0.28
+    tweets sin_ExtRel       6p          6            0.19
+    tweets con_ExtRel    todos         10            0.16
+    tweets con_ExtRel       6p          6            0.16
+ hemiciclo sin_ExtRel    todos         10            0.32
+ hemiciclo sin_ExtRel       6p          6            0.16
+ hemiciclo con_ExtRel    todos         10            0.22
+ hemiciclo con_ExtRel       6p          6            0.13
+
+=== Tipología por celda — manifiesto (conteo, clasificación por signo) ===
+party                                  tipo  n
+  LFI baja prioridad y menor apoyo relativo  3
+  LFI                 énfasis no respaldado  1
+  LFI                    énfasis respaldado  2
+   LR baja prioridad y menor apoyo relativo  3
+   LR                 énfasis no respaldado  2
+   LR                    énfasis respaldado  1
+ LREM                   apoyo no enfatizado  1
+ LREM baja prioridad y menor apoyo relativo  1
+ LREM                 énfasis no respaldado  1
+ LREM                    énfasis respaldado  3
+MoDem                   apoyo no enfatizado  2
+MoDem baja prioridad y menor apoyo relativo  1
+MoDem                 énfasis no respaldado  1
+MoDem                    énfasis respaldado  2
+  PCF                   apoyo no enfatizado  1
+  PCF baja prioridad y menor apoyo relativo  2
+  PCF                 énfasis no respaldado  2
+  PCF                    énfasis respaldado  1
+   PS                   apoyo no enfatizado  2
+   PS baja prioridad y menor apoyo relativo  2
+   PS                 énfasis no respaldado  1
+   PS                    énfasis respaldado  1
+
+=== Robustez de la tipología a umbral ±1pp ===
+  manifiesto: 72% mantienen cuadrante · 28% pasan a neutro · 0% cambian de cuadrante
+  todos los canales: 55% mantienen cuadrante · 45% pasan a neutro · 0% cambian de cuadrante

@@ -1,0 +1,127 @@
+party,channel,domain,pct
+LFI,manifiesto,External Relations,13.39
+LFI,manifiesto,Freedom & Democracy,9.34
+LFI,manifiesto,Political System,6.2
+LFI,manifiesto,Economy,20.93
+LFI,manifiesto,Welfare & QoL,31.45
+LFI,manifiesto,Fabric of Society,9.79
+LFI,manifiesto,Social Groups,8.89
+PS,manifiesto,External Relations,5.06
+PS,manifiesto,Freedom & Democracy,5.06
+PS,manifiesto,Political System,7.59
+PS,manifiesto,Economy,16.46
+PS,manifiesto,Welfare & QoL,43.04
+PS,manifiesto,Fabric of Society,12.66
+PS,manifiesto,Social Groups,10.13
+PCF,manifiesto,External Relations,5.13
+PCF,manifiesto,Freedom & Democracy,12.82
+PCF,manifiesto,Political System,23.08
+PCF,manifiesto,Economy,15.38
+PCF,manifiesto,Welfare & QoL,12.82
+PCF,manifiesto,Fabric of Society,10.26
+PCF,manifiesto,Social Groups,20.51
+MoDem,manifiesto,External Relations,10.14
+MoDem,manifiesto,Freedom & Democracy,9.94
+MoDem,manifiesto,Political System,9.53
+MoDem,manifiesto,Economy,20.08
+MoDem,manifiesto,Welfare & QoL,33.47
+MoDem,manifiesto,Fabric of Society,11.76
+MoDem,manifiesto,Social Groups,5.07
+LREM,manifiesto,External Relations,6.74
+LREM,manifiesto,Freedom & Democracy,4.15
+LREM,manifiesto,Political System,15.03
+LREM,manifiesto,Economy,17.88
+LREM,manifiesto,Welfare & QoL,32.64
+LREM,manifiesto,Fabric of Society,14.51
+LREM,manifiesto,Social Groups,9.07
+LR,manifiesto,External Relations,6.74
+LR,manifiesto,Freedom & Democracy,3.9
+LR,manifiesto,Political System,14.18
+LR,manifiesto,Economy,14.54
+LR,manifiesto,Welfare & QoL,28.01
+LR,manifiesto,Fabric of Society,16.67
+LR,manifiesto,Social Groups,15.96
+LFI,tweets,External Relations,6.65
+LFI,tweets,Freedom & Democracy,9.27
+LFI,tweets,Political System,40.92
+LFI,tweets,Economy,5.37
+LFI,tweets,Welfare & QoL,22.77
+LFI,tweets,Fabric of Society,9.13
+LFI,tweets,Social Groups,5.87
+PS,tweets,External Relations,8.21
+PS,tweets,Freedom & Democracy,8.01
+PS,tweets,Political System,30.26
+PS,tweets,Economy,7.92
+PS,tweets,Welfare & QoL,28.42
+PS,tweets,Fabric of Society,11.83
+PS,tweets,Social Groups,5.35
+PCF,tweets,External Relations,7.56
+PCF,tweets,Freedom & Democracy,8.52
+PCF,tweets,Political System,31.91
+PCF,tweets,Economy,7.5
+PCF,tweets,Welfare & QoL,26.75
+PCF,tweets,Fabric of Society,9.35
+PCF,tweets,Social Groups,8.42
+MoDem,tweets,External Relations,16.68
+MoDem,tweets,Freedom & Democracy,8.3
+MoDem,tweets,Political System,27.84
+MoDem,tweets,Economy,8.71
+MoDem,tweets,Welfare & QoL,21.66
+MoDem,tweets,Fabric of Society,12.32
+MoDem,tweets,Social Groups,4.49
+LREM,tweets,External Relations,9.61
+LREM,tweets,Freedom & Democracy,7.21
+LREM,tweets,Political System,28.55
+LREM,tweets,Economy,10.52
+LREM,tweets,Welfare & QoL,25.09
+LREM,tweets,Fabric of Society,12.95
+LREM,tweets,Social Groups,6.06
+LR,tweets,External Relations,6.44
+LR,tweets,Freedom & Democracy,6.48
+LR,tweets,Political System,32.52
+LR,tweets,Economy,9.57
+LR,tweets,Welfare & QoL,23.9
+LR,tweets,Fabric of Society,14.56
+LR,tweets,Social Groups,6.53
+LFI,hemiciclo,External Relations,2.92
+LFI,hemiciclo,Freedom & Democracy,13.23
+LFI,hemiciclo,Political System,32.22
+LFI,hemiciclo,Economy,9.34
+LFI,hemiciclo,Welfare & QoL,25.73
+LFI,hemiciclo,Fabric of Society,9.58
+LFI,hemiciclo,Social Groups,6.97
+PS,hemiciclo,External Relations,2.36
+PS,hemiciclo,Freedom & Democracy,12.13
+PS,hemiciclo,Political System,39.27
+PS,hemiciclo,Economy,9.91
+PS,hemiciclo,Welfare & QoL,23.92
+PS,hemiciclo,Fabric of Society,6.72
+PS,hemiciclo,Social Groups,5.68
+PCF,hemiciclo,External Relations,3.03
+PCF,hemiciclo,Freedom & Democracy,11.82
+PCF,hemiciclo,Political System,31.44
+PCF,hemiciclo,Economy,11.24
+PCF,hemiciclo,Welfare & QoL,27.24
+PCF,hemiciclo,Fabric of Society,5.96
+PCF,hemiciclo,Social Groups,9.27
+MoDem,hemiciclo,External Relations,3.13
+MoDem,hemiciclo,Freedom & Democracy,14.49
+MoDem,hemiciclo,Political System,39.8
+MoDem,hemiciclo,Economy,9.53
+MoDem,hemiciclo,Welfare & QoL,19.55
+MoDem,hemiciclo,Fabric of Society,8.34
+MoDem,hemiciclo,Social Groups,5.16
+LREM,hemiciclo,External Relations,2.89
+LREM,hemiciclo,Freedom & Democracy,12.67
+LREM,hemiciclo,Political System,36.49
+LREM,hemiciclo,Economy,11.34
+LREM,hemiciclo,Welfare & QoL,22.17
+LREM,hemiciclo,Fabric of Society,8.92
+LREM,hemiciclo,Social Groups,5.51
+LR,hemiciclo,External Relations,1.76
+LR,hemiciclo,Freedom & Democracy,12.21
+LR,hemiciclo,Political System,41.44
+LR,hemiciclo,Economy,10.5
+LR,hemiciclo,Welfare & QoL,18.52
+LR,hemiciclo,Fabric of Society,9.76
+LR,hemiciclo,Social Groups,5.81

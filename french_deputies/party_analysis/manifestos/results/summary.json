@@ -1,0 +1,61 @@
+{
+  "corpus": "manifestos",
+  "n_docs": 3801,
+  "n_parties": 10,
+  "parties": [
+    "EELV",
+    "FN",
+    "LFI",
+    "LR",
+    "LREM",
+    "MoDem",
+    "PCF",
+    "PRG",
+    "PS",
+    "UDI"
+  ],
+  "most_monothematic": "PCF",
+  "most_diversified": "LFI",
+  "party_signature": {
+    "PCF": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 17.14
+    },
+    "EELV": {
+      "top_distinctive": "501 - Environmental Protection: Positive",
+      "diff_pp": 8.01
+    },
+    "PS": {
+      "top_distinctive": "504 - Welfare State Expansion",
+      "diff_pp": 7.54
+    },
+    "FN": {
+      "top_distinctive": "601 - National Way of Life: Positive",
+      "diff_pp": 5.45
+    },
+    "MoDem": {
+      "top_distinctive": "506 - Education Expansion",
+      "diff_pp": 5.4
+    },
+    "LREM": {
+      "top_distinctive": "303 - Governmental and Administrative Efficiency",
+      "diff_pp": 5.14
+    },
+    "PRG": {
+      "top_distinctive": "108 - European Community/Union: Positive",
+      "diff_pp": 5.03
+    },
+    "LFI": {
+      "top_distinctive": "107 - Internationalism: Positive",
+      "diff_pp": 5.0
+    },
+    "LR": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 2.57
+    },
+    "UDI": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 2.57
+    }
+  }
+}

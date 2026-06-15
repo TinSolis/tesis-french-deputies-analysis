@@ -1,0 +1,50 @@
+=== Descomposición de R² (ponderado; con modelo bloque) ===
+   corpus  n_units  n_scrutins  r2_bloque  r2_party  r2_party_domain  r2_party_x_domain  delta_party_vs_bloque  delta_domain
+    leyes   2075.0       335.0      0.469     0.573            0.577              0.593                  0.104          0.02
+enmiendas  13256.0      2575.0      0.332     0.351            0.356              0.361                  0.019          0.01
+
+=== Soporte global por partido: leyes vs enmiendas ===
+   party  leyes  enmiendas
+    LREM   99.1       15.7
+   MoDem   98.7       22.4
+UDI-Agir   86.3       51.9
+     EDS   77.2       36.3
+      LT   54.0       71.4
+      LR   45.9       70.9
+      NI   37.8       73.3
+      PS   36.7       82.7
+ GDR-PCF   18.7       87.0
+     LFI   11.5       83.7
+
+=== Bootstrap por scrutin — clivaje cultural en enmiendas (IC95, estab. signo) ===
+   party         domain_name  rel_pp  ci_low  ci_high  sign_stability
+      PS   Fabric of Society   -21.9   -29.7    -14.2           1.000
+ GDR-PCF   Fabric of Society   -17.5   -27.4     -7.1           0.999
+     LFI   Fabric of Society   -15.9   -23.9     -8.4           1.000
+     EDS   Fabric of Society   -14.9   -25.1     -4.6           0.995
+      LT   Fabric of Society    -5.7   -16.4      5.7           0.839
+      LR   Fabric of Society    -4.8   -10.1      0.6           0.954
+      NI   Fabric of Society    -3.7   -11.4      4.1           0.822
+    LREM   Fabric of Society    -3.0    -6.4      0.7           0.944
+   MoDem   Fabric of Society     3.3    -1.1      7.9           0.930
+UDI-Agir   Fabric of Society     7.7    -0.2     15.6           0.972
+      NI Freedom & Democracy   -19.9   -27.8    -12.5           1.000
+      LR Freedom & Democracy   -19.1   -25.0    -13.9           1.000
+UDI-Agir Freedom & Democracy    -6.8   -13.3     -0.3           0.979
+      LT Freedom & Democracy    -5.5   -12.4     -0.0           0.975
+    LREM Freedom & Democracy    -4.1    -7.6     -0.9           0.992
+   MoDem Freedom & Democracy    -2.8    -6.8      1.0           0.924
+     EDS Freedom & Democracy     0.6    -7.5      9.3           0.531
+      PS Freedom & Democracy     4.2    -0.3      8.4           0.961
+ GDR-PCF Freedom & Democracy     4.4    -0.4      8.6           0.962
+     LFI Freedom & Democracy     7.0     2.7     11.2           0.999
+
+=== Leverage por ley (enmiendas) ===
+        domain_name  n_amendments  n_laws  max_share_one_law_pct                                       top_law
+      Welfare & QoL          1107     118                   14.5   instituant un système universel de retraite
+            Economy           423      73                   12.5 portant évolution du logement, de l'aménageme
+Freedom & Democracy           266      54                   16.9 pour une immigration maîtrisée, un droit d'as
+   Political System           264      69                   14.0 portant évolution du logement, de l'aménageme
+  Fabric of Society           253      53                   14.6 de programmation 2018-2022 et de réforme pour
+      Social Groups           246      51                   17.1 pour l'équilibre des relations commerciales d
+ External Relations            16      10                   31.2 de programmation relatif au développement sol

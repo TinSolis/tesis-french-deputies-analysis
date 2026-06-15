@@ -1,0 +1,7 @@
+party,gross_shift,gross_ci,party_specific_shift,specific_ci,channel_effect,dom_manifiesto,dom_tweets,dom_hemiciclo
+PCF,17.1,"[12.0, 27.6]",19.6,"[14.1, 27.8]",-2.5,Political System,Political System,Political System
+LFI,27.5,"[26.1, 28.9]",14.4,"[13.0, 16.7]",13.0,Welfare & QoL,Political System,Political System
+MoDem,27.1,"[25.2, 29.3]",10.5,"[8.9, 13.6]",16.6,Welfare & QoL,Political System,Political System
+PS,27.2,"[22.7, 33.2]",10.0,"[6.7, 17.2]",17.2,Welfare & QoL,Political System,Political System
+LR,22.9,"[20.2, 26.2]",7.0,"[5.7, 10.6]",15.9,Welfare & QoL,Political System,Political System
+LREM,19.4,"[16.9, 22.2]",5.7,"[4.5, 9.2]",13.6,Welfare & QoL,Political System,Political System

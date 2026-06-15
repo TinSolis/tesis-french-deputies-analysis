@@ -1,0 +1,51 @@
+{
+  "corpus": "lois",
+  "n_scrutins_with_text_and_votes": 335,
+  "n_parties": 10,
+  "most_governmental": "LREM",
+  "most_oppositional": "LFI",
+  "most_cohesive": "LFI",
+  "least_cohesive": "NI",
+  "party_revealed_signature": {
+    "EDS": {
+      "most_supported_theme": "Social Groups",
+      "rel_pp": 0.8
+    },
+    "GDR-PCF": {
+      "most_supported_theme": "Fabric of Society",
+      "rel_pp": -1.9
+    },
+    "LFI": {
+      "most_supported_theme": "Fabric of Society",
+      "rel_pp": 0.6
+    },
+    "LR": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 14.2
+    },
+    "LREM": {
+      "most_supported_theme": "Social Groups",
+      "rel_pp": 0.5
+    },
+    "LT": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 3.2
+    },
+    "MoDem": {
+      "most_supported_theme": "Social Groups",
+      "rel_pp": 0.5
+    },
+    "NI": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 21.5
+    },
+    "PS": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 5.2
+    },
+    "UDI-Agir": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 5.3
+    }
+  }
+}

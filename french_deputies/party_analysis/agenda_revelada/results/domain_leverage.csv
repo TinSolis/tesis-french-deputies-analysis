@@ -1,0 +1,15 @@
+corpus,domain_name,n_scrutins,share_pct
+leyes,Welfare & QoL,102,30.4
+leyes,Political System,83,24.8
+leyes,Fabric of Society,55,16.4
+leyes,Economy,50,14.9
+leyes,Freedom & Democracy,20,6.0
+leyes,Social Groups,20,6.0
+leyes,External Relations,5,1.5
+enmiendas,Welfare & QoL,1107,43.0
+enmiendas,Economy,423,16.4
+enmiendas,Freedom & Democracy,266,10.3
+enmiendas,Political System,264,10.3
+enmiendas,Fabric of Society,253,9.8
+enmiendas,Social Groups,246,9.6
+enmiendas,External Relations,16,0.6

@@ -1,0 +1,61 @@
+{
+  "corpus": "tweets",
+  "n_docs": 224056,
+  "n_parties": 10,
+  "parties": [
+    "EDS",
+    "GDR-PCF",
+    "LFI",
+    "LR",
+    "LREM",
+    "LT",
+    "MoDem",
+    "NI",
+    "PS",
+    "UDI-Agir"
+  ],
+  "most_monothematic": "LFI",
+  "most_diversified": "MoDem",
+  "party_signature": {
+    "LFI": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 10.22
+    },
+    "EDS": {
+      "top_distinctive": "501 - Environmental Protection: Positive",
+      "diff_pp": 9.01
+    },
+    "NI": {
+      "top_distinctive": "605 - Law and Order: Positive",
+      "diff_pp": 4.62
+    },
+    "LT": {
+      "top_distinctive": "504 - Welfare State Expansion",
+      "diff_pp": 4.3
+    },
+    "GDR-PCF": {
+      "top_distinctive": "504 - Welfare State Expansion",
+      "diff_pp": 3.54
+    },
+    "UDI-Agir": {
+      "top_distinctive": "104 - Military: Positive",
+      "diff_pp": 3.07
+    },
+    "MoDem": {
+      "top_distinctive": "107 - Internationalism: Positive",
+      "diff_pp": 2.52
+    },
+    "PS": {
+      "top_distinctive": "504 - Welfare State Expansion",
+      "diff_pp": 2.32
+    },
+    "LR": {
+      "top_distinctive": "502 - Culture: Positive",
+      "diff_pp": 2.22
+    },
+    "LREM": {
+      "top_distinctive": "411 - Technology and Infrastructure",
+      "diff_pp": 1.4
+    }
+  }
+}

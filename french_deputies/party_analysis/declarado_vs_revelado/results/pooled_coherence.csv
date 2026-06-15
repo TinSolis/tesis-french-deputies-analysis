@@ -1,0 +1,13 @@
+channel,domains,partidos,n_parties,pooled_pearson
+manifiesto,sin_ExtRel,todos,6,0.12
+manifiesto,sin_ExtRel,6p,6,0.12
+manifiesto,con_ExtRel,todos,6,0.04
+manifiesto,con_ExtRel,6p,6,0.04
+tweets,sin_ExtRel,todos,10,0.28
+tweets,sin_ExtRel,6p,6,0.19
+tweets,con_ExtRel,todos,10,0.16
+tweets,con_ExtRel,6p,6,0.16
+hemiciclo,sin_ExtRel,todos,10,0.32
+hemiciclo,sin_ExtRel,6p,6,0.16
+hemiciclo,con_ExtRel,todos,10,0.22
+hemiciclo,con_ExtRel,6p,6,0.13

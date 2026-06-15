@@ -1,0 +1,51 @@
+{
+  "corpus": "amendements",
+  "n_scrutins_with_text_and_votes": 2575,
+  "n_parties": 10,
+  "most_governmental": "GDR-PCF",
+  "most_oppositional": "LREM",
+  "most_cohesive": "LFI",
+  "least_cohesive": "UDI-Agir",
+  "party_revealed_signature": {
+    "EDS": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 41.5
+    },
+    "GDR-PCF": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 13.0
+    },
+    "LFI": {
+      "most_supported_theme": "Freedom & Democracy",
+      "rel_pp": 6.9
+    },
+    "LR": {
+      "most_supported_theme": "Political System",
+      "rel_pp": 0.1
+    },
+    "LREM": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 15.6
+    },
+    "LT": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 28.6
+    },
+    "MoDem": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 6.9
+    },
+    "NI": {
+      "most_supported_theme": "Social Groups",
+      "rel_pp": 5.6
+    },
+    "PS": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 17.3
+    },
+    "UDI-Agir": {
+      "most_supported_theme": "External Relations",
+      "rel_pp": 20.3
+    }
+  }
+}

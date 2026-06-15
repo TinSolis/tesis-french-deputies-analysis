@@ -1,0 +1,61 @@
+{
+  "corpus": "interventions",
+  "n_docs": 338192,
+  "n_parties": 10,
+  "parties": [
+    "EDS",
+    "GDR-PCF",
+    "LFI",
+    "LR",
+    "LREM",
+    "LT",
+    "MoDem",
+    "NI",
+    "PS",
+    "UDI-Agir"
+  ],
+  "most_monothematic": "LR",
+  "most_diversified": "UDI-Agir",
+  "party_signature": {
+    "LR": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 7.78
+    },
+    "NI": {
+      "top_distinctive": "605 - Law and Order: Positive",
+      "diff_pp": 6.08
+    },
+    "MoDem": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 5.72
+    },
+    "PS": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 5.7
+    },
+    "LT": {
+      "top_distinctive": "501 - Environmental Protection: Positive",
+      "diff_pp": 5.03
+    },
+    "EDS": {
+      "top_distinctive": "501 - Environmental Protection: Positive",
+      "diff_pp": 4.47
+    },
+    "LFI": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 3.3
+    },
+    "GDR-PCF": {
+      "top_distinctive": "701 - Labour Groups: Positive",
+      "diff_pp": 2.95
+    },
+    "LREM": {
+      "top_distinctive": "303 - Governmental and Administrative Efficiency",
+      "diff_pp": 2.86
+    },
+    "UDI-Agir": {
+      "top_distinctive": "504 - Welfare State Expansion",
+      "diff_pp": 1.85
+    }
+  }
+}
