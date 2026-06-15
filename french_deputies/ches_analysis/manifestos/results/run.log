@@ -1,0 +1,27 @@
+Cargando predicciones: /Users/agustin.solis/Tesis/french_deputies/manifestoberta_analysis/manifestos/results/predictions.csv
+  3,801 quasi-frases, 10 partidos
+
+RILE por partido:
+party_abbrev  rile_model  rile_human  rile_official ches_party    lrgen
+         LFI     -29.380     -26.660        -30.019         FI 1.250000
+          PS     -26.582     -27.632        -28.947         PS 3.000000
+       MoDem     -22.921     -16.593        -17.920      MoDem 6.125000
+        EELV     -14.035      -7.273            NaN       EELV 2.500000
+        LREM      -8.549       0.000          0.000       LREM 6.333334
+         PRG      -8.160      -6.145        -10.056       None      NaN
+          FN      -6.204       1.674          1.674         RN 9.750000
+         PCF       0.000     -16.667        -16.667        PCF 1.125000
+          LR       4.255      13.619         13.619         LR 7.875000
+         UDI       4.255      13.619         13.619       None      NaN
+
+=== Correlaciones ===
+  A) modelo vs humano (RILE):   rho=0.7927  r=0.8457  n=10
+  B) modelo vs CHES (externo):  rho=0.381  r=0.4188  n=8
+  Techo) humano vs CHES:        rho=0.7619  r=0.7511  n=8
+  --- diagnosticos ---
+  modelo vs CHES lrecon:        rho=0.5714  r=0.4344  n=8
+  modelo vs CHES (sin RN):      rho=0.3571  r=0.371  n=7
+  humano vs CHES (sin RN):      rho=0.6786  r=0.7442  n=7
+  modelo vs CHES (n>=100):      rho=0.8857  r=0.7194  n=6
+
+Resultados en /Users/agustin.solis/Tesis/french_deputies/ches_analysis/manifestos/results/

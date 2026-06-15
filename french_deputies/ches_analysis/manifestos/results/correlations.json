@@ -1,0 +1,69 @@
+{
+  "source": "manifestos",
+  "ches_wave": 2019,
+  "ches_scale": "lrgen 0-10",
+  "layer_A_model_vs_human": {
+    "n": 10,
+    "pearson_r": 0.8457,
+    "pearson_p": 0.002,
+    "spearman_rho": 0.7927,
+    "spearman_p": 0.0062
+  },
+  "layer_B_model_vs_ches": {
+    "n": 8,
+    "pearson_r": 0.4188,
+    "pearson_p": 0.3017,
+    "spearman_rho": 0.381,
+    "spearman_p": 0.3518
+  },
+  "ceiling_human_vs_ches": {
+    "n": 8,
+    "pearson_r": 0.7511,
+    "pearson_p": 0.0317,
+    "spearman_rho": 0.7619,
+    "spearman_p": 0.028
+  },
+  "ref_official_rile_vs_ches": {
+    "n": 7,
+    "pearson_r": 0.8036,
+    "pearson_p": 0.0295,
+    "spearman_rho": 0.75,
+    "spearman_p": 0.0522
+  },
+  "diagnostics": {
+    "model_vs_ches_lrecon": {
+      "n": 8,
+      "pearson_r": 0.4344,
+      "pearson_p": 0.2822,
+      "spearman_rho": 0.5714,
+      "spearman_p": 0.139
+    },
+    "model_vs_ches_excl_RN": {
+      "n": 7,
+      "pearson_r": 0.371,
+      "pearson_p": 0.4126,
+      "spearman_rho": 0.3571,
+      "spearman_p": 0.4316
+    },
+    "human_vs_ches_excl_RN": {
+      "n": 7,
+      "pearson_r": 0.7442,
+      "pearson_p": 0.0551,
+      "spearman_rho": 0.6786,
+      "spearman_p": 0.0938
+    },
+    "model_vs_ches_reliable_nmin100": {
+      "n": 6,
+      "pearson_r": 0.7194,
+      "pearson_p": 0.1071,
+      "spearman_rho": 0.8857,
+      "spearman_p": 0.0188
+    }
+  },
+  "parties_total": 10,
+  "parties_matched_ches": 8,
+  "parties_not_in_ches": [
+    "PRG",
+    "UDI"
+  ]
+}
