@@ -1,0 +1,86 @@
+% Plantilla FCFM/UChile (clase umemoria, dccuchile/memoria-tesis-latex).
+% Para compilar en Overleaf: subir esta carpeta y usar pdfLaTeX como compilador.
+% Para una memoria en ingles: agregar la opcion [english] y borrar el .aux.
+\documentclass{umemoria}
+
+\depto{Departamento de Ciencias de la Computación}
+\author{Agustín Sebastián Solís Meza}
+\title{Bases y análisis de discrepancias entre el discurso de los partidos políticos y la práctica de sus representantes parlamentarios}
+
+% Memoria de pregrado (Ingeniero/a Civil en Computación).
+\memoria{Ingeniero Civil en Computación}
+% \tesis{Magíster en ???} % incluir solo en caso de doble titulación
+
+% En una memoria solo puede haber un profesor guía.
+\guia{Valentin Barriere}
+
+% En una memoria el co-guía aparece como primer integrante de la comisión.
+% \coguia{Franziska Wagner} % este comando es solo para co-guía de *tesis*
+
+% Integrantes de la comisión (el primero es la co-guía Franziska Wagner).
+% Completar con nombres y apellidos completos de los demás integrantes.
+\comision{Franziska Wagner,Nombre Completo Integrante Dos,Nombre Completo Integrante Tres}
+
+% \auspicio{Nombre Institución} % incluir si el trabajo recibió financiamiento (p. ej. CENIA)
+
+% Año del examen de título (defensa). Por defecto usa el año actual.
+\anho{2026}
+
+% La clase umemoria ya carga inputenc (utf8), geometry, babel (spanish), graphicx, etc.
+\usepackage{booktabs} % tablas con \toprule, \midrule, \bottomrule
+\usepackage{float}    % opción [H] para fijar figuras/tablas
+
+\begin{document}
+
+\frontmatter
+\maketitle
+
+\begin{resumen}
+% Resumen ejecutivo en una sola página: justificación, objetivos, método y hallazgos.
+% TODO: redactar al final, cuando los resultados estén consolidados.
+En las democracias representativas existe una brecha potencial entre lo que los
+partidos políticos \emph{declaran} en sus programas y discursos y lo que sus
+representantes \emph{hacen} al legislar. Este trabajo construye bases de datos
+públicas y comparables sobre la actividad de los diputados de la Asamblea Nacional
+francesa (XV legislatura, 2017--2022) ---programas electorales, intervenciones en
+el hemiciclo, actividad en Twitter, y votaciones sobre leyes y enmiendas--- y
+aplica modelos de procesamiento de lenguaje natural (clasificación supervisada
+MARPOR con ManifestoBERTa y modelado de tópicos con BERTopic) para caracterizar y
+contrastar la \emph{agenda declarada} (énfasis temático) con la \emph{agenda
+revelada} (soporte por el voto) de cada partido. Los resultados muestran que [\dots].
+\end{resumen}
+
+% Para tesis en inglés, incluir también el abstract:
+%\begin{abstract}
+%\end{abstract}
+
+\begin{dedicatoria}
+% Optativo, estructura libre.
+\end{dedicatoria}
+
+\begin{thanks}
+% Agradecimientos (optativo).
+\end{thanks}
+
+\tableofcontents
+\listoftables  % opcional
+\listoffigures % opcional
+
+\mainmatter
+
+\input{intro.tex}
+\input{cap_marco_teorico.tex}
+\input{cap_metodologia.tex}
+\input{cap_resultados.tex}
+\input{cap_discusion.tex}
+\input{conclu.tex}
+
+% \input{glosario.tex} % opcional
+
+\bibliographystyle{plain}
+\bibliography{bibliografia}
+
+\begin{appendices}
+\input{anexoA.tex}
+\end{appendices}
+\end{document}

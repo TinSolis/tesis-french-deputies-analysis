@@ -67,3 +67,17 @@ french_deputies/manifestoberta_analysis/validation/
 # KG-Gen: outputs del demo (regenerar con scripts/01..03 + Ollama local)
 french_deputies/kg-gen/data/
 french_deputies/kg-gen/results/
+
+# LaTeX: artefactos de compilación de la memoria (Overleaf los regenera)
+memoria/*.aux
+memoria/*.log
+memoria/*.out
+memoria/*.toc
+memoria/*.lof
+memoria/*.lot
+memoria/*.bbl
+memoria/*.blg
+memoria/*.synctex.gz
+memoria/*.fls
+memoria/*.fdb_latexmk
+memoria/main.pdf

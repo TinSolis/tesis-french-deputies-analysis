@@ -1,0 +1,62 @@
+\chapter{Materiales y métodos}
+\label{cap:metodologia}
+
+% Responde a ¿qué método?, ¿qué procedimientos?, ¿qué materiales e instrumentos?
+
+\section{Fuentes de datos y construcción de los corpus}
+\label{sec:fuentes}
+% Cohorte: 668 diputados de la Asamblea Nacional (XV legislatura, 2017-2022),
+% enlazados por deputy_id y political_group_abbrev.
+
+\subsection{Diputados y grupos parlamentarios}
+\label{sec:datos-diputados}
+% CSV maestro; consolidación de grupos a familias políticas (GROUP_LABEL).
+
+\subsection{Programas electorales (manifiestos)}
+\label{sec:corpus-manifestos}
+% Manifesto Project Database (MPDB); texto + codificación MARPOR; cobertura.
+
+\subsection{Intervenciones en el hemiciclo}
+\label{sec:corpus-hemiciclo}
+% ~950k intervenciones (Regards Citoyens); texto, sección, fecha, deputy_id.
+
+\subsection{Actividad en Twitter}
+\label{sec:corpus-twitter}
+% Captura con Zeeschuimer; cruce con la cohorte por cuenta.
+
+\subsection{Leyes, enmiendas y votaciones}
+\label{sec:corpus-votos}
+% Texto JORF promulgado + voto nominal (Pour/Contre/Abstention) por diputado.
+
+\section{Normalización, limpieza y enlace}
+\label{sec:normalizacion}
+% Deduplicación, codificación, normalización de variables, alineación temporal;
+% calidad del join (100% votos-diputado, 100% scrutins-texto).
+
+\section{Clasificación y modelado del contenido}
+\label{sec:clasificacion}
+
+\subsection{Clasificación MARPOR con ManifestoBERTa}
+\label{sec:metodo-manifestoberta}
+% Pipeline compartido; validación contra cmp_code humano (accuracy top-1/3, matriz).
+
+\subsection{Modelado de tópicos con BERTopic}
+\label{sec:metodo-bertopic}
+% Filtros idénticos entre módulos para comparabilidad doc-por-doc.
+
+\section{Métricas de análisis a nivel de partido}
+\label{sec:metricas}
+
+\subsection{Agenda declarada: énfasis, distintividad y concentración}
+\label{sec:metricas-declarada}
+% Énfasis por dominio/categoría; distintividad (pp vs. promedio del corpus);
+% concentración (entropía normalizada / evenness).
+
+\subsection{Agenda revelada: soporte y cohesión del voto}
+\label{sec:metricas-revelada}
+% Soporte global; cohesión (Rice); soporte por tema (ponderado por MARPOR);
+% soporte relativo (neto del efecto gobierno/oposición).
+
+\subsection{Cruce declarado vs. revelado}
+\label{sec:metricas-cruce}
+% Comparación como firmas relativas; tipología por celda (partido × dominio).
