@@ -35,13 +35,24 @@
   year      = {2019}
 }
 
-@inproceedings{mo2025kggen,
-  author    = {Mo, Belinda and Yu, Kyssen and Kazdan, Joshua and Cabezas, Jacob and Mpala, Proud and Yu, Lisa and Cundy, Chris and Kanatsoulis, Charilaos and Koyejo, Sanmi},
-  title     = {{KGGen}: Extracting Knowledge Graphs from Plain Text with Language Models},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year      = {2025},
-  note      = {arXiv:2502.09956}
+@inproceedings{conneau2020xlmr,
+  author    = {Conneau, Alexis and Khandelwal, Kartikay and Goyal, Naman and Chaudhary, Vishrav and Wenzek, Guillaume and Guzm\'an, Francisco and Grave, Edouard and Ott, Myle and Zettlemoyer, Luke and Stoyanov, Veselin},
+  title     = {Unsupervised Cross-lingual Representation Learning at Scale},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
+  pages     = {8440--8451},
+  year      = {2020}
 }
+
+% KG-Gen queda FUERA DE ALCANCE de la memoria (no se usa ni se analiza, no se
+% vuelve a revisar). Entrada conservada solo como referencia histórica; NO se
+% cita en el texto.
+% @inproceedings{mo2025kggen,
+%   author    = {Mo, Belinda and Yu, Kyssen and Kazdan, Joshua and Cabezas, Jacob and Mpala, Proud and Yu, Lisa and Cundy, Chris and Kanatsoulis, Charilaos and Koyejo, Sanmi},
+%   title     = {{KGGen}: Extracting Knowledge Graphs from Plain Text with Language Models},
+%   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+%   year      = {2025},
+%   note      = {arXiv:2502.09956}
+% }
 
 % ----------------------------------------------------------------------------
 % 2. Benchmarks externos para validación
@@ -61,6 +72,25 @@
   volume  = {97},
   year    = {2025},
   doi     = {10.1016/j.electstud.2025.102981}
+}
+
+% Versión efectivamente usada como benchmark en ches_analysis/ (CHES2019V3.csv).
+@article{jolly2022ches,
+  author  = {Jolly, Seth and Bakker, Ryan and Hooghe, Liesbet and Marks, Gary and Polk, Jonathan and Rovny, Jan and Steenbergen, Marco and Vachudova, Milada Anna},
+  title   = {Chapel Hill Expert Survey trend file, 1999--2019},
+  journal = {Electoral Studies},
+  volume  = {75},
+  pages   = {102420},
+  year    = {2022},
+  doi     = {10.1016/j.electstud.2021.102420}
+}
+
+@misc{ches2019data,
+  author       = {Bakker, Ryan and Hooghe, Liesbet and Jolly, Seth and Marks, Gary and Polk, Jonathan and Rovny, Jan and Steenbergen, Marco and Vachudova, Milada Anna},
+  title        = {2019 {Chapel Hill Expert Survey (CHES)} --- conjunto de datos},
+  howpublished = {\url{https://www.chesdata.eu/ches-europe}},
+  year         = {2020},
+  note         = {Archivo \texttt{CHES2019V3.csv}; consultado [fecha por verificar]}
 }
 
 % ----------------------------------------------------------------------------
@@ -148,4 +178,150 @@
   title   = {{PAKT}: Perspectivized Argumentation Knowledge Graph and Tool for Deliberation Analysis},
   journal = {arXiv preprint arXiv:2404.10570},
   year    = {2024}
+}
+
+% ----------------------------------------------------------------------------
+% 5. Índices y métodos estadísticos (métricas de party_analysis y ches_analysis)
+% ----------------------------------------------------------------------------
+
+@book{rice1928quantitative,
+  author    = {Rice, Stuart A.},
+  title     = {Quantitative Methods in Politics},
+  publisher = {Alfred A. Knopf},
+  address   = {New York},
+  year      = {1928}
+}
+
+@article{shannon1948mathematical,
+  author  = {Shannon, Claude E.},
+  title   = {A Mathematical Theory of Communication},
+  journal = {The Bell System Technical Journal},
+  volume  = {27},
+  number  = {3},
+  pages   = {379--423},
+  year    = {1948}
+}
+
+% ----------------------------------------------------------------------------
+% 6. Fuentes de datos oficiales y datasets
+% ----------------------------------------------------------------------------
+
+@misc{an_opendata_xv,
+  author       = {{Assembl\'ee nationale}},
+  title        = {Open Data de l'Assembl\'ee nationale --- {XV}e l\'egislature (acteurs et organes, scrutins, dossiers l\'egislatifs, amendements)},
+  howpublished = {\url{https://data.assemblee-nationale.fr/}},
+  year         = {2022},
+  note         = {Datos abiertos; archivos \texttt{AMO20\_...\_XV.json.zip}, Scrutins, Dossiers, Amendements. Consultado [fecha por verificar]}
+}
+
+@misc{legifrance_piste,
+  author       = {{Direction de l'information l\'egale et administrative (DILA)}},
+  title        = {L\'egifrance --- {API} {PISTE} (textes officiels publi\'es au {JORF})},
+  howpublished = {\url{https://piste.gouv.fr/}},
+  year         = {2024},
+  note         = {API oficial de acceso a textos legales; consultado [fecha por verificar]}
+}
+
+@misc{marpor_mpds2025a,
+  author       = {Lehmann, Pola and Burst, Tobias and Lewandowski, Jirka and Matthie{\ss}, Theres and Merz, Nicolas and Regel, Sven and Zehnter, Lisa},
+  title        = {The Manifesto Project Dataset (Version 2025a)},
+  howpublished = {\url{https://manifesto-project.wzb.eu/datasets}},
+  institution  = {WZB Berlin Social Science Center},
+  year         = {2025},
+  note         = {Dataset \texttt{MPDS2025a}; lista de autores, versi\'on y DOI exactos por verificar}
+}
+
+@misc{regardscitoyens_twitter,
+  author       = {{Regards Citoyens}},
+  title        = {twitter-parlementaires : comptes {Twitter} des parlementaires fran\c{c}ais},
+  howpublished = {\url{https://github.com/regardscitoyens/twitter-parlementaires}},
+  year         = {2022},
+  note         = {Conjunto de datos abierto; consultado [fecha por verificar]}
+}
+
+@misc{regardscitoyens_nosdeputes,
+  author       = {{Regards Citoyens}},
+  title        = {{NosD\'eput\'es.fr} : interventions en h\'emicycle de l'Assembl\'ee nationale (compte rendu int\'egral)},
+  howpublished = {\url{https://www.nosdeputes.fr/}},
+  year         = {2022},
+  note         = {Export de intervenciones (ND15); consultado [fecha por verificar]}
+}
+
+@misc{peeters2022zeeschuimer,
+  author       = {Peeters, Stijn},
+  title        = {Zeeschuimer: a browser extension for collecting data from social media platforms},
+  howpublished = {\url{https://github.com/digitalmethodsinitiative/zeeschuimer}},
+  year         = {2022},
+  note         = {Digital Methods Initiative; gu\'ia en \url{https://zeeschuimer.4cat.nl/}}
+}
+
+% ----------------------------------------------------------------------------
+% 7. Librerías y herramientas de software
+% ----------------------------------------------------------------------------
+
+@inproceedings{wolf2020transformers,
+  author    = {Wolf, Thomas and Debut, Lysandre and Sanh, Victor and Chaumond, Julien and Delangue, Clement and Moi, Anthony and Cistac, Pierric and Rault, Tim and Louf, R\'emi and Funtowicz, Morgan and others},
+  title     = {Transformers: State-of-the-Art Natural Language Processing},
+  booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP)},
+  pages     = {38--45},
+  year      = {2020}
+}
+
+@inproceedings{paszke2019pytorch,
+  author    = {Paszke, Adam and Gross, Sam and Massa, Francisco and Lerer, Adam and Bradbury, James and Chanan, Gregory and Killeen, Trevor and Lin, Zeming and Gimelshein, Natalia and Antiga, Luca and others},
+  title     = {{PyTorch}: An Imperative Style, High-Performance Deep Learning Library},
+  booktitle = {Advances in Neural Information Processing Systems 32 (NeurIPS)},
+  year      = {2019}
+}
+
+@article{pedregosa2011scikit,
+  author  = {Pedregosa, Fabian and Varoquaux, Ga\"el and Gramfort, Alexandre and Michel, Vincent and Thirion, Bertrand and Grisel, Olivier and Blondel, Mathieu and Prettenhofer, Peter and Weiss, Ron and Dubourg, Vincent and others},
+  title   = {Scikit-learn: Machine Learning in {Python}},
+  journal = {Journal of Machine Learning Research},
+  volume  = {12},
+  pages   = {2825--2830},
+  year    = {2011}
+}
+
+@article{mcinnes2018umap,
+  author  = {McInnes, Leland and Healy, John and Melville, James},
+  title   = {{UMAP}: Uniform Manifold Approximation and Projection for Dimension Reduction},
+  journal = {arXiv preprint arXiv:1802.03426},
+  year    = {2018}
+}
+
+@article{mcinnes2017hdbscan,
+  author  = {McInnes, Leland and Healy, John and Astels, Steve},
+  title   = {{hdbscan}: Hierarchical density based clustering},
+  journal = {Journal of Open Source Software},
+  volume  = {2},
+  number  = {11},
+  pages   = {205},
+  year    = {2017}
+}
+
+@misc{harris2020numpy,
+  author       = {Harris, Charles R. and Millman, K. Jarrod and van der Walt, St\'efan J. and others},
+  title        = {Array programming with {NumPy}},
+  howpublished = {Nature 585, 357--362},
+  year         = {2020},
+  doi          = {10.1038/s41586-020-2649-2}
+}
+
+@inproceedings{mckinney2010pandas,
+  author    = {McKinney, Wes},
+  title     = {Data Structures for Statistical Computing in {Python}},
+  booktitle = {Proceedings of the 9th Python in Science Conference (SciPy)},
+  pages     = {56--61},
+  year      = {2010}
+}
+
+@article{virtanen2020scipy,
+  author  = {Virtanen, Pauli and Gommers, Ralf and Oliphant, Travis E. and others},
+  title   = {{SciPy} 1.0: fundamental algorithms for scientific computing in {Python}},
+  journal = {Nature Methods},
+  volume  = {17},
+  pages   = {261--272},
+  year    = {2020},
+  doi     = {10.1038/s41592-019-0686-2}
 }
