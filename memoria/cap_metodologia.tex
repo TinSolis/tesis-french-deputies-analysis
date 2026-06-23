@@ -37,18 +37,21 @@ cada una.
 \caption{Las cinco fuentes textuales, su unidad de análisis, filtro principal,
 tamaño documentado del corpus analizable y rol en el contraste declarada/revelada.}
 \label{tab:corpus-resumen}
-\small
-\begin{tabular}{@{}llp{2.4cm}p{2.8cm}p{2.6cm}l@{}}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.15}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\begin{tabularx}{\textwidth}{@{}l Y Y Y Y l@{}}
 \toprule
-Fuente & Representa & Unidad textual & Filtro principal & Tamaño analizable & Agenda \\
+\textbf{Fuente} & \textbf{Representa} & \textbf{Unidad textual} & \textbf{Filtro principal} & \textbf{Tamaño analizable} & \textbf{Agenda} \\
 \midrule
 Manifiestos & Programa electoral 2017 & cuasi-frase MARPOR & unidad nativa (sin filtro de longitud) & 3.801 cuasi-frases (10 partidos) & declarada \\
 Twitter & Comunicación en redes & tuit & $\geq 10$ palabras & 222.644--224.466 tuits & declarada \\
 Hemiciclo & Debate en sesión & intervención & \texttt{deputy\_id} $+\geq 10$ palabras $+$ no procedimental & 338.192 intervenciones & declarada \\
 Leyes & Adopción de texto promulgado & párrafo de ley (JORF) & confianza alta de texto $+\geq 10$ palabras & 373 scrutins; 23.267 párrafos & revelada \\
-Enmiendas & Voto sobre cambios propuestos & enmienda (texto + exposición) & confianza alta/media $+\geq 10$ palabras & 3.126 scrutins; 2.575 enmiendas & revelada \\
+Enmiendas & Voto sobre cambios propuestos & enmienda (texto $+$ exposición) & confianza alta/media $+\geq 10$ palabras & 3.126 scrutins; 2.575 enmiendas & revelada \\
 \bottomrule
-\end{tabular}
+\end{tabularx}
 \end{table}
 
 % TODO: fijar una unica cifra del corpus analizable de Twitter al redactar la
