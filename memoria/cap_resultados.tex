@@ -294,21 +294,159 @@ corpus sin sustituir el eje comparable del análisis.
 
 \section{Agenda declarada: el canal define de qué se habla}
 \label{sec:res-declarada}
-% Hallazgo transversal: manifiestos = programa (Welfare); tweets/hemiciclo =
-% meta-política (Political System). La firma distintiva de cada partido persiste.
 
-\subsection{Manifiestos}
-\label{sec:res-manifestos}
-% Firmas por partido (EELV->ambiente, PS->bienestar, FN->nación, ...). Caveats de muestra.
-% \begin{figure}[H] \centering \includegraphics[width=\linewidth]{...} \caption{...} \end{figure}
+El primer análisis sustantivo se ocupa de la \emph{agenda declarada}: el texto
+que los partidos producen voluntariamente en tres canales ---el programa
+electoral, Twitter y las intervenciones en el hemiciclo--- clasificado sobre los
+dominios MARPOR (sección~\ref{sec:metodo-manifestoberta}). La pregunta es doble:
+si un mismo partido habla de los mismos temas en los tres canales, y si las
+diferencias que se observen son un \emph{efecto del canal} ---común a todos los
+partidos--- o una \emph{estrategia propia} de cada uno.
 
-\subsection{Twitter}
-\label{sec:res-tweets}
-% Political System estalla; LFI como megáfono anti-gobierno; NI -> ley y orden.
+\subsection{Cobertura y planteamiento}
+\label{sec:res-declarada-cobertura}
 
-\subsection{Hemiciclo}
-\label{sec:res-hemiciclo}
-% La oposición fiscaliza (305 Autoridad Política); LREM defiende gestión (303).
+La comparación se restringe a los \textbf{seis partidos presentes en los tres
+canales}: LFI, PS, PCF, MoDem, LREM y LR (el PCF corresponde al grupo GDR-PCF en
+Twitter y el hemiciclo). Otros partidos, como EELV o RN, solo aparecen en los
+manifiestos o no son aislables como grupo parlamentario, por lo que quedan fuera
+de este contraste. Para cada partido se mide su distribución de énfasis por
+dominio en cada canal y la distancia entre esos perfiles, descrita con tres
+indicadores ya definidos en la sección~\ref{sec:metricas-cross-channel}: el
+\textbf{desplazamiento bruto}, el \textbf{desplazamiento específico} (que
+descuenta el efecto estructural común del canal) y la \textbf{persistencia de
+firma}. Las estimaciones de desplazamiento se acompañan de intervalos por
+\emph{bootstrap}, que sirven para exhibir la incertidumbre ---crítica en los
+manifiestos pequeños--- y no como una prueba de hipótesis.
+
+Conviene retener una salvedad de interpretación ya señalada en la
+sección~\ref{sec:normalizacion}: los tres canales no provienen del mismo tipo de
+actor. El manifiesto es texto del \emph{partido como organización}, mientras que
+los tuits y las intervenciones son texto de sus \emph{diputados individuales}. La
+agenda declarada mezcla, por tanto, el documento oficial con la comunicación de
+los representantes; no es un defecto ---ambos son lo que el partido comunica---
+pero condiciona la lectura de las diferencias entre canales.
+
+\subsection{El canal reorganiza la mezcla temática}
+\label{sec:res-declarada-patron}
+
+El hallazgo de fondo es que la mezcla temática depende fuertemente del canal
+(Figura~\ref{fig:heatmap-canal}). En el \textbf{manifiesto}, la agenda es
+\emph{programática}: dominan \emph{Welfare \& QoL} (políticas sociales) y
+\emph{Economy}, los dominios donde el partido despliega su oferta sustantiva. En
+\textbf{Twitter} y el \textbf{hemiciclo}, en cambio, la agenda se desplaza hacia
+la \emph{meta-política}: el dominio \emph{Political System} (gobierno, autoridad,
+instituciones, corrupción) pasa a ser el más enfatizado en los seis partidos. El
+efecto es marcado: por ejemplo, en LFI el peso de \emph{Political System} sube del
+$6\,\%$ en el programa al $41\,\%$ en Twitter, y en PS, del $8\,\%$ al $39\,\%$
+en el hemiciclo. Observado en su programa o en su Twitter, un mismo partido
+parece hablar de mundos distintos.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{imagenes/heatmap_party_channel_domain.png}
+\caption{Énfasis por dominio MARPOR (porcentaje de cuasi-frases) para los seis
+partidos comparables en los tres canales de agenda declarada. \emph{Welfare \&
+QoL} y \emph{Economy} dominan en los manifiestos; \emph{Political System} domina
+en Twitter y el hemiciclo en los seis partidos.}
+\label{fig:heatmap-canal}
+\end{figure}
+
+Para separar ese efecto estructural de la estrategia propia de cada partido se
+contrastan el desplazamiento bruto y el específico
+(Figura~\ref{fig:shift-canal}). El \textbf{desplazamiento bruto} es alto y
+similar para casi todos (entre $19$ y $28$ pp), pero buena parte de él es común:
+al centrar por canal, el desplazamiento se reduce en \textbf{unos 13 a 17 puntos
+porcentuales} en los cinco partidos estimables (en el PCF esta medida se
+distorsiona por su manifiesto de solo 39 cuasi-frases). Es decir, el arrastre
+hacia \emph{Political System} en Twitter y el hemiciclo no es estrategia de
+ningún partido en particular, sino el género del texto; el desplazamiento bruto
+\emph{sobreestima} cuánto cambia de agenda cada partido.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{imagenes/shift_gross_vs_specific.png}
+\caption{Desplazamiento bruto frente a desplazamiento específico (distancia
+euclídea en puntos porcentuales entre canales) por partido. El centrado por canal
+descuenta el efecto estructural común y reduce el desplazamiento en torno a
+13--17 pp en todos los casos. El PCF se incluye solo a título indicativo (véase
+el texto).}
+\label{fig:shift-canal}
+\end{figure}
+
+\subsection{Identidad que persiste y estrategia que reorganiza}
+\label{sec:res-declarada-persistencia}
+
+Descontado el efecto del canal, los extremos son lo robusto. \textbf{LFI}
+presenta el mayor desplazamiento específico ($14{,}4$ pp, con intervalo estrecho)
+y la menor persistencia de firma ($0{,}02$): es el partido que más reorganiza su
+identidad relativa según dónde habla. En su programa es una izquierda
+internacionalista y social; en Twitter su marca pasa a ser la confrontación con
+el poder (\emph{Autoridad Política}), con un perfil casi opuesto al programático.
+En el extremo contrario, \textbf{LREM}, el partido presidencial, muestra el menor
+desplazamiento específico ($5{,}7$ pp) y la mayor persistencia ($0{,}56$): su
+marca de eficiencia y gestión gubernamental reaparece de forma estable en los
+tres canales. Este contraste
+entre LFI y LREM ---reorganización frente a estabilidad--- sobrevive a los
+intervalos de confianza. Conviene precisar que lo que aquí se denomina
+\emph{estrategia} es una etiqueta descriptiva para el residuo de reorganización
+que queda tras descontar el efecto del canal, no una afirmación sobre la
+intención de los partidos.
+
+Los demás partidos quedan en una zona intermedia cuyos intervalos se solapan, por
+lo que \textbf{no conviene leer un orden exacto entre ellos}. Un caso ilustrativo
+es \textbf{MoDem}: su desplazamiento bruto es de los más altos (cercano a
+$27$ pp), pero casi todo se explica por el efecto común del canal, de modo que su
+desplazamiento específico ($10{,}5$ pp) es moderado. El \textbf{PCF}
+queda explícitamente fuera de la interpretación: su manifiesto aporta solo $39$
+cuasi-frases, lo que produce un intervalo de \emph{bootstrap} muy ancho y vuelve
+su desplazamiento no estimable con confianza; en los dos canales con datos
+suficientes (Twitter y hemiciclo) su firma sí es consistente, pero no se afirma
+nada sobre su estabilidad global. El Cuadro~\ref{tab:persistencia-canal} resume
+la persistencia de firma de los seis partidos.
+
+\begin{table}[H]
+\centering
+\caption{Persistencia de firma por partido: correlación media de los vectores de
+firma de categorías entre los tres canales (mayor valor indica una firma temática
+más estable). El PCF se reporta con la salvedad de su manifiesto pequeño.}
+\label{tab:persistencia-canal}
+\begin{tabular}{@{}l r@{}}
+\toprule
+\textbf{Partido} & \textbf{Persistencia (corr.\ media)} \\
+\midrule
+LREM & $0{,}56$ \\
+LR & $0{,}32$ \\
+MoDem & $0{,}21$ \\
+PS & $0{,}18$ \\
+PCF\textsuperscript{*} & $0{,}12$ \\
+LFI & $0{,}02$ \\
+\bottomrule
+\end{tabular}
+
+{\footnotesize \textsuperscript{*}PCF: valor no comparable con el resto. Su
+manifiesto (39 cuasi-frases) hace inestable la medida; entre Twitter y el
+hemiciclo, en cambio, su firma sí correlaciona alto.}
+\end{table}
+
+\subsection{Lectura del análisis}
+\label{sec:res-declarada-cierre}
+
+El resultado no significa que los partidos cambien por completo de identidad al
+pasar de un canal a otro. Cada uno conserva un núcleo temático reconocible que
+reaparece entre canales ---el bienestar en el PS, la gestión en LREM, la nación
+en LR, los temas sociales en LFI---; lo que cambia drásticamente es el
+\emph{peso relativo} de la meta-política, que el canal institucional y el
+comunicativo activan en todos de forma comparable (unos 13--17 pp). Dicho de otro modo, el canal
+\textbf{condiciona fuertemente la agenda observable}, hasta el punto de que
+hablar de ``la agenda'' de un partido sin especificar el canal es ambiguo: existe
+una agenda programática en el manifiesto, una comunicativa en Twitter y una
+institucional en el hemiciclo.
+
+Estas métricas, sin embargo, miden \emph{salience} ---de qué se habla--- y no
+postura ni comportamiento. Por eso el análisis siguiente cambia de superficie:
+del texto que los partidos producen al texto que \emph{votan}, donde la agenda
+revelada por el voto aporta una capa distinta de su conducta.
 
 \section{Agenda revelada por el voto}
 \label{sec:res-revelada}
