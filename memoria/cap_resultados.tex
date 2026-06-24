@@ -198,6 +198,96 @@ clasificador reproduce la codificación humana al agregar por partido y, con
 suficiente texto, recupera posiciones que se aproximan a las de un panel
 independiente de expertos.
 
+\section{Comparación exploratoria entre BERTopic y ManifestoBERTa}
+\label{sec:res-bertopic}
+
+El proyecto clasifica los cinco corpus por dos vías paralelas: la supervisada
+con ManifestoBERTa \cite{manifestoberta2024} sobre la taxonomía MARPOR
+\cite{marpor_mp_v5} y la exploratoria, no supervisada, con BERTopic
+\cite{grootendorst2022bertopic} (ambas descritas en las
+secciones~\ref{sec:metodo-manifestoberta} y~\ref{sec:metodo-bertopic}). Antes de
+los análisis a nivel de partido conviene aclarar qué aporta cada vía y por qué la
+comparación entre ellas es exploratoria y no la base del análisis principal.
+
+\subsection{Dos formas complementarias de representar los corpus}
+\label{sec:res-bt-complementarias}
+
+Las dos vías responden preguntas distintas. BERTopic \textbf{descubre}
+agrupamientos temáticos \emph{empíricos} dentro de cada corpus por separado, sin
+imponer un marco teórico previo. Sus tópicos son, por tanto, específicos de cada
+fuente y se describen con las palabras que los caracterizan, no con categorías
+comparables entre arenas.
+ManifestoBERTa, en cambio, \textbf{proyecta} todos los corpus sobre una
+\emph{taxonomía común y predefinida} ---las 56 categorías y 7 dominios de
+MARPOR---, de modo que un tuit, un párrafo de ley y una cuasi-frase de manifiesto
+quedan descritos en el mismo espacio de categorías.
+
+De esa diferencia se siguen usos distintos. BERTopic es útil para la
+\textbf{inspección exploratoria} de cada corpus: permite comprobar de forma
+cualitativa si una fuente contiene señales temáticas plausibles, detectar los
+temas empíricos esperables y, sobre todo, hacer visibles los problemas de ruido o
+de lenguaje procedimental que afectan a algunos corpus. ManifestoBERTa, por su
+naturaleza comparable, es el que habilita la \textbf{comparación sistemática
+entre fuentes} y la agregación por partido, canal y dominio; es el insumo directo
+del análisis de agenda declarada (sección~\ref{sec:res-declarada}), de agenda
+revelada (sección~\ref{sec:res-revelada}) y de su cruce
+(sección~\ref{sec:res-declarado-revelado}). En consecuencia, BERTopic acompaña y
+contextualiza el análisis principal sin sustituirlo.
+
+\subsection{Lectura exploratoria de los tópicos}
+\label{sec:res-bt-lectura}
+
+Aplicado de forma uniforme a las cinco fuentes y reducido a un número comparable
+de tópicos ---\textbf{24 tópicos finales por corpus}, más un grupo residual de
+\emph{outliers}---, BERTopic recupera agrupaciones que resultan coherentes con la
+naturaleza de cada arena. En los \textbf{manifiestos} emergen temas de carácter
+\emph{programático} propios de una campaña (educación, fiscalidad, servicios
+públicos, energía). En las \textbf{leyes} y las \textbf{enmiendas} aparecen temas
+de tono \emph{legislativo y regulatorio}: las enmiendas se reparten en asuntos
+focalizados (fiscalidad, vivienda, salud, jubilaciones), mientras que las leyes
+mezclan materia sustantiva con fórmulas administrativas recurrentes del texto
+oficial. Los \textbf{tuits} capturan sobre todo \emph{coyuntura} y comunicación
+política (actualidad, figuras y eventos del período), y las
+\textbf{intervenciones en el hemiciclo} combinan debate sustantivo con tramos de
+lenguaje \emph{procedimental} residual.
+
+Esta lectura confirma que cada fuente contiene señales temáticas plausibles, pero
+también expone los límites del enfoque no supervisado. En los corpus más grandes
+---tuits e intervenciones--- cerca de la mitad de los documentos quedan sin
+asignar como \emph{outliers}, y persisten tópicos de carácter procedimental o de
+fórmula administrativa, especialmente en leyes e intervenciones, que reflejan la
+forma del texto antes que su contenido político. El detalle completo de los
+tópicos por corpus, con sus palabras representativas, se recoge en el
+anexo~\ref{anexo:bertopic} (Cuadros~\ref{tab:bt-manifestos}
+a~\ref{tab:bt-interventions}) para no recargar la exposición.
+
+\subsection{Por qué el análisis principal usa MARPOR}
+\label{sec:res-bt-por-que-marpor}
+
+El contraste anterior es \textbf{cualitativo y de roles}: no se realiza un mapeo
+formal entre los tópicos descubiertos por BERTopic y las categorías MARPOR, sino
+que se comparan los usos de cada vía. Debe leerse, además, con tres salvedades.
+Primero, BERTopic \textbf{no valida} la clasificación MARPOR: sus tópicos son
+agrupaciones empíricas sin correspondencia directa con las categorías del
+esquema, por lo que su parecido cualitativo con los temas esperables de cada
+arena no constituye una prueba de acierto del clasificador supervisado (esa
+validación es la de la sección~\ref{sec:res-validacion}). Segundo, BERTopic
+\textbf{no reemplaza} a ManifestoBERTa: al descubrir tópicos distintos en cada
+corpus, no ofrece un espacio común en el que comparar arenas o agregar por
+partido. Tercero, sus resultados tienen una reproducibilidad solo parcial y
+carecen de métricas de coherencia, lo que desaconseja apoyar conclusiones
+cuantitativas en ellos.
+
+Por estas razones, el análisis sustantivo de los capítulos siguientes se
+construye sobre las categorías y dominios MARPOR estimados por ManifestoBERTa, y
+no sobre los tópicos de BERTopic. Ello no supone atribuir al clasificador
+supervisado una exactitud perfecta ---sus límites quedaron documentados en la
+sección~\ref{sec:res-validacion}---, sino reconocer que solo una representación
+común y comparable entre las cinco arenas permite contrastar de manera
+sistemática lo que cada partido enfatiza y lo que apoya al votar. BERTopic cumple
+así un papel de triangulación exploratoria que respalda la plausibilidad de los
+corpus sin sustituir el eje comparable del análisis.
+
 \section{Las bases de datos construidas}
 \label{sec:res-bases}
 % Cobertura y volumen por corpus; tablas resumen.
