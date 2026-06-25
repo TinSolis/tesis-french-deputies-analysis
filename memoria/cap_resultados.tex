@@ -146,7 +146,9 @@ misma muestra ---el techo se estima sobre los ocho partidos emparejables y este
 diagnóstico sobre los seis con suficiente texto---, por lo que no son
 directamente comparables; lo que indican, en conjunto, es que cuando hay
 suficiente texto por partido la posición estimada desde el discurso se aproxima a
-la de los expertos. El caso que más arrastra la correlación en la muestra
+la de los expertos.
+
+El caso que más arrastra la correlación en la muestra
 completa es el del PCF, cuyo manifiesto aporta solo 39 cuasi-frases y produce una
 estimación de RILE inestable. La Figura~\ref{fig:rile-ches} ilustra esta capa
 externa sobre los ocho partidos emparejables: se aprecia una tendencia
@@ -288,10 +290,6 @@ sistemática lo que cada partido enfatiza y lo que apoya al votar. BERTopic cump
 así un papel de triangulación exploratoria que respalda la plausibilidad de los
 corpus sin sustituir el eje comparable del análisis.
 
-\section{Las bases de datos construidas}
-\label{sec:res-bases}
-% Cobertura y volumen por corpus; tablas resumen.
-
 \section{Agenda declarada: el canal define de qué se habla}
 \label{sec:res-declarada}
 
@@ -397,7 +395,9 @@ Los demás partidos quedan en una zona intermedia cuyos intervalos se solapan, p
 lo que \textbf{no conviene leer un orden exacto entre ellos}. Un caso ilustrativo
 es \textbf{MoDem}: su desplazamiento bruto es de los más altos (cercano a
 $27$ pp), pero casi todo se explica por el efecto común del canal, de modo que su
-desplazamiento específico ($10{,}5$ pp) es moderado. El \textbf{PCF}
+desplazamiento específico ($10{,}5$ pp) es moderado.
+
+El \textbf{PCF}
 queda explícitamente fuera de la interpretación: su manifiesto aporta solo $39$
 cuasi-frases, lo que produce un intervalo de \emph{bootstrap} muy ancho y vuelve
 su desplazamiento no estimable con confianza; en los dos canales con datos
@@ -451,19 +451,441 @@ revelada por el voto aporta una capa distinta de su conducta.
 \section{Agenda revelada por el voto}
 \label{sec:res-revelada}
 
-\subsection{Dos capas del voto: posicional y temática}
-\label{sec:res-dos-capas}
-% Leyes invierten la estructura de apoyo respecto de enmiendas (gobierno vs oposición).
+El segundo análisis sustantivo cambia de superficie: de lo que los partidos
+\emph{dicen} a lo que \emph{revelan al votar}. Una ley o una enmienda no tienen
+autor partidario; el partido expresa su preferencia votando a favor o en contra,
+de modo que el cruce entre el contenido temático del texto y el voto de cada
+diputado deja ver qué apoya o rechaza cada partido. La pregunta es si ese voto
+revela preferencias \emph{temáticas} propias o si, sobre todo, refleja la
+posición \emph{institucional} de gobierno frente a oposición.
 
-\subsection{Cohesión: quién vota en bloque}
-\label{sec:res-cohesion}
-% LFI la más disciplinada; NI y LT las menos cohesionadas (bolsas mixtas).
+\subsection{Cobertura y planteamiento}
+\label{sec:res-revelada-cobertura}
 
-\subsection{Clivajes ideológicos en las enmiendas}
-\label{sec:res-clivajes}
-% Eje cultural (Fabric of Society) vs. libertades (Freedom & Democracy); consenso exterior.
+El análisis se apoya en dos corpus de voto nominal vinculados a su texto y a la
+cohorte de diputados (sección~\ref{sec:fuentes}): \textbf{335} leyes (votos
+finales de adopción) y \textbf{2.575} enmiendas. La distinción es importante,
+porque las enmiendas son mayoritariamente \emph{intentos de la oposición de
+modificar} el texto del Gobierno. Según la métrica, la unidad de análisis es el
+par \emph{partido$\times$scrutin} (en la descomposición de la varianza del apoyo)
+o el par \emph{partido$\times$dominio} (en el soporte relativo por tema). El
+soporte se calcula solo sobre los votos efectivamente expresados y exige al menos
+tres diputados del partido por \emph{scrutin}, según se definió en la
+sección~\ref{sec:metricas-revelada}.
 
-\section{Declarado vs. revelado: ¿votan lo que dicen?}
+\subsection{El eje se invierte entre leyes y enmiendas}
+\label{sec:res-revelada-inversion}
+
+El primer hallazgo es que la estructura del apoyo se \textbf{invierte} casi por
+completo al pasar de las leyes a las enmiendas
+(Figura~\ref{fig:scatter-lois-amend}). En las leyes finales manda la posición
+institucional: la mayoría presidencial vota a favor casi siempre (LREM
+$99{,}1\,\%$, MoDem $98{,}7\,\%$ de apoyo) y la oposición de izquierda rechaza
+(LFI $11{,}5\,\%$, GDR-PCF $18{,}7\,\%$). En las enmiendas el patrón se da vuelta:
+ahora la izquierda apoya en su mayoría (GDR-PCF $87{,}0\,\%$, LFI $83{,}7\,\%$,
+PS $82{,}7\,\%$) y el Gobierno las rechaza (LREM $15{,}7\,\%$, MoDem $22{,}4\,\%$),
+precisamente porque defiende su texto frente a las modificaciones propuestas. Los
+partidos se ordenan así sobre una antidiagonal: quien aprueba las leyes tiende a
+rechazar las enmiendas, y a la inversa.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.82\linewidth]{imagenes/scatter_lois_vs_amend.png}
+\caption{Soporte (\% de votos a favor sobre los expresados) de cada partido en
+las leyes finales (eje horizontal) frente a las enmiendas (eje vertical). Los
+partidos se ordenan sobre la antidiagonal: la mayoría presidencial (LREM, MoDem)
+apoya las leyes y rechaza las enmiendas; la oposición de izquierda (LFI, GDR-PCF,
+PS) hace lo contrario.}
+\label{fig:scatter-lois-amend}
+\end{figure}
+
+Conviene leer esta inversión con cuidado: en bruto, las enmiendas \emph{también}
+son posicionales, solo que con el signo invertido. El argumento no es que las
+enmiendas dejen de medir posición, sino que en ellas la lógica de bloque
+\textbf{pesa menos}, y ese margen abre espacio para una diferenciación temática.
+
+\subsection{¿Posición o tema? Descomposición del apoyo}
+\label{sec:res-revelada-descomposicion}
+
+Para cuantificar cuánto pesa cada factor se comparan cuatro modelos anidados
+sobre el apoyo por \emph{partido$\times$scrutin}, en términos de la varianza
+explicada ($R^2$ ponderado) y no de la significancia
+(sección~\ref{sec:metricas-descomposicion}). El Cuadro~\ref{tab:r2-voto} y la
+Figura~\ref{fig:r2-voto} resumen el resultado.
+
+\begin{table}[H]
+\centering
+\caption{Varianza del apoyo explicada ($R^2$ ponderado) por cuatro modelos
+anidados, en leyes y enmiendas. La unidad es el par \emph{partido$\times$scrutin}
+($n$). El modelo \emph{partido$\times$dominio} es saturado, por lo que su $R^2$ es
+una cota superior; la comparación informativa es entre los dos corpus, no el
+nivel absoluto.}
+\label{tab:r2-voto}
+\begin{tabular}{@{}l r r r r@{}}
+\toprule
+\textbf{Corpus} & \textbf{Bloque} & \textbf{Partido} & \textbf{+ Dominio} & \textbf{Partido$\times$Dominio} \\
+\midrule
+Leyes ($n=2.075$) & $0{,}47$ & $0{,}57$ & $0{,}58$ & $0{,}59$ \\
+Enmiendas ($n=13.256$) & $0{,}33$ & $0{,}35$ & $0{,}36$ & $0{,}36$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{imagenes/r2_decomposition.png}
+\caption{Varianza del apoyo explicada por cada modelo anidado (bloque, partido,
+partido más dominio, interacción partido$\times$dominio), en leyes y enmiendas.
+En las leyes el binario mayoría/oposición ya explica el grueso; el dominio
+temático añade poco en ambos corpus.}
+\label{fig:r2-voto}
+\end{figure}
+
+La lectura es matizada. En las \textbf{leyes}, el binario mayoría/oposición ya
+explica el $47\,\%$ de la varianza; el partido fino añade unos $10$ puntos
+(porque la oposición no es monolítica) y el dominio temático prácticamente nada
+(en torno a $+2$ pp incluso permitiendo interacción). En las \textbf{enmiendas}
+todo explica menos: el bloque cae al
+$33\,\%$, el partido casi no agrega ($+2$ pp) y el dominio temático tampoco
+($+1$ pp). De aquí una precisión necesaria: \textbf{no es que en las enmiendas el
+tema ``explique'' el voto}; lo que ocurre es que la capa posicional pesa menos y
+buena parte de la variación restante es idiosincrásica de cada enmienda, que la
+etiqueta de dominio no captura. El efecto temático, por tanto, es real pero
+\emph{más pequeño} que el efecto de bloque, y se mide mejor con otra herramienta.
+
+\subsection{El clivaje temático es cultural y robusto}
+\label{sec:res-revelada-clivaje}
+
+Esa herramienta es el \textbf{soporte relativo}: el apoyo de un partido a un
+dominio menos su apoyo global, lo que aísla la señal temática del efecto
+gobierno/oposición (sección~\ref{sec:metricas-revelada}). Aquí es
+\textbf{crucial} interpretarlo bien: un soporte relativo \emph{negativo no
+significa que el partido vote mayoritariamente en contra}, sino que apoya ese
+tema \emph{por debajo de su propia base}. Por ejemplo, PS, LFI y GDR-PCF, pese a
+su soporte relativo de $-16$ a $-22$ pp en \emph{Fabric of Society}, siguen
+aprobando en términos absolutos la mayoría de esas enmiendas (del orden de
+$61$ a $70\,\%$ a favor), solo que muy por debajo de su base general (en torno a
+$83$--$87\,\%$).
+
+Sobre las enmiendas (Figura~\ref{fig:heatmap-soporte-enmiendas}), el clivaje más
+nítido es \textbf{cultural}, no económico, y se ordena en dos dominios espejo:
+\begin{itemize}
+  \item \emph{Fabric of Society} (orden público, inmigración, modo de vida
+        nacional): la izquierda lo apoya \emph{de menos} (PS $-21{,}9$,
+        GDR-PCF $-17{,}5$, LFI $-15{,}9$, EDS $-14{,}9$ pp) y el centro-derecha
+        de más (UDI-Agir $+7{,}7$, MoDem $+3{,}3$ pp).
+  \item \emph{Freedom \& Democracy} (libertades, derechos, democracia): el patrón
+        se invierte, con la derecha apoyando \emph{de menos} (LR $-19{,}1$,
+        NI $-19{,}9$ pp) y la izquierda de más (LFI $+7{,}0$ pp).
+\end{itemize}
+La \emph{Economy}, en cambio, polariza menos: sus signos están mezclados y no
+dibujan un eje izquierda--derecha limpio.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.92\linewidth]{imagenes/heatmap_domain_support_amendements.png}
+\caption{Soporte relativo por dominio en las enmiendas (apoyo por tema menos
+apoyo global del partido, en pp; azul indica apoyo por encima de la propia base y
+rojo por debajo). El eje cultural ---\emph{Fabric of Society} frente a
+\emph{Freedom \& Democracy}--- es el más marcado. La columna \emph{External
+Relations} se excluye de la interpretación por su escasa base muestral (véase el
+texto).}
+\label{fig:heatmap-soporte-enmiendas}
+\end{figure}
+
+Este clivaje no es un artefacto de unos pocos votos. Un remuestreo por
+\emph{scrutin} (\emph{bootstrap}) confirma que las dos puntas son sólidas: el menor apoyo
+relativo de la izquierda a \emph{Fabric of Society} y el de la derecha (LR, NI) a
+\emph{Freedom \& Democracy} conservan el signo en prácticamente el $100\,\%$ de
+las réplicas y sus intervalos excluyen el cero (Cuadro~\ref{tab:clivaje-ci}).
+Además, el patrón se reparte en más de $50$ leyes distintas en cada dominio, de
+modo que no proviene de un único debate. El lado más frágil es el apoyo
+\emph{positivo} del centro-derecha a \emph{Fabric of Society} (UDI-Agir $+7{,}7$,
+con intervalo que roza el cero): el clivaje se sostiene sobre todo porque cada
+bloque apoya \emph{de menos} el tema del otro. Debe señalarse, además, que no se
+controla quién propone cada enmienda (sección~\ref{sec:corpus-enmiendas}), lo que
+podría explicar en parte estas diferencias; aun así, la robustez al remuestreo y
+el reparto entre leyes hacen improbable que el patrón sea un mero artefacto.
+
+\begin{table}[H]
+\centering
+\caption{Soporte relativo (pp) de las dos puntas del clivaje cultural en las
+enmiendas, con intervalo de confianza al $95\,\%$ por \emph{bootstrap} de
+\emph{scrutins} y estabilidad de signo (fracción de réplicas que conservan el signo).}
+\label{tab:clivaje-ci}
+\begin{tabular}{@{}l l r c r@{}}
+\toprule
+\textbf{Partido} & \textbf{Dominio} & \textbf{Soporte rel.\ (pp)} & \textbf{IC$_{95}$} & \textbf{Estab.\ signo} \\
+\midrule
+PS & Fabric of Society & $-21{,}9$ & $[-29{,}7,\ -14{,}2]$ & $1{,}00$ \\
+GDR-PCF & Fabric of Society & $-17{,}5$ & $[-27{,}4,\ -7{,}1]$ & $1{,}00$ \\
+LFI & Fabric of Society & $-15{,}9$ & $[-23{,}9,\ -8{,}4]$ & $1{,}00$ \\
+EDS & Fabric of Society & $-14{,}9$ & $[-25{,}1,\ -4{,}6]$ & $1{,}00$ \\
+LR & Freedom \& Democracy & $-19{,}1$ & $[-25{,}0,\ -13{,}9]$ & $1{,}00$ \\
+NI & Freedom \& Democracy & $-19{,}9$ & $[-27{,}8,\ -12{,}5]$ & $1{,}00$ \\
+LFI & Freedom \& Democracy & $+7{,}0$ & $[+2{,}7,\ +11{,}2]$ & $1{,}00$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Cohesión: el voto valida el agrupamiento}
+\label{sec:res-revelada-cohesion}
+
+Como apoyo secundario, la cohesión interna medida con el índice de Rice
+(sección~\ref{sec:metricas-revelada}) confirma que tratar a los grupos como
+familias políticas es razonable. LFI es el partido más disciplinado (índice de
+Rice cercano a $1{,}00$ en ambos corpus): su radicalidad discursiva no implica
+indisciplina de voto. En el extremo opuesto, los agregados heterogéneos son los
+menos cohesionados ---NI en las leyes ($\approx 0{,}74$), y UDI-Agir y LT en las
+enmiendas ($\approx 0{,}74$--$0{,}77$)---, lo que es coherente con que se trata de
+no inscritos y grupos mixtos más que de partidos homogéneos, y justifica leer sus
+métricas con cautela. El núcleo de familias con voto coherente (PS, GDR-PCF,
+LREM, MoDem, LR) mantiene una cohesión por encima de $0{,}88$ en ambos corpus.
+
+\subsection{Lectura del análisis}
+\label{sec:res-revelada-cierre}
+
+El voto no reemplaza a la agenda declarada: mide otra capa del comportamiento
+partidario. Las leyes finales capturan sobre todo \emph{disciplina de bloque}
+---conocer si un partido está en la mayoría o en la oposición permite anticipar
+en gran medida su voto---, mientras que las enmiendas, al aflojar esa lógica
+posicional, permiten observar mejor las \emph{preferencias temáticas}. Lo que en
+ellas aflora es un clivaje modesto en magnitud pero estadísticamente sólido y,
+en esta legislatura, más cultural (orden y modo de vida frente a libertades y
+derechos) que económico. Conviene no sobreinterpretarlo: el efecto temático es
+real pero pequeño frente al peso de la posición, y describe alineaciones
+agregadas, no relaciones causales. Con la agenda declarada
+(sección~\ref{sec:res-declarada}) y la revelada ya caracterizadas por separado,
+el análisis siguiente las pone en contraste: ¿apoyan los partidos al votar los
+temas que enfatizan en su discurso?
+
+\section{Declarado frente a revelado: ¿votan lo que dicen?}
 \label{sec:res-declarado-revelado}
-% Tipología por celda (énfasis respaldado / coherencia negativa / oposicional);
-% coherencia agregada débil; la estructura interpretable está en los signos por celda.
+
+Los dos análisis anteriores miden señales distintas de cada partido y no se
+habían cruzado: la agenda declarada (sección~\ref{sec:res-declarada}) capta
+\emph{de qué habla} cada partido y la revelada
+(sección~\ref{sec:res-revelada}), \emph{qué apoya relativamente} al votar
+enmiendas, neto de su posición gobierno/oposición. Este tercer análisis los pone
+en contacto: ¿los dominios que un partido sobre-enfatiza en su comunicación son
+también los que apoya por encima de su propia base al votar? La pregunta no es si
+existe una alineación global perfecta ---no la hay---, sino si la relación
+discurso--voto adopta patrones \emph{localizados} e interpretables.
+
+\subsection{Diseño de la comparación}
+\label{sec:res-cruce-diseno}
+
+Las dos agendas viven en magnitudes distintas y \textbf{no son directamente
+restables}. La declarada es un énfasis (porcentaje de quasi-frases): siempre
+positiva y sin dirección. La revelada es un soporte \emph{signado}, con
+dirección. Por eso no
+se comparan niveles, sino \textbf{firmas centradas} por partido y dominio: a cada
+señal se le resta su referencia (el promedio del dominio entre partidos
+comparables, en el caso declarado; el apoyo global del partido, en el revelado),
+de modo que ambas expresan distintividad ---``más/menos que mi referencia''--- y
+sus \emph{signos} sí son comparables celda a celda
+(sección~\ref{sec:metricas-cruce}). El análisis se mantiene a nivel de los siete
+dominios MARPOR (seis, al excluir \emph{External Relations} por su bajísima base
+de voto) y no de las $56$ categorías: la unidad revelada ---enmiendas votadas---
+no tiene densidad para estimar un soporte relativo estable en $56$ categorías, así
+que los dominios sacrifican detalle a cambio de robustez.
+
+Conviene retener la advertencia de la sección anterior: un soporte relativo
+\textbf{negativo no significa voto mayoritario en contra}, sino apoyo por debajo
+de la base del propio partido. Toda la tipología que sigue compara \emph{signos
+relativos}, no niveles absolutos.
+
+\paragraph{Cobertura.}
+El cruce con manifiestos solo admite \textbf{seis partidos comparables} ---LFI,
+PS, PCF, MoDem, LREM y LR---, porque el manifiesto se indexa por partido electoral
+de 2017 y el voto por grupo parlamentario de la XV legislatura, y solo esos seis
+coinciden limpiamente. En lo que sigue, PCF designa al partido electoral, cuyo
+grupo parlamentario es GDR-PCF en los datos de voto (de ahí que su soporte
+revelado coincida con el reportado para GDR-PCF en la sección
+anterior). Tweets y hemiciclo comparten la consolidación de grupos del
+voto y permiten comparar diez familias, pero la comparación entre canales debe
+restringirse a intersecciones equivalentes. Como en las secciones previas, debe
+recordarse que ``partido'' designa unidades heterogéneas según el canal
+(partido-organización en el manifiesto, diputados individuales en tweets, grupo
+parlamentario en hemiciclo y voto), por lo que la lectura es exploratoria.
+
+\subsection{Resultado principal: una tipología, no un ranking}
+\label{sec:res-cruce-tipologia}
+
+El aporte central no es un coeficiente de alineación sino una \textbf{tipología
+por celda}. Cruzando el signo de la firma declarada con el de la revelada, cada
+par partido$\times$dominio cae en uno de cuatro tipos
+(Figura~\ref{fig:cruce-cuadrantes}): \emph{énfasis respaldado} (habla más y apoya
+relativamente más), \emph{énfasis no respaldado} (habla más pero apoya
+relativamente menos), \emph{apoyo no enfatizado} (habla menos pero apoya
+relativamente más) y \emph{baja prioridad y menor apoyo relativo} (habla menos y
+apoya relativamente menos). Los nombres son descriptivos, no normativos.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{imagenes/fig_quadrants_manifiesto.png}
+\caption{Firma declarada en el manifiesto (eje horizontal, énfasis del partido en
+un dominio respecto del promedio de sus pares, en pp) frente a la firma revelada
+en enmiendas (eje vertical, soporte relativo del análisis anterior, en pp), para
+los seis partidos comparables. Cada punto es un dominio. El cuadrante superior
+derecho corresponde a \emph{énfasis respaldado} y el inferior izquierdo a
+\emph{baja prioridad y menor apoyo relativo}. El coeficiente por partido ($r$) se
+muestra solo como resumen descriptivo (véase la sección~\ref{sec:res-cruce-coherencia}).}
+\label{fig:cruce-cuadrantes}
+\end{figure}
+
+Conviene distinguir \textbf{dos formas de coherencia} entre dicho y hecho. La
+\emph{afirmativa}: el partido enfatiza un dominio y lo apoya relativamente más
+(cuadrante superior derecho). Y la \emph{negativa}: el partido no se apropia de un
+dominio y además lo apoya relativamente menos (cuadrante inferior izquierdo). La
+segunda es tan informativa como la primera ---una distancia sostenida en discurso
+\emph{y} voto es tan coherente como una bandera--- y evita reducir la idea de
+``coherencia'' al cuadrante afirmativo.
+
+\paragraph{Banderas respaldadas (coherencia afirmativa).}
+Hay casos donde la identidad del partido se sostiene del discurso al voto en sus
+temas propios. \textbf{LFI} y las libertades civiles (\emph{Freedom \&
+Democracy}) es el caso más nítido: énfasis declarado positivo y soporte relativo
+$+6{,}9$ pp (apoyo absoluto $90{,}6\,\%$ sobre una base de $\sim 84\,\%$). \textbf{PS}
+y el bienestar (\emph{Welfare \& QoL}): fuerte énfasis en el manifiesto ($+12{,}8$)
+y soporte relativo $+3{,}6$. \textbf{MoDem} ilustra el caso del centro de
+gobierno en \emph{Economy}: la enfatiza ($+2{,}5$) y la apoya relativamente más
+($+5{,}5$), aun cuando su apoyo absoluto sea bajo ($27{,}9\,\%$), porque está por
+encima de su base global ($\sim 22\,\%$) ---ilustración de que la señal temática
+es enteramente relativa---. \textbf{LREM} comparte ese soporte relativo positivo
+en economía, si bien su énfasis declarado en el dominio es prácticamente neutro.
+
+\paragraph{Distancia cultural de la izquierda (coherencia negativa).}
+Es el patrón más limpio del capítulo. En \emph{Fabric of Society} (identidad,
+seguridad, nación), la izquierda \textbf{no se apropia discursivamente del eje y a
+la vez lo apoya relativamente menos} que cualquier otro tema: el énfasis positivo
+está ausente en las nueve combinaciones partido-canal de LFI, PCF y PS, y el
+soporte relativo es marcadamente negativo (PS $-21{,}9$, PCF $-17{,}5$, LFI
+$-15{,}9$). Debe insistirse en que esto \textbf{no es rechazo absoluto}: la
+izquierda sigue aprobando en mayoría esas enmiendas ($60$--$70\,\%$ a favor), solo
+que muy por debajo de su altísima base. Un matiz de medición: PS no sub-enfatiza
+\emph{Fabric of Society} en sentido estricto (su firma declarada es $+0{,}1$,
+prácticamente neutra: en la Figura~\ref{fig:cruce-cuadrantes} queda sobre el eje
+vertical, y por eso el Cuadro~\ref{tab:cruce-casos} lo reporta como neutro pese a
+su signo crudo). El patrón se describe mejor como \emph{ausencia de apropiación
+discursiva positiva combinada con soporte relativo negativo} que como silencio
+explícito.
+
+\paragraph{Énfasis no respaldado (uso oposicional).}
+Otros casos enfatizan un tema cuyo soporte relativo es negativo, lo que, según el
+contexto, sugiere un uso confrontativo más que legislativo. \textbf{LR} y
+\emph{Fabric of Society}: lo enfatiza en dos de los tres canales (su \emph{issue
+ownership} securitario) pero su soporte relativo es $-4{,}7$, más discursivo que
+respaldado en enmiendas.
+\textbf{NI} (donde se ubica el RN) y las libertades en el hemiciclo: enfatiza
+derechos ($+2{,}3$) pero su soporte relativo es $-19{,}8$ (apoyo absoluto
+$53{,}5\,\%$ sobre una base de $\sim 73\,\%$), un uso del lenguaje de las
+libertades para confrontar. Conviene \textbf{no} sobre-leer el manifiesto del
+\textbf{PCF}: su muestra es pequeña ($39$ quasi-frases) y casos como
+PCF--\emph{Political System} ($+10{,}5$ declarado) descansan en categorías de
+muestra mínima señaladas como ruido, por lo que sus celdas se toman como
+indicativas.
+
+El Cuadro~\ref{tab:cruce-casos} reúne las celdas canónicas que sostienen esta
+lectura; la tipología completa por canal queda en
+\texttt{declared\_revealed\_aligned.csv} y puede llevarse a un anexo si se desea
+el detalle de las $36$ celdas del manifiesto.
+
+\begin{table}[H]
+\centering
+\caption{Celdas canónicas de la tipología (manifiesto, salvo la fila de NI, que es
+hemiciclo). \emph{s\_decl} y \emph{s\_rev} son las firmas centradas declarada y
+revelada (pp); ``Apoyo abs.'' y ``Base'' son el apoyo absoluto al dominio y el
+apoyo global del partido en enmiendas (\%). Un \emph{s\_rev} negativo indica apoyo
+por debajo de la base, no voto mayoritario en contra.}
+\label{tab:cruce-casos}
+\begin{tabular}{@{}l l r r r r l@{}}
+\toprule
+\textbf{Partido} & \textbf{Dominio} & \textbf{s\_decl} & \textbf{s\_rev} & \textbf{Apoyo abs.} & \textbf{Base} & \textbf{Tipo} \\
+\midrule
+LFI & Freedom \& Democracy & $+1{,}8$ & $+6{,}9$ & $90{,}6$ & $\sim 84$ & énfasis respaldado \\
+PS & Welfare \& QoL & $+12{,}8$ & $+3{,}6$ & $86{,}3$ & $\sim 83$ & énfasis respaldado \\
+MoDem & Economy & $+2{,}5$ & $+5{,}5$ & $27{,}9$ & $\sim 22$ & énfasis respaldado \\
+LFI & Fabric of Society & $-2{,}8$ & $-15{,}9$ & $67{,}8$ & $\sim 84$ & baja prioridad / menor apoyo rel. \\
+PCF & Fabric of Society & $-2{,}3$ & $-17{,}5$ & $69{,}5$ & $\sim 87$ & baja prioridad / menor apoyo rel. \\
+PS & Fabric of Society & $+0{,}1$ & $-21{,}9$ & $60{,}8$ & $\sim 83$ & neutro / bajo apoyo rel. \\
+LR & Fabric of Society & $+4{,}1$ & $-4{,}7$ & $66{,}2$ & $\sim 71$ & énfasis no respaldado \\
+NI & Freedom \& Democracy & $+2{,}3$ & $-19{,}8$ & $53{,}5$ & $\sim 73$ & énfasis no respaldado \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Resultado secundario: la coherencia por partido es frágil}
+\label{sec:res-cruce-coherencia}
+
+Resumir la alineación de cada partido en un único coeficiente (la correlación
+entre su firma declarada y la revelada sobre los seis dominios) es tentador, pero
+\textbf{no permite rankear partidos}. La Figura~\ref{fig:cruce-coherencia} muestra
+los coeficientes con sus intervalos de confianza por \emph{bootstrap} de dominios:
+con solo seis puntos, los intervalos cubren casi todo el rango $[-1, +1]$ para
+\emph{todos} los partidos, ningún coeficiente es distinguible de cero ni de los
+demás, y el orden cambia según se use Pearson, Spearman o la variante re-centrada
+(LR pasa de $0{,}40$ a $0{,}65$; MoDem de $0{,}12$ a $-0{,}10$). Estos intervalos
+no deben leerse como inferencia estadística fuerte, sino como una visualización de
+la \textbf{sensibilidad} del coeficiente a la composición temática: una
+demostración de fragilidad, no un estimador de ``coherencia partidaria''. Por eso
+el peso interpretativo recae en la tipología por celda, que no depende de este
+coeficiente.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.85\linewidth]{imagenes/fig_coherence_ranking.png}
+\caption{Coherencia declarado--revelado por partido (correlación de Pearson entre
+firma declarada en el manifiesto y revelada en enmiendas, sobre seis dominios),
+con intervalo de confianza al $95\,\%$ por \emph{bootstrap} de dominios. Los
+intervalos, muy anchos por $n=6$, cubren casi todo el rango para todos los
+partidos: el orden no es interpretable como un ranking de coherencia. En gris, los
+manifiestos de muestra pequeña (PS, PCF).}
+\label{fig:cruce-coherencia}
+\end{figure}
+
+\subsection{Resultado exploratorio: ningún canal anticipa mejor el voto}
+\label{sec:res-cruce-canales}
+
+¿Anticipa algún canal declarado el voto mejor que los otros? A primera vista
+(Figura~\ref{fig:cruce-canales}), hemiciclo y tweets parecen alinearse mejor con
+el soporte relativo que el manifiesto. Pero la comparación no es justa: el
+manifiesto cubre seis partidos y los otros canales diez, y un mayor rango
+ideológico infla mecánicamente la correlación. Igualando los tres canales a los
+mismos seis partidos, la alineación agregada queda \textbf{pareja y débil} en
+todos: manifiesto $0{,}12$, tweets $0{,}19$ y hemiciclo $0{,}16$. La aparente
+superioridad del hemiciclo era casi todo un artefacto de cobertura. Cuando se
+restringe a la misma base comparable, ningún canal anticipa de forma
+sustantivamente mejor el voto; la lectura es exploratoria.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.78\linewidth]{imagenes/fig_coherence_by_channel.png}
+\caption{Coherencia (correlación de Pearson) entre la firma declarada de cada
+canal y el soporte relativo revelado en enmiendas, por partido. El manifiesto solo
+cubre seis partidos; la mayor coherencia aparente de tweets y hemiciclo se debe en
+buena parte a que abarcan diez familias y, por tanto, más rango ideológico.}
+\label{fig:cruce-canales}
+\end{figure}
+
+\subsection{Lectura del análisis}
+\label{sec:res-cruce-cierre}
+
+La agenda declarada se alinea solo \textbf{débilmente} con la revelada por el
+voto: la relación no es lo bastante estable como para inferir qué dominios
+recibirán más apoyo relativo, ni para rankear partidos por coherencia, ni para
+coronar un canal como mejor predictor. Pero no es aleatoria: adopta formas
+sistemáticas y localizadas ---banderas respaldadas (LFI con las libertades, PS con
+el bienestar, el centro de gobierno con la economía), una coherencia negativa
+limpia en el eje cultural de la izquierda, y usos oposicionales del tema en LR y
+NI---. La coherencia, así, se concentra en las banderas de identidad y se diluye o
+invierte en los temas usados instrumentalmente.
+
+Este resultado conecta los dos análisis previos sin confundirlos: declarado y
+revelado \textbf{no son equivalentes}, sino capas distintas del comportamiento
+partidario. El voto añade una dimensión que el discurso no agota ---una capa
+posicional de bloque y un clivaje ideológico que aflora en las enmiendas---, y su
+relación con lo que los partidos dicen es parcial, multidimensional y mejor
+descrita por una cartografía de alineaciones y brechas que por un único índice de
+consistencia. No se afirma, en ningún caso, que el discurso cause el voto ni a la
+inversa.
