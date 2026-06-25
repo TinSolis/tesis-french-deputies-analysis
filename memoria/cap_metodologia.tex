@@ -29,8 +29,11 @@ corpus se cruzan contra esa tabla, de modo que un mismo diputado se identifica
 siempre con la misma clave a lo largo de las cinco fuentes. El
 Cuadro~\ref{tab:corpus-resumen} resume, para cada fuente, qué representa, su
 unidad textual, el filtro principal de calidad, el tamaño del corpus analizable
-documentado y su rol declarado/revelado; las subsecciones siguientes detallan
-cada una.
+documentado y su rol declarado/revelado; el Cuadro~\ref{tab:corpus-cobertura} lo
+complementa con el período cubierto, el nivel político observado y el vínculo con
+los partidos o grupos parlamentarios, para orientar al lector entre fuentes que
+no observan el mismo tipo de actor. Las subsecciones siguientes detallan cada
+una.
 
 \begin{table}[H]
 \centering
@@ -48,8 +51,32 @@ tamaño documentado del corpus analizable y rol en el contraste declarada/revela
 Manifiestos & Programa electoral 2017 & cuasi-frase MARPOR & unidad nativa (sin filtro de longitud) & 3.801 cuasi-frases (10 partidos) & declarada \\
 Twitter & Comunicación en redes & tuit & $\geq 10$ palabras & 222.644--224.466 tuits & declarada \\
 Hemiciclo & Debate en sesión & intervención & \texttt{deputy\_id} $+\geq 10$ palabras $+$ no procedimental & 338.192 intervenciones & declarada \\
-Leyes & Adopción de texto promulgado & párrafo de ley (JORF) & confianza alta de texto $+\geq 10$ palabras & 373 scrutins; 23.267 párrafos & revelada \\
-Enmiendas & Voto sobre cambios propuestos & enmienda (texto $+$ exposición) & confianza alta/media $+\geq 10$ palabras & 3.126 scrutins; 2.575 enmiendas & revelada \\
+Leyes & Adopción de texto promulgado & párrafo de ley (JORF) & confianza alta de texto $+\geq 10$ palabras & 335 scrutins analizados (373 de adopción); 23.267 párrafos & revelada \\
+Enmiendas & Voto sobre cambios propuestos & enmienda (texto $+$ exposición) & confianza alta/media $+\geq 10$ palabras & 2.575 enmiendas analizadas (de 3.126 scrutins) & revelada \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Resumen de cobertura temporal y nivel político por fuente. Complementa al
+Cuadro~\ref{tab:corpus-resumen} (unidad textual, filtro y tamaño) con el período
+cubierto, el actor o nivel de agregación observado y el vínculo con los partidos o
+grupos parlamentarios.}
+\label{tab:corpus-cobertura}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.15}
+\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+\begin{tabularx}{\textwidth}{@{}l Z Z Z@{}}
+\toprule
+\textbf{Fuente} & \textbf{Período} & \textbf{Nivel político observado} & \textbf{Vínculo con partido/grupo} \\
+\midrule
+Manifiestos & 2017 & Partido como organización & Manifiesto MARPOR por partido electoral \\
+Twitter & dic.\ 2011--mar.\ 2026 (retrospectivo; no acotado a 2017--2022) & Diputado individual & Tuit $\rightarrow$ diputado $\rightarrow$ grupo \\
+Hemiciclo & XV legislatura (2017--2022) & Diputado individual & Intervención $\rightarrow$ diputado $\rightarrow$ grupo \\
+Leyes & XV legislatura (2017--2022) & Grupo parlamentario (voto agregado) & Voto nominal $\rightarrow$ diputado $\rightarrow$ grupo \\
+Enmiendas & XV legislatura (2017--2022) & Grupo parlamentario (voto agregado) & Voto nominal $\rightarrow$ diputado $\rightarrow$ grupo \\
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -83,10 +110,13 @@ apellido. El resultado es el archivo \texttt{deputes\_2017\_2022.csv}, que
 contiene \textbf{668} diputados, de los cuales \textbf{587} (un $87{,}9\,\%$)
 disponen de una cuenta de Twitter identificada y \textbf{81} no la tienen. La
 cohorte abarca \textbf{18} grupos parlamentarios distintos, con una marcada
-asimetría de tamaño: los grupos mayoritarios (por ejemplo, LAREM con del orden de
-$317$ diputados y LR con $117$) concentran la mayor parte de la cohorte, mientras
-que numerosos grupos menores aportan pocas decenas de miembros. Esta tabla es el
-primer eslabón del pipeline: sin ella no existe una cohorte única ni cruces
+asimetría de tamaño: dos grupos mayoritarios ---LAREM ($\approx 317$ diputados) y
+LR ($117$)--- concentran la mayor parte de la cohorte, seguidos a gran distancia
+por MoDem ($\approx 37$) y por una decena de grupos menores (socialistas, GDR, La
+France insoumise y otros) que aportan entre quince y poco más de veinte miembros
+cada uno. Esta asimetría es relevante para la lectura posterior: en los grupos más
+pequeños las estimaciones por canal descansan en pocas voces. La tabla maestra es
+el primer eslabón del pipeline: sin ella no existe una cohorte única ni cruces
 consistentes entre las demás fuentes.
 
 \subsection{Manifiestos electorales}
@@ -150,12 +180,24 @@ filtro de longitud que conserva solo los tuits con \textbf{al menos 10
 palabras}; tras este filtro el corpus analizable se sitúa entre
 \textbf{222.644} y \textbf{224.466} tuits según el módulo de análisis. Dos
 limitaciones de cobertura son inherentes a este método de
-recolección y deben hacerse explícitas: el desplazamiento captura una
-\emph{ventana reciente} de la línea de tiempo de cada cuenta ---con marcas de
-tiempo que llegan hasta cerca de febrero de 2026---, por lo que el corpus excede
-la legislatura 2017--2022 y mezcla actividad posterior; y se observan
-\textbf{74.659} filas duplicadas por identificador de tuit (\texttt{tweet\_id}),
-producto de capturar la misma cuenta en varias sesiones.
+recolección y deben hacerse explícitas: el desplazamiento recorre la línea de
+tiempo de cada cuenta \emph{desde la actividad más reciente hacia atrás}, de modo
+que la ventana temporal capturada depende del uso que cada diputado da a la
+cuenta. En las cuentas oficiales que dejaron de actualizarse al terminar el
+mandato, el material recogido corresponde mayormente al período de la
+legislatura; en cambio, en la fracción de diputados que sigue usando Twitter
+como plataforma de comunicación, el desplazamiento alcanza sobre todo los
+últimos años de actividad y no necesariamente la ventana 2017--2022. De hecho,
+las marcas de tiempo del corpus capturado abarcan un \textbf{rango observado de
+diciembre de 2011 a marzo de 2026}, claramente fuera de la XV legislatura; el
+corpus mezcla, por tanto, tramos temporales heterogéneos según la cuenta. (Como
+el filtro de longitud opera sobre el texto y no sobre la fecha, el corpus
+analizable hereda ese mismo rango; las marcas de tiempo provienen de
+\texttt{tweets\_with\_deputies.csv}, ya que \texttt{tweets\_text\_only.csv} no
+conserva la fecha.) La segunda
+limitación es que se observan \textbf{74.659} filas duplicadas por identificador
+de tuit (\texttt{tweet\_id}), producto de capturar la misma cuenta en varias
+sesiones.
 % TODO: verificar el tratamiento de la deduplicacion de tuits (74.659 duplicados)
 % y de los 632 tuits sin diputado en el analisis downstream.
 
@@ -317,7 +359,9 @@ sin sigla de grupo; además, el cruce entre la lista de la Asamblea y las cuenta
 de Twitter se hace por nombre y apellido sin emparejamiento aproximado, lo que es
 sensible a homónimos y variantes ortográficas y deja $12$ cuentas de Twitter sin
 correspondencia. En Twitter, $54$ cuentas no se capturaron y la cobertura
-temporal excede la legislatura. En el hemiciclo, cerca del $30\,\%$ de las
+temporal varía según la cuenta ---el desplazamiento recorre cada perfil desde lo
+más reciente hacia atrás, por lo que en las cuentas aún activas predominan los
+últimos años y no la ventana 2017--2022. En el hemiciclo, cerca del $30\,\%$ de las
 intervenciones carecen de \texttt{deputy\_id}. En los manifiestos, $40$ diputados
 quedan fuera por pertenecer a grupos sin programa MARPOR. Y en leyes y enmiendas,
 el emparejamiento entre votación y texto es heurístico: las filas de confianza
@@ -332,23 +376,41 @@ efectivamente analizado.
 
 Una vez construidos y enlazados los corpus (secciones~\ref{sec:fuentes}
 y~\ref{sec:normalizacion}), el problema pasa de la integración de datos a la
-medición del contenido: asignar a cada documento un tema político de forma que
-las cinco arenas resulten comparables. Para ello se combinan dos vías
-complementarias. La primera es una clasificación supervisada sobre una taxonomía
-política estándar (ManifestoBERTa sobre el esquema MARPOR), que constituye el
-núcleo del análisis. La segunda es un modelado de tópicos no supervisado
-(BERTopic), de carácter exploratorio. La sección cierra con el diseño de la
-validación, que contrasta las estimaciones de texto contra códigos humanos y
-contra un \emph{benchmark} externo de expertos. Se describe aquí únicamente la
-metodología; los resultados se presentan en el capítulo correspondiente.
+medición del contenido. El obstáculo de fondo es que las cinco arenas son
+\textbf{heterogéneas y no resultan directamente comparables} ---difieren en
+vocabulario, registro, audiencia y unidad textual (sección~\ref{sec:metodo-marpor})---,
+de modo que contrastar de qué habla y qué vota cada partido exige primero llevar
+todos los textos a una representación común. Con ese fin se combinan tres
+instrumentos de propósitos distintos, cuyos roles conviene fijar antes de
+detallarlos.
+
+El \textbf{núcleo} es una clasificación supervisada con ManifestoBERTa sobre el
+esquema MARPOR: proyecta los cinco corpus sobre una misma taxonomía de categorías
+y dominios, que es precisamente lo que habilita la comparación sistemática entre
+fuentes y la agregación por partido. Como \textbf{complemento exploratorio} se
+aplica un modelado de tópicos no supervisado con BERTopic: en lugar de imponer
+categorías teóricas, descubre agrupaciones empíricas dentro de cada corpus, lo que
+ayuda a inspeccionar qué temas emergen del texto y a detectar ruido o lenguaje
+procedimental que la vía supervisada no expone por sí sola. Por último, el diseño
+de \textbf{validación} emplea el índice RILE y el \emph{Chapel Hill Expert Survey}
+(CHES) como contraste posicional externo, circunscrito a los manifiestos, para
+estimar en qué medida las predicciones del clasificador reproducen referencias
+independientes. En síntesis, ManifestoBERTa aporta la representación comparable
+que sostiene el análisis, BERTopic una lectura exploratoria que lo contextualiza,
+y RILE/CHES la evidencia de validez. Se describe aquí únicamente la metodología;
+los resultados se presentan en el capítulo correspondiente.
 
 \subsection{Taxonomía MARPOR como espacio común de comparación}
 \label{sec:metodo-marpor}
 
 El obstáculo de fondo para comparar manifiestos, tuits, intervenciones, leyes y
-enmiendas es que cada arena tiene su propio vocabulario, registro y unidad
-textual. Comparar agendas exige proyectar todas esas superficies discursivas
-sobre un mismo espacio de categorías políticas. Para ello se adopta el esquema de
+enmiendas es que cada arena tiene su propio vocabulario, registro, audiencia y
+unidad textual: los manifiestos se dirigen al electorado, Twitter a públicos
+amplios y mediáticos, el hemiciclo a una audiencia institucional o parlamentaria,
+y las leyes y enmiendas a la administración y al ordenamiento jurídico dentro del
+proceso legislativo formal. Comparar
+agendas exige proyectar todas esas superficies discursivas sobre un mismo espacio
+de categorías políticas. Para ello se adopta el esquema de
 codificación del \emph{Manifesto Project} (MARPOR) \cite{marpor_mp_v5}, un
 estándar consolidado de la ciencia política comparada con el que se han
 codificado manualmente programas electorales de decenas de países desde
@@ -413,8 +475,19 @@ que se retienen las tres categorías más probables (con su etiqueta, su código
 su probabilidad) y el dominio asociado a la categoría principal. Conservar
 también la segunda y la tercera categoría es una concesión a que el esquema
 MARPOR asume una etiqueta por documento, lo que penaliza a los textos
-multitemáticos; las probabilidades sirven para ordenar las categorías, no como
-una medida calibrada de confianza.
+multitemáticos; las probabilidades sirven para ordenar las categorías y como
+diagnóstico, no como una medida calibrada de confianza.
+
+En coherencia con lo anterior, el análisis principal usa la \textbf{etiqueta} de
+la categoría principal (top-1) y su dominio como clasificación de cada documento,
+y \textbf{no pondera los documentos por la probabilidad del modelo}: al no estar
+calibradas, esas probabilidades no se emplean como pesos. Esta decisión no debe
+confundirse con las ponderaciones que sí aplican algunas métricas a nivel de
+partido ---por número de votos o por la composición temática del texto del
+\emph{scrutin}--- (sección~\ref{sec:metricas}), ajenas a la confianza del
+clasificador. Ponderar los documentos por la probabilidad del top-1 queda
+planteado como posible análisis de robustez futuro, condicionado a una calibración
+previa de esas probabilidades.
 
 Este módulo es el \textbf{núcleo del análisis principal} por dos razones. Por un
 lado, produce una representación temática homogénea y citable de las cinco
@@ -472,6 +545,16 @@ aleatoriedad (UMAP y HDBSCAN), por lo que su reproducibilidad es solo parcial.
 Por todo ello BERTopic se mantiene como herramienta de exploración y no como base
 de las mediciones. El pipeline está centralizado en un ejecutor común
 (\texttt{common/bertopic\_runner.py}) compartido por las cinco fuentes.
+
+Dado que ambas vías clasifican los \emph{mismos} documentos, es posible cruzar
+un tópico de BERTopic con la distribución de dominios MARPOR de los documentos
+que lo componen. Se evaluó ese cruce de forma ilustrativa enlazando, por el texto
+del documento, los tópicos de BERTopic con las predicciones del clasificador. El
+objetivo es mostrar la \emph{complementariedad} entre ambas representaciones, no
+validar una con la otra ---son de naturaleza distinta---. La figura
+correspondiente se remite al anexo~\ref{anexo:bertopic-marpor}, donde se reporta
+un caso del corpus de enmiendas en el que un agrupamiento empírico se concentra
+de forma coherente en un dominio de la taxonomía.
 
 \subsection{Diseño de validación}
 \label{sec:metodo-validacion}
