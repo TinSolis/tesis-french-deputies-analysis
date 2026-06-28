@@ -1,9 +1,10 @@
 {
   "corpus": "tweets",
   "n_docs": 224056,
-  "n_parties": 10,
+  "n_parties": 11,
   "parties": [
     "EDS",
+    "FN",
     "GDR-PCF",
     "LFI",
     "LR",
@@ -14,28 +15,32 @@
     "PS",
     "UDI-Agir"
   ],
-  "most_monothematic": "LFI",
+  "most_monothematic": "FN",
   "most_diversified": "MoDem",
   "party_signature": {
     "LFI": {
       "top_distinctive": "305 - Political Authority",
-      "diff_pp": 10.22
+      "diff_pp": 9.91
+    },
+    "FN": {
+      "top_distinctive": "305 - Political Authority",
+      "diff_pp": 9.5
     },
     "EDS": {
       "top_distinctive": "501 - Environmental Protection: Positive",
-      "diff_pp": 9.01
-    },
-    "NI": {
-      "top_distinctive": "605 - Law and Order: Positive",
-      "diff_pp": 4.62
+      "diff_pp": 9.19
     },
     "LT": {
       "top_distinctive": "504 - Welfare State Expansion",
-      "diff_pp": 4.3
+      "diff_pp": 4.43
+    },
+    "NI": {
+      "top_distinctive": "605 - Law and Order: Positive",
+      "diff_pp": 4.25
     },
     "GDR-PCF": {
       "top_distinctive": "504 - Welfare State Expansion",
-      "diff_pp": 3.54
+      "diff_pp": 3.67
     },
     "UDI-Agir": {
       "top_distinctive": "104 - Military: Positive",
@@ -43,19 +48,19 @@
     },
     "MoDem": {
       "top_distinctive": "107 - Internationalism: Positive",
-      "diff_pp": 2.52
+      "diff_pp": 2.66
     },
     "PS": {
       "top_distinctive": "504 - Welfare State Expansion",
-      "diff_pp": 2.32
+      "diff_pp": 2.45
     },
     "LR": {
       "top_distinctive": "502 - Culture: Positive",
-      "diff_pp": 2.22
+      "diff_pp": 2.27
     },
     "LREM": {
       "top_distinctive": "411 - Technology and Infrastructure",
-      "diff_pp": 1.4
+      "diff_pp": 1.54
     }
   }
 }

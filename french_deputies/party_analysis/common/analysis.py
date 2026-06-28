@@ -26,6 +26,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
+from .families import apply_fn_override
+
 DOMAIN_NAMES = {
     1: "External Relations",
     2: "Freedom & Democracy",
@@ -56,12 +58,24 @@ GROUP_LABEL = {
 
 def load_preds(preds_path: Path, party_col: str,
                party_map: dict | None = None, min_docs: int = 0) -> pd.DataFrame:
-    """Carga predicciones, normaliza el partido y filtra partidos chicos."""
-    df = pd.read_csv(preds_path,
-                     usecols=[party_col, "top1_code", "top1_label", "domain"])
+    """Carga predicciones, normaliza el partido y filtra partidos chicos.
+
+    Si el corpus trae `deputy_id` (tweets, intervenciones), se aplica el override
+    FN por diputado DESPUES del mapeo de grupo y ANTES del filtro `min_docs`, de
+    modo que `FN` se evalua con su volumen propio. En manifiestos no hay
+    `deputy_id`: el override es no-op y `party_abbrev=FN` queda como `FN`.
+    """
+    header = pd.read_csv(preds_path, nrows=0).columns
+    cols = [party_col, "top1_code", "top1_label", "domain"]
+    has_dep = "deputy_id" in header
+    if has_dep:
+        cols.append("deputy_id")
+    df = pd.read_csv(preds_path, usecols=cols)
     df = df.rename(columns={party_col: "party"})
     if party_map is not None:
         df["party"] = df["party"].map(lambda x: party_map.get(x, None))
+    if has_dep:
+        df = apply_fn_override(df, party_col="party", id_col="deputy_id")
     df = df[df["party"].notna()]
     df = df[df["domain"].notna()]
     df["domain"] = df["domain"].astype(int)

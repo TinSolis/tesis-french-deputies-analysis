@@ -16,26 +16,26 @@ MoDem,Social Groups,-0.2,-4.8,4.8,0.542
 PS,Social Groups,-0.6,-6.4,4.7,0.57
 UDI-Agir,Social Groups,5.1,-1.7,11.5,0.93
 LT,Social Groups,-10.1,-20.0,-0.4,0.978
-NI,Social Groups,5.6,-5.0,14.6,0.864
+FN,Social Groups,2.8,-16.1,19.2,0.62
 EDS,Economy,23.6,13.0,35.1,0.999
+FN,Economy,-24.9,-54.4,7.0,0.946
 GDR-PCF,Economy,-2.5,-8.9,3.5,0.745
 LFI,Economy,-6.4,-13.1,0.3,0.966
 LR,Economy,-5.3,-9.9,-0.6,0.987
 LREM,Economy,3.9,1.0,7.1,0.994
 LT,Economy,9.7,1.8,17.7,0.989
 MoDem,Economy,5.4,1.5,9.7,0.995
-NI,Economy,-10.0,-25.9,5.2,0.897
 PS,Economy,1.1,-3.5,5.7,0.684
 UDI-Agir,Economy,-0.9,-8.1,6.2,0.593
 LT,Freedom & Democracy,-5.5,-12.4,-0.0,0.975
-NI,Freedom & Democracy,-19.9,-27.8,-12.5,1.0
+FN,Freedom & Democracy,-19.2,-29.0,-10.1,1.0
 EDS,Welfare & QoL,6.2,0.4,12.1,0.982
+FN,Welfare & QoL,14.0,8.4,19.8,1.0
 GDR-PCF,Welfare & QoL,1.4,-1.2,3.5,0.874
 LFI,Welfare & QoL,1.0,-1.8,3.6,0.733
 LR,Welfare & QoL,-3.8,-6.4,-1.3,0.999
 LREM,Welfare & QoL,1.6,0.0,3.1,0.98
 MoDem,Welfare & QoL,1.3,-0.5,3.2,0.92
-NI,Welfare & QoL,4.1,-0.2,8.7,0.971
 PS,Welfare & QoL,3.7,1.5,5.9,0.999
 UDI-Agir,Welfare & QoL,-1.0,-3.6,1.8,0.734
 GDR-PCF,Political System,-2.9,-10.2,4.0,0.788
@@ -47,7 +47,8 @@ MoDem,Political System,2.2,-2.6,6.7,0.804
 PS,Political System,-4.1,-9.9,1.2,0.928
 UDI-Agir,Political System,-6.8,-15.4,0.8,0.966
 EDS,Political System,-16.5,-24.5,-7.7,0.999
-NI,Political System,-3.9,-16.3,7.4,0.721
+FN,Political System,-2.3,-15.5,10.6,0.618
+NI,Freedom & Democracy,-3.6,-16.5,9.0,0.701
 GDR-PCF,Fabric of Society,-17.5,-27.4,-7.1,0.999
 LFI,Fabric of Society,-15.9,-23.9,-8.4,1.0
 LR,Fabric of Society,-4.8,-10.1,0.6,0.954
@@ -55,16 +56,21 @@ LREM,Fabric of Society,-3.0,-6.4,0.7,0.944
 LT,Fabric of Society,-5.7,-16.4,5.7,0.839
 MoDem,Fabric of Society,3.3,-1.1,7.9,0.93
 PS,Fabric of Society,-21.9,-29.7,-14.2,1.0
-NI,Fabric of Society,-3.7,-11.4,4.1,0.822
+FN,Fabric of Society,-1.0,-11.7,10.2,0.538
 UDI-Agir,Fabric of Society,7.7,-0.2,15.6,0.972
 EDS,Fabric of Society,-14.9,-25.1,-4.6,0.995
 LFI,External Relations,-0.3,-35.3,17.9,0.469
 LREM,External Relations,15.6,-4.9,40.3,0.913
 MoDem,External Relations,6.9,-15.1,31.6,0.682
 LR,External Relations,-1.8,-30.9,22.7,0.54
+NI,Welfare & QoL,8.7,2.5,15.4,0.997
 EDS,External Relations,41.5,-4.0,66.3,0.874
 PS,External Relations,17.3,15.2,19.6,0.998
 GDR-PCF,External Relations,13.0,10.7,15.4,0.995
 LT,Welfare & QoL,4.6,0.8,8.4,0.99
 UDI-Agir,External Relations,20.3,-19.7,49.4,0.844
+NI,Economy,5.9,-18.4,21.3,0.693
 LT,External Relations,28.6,25.3,32.0,0.639
+NI,Fabric of Society,-9.0,-37.6,15.5,0.744
+NI,Political System,-49.7,-86.9,15.7,0.852
+NI,Social Groups,-14.2,-79.4,18.0,0.692

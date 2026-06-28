@@ -1,4 +1,5 @@
 party,n_docs,agenda_evenness,top_domain
+NI,1542,0.671,Political System
 LR,89741,0.679,Political System
 PS,30844,0.683,Political System
 MoDem,28403,0.684,Political System
@@ -6,6 +7,6 @@ LFI,33499,0.701,Political System
 GDR-PCF,22234,0.703,Political System
 LREM,100021,0.706,Political System
 EDS,4408,0.717,Welfare & QoL
-NI,7350,0.729,Political System
+FN,5808,0.735,Fabric of Society
 LT,7539,0.739,Welfare & QoL
 UDI-Agir,14153,0.749,Welfare & QoL

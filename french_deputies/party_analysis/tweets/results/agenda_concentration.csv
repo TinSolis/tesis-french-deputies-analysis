@@ -1,11 +1,12 @@
 party,n_docs,agenda_evenness,top_domain
+FN,3491,0.643,Political System
 LFI,7052,0.654,Political System
-NI,6313,0.689,Political System
 EDS,2363,0.715,Welfare & QoL
 LR,40421,0.719,Political System
 PS,12808,0.721,Political System
 GDR-PCF,6986,0.722,Political System
 LT,5016,0.726,Political System
+NI,2822,0.728,Political System
 LREM,114693,0.742,Political System
 UDI-Agir,8485,0.742,Political System
 MoDem,19919,0.746,Political System

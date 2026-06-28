@@ -23,9 +23,10 @@ junto a Spearman y a la variante re-centrada; el resultado de fondo es la
 que no depende del coeficiente frágil.
 
 Cobertura de partidos:
-  - manifiesto vs voto: 6 partidos (el manifiesto se indexa por partido electoral y
-    el voto por grupo parlamentario; solo coinciden LFI, PS, PCF, MoDem, LREM, LR).
-  - tweets/hemiciclo vs voto: hasta 10 (misma consolidación de grupos en ambos lados).
+  - manifiesto vs voto: 7 partidos (el manifiesto se indexa por partido electoral y
+    el voto por grupo parlamentario; coinciden LFI, PS, PCF, MoDem, LREM, LR, FN).
+  - tweets/hemiciclo vs voto: hasta 11 (misma consolidación de grupos, FN separado
+    de NI por deputy_id en ambos lados; NI queda como residuo heterogéneo).
 
 External Relations se excluye del análisis principal (bajo leverage en el voto:
 5 leyes / 16 enmiendas, ver Análisis 2).
@@ -62,7 +63,7 @@ SHORT = {"Freedom & Democracy": "Libertades", "Political System": "Sist.Polític
          "Economy": "Economía", "Welfare & QoL": "Bienestar",
          "Fabric of Society": "Soc/Seguridad", "Social Groups": "Grupos Soc.",
          "External Relations": "Ext.Rel"}
-IDEO = ["LFI", "PCF", "PS", "EDS", "LT", "MoDem", "LREM", "UDI-Agir", "LR", "NI"]
+IDEO = ["LFI", "PCF", "PS", "EDS", "LT", "MoDem", "LREM", "UDI-Agir", "LR", "FN", "NI"]
 SMALL_MANIF = {"PCF", "PS"}  # manifiestos de muestra chica
 RNG = np.random.default_rng(13)
 
@@ -162,9 +163,11 @@ def main() -> None:
                     "tipo": tipo_celda(sd, sr),                 # por signo
                     "tipo_band1pp": tipo_celda(sd, sr, BAND)})  # con zona neutra ±1pp
 
-        # pooled por canal. "todos" = todos los partidos del canal (6 o 10);
-        # "6p" = restringido a los 6 comunes y RE-CENTRADO sobre esos 6 (comparación
-        # justa entre canales, misma base de partidos en ambos lados).
+        # pooled por canal. "todos" = todos los partidos del canal (7 en manifiesto,
+        # 11 en tweets/hemiciclo); "6p" = restringido a los partidos comunes (hoy 7,
+        # incluida FN) y RE-CENTRADO sobre ese set (comparación justa entre canales,
+        # misma base de partidos en ambos lados). El tag "6p" es histórico; la columna
+        # n_parties (=7) es la fuente de verdad del tamaño del set comparable.
         for label, dd in [("sin_ExtRel", DOMS), ("con_ExtRel", DOMS7)]:
             for pset, ptag in [(parties, "todos"), (common6, "6p")]:
                 Es = E.loc[pset, dd]
@@ -241,8 +244,13 @@ def plot_quadrants(sig, coh, out_png: Path) -> None:
 
     s_decl, s_rev, parties = sig
     cm = coh[coh.channel == "manifiesto"].set_index("party")
-    fig, axes = plt.subplots(2, 3, figsize=(14, 9))
-    for ax, p in zip(axes.ravel(), parties):
+    ncols = 3
+    nrows = -(-len(parties) // ncols)  # ceil: acomoda 7 partidos (FN incluida)
+    fig, axes = plt.subplots(nrows, ncols, figsize=(14, 4.5 * nrows))
+    axes = np.atleast_1d(axes).ravel()
+    for ax in axes[len(parties):]:
+        ax.axis("off")
+    for ax, p in zip(axes, parties):
         x = s_decl.loc[p, DOMS].to_numpy(float)
         y = s_rev.loc[p, DOMS].to_numpy(float)
         ax.axhline(0, color="#999", lw=0.8)
@@ -304,7 +312,7 @@ def plot_channel_matrix(coh: pd.DataFrame, out_png: Path) -> None:
     fig, ax = plt.subplots(figsize=(7, 0.5 * len(piv) + 2))
     im = ax.imshow(piv.values, cmap="RdBu", vmin=-0.7, vmax=0.7, aspect="auto")
     ax.set_xticks(range(3))
-    ax.set_xticklabels(["manifiesto\n(6 part.)", "tweets\n(10)", "hemiciclo\n(10)"])
+    ax.set_xticklabels(["manifiesto\n(7 part.)", "tweets\n(11)", "hemiciclo\n(11)"])
     ax.set_yticks(range(len(piv)))
     ax.set_yticklabels(piv.index)
     for i in range(piv.shape[0]):

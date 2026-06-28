@@ -1,21 +1,21 @@
 {
   "decomposition": {
     "leyes": {
-      "n_units": 2075,
+      "n_units": 2129,
       "n_scrutins": 335,
-      "r2_bloque": 0.469,
+      "r2_bloque": 0.467,
       "r2_party": 0.573,
       "r2_party_domain": 0.577,
       "r2_party_x_domain": 0.593,
-      "delta_party_vs_bloque": 0.104,
+      "delta_party_vs_bloque": 0.106,
       "delta_domain": 0.02
     },
     "enmiendas": {
-      "n_units": 13256,
+      "n_units": 13116,
       "n_scrutins": 2575,
-      "r2_bloque": 0.332,
-      "r2_party": 0.351,
-      "r2_party_domain": 0.356,
+      "r2_bloque": 0.331,
+      "r2_party": 0.35,
+      "r2_party_domain": 0.355,
       "r2_party_x_domain": 0.361,
       "delta_party_vs_bloque": 0.019,
       "delta_domain": 0.01
@@ -25,6 +25,10 @@
     "EDS": {
       "leyes": 77.2,
       "enmiendas": 36.3
+    },
+    "FN": {
+      "leyes": 27.1,
+      "enmiendas": 73.4
     },
     "GDR-PCF": {
       "leyes": 18.7,
@@ -51,8 +55,8 @@
       "enmiendas": 22.4
     },
     "NI": {
-      "leyes": 37.8,
-      "enmiendas": 73.3
+      "leyes": 52.6,
+      "enmiendas": 83.0
     },
     "PS": {
       "leyes": 36.7,
@@ -137,12 +141,20 @@
       "sign_stability": 0.975
     },
     {
+      "party": "FN",
+      "domain_name": "Freedom & Democracy",
+      "rel_pp": -19.2,
+      "ci_low": -29.0,
+      "ci_high": -10.1,
+      "sign_stability": 1.0
+    },
+    {
       "party": "NI",
       "domain_name": "Freedom & Democracy",
-      "rel_pp": -19.9,
-      "ci_low": -27.8,
-      "ci_high": -12.5,
-      "sign_stability": 1.0
+      "rel_pp": -3.6,
+      "ci_low": -16.5,
+      "ci_high": 9.0,
+      "sign_stability": 0.701
     },
     {
       "party": "GDR-PCF",
@@ -201,12 +213,12 @@
       "sign_stability": 1.0
     },
     {
-      "party": "NI",
+      "party": "FN",
       "domain_name": "Fabric of Society",
-      "rel_pp": -3.7,
-      "ci_low": -11.4,
-      "ci_high": 4.1,
-      "sign_stability": 0.822
+      "rel_pp": -1.0,
+      "ci_low": -11.7,
+      "ci_high": 10.2,
+      "sign_stability": 0.538
     },
     {
       "party": "UDI-Agir",
@@ -223,6 +235,14 @@
       "ci_low": -25.1,
       "ci_high": -4.6,
       "sign_stability": 0.995
+    },
+    {
+      "party": "NI",
+      "domain_name": "Fabric of Society",
+      "rel_pp": -9.0,
+      "ci_low": -37.6,
+      "ci_high": 15.5,
+      "sign_stability": 0.744
     }
   ]
 }

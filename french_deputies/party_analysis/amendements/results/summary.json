@@ -1,7 +1,7 @@
 {
   "corpus": "amendements",
   "n_scrutins_with_text_and_votes": 2575,
-  "n_parties": 10,
+  "n_parties": 11,
   "most_governmental": "GDR-PCF",
   "most_oppositional": "LREM",
   "most_cohesive": "LFI",
@@ -10,6 +10,10 @@
     "EDS": {
       "most_supported_theme": "External Relations",
       "rel_pp": 41.5
+    },
+    "FN": {
+      "most_supported_theme": "Welfare & QoL",
+      "rel_pp": 14.0
     },
     "GDR-PCF": {
       "most_supported_theme": "External Relations",
@@ -36,8 +40,8 @@
       "rel_pp": 6.9
     },
     "NI": {
-      "most_supported_theme": "Social Groups",
-      "rel_pp": 5.6
+      "most_supported_theme": "Welfare & QoL",
+      "rel_pp": 8.7
     },
     "PS": {
       "most_supported_theme": "External Relations",

@@ -41,6 +41,13 @@ LR,manifiesto,Economy,14.54
 LR,manifiesto,Welfare & QoL,28.01
 LR,manifiesto,Fabric of Society,16.67
 LR,manifiesto,Social Groups,15.96
+FN,manifiesto,External Relations,7.3
+FN,manifiesto,Freedom & Democracy,5.47
+FN,manifiesto,Political System,5.47
+FN,manifiesto,Economy,21.9
+FN,manifiesto,Welfare & QoL,28.47
+FN,manifiesto,Fabric of Society,24.09
+FN,manifiesto,Social Groups,7.3
 LFI,tweets,External Relations,6.65
 LFI,tweets,Freedom & Democracy,9.27
 LFI,tweets,Political System,40.92
@@ -83,6 +90,13 @@ LR,tweets,Economy,9.57
 LR,tweets,Welfare & QoL,23.9
 LR,tweets,Fabric of Society,14.56
 LR,tweets,Social Groups,6.53
+FN,tweets,External Relations,6.3
+FN,tweets,Freedom & Democracy,9.2
+FN,tweets,Political System,41.94
+FN,tweets,Economy,4.33
+FN,tweets,Welfare & QoL,13.46
+FN,tweets,Fabric of Society,17.53
+FN,tweets,Social Groups,7.25
 LFI,hemiciclo,External Relations,2.92
 LFI,hemiciclo,Freedom & Democracy,13.23
 LFI,hemiciclo,Political System,32.22
@@ -125,3 +139,10 @@ LR,hemiciclo,Economy,10.5
 LR,hemiciclo,Welfare & QoL,18.52
 LR,hemiciclo,Fabric of Society,9.76
 LR,hemiciclo,Social Groups,5.81
+FN,hemiciclo,External Relations,2.74
+FN,hemiciclo,Freedom & Democracy,15.39
+FN,hemiciclo,Political System,24.24
+FN,hemiciclo,Economy,7.78
+FN,hemiciclo,Welfare & QoL,19.23
+FN,hemiciclo,Fabric of Society,24.85
+FN,hemiciclo,Social Groups,5.77

@@ -33,15 +33,23 @@ import numpy as np
 import pandas as pd
 
 from .analysis import DOMAIN_NAMES, GROUP_LABEL
+from .families import FN_DEPUTY_IDS, FN_LABEL
 
 MIN_EXPRESSED = 3  # min diputados del partido que expresan voto para contar el scrutin
 
 
 def load_deputy_party(dep_csv: Path) -> dict:
-    """deputy_id -> familia politica consolidada (GROUP_LABEL)."""
+    """deputy_id -> familia politica consolidada (GROUP_LABEL).
+
+    Tras consolidar el grupo parlamentario, se reasigna a `FN` los 11 diputados
+    FN/RN definidos en `families.FN_DEPUTY_IDS` (hoy `NI` en los datos). El resto
+    de `NI` permanece como familia residual.
+    """
     dep = pd.read_csv(dep_csv, usecols=["id", "political_group_abbrev"])
     dep["party"] = dep["political_group_abbrev"].map(GROUP_LABEL)
     dep = dep.dropna(subset=["party"])
+    dep.loc[pd.to_numeric(dep["id"], errors="coerce").isin(FN_DEPUTY_IDS),
+            "party"] = FN_LABEL
     return dict(zip(dep["id"], dep["party"]))
 
 

@@ -34,7 +34,9 @@ El mismo partido habla de cosas distintas según el canal. El dominio dominante 
 - Los **manifiestos** son *programa*: dominan las políticas sustantivas (welfare, economía).
 - Los **tweets** y el **hemiciclo** son *meta-política*: hablan del gobierno, la autoridad, las instituciones. Twitter es el más extremo.
 
-Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantiene a través de los canales**, aunque cambie el volumen general: los ecologistas siempre sobre-enfatizan medio ambiente, el PCF/GDR a los trabajadores, los no-inscritos (RN) a ley y orden. Cada partido conserva su *issue ownership* aunque adapte cuánta meta-política hace según el canal.
+Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantiene a través de los canales**, aunque cambie el volumen general: los ecologistas siempre sobre-enfatizan medio ambiente, el PCF/GDR a los trabajadores, y el **FN** —incorporado como familia analítica propia, separado del agregado residual `NI`— a la identidad nacional y la ley y el orden. Cada partido conserva su *issue ownership* aunque adapte cuánta meta-política hace según el canal.
+
+> **Nota sobre FN/RN y NI.** Los diputados FN/RN de la XV legislatura no formaron grupo (necesitaban ≥15 escaños) y figuran como `NI` en los datos crudos. Se los reagrupa como familia **`FN`** mediante un override por `deputy_id` (11 diputados; ver `common/families.py`), **sin convertir todo `NI`**: el resto de `NI` queda como familia **residual heterogénea** y **ya no debe leerse como proxy de FN/RN**. FN entra así en manifiestos, tweets, hemiciclo, leyes y enmiendas.
 
 ## Manifiestos (`manifestos/`)
 
@@ -59,23 +61,25 @@ Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantien
 
 ## Tweets (`tweets/`)
 
-224.056 quasi-frases, 10 familias políticas (grupos parlamentarios consolidados). El dominio **Political System estalla**: LFI 41%, NI 37%, LR 33%, vs. ~6–15% en los manifiestos.
+224.056 quasi-frases, 11 familias políticas (grupos parlamentarios consolidados, con FN separado de NI). El dominio **Political System estalla**: FN 42%, LFI 41%, LR 33%, vs. ~6–15% en los manifiestos.
 
 | Partido | Categoría más distintiva | +pp |
 |---|---|---:|
-| LFI | 305 Autoridad Política | +10.2 |
-| EDS | 501 Protección Ambiental | +9.0 |
-| NI (incl. RN) | 605 Ley y Orden | +4.6 |
-| GDR-PCF | 504 Expansión del Bienestar | +3.5 |
-| MoDem | 107 Internacionalismo | +2.5 |
-| LR | 502 Cultura | +2.2 |
+| LFI | 305 Autoridad Política | +9.9 |
+| FN | 305 Autoridad Política | +9.5 |
+| EDS | 501 Protección Ambiental | +9.2 |
+| NI (residual) | 605 Ley y Orden | +4.3 |
+| GDR-PCF | 504 Expansión del Bienestar | +3.7 |
+| UDI-Agir | 104 Militar | +3.1 |
+| MoDem | 107 Internacionalismo | +2.7 |
+| LR | 502 Cultura | +2.3 |
 
 ![Firma temática — tweets](tweets/results/heatmap_party_signature.png)
 
 **Insights:**
-- **LFI usa Twitter como megáfono anti-gobierno.** Es el más monotemático (evenness 0.65) y el que más sobre-enfatiza *Autoridad Política* (+10pp): su discurso en redes gira en torno al poder/gobierno, no a políticas sustantivas. (Esto es justo lo que "rompía" a RILE, pero acá es un hallazgo, no un artefacto.)
-- **Los no-inscritos (donde está el RN) sobre-enfatizan Ley y Orden** (+4.6pp) y *Fabric of Society* — firma clara de derecha radical securitaria.
-- **MoDem es el más europeísta** (16.7% External Relations, +Internacionalismo), coherente con su perfil centrista pro-UE.
+- **FN y LFI usan Twitter como megáfono anti-establishment.** FN es ahora el **más monotemático** (evenness 0.64) y salta a *Political System* **41.9%** (Autoridad Política +9.5); LFI le sigue de cerca (40.9%, +9.9). Su contenido programático casi desaparece en la red. (Esto es justo lo que "rompía" a RILE, pero acá es un hallazgo, no un artefacto.)
+- **FN conserva su firma identitaria** también en tweets (*Fabric of Society* 17.5%), pero el dominio dominante es la meta-política. El `NI` **residual**, por su parte, marca *Ley y Orden* (605, +4.3) con una composición heterogénea — ya no es proxy de FN.
+- **MoDem es el más europeísta** (+Internacionalismo), coherente con su perfil centrista pro-UE.
 - En general, **en Twitter los partidos son más monotemáticos** que en sus programas y convergen al dominio Political System: la red aplana la sustancia y premia el conflicto institucional.
 
 ## Hemiciclo (`interventions/`)
@@ -85,18 +89,21 @@ Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantien
 | Partido | Categoría más distintiva | +pp |
 |---|---|---:|
 | LR | 305 Autoridad Política | +7.8 |
-| NI (incl. RN) | 605 Ley y Orden | +6.1 |
-| MoDem / PS / LFI | 305 Autoridad Política | +5.7 / +5.7 / +3.3 |
-| LT | 501 Protección Ambiental | +5.0 |
-| GDR-PCF | 701 Grupos Laborales (trabajadores) | +3.0 |
-| LREM | 303 Eficiencia Gubernamental | +2.9 |
+| FN | 605 Ley y Orden | +7.8 |
+| MoDem / PS | 305 Autoridad Política | +5.7 / +5.7 |
+| NI (residual) | 504 Expansión del Bienestar | +5.7 |
+| LT | 501 Protección Ambiental | +5.2 |
+| GDR-PCF | 701 Grupos Laborales (trabajadores) | +3.1 |
+| LREM | 303 Eficiencia Gubernamental | +3.1 |
+| LFI | 305 Autoridad Política | +3.3 |
 
 ![Firma temática — hemiciclo](interventions/results/heatmap_party_signature.png)
 
 **Insights:**
 - **La oposición fiscaliza al gobierno.** *Autoridad Política* (305) es la categoría más distintiva de casi todos los grupos de oposición (LR el más, +7.8pp): el hemiciclo es, por naturaleza, el espacio para interpelar al ejecutivo. Por eso 305 discrimina menos acá que en tweets (es el piso del debate parlamentario).
 - **LREM, partido de gobierno, defiende la gestión:** su seña es *Eficiencia Gubernamental* (303), no la crítica.
-- **GDR-PCF mantiene su ADN obrero** (701 Grupos Laborales), y **NI** vuelve a marcar *Ley y Orden*: las firmas ideológicas persisten respecto del corpus de tweets.
+- **FN es el único que no se diluye en el hemiciclo:** conserva *Fabric of Society* como dominio dominante o casi (24.9%, el más alto del panel) y *Ley y Orden* (605, +7.8) como su categoría distintiva — su firma nacional-securitaria persiste. El `NI` **residual**, en cambio, se desplaza a *Expansión del Bienestar* (504, +5.7): otra señal de que es un agregado heterogéneo distinto de FN.
+- **GDR-PCF mantiene su ADN obrero** (701 Grupos Laborales): las firmas ideológicas persisten respecto del corpus de tweets.
 
 ---
 
@@ -108,7 +115,7 @@ Acá cambia el método. Una ley o enmienda no la "escribe" un partido, así que 
 - el **voto** de cada diputado (`Pour`/`Contre`/`Abstention`) en ese scrutin (`lois_votes/`),
 - el **partido** de cada diputado (`datos_diputados/`).
 
-El join es limpio: **100%** de los votos casan con un diputado y **100%** de los scrutins con texto tienen votos. Cubrimos **335 leyes** y **2.575 enmiendas**, 10 familias políticas.
+El join es limpio: **100%** de los votos casan con un diputado y **100%** de los scrutins con texto tienen votos. Cubrimos **335 leyes** y **2.575 enmiendas**, 11 familias políticas (con FN separado de NI por `deputy_id`; FN pasa el filtro `MIN_EXPRESSED=3` con n=95 leyes y n=319 enmiendas).
 
 ### Métricas (por partido)
 
@@ -135,7 +142,8 @@ Es la dinámica parlamentaria clásica, ahora cuantificada: **el gobierno defien
 ![Soporte vs cohesión — leyes](lois/results/scatter_support_cohesion.png)
 
 - **LFI es el partido más disciplinado** (Rice 0.998 en leyes, 0.997 en enmiendas): vota como un bloque casi perfecto. Le siguen GDR-PCF y el partido de gobierno LREM.
-- **Los no-inscritos (NI, 0.74) y Liberté-et-Territoires (LT, 0.74) son los menos cohesionados** — lógico: son agrupaciones heterogéneas, no partidos. La cohesión valida la consolidación de grupos: las familias reales votan unidas, las bolsas mixtas no.
+- **FN vota como bloque cohesionado** (Rice 0.955 en leyes, 0.987 en enmiendas) pese a su base parlamentaria pequeña (11 diputados): es disciplina, no dispersión — lo que justifica empíricamente tratarlo como familia.
+- **El `NI` residual es el menos cohesionado** (Rice 0.495 en leyes, 0.798 en enmiendas): al quitarle el bloque cohesionado de FN, lo que queda son no-inscritos dispersos. Junto con LT (0.74) confirma que `NI` es un agregado heterogéneo, no un partido. La cohesión valida la consolidación de grupos: las familias reales (incluida FN) votan unidas, la bolsa residual no.
 - En el scatter de leyes se ve el eje **oposición (izq) → gobierno (der)** en horizontal, con la oposición de izquierda *y* el gobierno arriba (ambos muy disciplinados) y los grupos mixtos abajo.
 
 ## Hallazgo 3 — Clivajes ideológicos revelados por las enmiendas
@@ -144,8 +152,9 @@ Centrando por soporte global (soporte relativo), las enmiendas exponen clivajes 
 
 ![Soporte relativo por tema — enmiendas](amendements/results/heatmap_domain_support.png)
 
-- **Clivaje cultural (Fabric of Society = identidad, seguridad, nación):** la izquierda lo **apoya sistemáticamente de menos** (PS −22, GDR −18, LFI −16 pp respecto de su base — aunque en absoluto siga aprobando en mayoría, 60–69% Pour), el centro-derecha lo apoya de más (UDI-Agir +8, MoDem +3). Es el eje cultural/securitario hecho voto.
-- **Clivaje de libertades (Freedom & Democracy):** se invierte — la izquierda lo apoya de más (LFI +7, GDR +4, PS +4), la derecha lo **apoya de menos** (LR −19, NI −20). Derechos civiles vs. orden.
+- **Clivaje cultural (Fabric of Society = identidad, seguridad, nación):** la izquierda lo **apoya sistemáticamente de menos** (PS −22, GDR −18, LFI −16 pp respecto de su base — aunque en absoluto siga aprobando en mayoría, 60–69% Pour), el centro-derecha lo apoya de más (UDI-Agir +8, MoDem +3). FN **no es distintivo** aquí (−1.0, no robusto). Es el eje cultural/securitario hecho voto.
+- **Clivaje de libertades (Freedom & Democracy):** se invierte — la izquierda lo apoya de más (LFI +7, GDR +4, PS +4), la derecha lo **apoya de menos** (LR −19, **FN −19**). Derechos civiles vs. orden. (El polo derecho lo forman LR y FN; antes esa señal aparecía atribuida a `NI` porque incluía a FN — el `NI` residual cae a −3.6, no robusto.)
+- **FN tiene perfil propio:** además del −19 en libertades, su único soporte relativo positivo robusto es *Welfare & QoL* (+14.0, apoyo absoluto 87.4%); su *Economy* (−24.9) tiene IC ancho y **no se interpreta**, y *External Relations* no tiene cobertura.
 - **Economía:** los ecologistas (EDS +24) y LT (+10) empujan enmiendas económicas mucho más que su base; la derecha clásica (LR −5) menos.
 - **Consenso en política exterior:** *External Relations* es el tema que casi todos apoyan por encima de su base — las enmiendas de defensa/exterior/UE cruzan líneas partidarias.
 
@@ -160,9 +169,9 @@ El cierre del arco cruza las dos agendas. Como viven en unidades distintas (la d
 ![Firma declarada vs. revelada por dominio](declarado_vs_revelado/results/fig_quadrants_manifiesto.png)
 
 - **Énfasis respaldado** (coherencia afirmativa: enfatiza y apoya por encima de su base): LFI↔libertades (+6.9 relativo), PS↔bienestar, eco-izquierda (EDS, LT)↔bienestar/economía, bloque gubernamental centrista (LREM, MoDem)↔economía. La identidad temática se sostiene del discurso al voto en los temas *propios*.
-- **Coherencia negativa en el eje cultural:** la izquierda no se apropia discursivamente de *Fabric of Society* (énfasis positivo ausente en sus 9 combinaciones partido-canal) y lo apoya *relativamente* menos (PS −22, PCF −18, LFI −16) — aunque su apoyo **absoluto** siga siendo mayoría (60–69%). El clivaje cultural del Análisis 2 es una distancia sostenida, no un voto táctico.
-- **Énfasis no respaldado / oposicional** (enfatiza pero apoya por debajo de su base): LR (cultura/seguridad), NI (libertades) — uso confrontativo del tema.
-- **En el agregado la coherencia es débil** (pooled 0.12–0.19 sobre los 6 partidos comparables) y, por partido, el coeficiente es demasiado ruidoso para rankear (IC95 ≈ [−1, +1] con solo 6 dominios). La estructura interpretable está en los signos por celda, no en el coeficiente.
+- **Coherencia negativa en el eje cultural:** la izquierda no se apropia discursivamente de *Fabric of Society* (énfasis positivo ausente en sus 9 combinaciones partido-canal; PCF y PS lo sub-enfatizan en los 3 canales) y lo apoya *relativamente* menos (PS −22, PCF −18, LFI −16) — aunque su apoyo **absoluto** siga siendo mayoría (60–69%). El clivaje cultural del Análisis 2 es una distancia sostenida, no un voto táctico.
+- **Énfasis no respaldado** (enfatiza pero apoya por debajo de su base): LR↔cultura/seguridad; y el caso extremo es **FN**, que declara una firma nacional-securitaria persistente (*Fabric of Society* en los 3 canales) pero cuyo voto en ese dominio **no es distintivo** (−1.0), revela apoyo a *Welfare & QoL* (+14.0) que no enfatiza, y se distancia de *Freedom & Democracy* (−19.2) — un **gap entre capas observables**, no una incoherencia moral.
+- **En el agregado la coherencia es débil** (pooled 0.08–0.16 sobre los 7 partidos comparables, incluida FN) y, por partido, el coeficiente es demasiado ruidoso para rankear (IC95 ≈ [−1, +1] con solo 6 dominios; FN −0.20 con IC [−0.90, 0.75], indistinguible de cero). La estructura interpretable está en los signos por celda, no en el coeficiente — y **el coeficiente no es un ranking normativo de "coherencia"**.
 
 > **Precisión clave:** "soporte relativo negativo" ≠ "vota en contra". Mide desviación respecto de la base de apoyo del propio partido, no apoyo absoluto (ver `declarado_vs_revelado/03_declarado_vs_revelado.md` §1.2).
 
@@ -188,6 +197,7 @@ python3 -u declarado_vs_revelado/build.py 2>&1 | tee declarado_vs_revelado/resul
 party_analysis/
 ├── README.md
 ├── common/
+│   ├── families.py        # fuente única de verdad del override FN por deputy_id (11 ids)
 │   ├── analysis.py        # énfasis: distribuciones, distintividad, concentración, heatmaps
 │   └── votes.py           # voto: soporte por tema, cohesión (Rice), agenda apoyada/rechazada
 ├── manifestos/            # agenda declarada
@@ -211,7 +221,8 @@ party_analysis/
 
 ## Notas metodológicas
 
-- **Partido en tweets/hemiciclo/votos:** se deriva del grupo parlamentario (`political_group_abbrev`) consolidado a familia política (`GROUP_LABEL` en `common/analysis.py`): p.ej. `DEM`+`MODEM`→MoDem, `SOC`+`NG`→PS, `LR`+`LC`→LR, todos los `UDI*`+`AGIR-E`→UDI-Agir. `NI` (no-inscritos, donde está el RN) se conserva como categoría propia. Filtro mínimo: 1.000 frases por familia (manifiestos: 30).
+- **Partido en tweets/hemiciclo/votos:** se deriva del grupo parlamentario (`political_group_abbrev`) consolidado a familia política (`GROUP_LABEL` en `common/analysis.py`): p.ej. `DEM`+`MODEM`→MoDem, `SOC`+`NG`→PS, `LR`+`LC`→LR, todos los `UDI*`+`AGIR-E`→UDI-Agir. Después de consolidar, un **override por `deputy_id`** (`common/families.py`, 11 ids) reasigna a la familia **`FN`** a los diputados FN/RN (hoy `NI` en los datos); el resto de `NI` queda como familia **residual** (no es proxy de FN/RN). Filtro mínimo: 1.000 frases por familia (manifiestos: 30); para el voto, `MIN_EXPRESSED=3`. Estos filtros **no se modificaron** al incorporar FN.
+- **FN como familia analítica (decisión metodológica):** los 11 `deputy_id` se listan en `common/families.py` (electos 2017 + suplentes + Ménard). Caveats: base parlamentaria pequeña; **Houplain y Évrard sin tweets**; **Évrard dejó el FN en nov-2017** (su actividad posterior queda atribuida a FN por decisión analítica); `MIN_EXPRESSED=3` limita los scrutins de FN (n=95 leyes, n=319 enmiendas).
 - **Énfasis** (manifiestos/tweets/hemiciclo) describe *salience* (cuánto se habla de algo). La **distintividad** se mide contra el promedio *del propio corpus*, comparable entre partidos dentro de un canal, no entre canales.
 - **Voto** (leyes/enmiendas): un scrutin entra al cálculo de un partido solo si ≥3 de sus diputados expresan voto (`Pour`/`Contre`); las abstenciones y no-votantes se excluyen del denominador. El **soporte por tema** pondera por la composición MARPOR del texto; el **soporte relativo** lo centra por el soporte global del partido para aislar la señal temática del efecto gobierno/oposición.
 - Para postura/posición izquierda-derecha (no énfasis ni voto) ver `ches_analysis/`.

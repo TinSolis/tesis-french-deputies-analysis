@@ -4,135 +4,143 @@
       "channel": "manifiesto",
       "domains": "sin_ExtRel",
       "partidos": "todos",
-      "n_parties": 6,
-      "pooled_pearson": 0.12
+      "n_parties": 7,
+      "pooled_pearson": 0.08
     },
     {
       "channel": "manifiesto",
       "domains": "sin_ExtRel",
       "partidos": "6p",
-      "n_parties": 6,
-      "pooled_pearson": 0.12
+      "n_parties": 7,
+      "pooled_pearson": 0.08
     },
     {
       "channel": "manifiesto",
       "domains": "con_ExtRel",
       "partidos": "todos",
-      "n_parties": 6,
-      "pooled_pearson": 0.04
+      "n_parties": 7,
+      "pooled_pearson": 0.03
     },
     {
       "channel": "manifiesto",
       "domains": "con_ExtRel",
       "partidos": "6p",
-      "n_parties": 6,
-      "pooled_pearson": 0.04
+      "n_parties": 7,
+      "pooled_pearson": 0.03
     },
     {
       "channel": "tweets",
       "domains": "sin_ExtRel",
       "partidos": "todos",
-      "n_parties": 10,
-      "pooled_pearson": 0.28
+      "n_parties": 11,
+      "pooled_pearson": 0.18
     },
     {
       "channel": "tweets",
       "domains": "sin_ExtRel",
       "partidos": "6p",
-      "n_parties": 6,
-      "pooled_pearson": 0.19
+      "n_parties": 7,
+      "pooled_pearson": 0.08
     },
     {
       "channel": "tweets",
       "domains": "con_ExtRel",
       "partidos": "todos",
-      "n_parties": 10,
-      "pooled_pearson": 0.16
+      "n_parties": 11,
+      "pooled_pearson": 0.13
     },
     {
       "channel": "tweets",
       "domains": "con_ExtRel",
       "partidos": "6p",
-      "n_parties": 6,
-      "pooled_pearson": 0.16
+      "n_parties": 7,
+      "pooled_pearson": 0.1
     },
     {
       "channel": "hemiciclo",
       "domains": "sin_ExtRel",
       "partidos": "todos",
-      "n_parties": 10,
-      "pooled_pearson": 0.32
+      "n_parties": 11,
+      "pooled_pearson": 0.29
     },
     {
       "channel": "hemiciclo",
       "domains": "sin_ExtRel",
       "partidos": "6p",
-      "n_parties": 6,
+      "n_parties": 7,
       "pooled_pearson": 0.16
     },
     {
       "channel": "hemiciclo",
       "domains": "con_ExtRel",
       "partidos": "todos",
-      "n_parties": 10,
+      "n_parties": 11,
       "pooled_pearson": 0.22
     },
     {
       "channel": "hemiciclo",
       "domains": "con_ExtRel",
       "partidos": "6p",
-      "n_parties": 6,
-      "pooled_pearson": 0.13
+      "n_parties": 7,
+      "pooled_pearson": 0.14
     }
   ],
   "manifiesto_coherence": [
     {
+      "party": "FN",
+      "pearson": -0.2,
+      "spearman": -0.09,
+      "pearson_recentrado": -0.0,
+      "ci_low": -0.9,
+      "ci_high": 0.75
+    },
+    {
       "party": "LFI",
-      "pearson": 0.26,
+      "pearson": 0.49,
       "spearman": 0.31,
-      "pearson_recentrado": 0.15,
-      "ci_low": -0.7,
-      "ci_high": 0.98
+      "pearson_recentrado": 0.47,
+      "ci_low": -0.65,
+      "ci_high": 0.99
     },
     {
       "party": "LR",
-      "pearson": 0.4,
+      "pearson": 0.39,
       "spearman": 0.26,
-      "pearson_recentrado": 0.65,
-      "ci_low": -0.91,
-      "ci_high": 0.99
-    },
-    {
-      "party": "LREM",
-      "pearson": 0.34,
-      "spearman": 0.38,
-      "pearson_recentrado": 0.45,
-      "ci_low": -0.7,
-      "ci_high": 0.99
-    },
-    {
-      "party": "MoDem",
-      "pearson": 0.12,
-      "spearman": 0.2,
-      "pearson_recentrado": -0.1,
-      "ci_low": -0.73,
+      "pearson_recentrado": 0.42,
+      "ci_low": -0.86,
       "ci_high": 1.0
     },
     {
-      "party": "PCF",
-      "pearson": -0.02,
+      "party": "LREM",
+      "pearson": 0.43,
+      "spearman": 0.38,
+      "pearson_recentrado": -0.1,
+      "ci_low": -0.46,
+      "ci_high": 0.97
+    },
+    {
+      "party": "MoDem",
+      "pearson": -0.01,
       "spearman": -0.14,
-      "pearson_recentrado": 0.06,
+      "pearson_recentrado": -0.17,
+      "ci_low": -0.81,
+      "ci_high": 0.99
+    },
+    {
+      "party": "PCF",
+      "pearson": 0.05,
+      "spearman": -0.14,
+      "pearson_recentrado": 0.21,
       "ci_low": -0.97,
-      "ci_high": 0.86
+      "ci_high": 0.85
     },
     {
       "party": "PS",
-      "pearson": 0.21,
-      "spearman": 0.03,
-      "pearson_recentrado": 0.17,
-      "ci_low": -0.95,
-      "ci_high": 0.96
+      "pearson": 0.31,
+      "spearman": 0.09,
+      "pearson_recentrado": 0.07,
+      "ci_low": -0.85,
+      "ci_high": 0.92
     }
   ]
 }

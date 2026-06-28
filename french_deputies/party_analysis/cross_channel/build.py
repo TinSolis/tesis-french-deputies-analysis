@@ -3,8 +3,10 @@ Compara la AGENDA DECLARADA de cada partido entre los 3 canales que el partido
 *produce*: manifiestos, tweets y hemiciclo. Responde: ¿un partido habla igual en
 un programa, en Twitter y en el Parlamento?
 
-Trabaja sobre los 6 partidos presentes en los tres canales:
-  LFI, PS, PCF (=GDR-PCF en hemiciclo/tweets), MoDem, LREM, LR.
+Trabaja sobre los 7 partidos presentes en los tres canales:
+  LFI, PS, PCF (=GDR-PCF en hemiciclo/tweets), MoDem, LREM, LR, FN.
+  (FN entra como familia analitica via override por deputy_id en tweets/hemiciclo
+  y via party_abbrev en el manifiesto; ver common/families.py.)
 
 Mide dos cosas distintas:
   - SHIFT BRUTO: cuánto cambia la mezcla temática total del partido entre canales.
@@ -36,6 +38,7 @@ THIS = Path(__file__).resolve().parent
 PA = THIS.parent
 sys.path.insert(0, str(PA))
 from common.analysis import DOMAIN_NAMES, GROUP_LABEL  # noqa: E402
+from common.families import apply_fn_override  # noqa: E402
 
 REPO = PA.parent.parent
 OUT = THIS / "results"
@@ -48,7 +51,10 @@ CHANNELS = {  # canal -> (predictions, columna de partido)
                   "political_group_abbrev"),
 }
 ALIGN = {"GDR-PCF": "PCF"}  # alinear etiquetas entre corpus
-COMMON = ["LFI", "PS", "PCF", "MoDem", "LREM", "LR"]
+# Partidos presentes en los TRES canales que el partido produce (manifiesto,
+# tweets, hemiciclo). FN entra como familia normal: manifiesto via party_abbrev,
+# tweets/hemiciclo via override por deputy_id.
+COMMON = ["LFI", "PS", "PCF", "MoDem", "LREM", "LR", "FN"]
 DOMAINS = list(DOMAIN_NAMES.values())
 TOP_K = 6           # categorias por canal para el overlap
 N_BOOT = 2000
@@ -56,10 +62,17 @@ RNG = np.random.default_rng(7)
 
 
 def load_channel(path: Path, party_col: str) -> pd.DataFrame:
-    df = pd.read_csv(path, usecols=[party_col, "top1_label", "domain"])
+    header = pd.read_csv(path, nrows=0).columns
+    cols = [party_col, "top1_label", "domain"]
+    has_dep = "deputy_id" in header
+    if has_dep:
+        cols.append("deputy_id")
+    df = pd.read_csv(path, usecols=cols)
     df = df.rename(columns={party_col: "party"})
     if party_col != "party_abbrev":
         df["party"] = df["party"].map(GROUP_LABEL)
+    if has_dep:
+        df = apply_fn_override(df, party_col="party", id_col="deputy_id")
     df["party"] = df["party"].map(lambda x: ALIGN.get(x, x))
     df = df[df["party"].isin(COMMON)]
     df = df[df["domain"].notna()]
@@ -158,7 +171,7 @@ def main() -> None:
                                                  ascending=False)
     shift.to_csv(OUT / "agenda_shift.csv", index=False)
 
-    # === firma a nivel CATEGORIA (centrada por promedio de canal, 6 partidos) ===
+    # === firma a nivel CATEGORIA (centrada por promedio de canal, 7 partidos) ===
     cats = sorted(set().union(*[set(df["top1_label"].unique())
                                 for df in data.values()]))
     cat_pct = {}  # (party,channel) -> Series sobre `cats`
@@ -167,7 +180,7 @@ def main() -> None:
             sub = df[df["party"] == party]
             vc = sub["top1_label"].value_counts(normalize=True) * 100
             cat_pct[(party, ch)] = vc.reindex(cats).fillna(0.0)
-    # firma = pct - promedio del canal (sobre los 6 partidos)
+    # firma = pct - promedio del canal (sobre los 7 partidos)
     chan_cat_mean = {ch: pd.concat([cat_pct[(p, ch)] for p in COMMON], axis=1)
                      .mean(axis=1) for ch in CHANNELS}
     sig = {(p, ch): cat_pct[(p, ch)] - chan_cat_mean[ch]

@@ -1,7 +1,7 @@
 {
   "corpus": "lois",
   "n_scrutins_with_text_and_votes": 335,
-  "n_parties": 10,
+  "n_parties": 11,
   "most_governmental": "LREM",
   "most_oppositional": "LFI",
   "most_cohesive": "LFI",
@@ -10,6 +10,10 @@
     "EDS": {
       "most_supported_theme": "Social Groups",
       "rel_pp": 0.8
+    },
+    "FN": {
+      "most_supported_theme": "Freedom & Democracy",
+      "rel_pp": -6.0
     },
     "GDR-PCF": {
       "most_supported_theme": "Fabric of Society",
@@ -37,7 +41,7 @@
     },
     "NI": {
       "most_supported_theme": "External Relations",
-      "rel_pp": 21.5
+      "rel_pp": 17.9
     },
     "PS": {
       "most_supported_theme": "External Relations",
