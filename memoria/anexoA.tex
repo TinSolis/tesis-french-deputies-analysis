@@ -12,8 +12,8 @@ Este anexo complementa el capítulo~\ref{cap:metodologia}
 (secciones~\ref{sec:fuentes} y~\ref{sec:normalizacion}) con la traza de los
 artefactos de datos que produce cada fuente, sus campos clave, la consolidación
 de grupos parlamentarios en familias políticas y los umbrales mínimos aplicados
-en los análisis por partido. Los nombres de archivo se listan aquí ---y no en el
-cuerpo--- como referencia de trazabilidad interna del repositorio, no como
+en los análisis por partido. Los nombres de archivo se listan aquí, y no en el
+cuerpo, como referencia de trazabilidad interna del repositorio, no como
 referencias bibliográficas; los artefactos pesados no se versionan y se
 regeneran ejecutando el \emph{pipeline}.
 
@@ -89,8 +89,8 @@ grupo mayoritario presidencial (\texttt{LAREM/LREM}) $\rightarrow$ \textbf{LREM}
 \texttt{EDS} y \texttt{NI} se conservan con su etiqueta. Tras esa consolidación
 se aplica el tratamiento de la extrema derecha descrito en la
 sección~\ref{sec:normalizacion}: los once diputados del Front National /
-Rassemblement National ---que figuran como no inscritos porque no formaron grupo
-propio--- se reagrupan en la familia analítica \textbf{FN} a partir de su
+Rassemblement National (que figuran como no inscritos porque no formaron grupo
+propio) se reagrupan en la familia analítica \textbf{FN} a partir de su
 identidad estable en la cohorte, de modo que la categoría \textbf{NI queda como
 un residuo heterogéneo} y no como sustituto del FN/RN. Los análisis por partido
 consumen la variante de la tabla maestra que contiene solo los campos de la
@@ -124,7 +124,7 @@ canal y dominio; (7)~análisis de voto y cruce declarado--revelado; y
 (8)~generación de tablas y figuras. La cohorte de diputados
 (Cuadro~\ref{tab:anexo-artefactos}) precede a todo lo demás: su identificador
 estable es la clave de unión entre fuentes. Las dos vías de clasificación
----supervisada y exploratoria--- son paralelas y comparten corpus y filtros
+(supervisada y exploratoria) son paralelas y comparten corpus y filtros
 alineados. Como cada etapa persiste sus salidas, puede regenerarse de forma
 incremental sin recomputar las anteriores.
 
@@ -148,8 +148,8 @@ las credenciales de variables de entorno (\texttt{.env}) que \textbf{no} se
 versionan en el repositorio; esta memoria no incluye ningún secreto.
 
 \paragraph{Palabras vacías de dominio.} El modelado exploratorio usa listas de
-palabras vacías específicas por dominio ---francés general, lenguaje legal,
-fórmulas del hemiciclo y ruido de Twitter--- para evitar tópicos de forma en
+palabras vacías específicas por dominio (francés general, lenguaje legal,
+fórmulas del hemiciclo y ruido de Twitter) para evitar tópicos de forma en
 lugar de contenido; su efecto se comenta en la sección~\ref{sec:metodo-bertopic}.
 
 \paragraph{Procedencia de tablas y figuras.} Los datos brutos masivos y las
@@ -406,10 +406,10 @@ versionan en el repositorio, por lo que se regeneran ejecutando el pipeline.
 \label{anexo:bertopic-marpor}
 
 A modo de ilustración, la figura~\ref{fig:bertopic-marpor} cruza un tópico de
-BERTopic sustantivo del corpus de enmiendas ---el tópico \#2 del
+BERTopic sustantivo del corpus de enmiendas (el tópico \#2 del
 Cuadro~\ref{tab:bt-amendements}, \emph{procedimiento penal / prisión}, dominado
 por las expresiones \emph{procédure pénale}, \emph{peines} y
-\emph{emprisonnement}--- con la distribución de dominios MARPOR que el
+\emph{emprisonnement}) con la distribución de dominios MARPOR que el
 clasificador asigna a esos mismos documentos. Se eligió este tópico por reunir
 los criterios fijados de antemano: no es un \emph{outlier}, tiene tamaño
 suficiente, no es residual ni meramente procedimental, sus palabras clave son
@@ -428,8 +428,8 @@ del cruce es del orden del $84\,\%$, y solo tres prefijos resultaron ambiguos
 tópico ilustrado, de modo que la distribución mostrada no depende de los casos
 excluidos.
 
-La figura \emph{no} valida un modelo con el otro ---son representaciones de
-naturaleza distinta y este trabajo no usa una para evaluar la otra---; muestra
+La figura \emph{no} valida un modelo con el otro (son representaciones de
+naturaleza distinta y este trabajo no usa una para evaluar la otra); muestra
 únicamente cómo un agrupamiento empírico no supervisado se reparte sobre la
 taxonomía supervisada usada en el análisis principal. En este caso predomina, de
 forma coherente, el dominio \emph{Fabric of Society} ($73{,}9\,\%$), con una
@@ -464,8 +464,8 @@ que compara el signo de la firma declarada con el de la revelada y da lugar a lo
 casos canónicos del Cuadro~\ref{tab:cruce-casos}; los tres casos de FN
 (\emph{Fabric of Society}, \emph{Welfare \& QoL} y \emph{Freedom \& Democracy})
 figuran allí y no se repiten aquí. La \emph{correlación} por partido, en cambio,
-es un resumen \textbf{frágil} ---con seis dominios los intervalos cruzan el cero
-para todos--- y se ofrece solo como material complementario, igual que la matriz
+es un resumen \textbf{frágil} (con seis dominios los intervalos cruzan el cero
+para todos) y se ofrece solo como material complementario, igual que la matriz
 de coherencia por canal.
 
 La comparación entre canales debe igualar la cobertura de partidos: el manifiesto
@@ -521,8 +521,8 @@ FN & $-0{,}20$ & $-0{,}00$ & $[-0{,}90,\ 0{,}75]$ \\
 
 Sobre la robustez de la tipología: la clasificación por signo abarca las
 $42$ celdas del manifiesto (siete partidos por seis dominios). Al reclasificar con
-una \textbf{zona neutra de $\pm 1$ pp} ---positivo si supera $+1$, negativo si baja
-de $-1$, neutro en medio---, \emph{ninguna} celda cambia de cuadrante y solo un
+una \textbf{zona neutra de $\pm 1$ pp} (positivo si supera $+1$, negativo si baja
+de $-1$, neutro en medio), \emph{ninguna} celda cambia de cuadrante y solo un
 $24\,\%$ pasa a la categoría neutra: los patrones direccionales no se invierten,
 los casos pequeños simplemente dejan de calificar. El detalle celda a celda de los
 tres canales (firma declarada, firma revelada, apoyo absoluto y tipo por cada
