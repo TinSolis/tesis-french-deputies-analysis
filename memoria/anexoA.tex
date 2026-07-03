@@ -7,7 +7,157 @@
 
 \section{Detalle de los corpus y filtros}
 \label{anexo:corpus}
-% Volúmenes por fuente, filtros mínimos por familia política, consolidación de grupos.
+
+Este anexo complementa el capítulo~\ref{cap:metodologia}
+(secciones~\ref{sec:fuentes} y~\ref{sec:normalizacion}) con la traza de los
+artefactos de datos que produce cada fuente, sus campos clave, la consolidación
+de grupos parlamentarios en familias políticas y los umbrales mínimos aplicados
+en los análisis por partido. Los nombres de archivo se listan aquí ---y no en el
+cuerpo--- como referencia de trazabilidad interna del repositorio, no como
+referencias bibliográficas; los artefactos pesados no se versionan y se
+regeneran ejecutando el \emph{pipeline}.
+
+\subsection*{Artefactos y esquemas por fuente}
+
+El Cuadro~\ref{tab:anexo-artefactos} resume, para cada fuente, el artefacto
+principal que la materializa y sus campos más relevantes.
+
+\begin{table}[H]
+\centering
+\caption{Artefactos principales por fuente y sus campos clave. Los
+identificadores en tipografía monoespaciada son referencias de trazabilidad
+interna del repositorio.}
+\label{tab:anexo-artefactos}
+\footnotesize
+\renewcommand{\arraystretch}{1.2}
+\setlength{\tabcolsep}{4pt}
+\newcolumntype{W}{>{\raggedright\arraybackslash}X}
+\begin{tabularx}{\textwidth}{@{}l W W@{}}
+\toprule
+\textbf{Fuente} & \textbf{Artefacto principal} & \textbf{Campos / columnas clave} \\
+\midrule
+Cohorte &
+\texttt{deputes\_2017\_2022.csv} (668 filas; 15 columnas de la Asamblea $+$ 6 de
+Twitter; separador \texttt{;}) &
+\texttt{id}, nombre y apellido, circunscripción, fechas de mandato,
+\texttt{political\_group\_abbrev}, \texttt{former\_deputy}, \texttt{twitter\_handle}
+y metadatos de la cuenta \\
+\addlinespace
+Manifiestos &
+\texttt{manifesto\_texts.csv} (3.801 cuasi-frases) $+$
+\texttt{group\_to\_party\_mapping.csv} &
+\texttt{manifesto\_id}, \texttt{text}, \texttt{cmp\_code}, \texttt{eu\_code};
+mapeo \texttt{political\_group\_abbrev} $\rightarrow$ partido MARPOR \\
+\addlinespace
+Twitter &
+\texttt{tweets\_text\_only.csv} (texto para análisis) y
+\texttt{tweets\_with\_deputies.csv} (con fecha) &
+\texttt{tweet\_id}, \texttt{timestamp}, \texttt{text}, \texttt{author\_handle},
+\texttt{mentioned\_handles}, \texttt{deputy\_id}, \texttt{political\_group\_abbrev} \\
+\addlinespace
+Hemiciclo &
+\texttt{interventions\_xv\_2017\_2022\_with\_deputies.csv.gz} (más las variantes
+\texttt{\_meta} y \texttt{\_texts}) &
+\texttt{intervention\_id}, \texttt{intervention\_plain}, \texttt{deputy\_id},
+\texttt{political\_group\_abbrev}, \texttt{type}, \texttt{section}, \texttt{date},
+\texttt{source\_url} \\
+\addlinespace
+Leyes &
+\texttt{leyes\_texto\_oficial.csv} y \texttt{votos\_por\_diputado\_cohorte.csv}
+(78.116 votos) $+$ \texttt{textes\_lois/<NOR>.txt} &
+scrutin, \texttt{dossier\_uid}, NOR, \texttt{texto\_oficial},
+\texttt{texto\_confianza}; \texttt{deputy\_id}, posición (Pour/Contre/Abstention) \\
+\addlinespace
+Enmiendas &
+\texttt{amendements\_votos\_con\_texto.csv} y
+\texttt{votos\_amendements\_por\_diputado\_cohorte.csv} (297.574 votos) &
+scrutin, \texttt{dispositif}, \texttt{expose\_sommaire}, \texttt{match\_confianza};
+\texttt{deputy\_id}, posición \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection*{Consolidación de grupos en familias políticas}
+
+Las siglas de grupo parlamentario de la XV legislatura se consolidan en familias
+políticas legibles mediante una correspondencia explícita: las variantes del
+grupo mayoritario presidencial (\texttt{LAREM/LREM}) $\rightarrow$ \textbf{LREM};
+\texttt{DEM/MODEM} $\rightarrow$ \textbf{MoDem}; \texttt{LR/LC} $\rightarrow$
+\textbf{LR}; \texttt{FI} $\rightarrow$ \textbf{LFI}; \texttt{GDR} $\rightarrow$
+\textbf{GDR-PCF}; \texttt{SOC/NG} $\rightarrow$ \textbf{PS};
+\texttt{UDI-I/UDI-AGIR/AGIR-E} $\rightarrow$ \textbf{UDI-Agir}; y \texttt{LT},
+\texttt{EDS} y \texttt{NI} se conservan con su etiqueta. Tras esa consolidación
+se aplica el tratamiento de la extrema derecha descrito en la
+sección~\ref{sec:normalizacion}: los once diputados del Front National /
+Rassemblement National ---que figuran como no inscritos porque no formaron grupo
+propio--- se reagrupan en la familia analítica \textbf{FN} a partir de su
+identidad estable en la cohorte, de modo que la categoría \textbf{NI queda como
+un residuo heterogéneo} y no como sustituto del FN/RN. Los análisis por partido
+consumen la variante de la tabla maestra que contiene solo los campos de la
+Asamblea Nacional; los identificadores y grupos coinciden con los de la tabla
+consolidada, ya que provienen del mismo procesamiento de los datos abiertos.
+
+\subsection*{Umbrales mínimos de los análisis por partido}
+
+Para evitar estimaciones sobre muestras minúsculas, los análisis a nivel de
+partido aplican umbrales de tamaño mínimo (invariantes al incorporar la familia
+FN): una familia entra en el análisis de un canal declarado solo si aporta al
+menos \textbf{1.000} documentos en Twitter o en el hemiciclo, y al menos
+\textbf{30} cuasi-frases en los manifiestos. En la agenda revelada, un
+\emph{scrutin} entra en el cálculo de un partido solo si al menos \textbf{tres}
+de sus diputados expresan voto. Estos umbrales explican qué familias son
+comparables en cada fuente.
+
+\subsection{Reproducibilidad y orden de ejecución}
+\label{anexo:reproducibilidad}
+
+Esta subsección complementa la sección~\ref{sec:arquitectura} con el detalle de
+implementación que no corresponde al cuerpo del capítulo: el orden de ejecución
+del pipeline, el entorno de software y la procedencia de las salidas.
+
+\paragraph{Orden de ejecución.} El pipeline encadena ocho etapas por una
+dependencia estricta: (1)~adquisición y limpieza de las fuentes;
+(2)~construcción de corpus y enlace a la cohorte; (3)~clasificación supervisada
+con ManifestoBERTa; (4)~modelado exploratorio con BERTopic; (5)~validación contra
+los códigos humanos MARPOR y contra CHES; (6)~agregación a nivel de partido,
+canal y dominio; (7)~análisis de voto y cruce declarado--revelado; y
+(8)~generación de tablas y figuras. La cohorte de diputados
+(Cuadro~\ref{tab:anexo-artefactos}) precede a todo lo demás: su identificador
+estable es la clave de unión entre fuentes. Las dos vías de clasificación
+---supervisada y exploratoria--- son paralelas y comparten corpus y filtros
+alineados. Como cada etapa persiste sus salidas, puede regenerarse de forma
+incremental sin recomputar las anteriores.
+
+\paragraph{Entorno de software.} El sistema está implementado en Python~3 sobre
+el ecosistema de datos y NLP: \texttt{pandas}, \texttt{numpy}, \texttt{scipy} y
+\texttt{scikit-learn} para procesamiento y métricas; \texttt{torch} y
+\texttt{transformers} para la clasificación supervisada; \texttt{sentence-transformers}
+y \texttt{bertopic} (que integra UMAP, HDBSCAN, c-TF-IDF y \texttt{KeyBERTInspired})
+para el modelado exploratorio; y \texttt{matplotlib}/\texttt{plotly} para la
+visualización. La adquisición emplea además \texttt{requests} y utilidades de
+parseo. Las \textbf{versiones exactas} de las bibliotecas y el \textbf{hardware}
+de ejecución no están centralizados en esta versión del trabajo
+\textup{(por verificar)}; se documentarán junto al \texttt{requirements.txt} de
+cada módulo. La inferencia del clasificador selecciona automáticamente el
+acelerador disponible (MPS, CUDA o CPU), lo que puede inducir diferencias
+numéricas menores entre máquinas.
+
+\paragraph{Credenciales y APIs.} La adquisición de fuentes que requieren
+autenticación (por ejemplo, la API legal Légifrance/PISTE mediante OAuth) toma
+las credenciales de variables de entorno (\texttt{.env}) que \textbf{no} se
+versionan en el repositorio; esta memoria no incluye ningún secreto.
+
+\paragraph{Palabras vacías de dominio.} El modelado exploratorio usa listas de
+palabras vacías específicas por dominio ---francés general, lenguaje legal,
+fórmulas del hemiciclo y ruido de Twitter--- para evitar tópicos de forma en
+lugar de contenido; su efecto se comenta en la sección~\ref{sec:metodo-bertopic}.
+
+\paragraph{Procedencia de tablas y figuras.} Los datos brutos masivos y las
+salidas intermedias no se versionan: se regeneran ejecutando el pipeline, y las
+cifras canónicas quedan registradas en la documentación de cada módulo. Las
+tablas y figuras del capítulo de resultados provienen de las salidas del módulo
+de análisis por partido y de la validación, y se regeneran a partir de ellas al
+integrarlas a la memoria.
 
 \section{Taxonomía MARPOR: dominios y categorías}
 \label{anexo:marpor}
@@ -304,3 +454,77 @@ ilustrativa y no debe tomarse como evidencia fuerte de alineación entre método
   cuerpo del anexo).}
   \label{fig:bertopic-marpor}
 \end{figure}
+
+\section{Cruce declarado--revelado: detalle por canal}
+\label{anexo:cruce}
+
+Este anexo complementa la sección~\ref{sec:res-declarado-revelado}. El instrumento
+principal de ese análisis es la \textbf{tipología por celda} (partido$\times$dominio),
+que compara el signo de la firma declarada con el de la revelada y da lugar a los
+casos canónicos del Cuadro~\ref{tab:cruce-casos}; los tres casos de FN
+(\emph{Fabric of Society}, \emph{Welfare \& QoL} y \emph{Freedom \& Democracy})
+figuran allí y no se repiten aquí. La \emph{correlación} por partido, en cambio,
+es un resumen \textbf{frágil} ---con seis dominios los intervalos cruzan el cero
+para todos--- y se ofrece solo como material complementario, igual que la matriz
+de coherencia por canal.
+
+La comparación entre canales debe igualar la cobertura de partidos: el manifiesto
+solo cubre siete partidos y los tuits y el hemiciclo, once. Restringidos a los
+mismos siete partidos comparables, los tres canales quedan parejos y débiles
+(Figura~\ref{fig:cruce-canales-anexo}), lo que confirma que la aparente
+superioridad del hemiciclo era un artefacto de cobertura.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.82\linewidth]{imagenes/fig_coherence_by_channel.png}
+\caption{Coherencia (correlación de Pearson) entre la firma declarada de cada
+canal y el soporte relativo revelado en enmiendas, por partido. Igualada la base a
+los siete partidos comparables, la alineación agregada (\emph{pooled}) es
+uniformemente débil: manifiesto $0{,}08$, tuits $0{,}08$ y hemiciclo $0{,}16$;
+sin la base común, tuits y hemiciclo aparentan más coherencia solo por abarcar
+once familias y, por tanto, más rango ideológico.}
+\label{fig:cruce-canales-anexo}
+\end{figure}
+
+El Cuadro~\ref{tab:cruce-coherencia-anexo} recoge la coherencia por partido en el
+manifiesto. El orden por Pearson no es interpretable como un \emph{ranking}: los
+intervalos de confianza, muy anchos por descansar en seis dominios, cubren casi
+todo el rango $[-1, +1]$ y la variante re-centrada reordena los partidos (LREM
+pasa de $0{,}43$ a $-0{,}10$). Que FN quede última ($-0{,}20$) no la señala como
+``la menos coherente'': su intervalo cruza el cero como el de las demás y su
+manifiesto no es de muestra pequeña ($274$ cuasi-frases), de modo que su bajo
+coeficiente refleja el desfase declarado--revelado descrito en el capítulo, no un
+artefacto muestral.
+
+\begin{table}[H]
+\centering
+\caption{Coherencia declarado--revelado por partido en el manifiesto: correlación
+de Pearson, variante re-centrada e intervalo de confianza al $95\,\%$ por
+\emph{bootstrap} de dominios (seis dominios; se excluye \emph{External Relations}
+por su escasa base de voto). Un asterisco marca los manifiestos de muestra pequeña
+(PCF $39$, PS $79$ cuasi-frases); FN, en cambio, no lo es.}
+\label{tab:cruce-coherencia-anexo}
+\begin{tabular}{@{}l r r c@{}}
+\toprule
+\textbf{Partido} & \textbf{Pearson} & \textbf{Pearson (re-centrado)} & \textbf{IC$_{95}$} \\
+\midrule
+LFI & $0{,}49$ & $0{,}47$ & $[-0{,}65,\ 0{,}99]$ \\
+LREM & $0{,}43$ & $-0{,}10$ & $[-0{,}46,\ 0{,}97]$ \\
+LR & $0{,}39$ & $0{,}42$ & $[-0{,}86,\ 1{,}00]$ \\
+PS\textsuperscript{*} & $0{,}31$ & $0{,}07$ & $[-0{,}85,\ 0{,}92]$ \\
+PCF\textsuperscript{*} & $0{,}05$ & $0{,}21$ & $[-0{,}97,\ 0{,}85]$ \\
+MoDem & $-0{,}01$ & $-0{,}17$ & $[-0{,}81,\ 0{,}99]$ \\
+FN & $-0{,}20$ & $-0{,}00$ & $[-0{,}90,\ 0{,}75]$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Sobre la robustez de la tipología: la clasificación por signo abarca las
+$42$ celdas del manifiesto (siete partidos por seis dominios). Al reclasificar con
+una \textbf{zona neutra de $\pm 1$ pp} ---positivo si supera $+1$, negativo si baja
+de $-1$, neutro en medio---, \emph{ninguna} celda cambia de cuadrante y solo un
+$24\,\%$ pasa a la categoría neutra: los patrones direccionales no se invierten,
+los casos pequeños simplemente dejan de calificar. El detalle celda a celda de los
+tres canales (firma declarada, firma revelada, apoyo absoluto y tipo por cada
+combinación canal$\times$partido$\times$dominio) queda disponible como material
+complementario del repositorio (\texttt{declared\_revealed\_aligned.csv}).

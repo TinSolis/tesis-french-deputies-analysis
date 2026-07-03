@@ -3,53 +3,64 @@
 
 % Responde a ¿qué se encontró?, ¿qué se desarrolló?, ¿qué resultados se obtuvieron?
 
+Este capítulo presenta los hallazgos siguiendo el mismo orden lógico del
+pipeline, en cinco movimientos. El primero \textbf{valida} el método sobre el
+único corpus con codificación humana de referencia, los manifiestos: comprueba
+que la clasificación temática reproduce la codificación experta y que, agregada
+por partido, recupera posiciones reconocibles por un panel externo de expertos.
+El segundo contrasta la vía supervisada con un \textbf{modelado exploratorio} de
+tópicos, que confirma la plausibilidad temática de cada corpus pero no ofrece un
+espacio comparable entre arenas, y justifica apoyar el análisis en la taxonomía
+MARPOR. Sobre esa base se despliegan los tres análisis sustantivos. El tercero
+describe la \textbf{agenda declarada} de los partidos comparables ---incluida la
+familia FN--- y muestra que el canal reorganiza fuertemente de qué se habla
+aunque cada partido conserva una firma reconocible. El cuarto examina la
+\textbf{agenda revelada} por el voto, dominada por la lógica de bloque en las
+leyes y con un clivaje temático que aflora en las enmiendas. El quinto
+\textbf{cruza} ambas agendas y encuentra una relación débil pero localizada,
+mejor descrita por una tipología que por un índice único de coherencia. Todos los
+resultados son descriptivos, no causales.
+
 \section{Validación del pipeline}
 \label{sec:res-validacion}
 
 Antes de interpretar las agendas de los partidos conviene establecer en qué
-medida las estimaciones de texto del pipeline son confiables. Los análisis de
-los capítulos siguientes descansan por completo sobre las predicciones temáticas
-de la clasificación supervisada (sección~\ref{sec:metodo-manifestoberta}): si esa
-capa no reprodujera de forma razonable una codificación experta, cualquier
-hallazgo sobre énfasis o soporte sería un artefacto del clasificador antes que
-una propiedad de los datos. Por eso esta primera sección de resultados reporta la
-evidencia de validez del método antes de presentar los análisis sustantivos.
+medida las estimaciones de texto son confiables, porque todos los análisis
+posteriores descansan sobre las predicciones de la clasificación supervisada
+(sección~\ref{sec:metodo-manifestoberta}). Esta sección reporta la evidencia de
+validez y adelanta su conclusión: el clasificador reproduce razonablemente la
+codificación humana a nivel de documento y, agregado por partido, recupera
+posiciones que se aproximan a las de un panel independiente de expertos cuando
+hay suficiente texto.
 
-La validación aprovecha que los manifiestos son el \emph{único} corpus del
-proyecto con una codificación humana de referencia ---el código MARPOR asignado
-manualmente a cada cuasi-frase (\texttt{cmp\_code})--- y se organiza en los
-niveles complementarios diseñados en la sección~\ref{sec:metodo-validacion}. El
-primero es una validación \emph{interna} a nivel de documento: contrasta la
-categoría predicha contra la categoría humana sobre el mismo material. Los demás
-operan a nivel de partido, una vez que las categorías se proyectan sobre el eje
-izquierda--derecha mediante el índice RILE: primero comprobando que la
-agregación del modelo reproduce la de los códigos humanos, y luego confrontando
-ambas con un \emph{benchmark} independiente de expertos, el \emph{Chapel Hill
-Expert Survey} (CHES) 2019 \cite{jolly2022ches, ches2019data}.
+La validación aprovecha que los manifiestos son el \emph{único} corpus con
+codificación humana de referencia y se organiza en los niveles diseñados en la
+sección~\ref{sec:metodo-validacion}: una validación \emph{interna} a nivel de
+documento y, tras proyectar las categorías sobre el eje izquierda--derecha con el
+índice RILE, dos contrastes a nivel de partido ---frente a los códigos humanos y
+frente a un \emph{benchmark} externo de expertos, el \emph{Chapel Hill Expert
+Survey} (CHES) 2019 \cite{jolly2022ches, ches2019data}---.
 
 \subsection{Validación del clasificador contra MARPOR humano}
 \label{sec:res-val-clasificador}
 
 La primera comprobación enfrenta las predicciones de ManifestoBERTa
-\cite{manifestoberta2024} sobre los manifiestos de 2017 contra el
-\texttt{cmp\_code} humano, cuasi-frase a cuasi-frase. El contraste se realiza
-sobre las \textbf{3.430} cuasi-frases con código humano utilizable (del total de
-3.801 del corpus, descartando las que no tienen un código MARPOR numérico
-asignable). Sobre esa base (Cuadro~\ref{tab:val-clasificador}), la clasificación
-automática alcanza una
-\textbf{exactitud de la categoría principal (top-1) del $58{,}3\,\%$}, que sube
-al \textbf{$82{,}0\,\%$ al considerar las tres categorías más probables
-(top-3)}. Como la asignación de dominio se obtiene del primer dígito del código,
-la \textbf{exactitud a nivel de dominio} ---más robusta por agrupar categorías
-afines--- es del \textbf{$70{,}3\,\%$}. El desempeño promediado por categoría,
-medido con el \textbf{\emph{macro} F1, es de $0{,}44$}, valor que refleja la
-fuerte asimetría del esquema: las categorías frecuentes se clasifican bien,
-mientras que varias categorías raras arrastran el promedio.
+\cite{manifestoberta2024} sobre los manifiestos de 2017 contra el código humano
+MARPOR, cuasi-frase a cuasi-frase, sobre las \textbf{3.430} cuasi-frases con
+código utilizable (del total de 3.801 del corpus, descartando las que no tienen
+un código MARPOR numérico asignable). La clasificación automática
+(Cuadro~\ref{tab:val-clasificador}) alcanza una \textbf{exactitud de la categoría
+principal (top-1) del $58{,}3\,\%$}, que sube al \textbf{$82{,}0\,\%$ en las tres
+categorías más probables (top-3)}; como el dominio se obtiene del primer dígito
+del código, la \textbf{exactitud a nivel de dominio} ---más robusta--- es del
+\textbf{$70{,}3\,\%$}, y el \textbf{\emph{macro} F1} por categoría, $0{,}44$,
+refleja la asimetría del esquema: las categorías frecuentes se clasifican bien y
+varias raras arrastran el promedio.
 
 \begin{table}[H]
 \centering
 \caption{Validación del clasificador ManifestoBERTa contra el código humano
-MARPOR (\texttt{cmp\_code}) sobre los manifiestos de 2017
+MARPOR sobre los manifiestos de 2017
 ($n = 3.430$ cuasi-frases con código utilizable). La última columna reproduce el
 desempeño reportado por los autores del modelo (\emph{model card}) como
 referencia.}
@@ -67,37 +78,31 @@ Exactitud a nivel de dominio (1--7) & $70{,}3\,\%$ & --- \\
 \end{table}
 
 Estas cifras son \textbf{consistentes con la \emph{model card}} del modelo
-(top-1 $57{,}0\,\%$, top-3 $81{,}0\,\%$), lo que indica que la transferencia
-directa al francés político de la XV legislatura no degrada el desempeño
-respecto del reportado por sus autores. La brecha entre el acierto top-1 y el
-top-3, y entre el de categoría y el de dominio, es coherente con dos rasgos ya
-anticipados en la metodología: el esquema MARPOR asume una sola etiqueta por
-documento ---lo que penaliza a las cuasi-frases multitemáticas--- y las
-confusiones se concentran entre categorías de dominios contiguos (por ejemplo,
-entre economía y bienestar, o entre bienestar y grupos sociales), de modo que el
-error se atenúa al leer los resultados a nivel de dominio.
+(top-1 $57{,}0\,\%$, top-3 $81{,}0\,\%$): la transferencia directa al francés
+político de la XV legislatura no degrada el desempeño respecto del reportado por
+sus autores. La brecha entre top-1 y top-3, y entre categoría y dominio, es
+coherente con dos rasgos ya anticipados en la metodología ---una etiqueta por
+documento, que penaliza a las cuasi-frases multitemáticas, y confusiones
+concentradas entre dominios contiguos (economía/bienestar, bienestar/grupos
+sociales)---, de modo que el error se atenúa al leer los resultados por dominio.
 
 \subsection{Validación posicional: RILE frente a CHES}
 \label{sec:res-val-ches}
 
-La validación interna confirma que el modelo reproduce la codificación humana
-sobre el mismo material, pero no garantiza que las estimaciones \emph{agregadas}
-midan algo externamente reconocible. Para examinarlo, las categorías MARPOR se
-proyectan sobre el eje izquierda--derecha mediante el índice \textbf{RILE} de
-Laver y Budge \cite{laver1992party}, calculado por partido según se describe en
-la sección~\ref{sec:metodo-validacion}. El RILE se computa de dos maneras sobre
-las mismas cuasi-frases ---a partir de los códigos predichos por el modelo y a
-partir de los códigos humanos--- y se contrasta con la ubicación
-izquierda--derecha (\texttt{lrgen}) que el CHES~2019 asigna a cada partido. Dado
-que el número de partidos emparejables es pequeño, se reporta siempre el $n$ y se
-privilegia la correlación de rangos de Spearman ($\rho$).
+La validación interna confirma que el modelo reproduce la codificación humana,
+pero no garantiza que las estimaciones \emph{agregadas} midan algo externamente
+reconocible. Para examinarlo, las categorías MARPOR se proyectan sobre el eje
+izquierda--derecha con el índice \textbf{RILE} \cite{laver1992party} y se
+comparan con la ubicación del CHES~2019, según el diseño de tres capas de la
+sección~\ref{sec:metodo-validacion}. Como el número de partidos emparejables es
+pequeño, se reporta siempre el $n$ y se privilegia la correlación de rangos de
+Spearman ($\rho$).
 
 \begin{table}[H]
 \centering
 \caption{Correlación entre el RILE estimado y la ubicación izquierda--derecha del
-CHES~2019 (\texttt{lrgen}), en las tres capas de validación y en los
-diagnósticos. Se reportan el coeficiente de rangos de Spearman ($\rho$), el de
-Pearson ($r$) y el número de partidos ($n$).}
+CHES~2019, en las tres capas de validación. Se reportan el coeficiente de rangos
+de Spearman ($\rho$), el de Pearson ($r$) y el número de partidos ($n$).}
 \label{tab:val-ches}
 \begin{tabular}{@{}l r r r@{}}
 \toprule
@@ -106,192 +111,140 @@ Pearson ($r$) y el número de partidos ($n$).}
 A) Modelo frente a humano & $0{,}79$ & $0{,}85$ & $10$ \\
 B) Modelo frente a CHES (externa) & $0{,}38$ & $0{,}42$ & $8$ \\
 Techo) Humano frente a CHES & $0{,}76$ & $0{,}75$ & $8$ \\
-\midrule
-\multicolumn{4}{@{}l}{\emph{Diagnósticos sobre la capa B}} \\
-\quad Modelo frente a CHES, partidos con $\geq 100$ cuasi-frases & $0{,}89$ & $0{,}72$ & $6$ \\
-\quad Modelo frente a CHES, excluyendo RN & $0{,}36$ & $0{,}37$ & $7$ \\
-\quad Modelo frente a CHES, eje económico (\texttt{lrecon}) & $0{,}57$ & $0{,}43$ & $8$ \\
 \bottomrule
 \end{tabular}
+
+{\footnotesize Diagnósticos sobre la capa B ($\rho$; $r$; $n$): partidos con
+$\geq 100$ cuasi-frases $0{,}89$; $0{,}72$; $6$. Excluyendo RN $0{,}36$; $0{,}37$;
+$7$. Eje económico del CHES $0{,}57$; $0{,}43$; $8$.}
 \end{table}
 
-El diseño descompone la validez en \textbf{tres capas}
-(Cuadro~\ref{tab:val-ches}), que separan el error del
-modelo del error del método. La primera, \emph{modelo frente a humano}, compara
-el RILE estimado por el modelo con el derivado de los códigos humanos sobre las
-mismas cuasi-frases: mide cuánto se aparta el clasificador automático de la
-codificación experta una vez agregado por partido. Pese a una exactitud
-por-cuasi-frase de apenas el $58{,}3\,\%$, esta capa alcanza una correlación
-\textbf{$\rho \approx 0{,}79$} ($n=10$): los errores de clasificación, en gran
-medida, se \emph{cancelan} al promediar por partido, de modo que la posición
-agregada se preserva. La segunda capa, \emph{modelo frente a CHES}, es la
-validación externa propiamente dicha y arroja una correlación más modesta,
-\textbf{$\rho \approx 0{,}38$} ($n=8$). La tercera, \emph{humano frente a CHES},
-fija el
-\textbf{techo} alcanzable por el método ---cuánto coinciden dos
-patrones de referencia independientes, la codificación humana de MARPOR y la
-encuesta de expertos--- y se sitúa en \textbf{$\rho \approx 0{,}76$} ($n=8$). Que
-el techo no sea cercano a uno es esperable, porque ambos instrumentos miden cosas
-relacionadas pero no idénticas: el RILE resume \emph{énfasis temático} y el CHES,
-\emph{posición percibida}.
+Las tres capas (Cuadro~\ref{tab:val-ches}) separan el error del modelo del error
+del método. La capa \textbf{A} (\emph{modelo frente a humano}) mide cuánto se
+aparta el clasificador de la codificación experta una vez agregado por partido:
+pese a una exactitud por-cuasi-frase de apenas el $58{,}3\,\%$, alcanza
+$\rho \approx 0{,}79$ ($n=10$), señal de que los errores se \emph{cancelan} al
+promediar por partido y la posición agregada se preserva. La capa \textbf{B}
+(\emph{modelo frente a CHES}) es la validación externa propiamente dicha y arroja
+una correlación más modesta, $\rho \approx 0{,}38$ ($n=8$). La \textbf{tercera}
+(\emph{humano frente a CHES}) fija el \textbf{techo} del método ---cuánto
+coinciden dos referencias independientes--- en $\rho \approx 0{,}76$ ($n=8$): que
+no sea cercano a uno es esperable, porque el RILE resume \emph{énfasis temático} y
+el CHES \emph{posición percibida}.
 
-La distancia entre la segunda capa ($\rho \approx 0{,}38$) y el techo ($\rho
-\approx 0{,}76$) no se debe a un fallo sistemático del modelo, sino a unos pocos
-partidos con muy poco texto codificado. Al restringir la comparación a los
-partidos con \textbf{al menos 100 cuasi-frases} ---umbral de fiabilidad habitual
-en MARPOR--- la correlación externa sube a \textbf{$\rho \approx 0{,}89$}
-($n=6$), un valor que se sitúa dentro del rango de la propia codificación humana
-de MARPOR. Conviene precisar que este $\rho$ y el techo no se calculan sobre la
-misma muestra ---el techo se estima sobre los ocho partidos emparejables y este
-diagnóstico sobre los seis con suficiente texto---, por lo que no son
-directamente comparables; lo que indican, en conjunto, es que cuando hay
-suficiente texto por partido la posición estimada desde el discurso se aproxima a
-la de los expertos.
-
-El caso que más arrastra la correlación en la muestra
-completa es el del PCF, cuyo manifiesto aporta solo 39 cuasi-frases y produce una
-estimación de RILE inestable. La Figura~\ref{fig:rile-ches} ilustra esta capa
-externa sobre los ocho partidos emparejables: se aprecia una tendencia
-ascendente, aunque modesta ($\rho \approx 0{,}38$) y muy condicionada por el
-desajuste del PCF.
+La distancia entre la capa B y el techo no responde a un fallo sistemático del
+modelo, sino a unos pocos partidos con muy poco texto codificado. Al restringir
+la comparación a los partidos con \textbf{al menos 100 cuasi-frases} ---umbral de
+fiabilidad habitual en MARPOR--- la correlación externa sube a
+$\rho \approx 0{,}89$ ($n=6$), dentro del rango de la propia codificación humana.
+Ese diagnóstico y el techo no se calculan sobre la misma muestra ---seis frente a
+ocho partidos---, por lo que no son directamente comparables; leídos en conjunto
+indican que, con suficiente texto por partido, la posición estimada desde el
+discurso se aproxima a la de los expertos. El caso que más arrastra la
+correlación en la muestra completa es el del PCF, cuyo manifiesto aporta solo 39
+cuasi-frases y produce un RILE inestable; la Figura~\ref{fig:rile-ches} ilustra la
+capa externa sobre los ocho partidos emparejables.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.82\linewidth]{imagenes/scatter_rile_vs_ches.png}
 \caption{RILE estimado por el modelo (eje horizontal) frente a la ubicación
-izquierda--derecha del CHES~2019 (\texttt{lrgen}, eje vertical) para los ocho
-partidos emparejables (capa B, $\rho \approx 0{,}38$, $n=8$). La línea
-discontinua marca la tendencia.}
+izquierda--derecha del CHES~2019 (eje vertical) para los ocho partidos
+emparejables (capa B, $\rho \approx 0{,}38$, $n=8$). La línea discontinua marca la
+tendencia; el desajuste del PCF, con muy pocas cuasi-frases, condiciona la
+correlación.}
 \label{fig:rile-ches}
 \end{figure}
 
 \subsection{Alcance de la validación}
 \label{sec:res-val-alcance}
 
-La evidencia anterior debe leerse con varias salvedades que acotan su alcance.
-La más importante es que \textbf{la validación solo puede hacerse sobre los
-manifiestos}, porque son el único canal con codificación humana MARPOR y el
-único con un \emph{benchmark} de expertos comparable. No existe un \emph{ground
-truth} equivalente para tuits, intervenciones, leyes o enmiendas, de modo que la
-calidad de la clasificación en esas arenas se asume por transferencia desde el
-desempeño observado en los manifiestos, no se mide directamente.
-
-En segundo lugar, todas estas correlaciones descansan sobre \textbf{un
-número muy pequeño de partidos} (entre 6 y 10, y solo entre 6 y 8 en las capas
-que involucran al CHES), por lo que son sensibles a casos individuales y deben
-interpretarse como indicios de validez y no como estimaciones precisas; de ahí el
-uso de correlación de rangos y el reporte sistemático del $n$. A esa fragilidad contribuyen además las \textbf{muestras
-pequeñas} de algunos manifiestos: el PCF aporta apenas 39 cuasi-frases y el PS,
-79, por lo que sus posiciones estimadas son solo indicativas. Se suma un
-\textbf{desfase temporal} asumido: la referencia de expertos corresponde a 2019
-y los manifiestos a las elecciones de 2017, una diferencia de dos años que puede
-introducir discrepancias menores sin invalidar la comparación.
+La evidencia anterior debe leerse con tres salvedades. La más importante es que
+\textbf{la validación solo puede hacerse sobre los manifiestos}, el único canal
+con codificación humana MARPOR y con un \emph{benchmark} de expertos comparable:
+la calidad de la clasificación en tuits, intervenciones, leyes o enmiendas se
+asume por transferencia desde el desempeño observado en los manifiestos, no se
+mide directamente. En segundo lugar, todas las correlaciones descansan sobre
+\textbf{un número muy pequeño de partidos} (entre 6 y 10, y solo entre 6 y 8 en
+las capas con CHES) y sobre manifiestos a veces diminutos ---el PCF aporta apenas
+39 cuasi-frases---, por lo que son indicios de validez y no estimaciones
+precisas; de ahí el uso de correlación de rangos y el reporte del $n$. A ello se
+suma un \textbf{desfase temporal} asumido, ya señalado en la metodología: la
+referencia de expertos es de 2019 y los manifiestos de 2017.
 
 Por último, conviene reiterar que el RILE se emplea aquí \textbf{únicamente como
-instrumento de validación externa}, no como eje del análisis. Es un índice
-posicional unidimensional, frágil y ciego a la dirección del enunciado, por lo
-que resulta inadecuado para caracterizar agendas ricas y multidimensionales. El
-análisis sustantivo de los partidos, que se desarrolla en las secciones
-siguientes, se construye en cambio sobre el \emph{énfasis temático} ---las
-distribuciones completas de categorías y dominios MARPOR \cite{marpor_mp_v5}---
-y no sobre este eje izquierda--derecha. En síntesis, la validación respalda usar
-las predicciones del pipeline como base de los análisis temáticos: el
-clasificador reproduce la codificación humana al agregar por partido y, con
-suficiente texto, recupera posiciones que se aproximan a las de un panel
-independiente de expertos.
+instrumento de validación externa}, no como eje del análisis: es un índice
+posicional unidimensional, frágil y ciego a la dirección del enunciado,
+inadecuado para caracterizar agendas ricas y multidimensionales. El análisis
+sustantivo se construye, en cambio, sobre el \emph{énfasis temático} ---las
+distribuciones completas de categorías y dominios MARPOR \cite{marpor_mp_v5}---.
+En síntesis, la validación respalda usar las predicciones del pipeline como base
+de los análisis temáticos. Antes de desarrollarlos, la sección siguiente
+contrasta la vía supervisada con un modelado exploratorio de tópicos, para
+justificar por qué el análisis a nivel de partido se apoya en la taxonomía
+MARPOR.
 
 \section{Comparación exploratoria entre BERTopic y ManifestoBERTa}
 \label{sec:res-bertopic}
 
-El proyecto clasifica los cinco corpus por dos vías paralelas: la supervisada
-con ManifestoBERTa \cite{manifestoberta2024} sobre la taxonomía MARPOR
-\cite{marpor_mp_v5} y la exploratoria, no supervisada, con BERTopic
-\cite{grootendorst2022bertopic} (ambas descritas en las
-secciones~\ref{sec:metodo-manifestoberta} y~\ref{sec:metodo-bertopic}). Antes de
-los análisis a nivel de partido conviene aclarar qué aporta cada vía y por qué la
-comparación entre ellas es exploratoria y no la base del análisis principal.
-
-\subsection{Dos formas complementarias de representar los corpus}
-\label{sec:res-bt-complementarias}
-
-Las dos vías responden preguntas distintas. BERTopic \textbf{descubre}
-agrupamientos temáticos \emph{empíricos} dentro de cada corpus por separado, sin
-imponer un marco teórico previo. Sus tópicos son, por tanto, específicos de cada
-fuente y se describen con las palabras que los caracterizan, no con categorías
-comparables entre arenas.
-ManifestoBERTa, en cambio, \textbf{proyecta} todos los corpus sobre una
-\emph{taxonomía común y predefinida} ---las 56 categorías y 7 dominios de
-MARPOR---, de modo que un tuit, un párrafo de ley y una cuasi-frase de manifiesto
-quedan descritos en el mismo espacio de categorías.
-
-De esa diferencia se siguen usos distintos. BERTopic es útil para la
-\textbf{inspección exploratoria} de cada corpus: permite comprobar de forma
-cualitativa si una fuente contiene señales temáticas plausibles, detectar los
-temas empíricos esperables y, sobre todo, hacer visibles los problemas de ruido o
-de lenguaje procedimental que afectan a algunos corpus. ManifestoBERTa, por su
-naturaleza comparable, es el que habilita la \textbf{comparación sistemática
-entre fuentes} y la agregación por partido, canal y dominio; es el insumo directo
-del análisis de agenda declarada (sección~\ref{sec:res-declarada}), de agenda
-revelada (sección~\ref{sec:res-revelada}) y de su cruce
-(sección~\ref{sec:res-declarado-revelado}). En consecuencia, BERTopic acompaña y
-contextualiza el análisis principal sin sustituirlo.
+El proyecto clasifica los cinco corpus por dos vías paralelas descritas en la
+metodología: la supervisada con ManifestoBERTa \cite{manifestoberta2024} sobre la
+taxonomía MARPOR (sección~\ref{sec:metodo-manifestoberta}) y la exploratoria, no
+supervisada, con BERTopic \cite{grootendorst2022bertopic}
+(sección~\ref{sec:metodo-bertopic}). Esta sección ofrece una lectura exploratoria
+de los tópicos y justifica por qué el análisis a nivel de partido se apoya en
+MARPOR; la comparación es cualitativa y de roles, no una validación de una vía
+con la otra.
 
 \subsection{Lectura exploratoria de los tópicos}
 \label{sec:res-bt-lectura}
 
-Aplicado de forma uniforme a las cinco fuentes y reducido a un número comparable
-de tópicos ---\textbf{24 tópicos finales por corpus}, más un grupo residual de
-\emph{outliers}---, BERTopic recupera agrupaciones que resultan coherentes con la
-naturaleza de cada arena. En los \textbf{manifiestos} emergen temas de carácter
-\emph{programático} propios de una campaña (educación, fiscalidad, servicios
-públicos, energía). En las \textbf{leyes} y las \textbf{enmiendas} aparecen temas
-de tono \emph{legislativo y regulatorio}: las enmiendas se reparten en asuntos
-focalizados (fiscalidad, vivienda, salud, jubilaciones), mientras que las leyes
-mezclan materia sustantiva con fórmulas administrativas recurrentes del texto
-oficial. Los \textbf{tuits} capturan sobre todo \emph{coyuntura} y comunicación
-política (actualidad, figuras y eventos del período), y las
-\textbf{intervenciones en el hemiciclo} combinan debate sustantivo con tramos de
-lenguaje \emph{procedimental} residual.
+BERTopic \textbf{descubre} agrupamientos temáticos empíricos dentro de cada
+corpus, sin imponer un marco previo, mientras que ManifestoBERTa \textbf{proyecta}
+todos los corpus sobre una taxonomía común. Aplicado de forma uniforme a las
+cinco fuentes y reducido a un número comparable de tópicos ---\textbf{24 tópicos
+finales por corpus}, más un grupo residual de \emph{outliers}---, BERTopic
+recupera agrupaciones coherentes con la naturaleza de cada arena: en los
+\textbf{manifiestos}, temas \emph{programáticos} de campaña (educación,
+fiscalidad, servicios públicos, energía); en \textbf{leyes} y \textbf{enmiendas},
+materia \emph{legislativa} (fiscalidad, vivienda, salud, jubilaciones), mezclada
+en las leyes con fórmulas administrativas del texto oficial; en los \textbf{tuits},
+\emph{coyuntura} y comunicación política; y en las \textbf{intervenciones}, debate
+sustantivo con tramos de lenguaje \emph{procedimental}.
 
-Esta lectura confirma que cada fuente contiene señales temáticas plausibles, pero
-también expone los límites del enfoque no supervisado. En los corpus más grandes
+Esta lectura confirma que cada fuente contiene señal temática plausible, pero
+también expone los límites del enfoque no supervisado: en los corpus más grandes
 ---tuits e intervenciones--- cerca de la mitad de los documentos quedan sin
-asignar como \emph{outliers}, y persisten tópicos de carácter procedimental o de
-fórmula administrativa, especialmente en leyes e intervenciones, que reflejan la
-forma del texto antes que su contenido político. El detalle completo de los
-tópicos por corpus, con sus palabras representativas, se recoge en el
+asignar como \emph{outliers}, y persisten tópicos procedimentales o de fórmula
+administrativa que reflejan la forma del texto antes que su contenido político. El
+detalle completo por corpus, con sus palabras representativas, se recoge en el
 anexo~\ref{anexo:bertopic} (Cuadros~\ref{tab:bt-manifestos}
-a~\ref{tab:bt-interventions}) para no recargar la exposición.
+a~\ref{tab:bt-interventions}).
 
 \subsection{Por qué el análisis principal usa MARPOR}
 \label{sec:res-bt-por-que-marpor}
 
-El contraste anterior es \textbf{cualitativo y de roles}: no se realiza un mapeo
-formal entre los tópicos descubiertos por BERTopic y las categorías MARPOR, sino
-que se comparan los usos de cada vía. A modo de ilustración ---y sin constituir
-ese mapeo formal--- el anexo~\ref{anexo:bertopic-marpor} muestra, para un tópico
-concreto de enmiendas, cómo sus documentos se reparten sobre los dominios MARPOR.
-Debe leerse, además, con tres salvedades.
-Primero, BERTopic \textbf{no valida} la clasificación MARPOR: sus tópicos son
-agrupaciones empíricas sin correspondencia directa con las categorías del
-esquema, por lo que su parecido cualitativo con los temas esperables de cada
-arena no constituye una prueba de acierto del clasificador supervisado (esa
-validación es la de la sección~\ref{sec:res-validacion}). Segundo, BERTopic
-\textbf{no reemplaza} a ManifestoBERTa: al descubrir tópicos distintos en cada
-corpus, no ofrece un espacio común en el que comparar arenas o agregar por
-partido. Tercero, sus resultados tienen una reproducibilidad solo parcial y
-carecen de métricas de coherencia, lo que desaconseja apoyar conclusiones
-cuantitativas en ellos.
+El contraste anterior es cualitativo, y de él se siguen tres salvedades que fijan
+el papel de BERTopic. Primero, \textbf{no valida} la clasificación MARPOR: sus
+tópicos son agrupaciones empíricas sin correspondencia directa con las categorías
+del esquema, de modo que su parecido con los temas esperables de cada arena no
+prueba el acierto del clasificador supervisado ---esa es la validación de la
+sección~\ref{sec:res-validacion}---. Segundo, \textbf{no reemplaza} a
+ManifestoBERTa: al descubrir tópicos distintos en cada corpus, no ofrece un
+espacio común en el que comparar arenas o agregar por partido. Tercero, su
+reproducibilidad es solo parcial y carece de métricas de coherencia, lo que
+desaconseja apoyar conclusiones cuantitativas en él. A título ilustrativo ---y sin
+constituir un mapeo formal--- el anexo~\ref{anexo:bertopic-marpor} muestra, para
+un tópico de enmiendas, cómo sus documentos se reparten sobre los dominios MARPOR.
 
-Por estas razones, el análisis sustantivo de los capítulos siguientes se
-construye sobre las categorías y dominios MARPOR estimados por ManifestoBERTa, y
-no sobre los tópicos de BERTopic. Ello no supone atribuir al clasificador
-supervisado una exactitud perfecta ---sus límites quedaron documentados en la
-sección~\ref{sec:res-validacion}---, sino reconocer que solo una representación
-común y comparable entre las cinco arenas permite contrastar de manera
-sistemática lo que cada partido enfatiza y lo que apoya al votar. BERTopic cumple
-así un papel de triangulación exploratoria que respalda la plausibilidad de los
-corpus sin sustituir el eje comparable del análisis.
+Por estas razones, el análisis sustantivo se construye sobre las categorías y
+dominios MARPOR estimados por ManifestoBERTa: solo una representación común y
+comparable entre las cinco arenas permite contrastar de forma sistemática lo que
+cada partido enfatiza y lo que apoya al votar. BERTopic cumple así un papel de
+triangulación exploratoria que respalda la plausibilidad de los corpus sin
+sustituir el eje comparable del análisis, sobre el que se desarrollan los tres
+análisis a nivel de partido: la agenda declarada, la revelada por el voto y su
+cruce.
 
 \section{Agenda declarada: el canal define de qué se habla}
 \label{sec:res-declarada}
@@ -304,29 +257,35 @@ si un mismo partido habla de los mismos temas en los tres canales, y si las
 diferencias que se observen son un \emph{efecto del canal} ---común a todos los
 partidos--- o una \emph{estrategia propia} de cada uno.
 
+En síntesis, el canal reorganiza fuertemente la mezcla temática de todos los
+partidos ---un efecto estructural que arrastra el discurso hacia la meta-política
+en Twitter y el hemiciclo---; pero, descontado ese efecto común, FN es el mayor
+reorganizador de su firma y LREM el más estable, mientras que cada partido
+conserva un núcleo temático reconocible entre canales.
+
 \subsection{Cobertura y planteamiento}
 \label{sec:res-declarada-cobertura}
 
-La comparación se restringe a los \textbf{seis partidos presentes en los tres
-canales}: LFI, PS, PCF, MoDem, LREM y LR (el PCF corresponde al grupo GDR-PCF en
-Twitter y el hemiciclo). Otros partidos, como EELV o RN, solo aparecen en los
-manifiestos o no son aislables como grupo parlamentario, por lo que quedan fuera
-de este contraste. Para cada partido se mide su distribución de énfasis por
-dominio en cada canal y la distancia entre esos perfiles, descrita con tres
-indicadores ya definidos en la sección~\ref{sec:metricas-cross-channel}: el
-\textbf{desplazamiento bruto}, el \textbf{desplazamiento específico} (que
-descuenta el efecto estructural común del canal) y la \textbf{persistencia de
-firma}. Las estimaciones de desplazamiento se acompañan de intervalos por
-\emph{bootstrap}, que sirven para exhibir la incertidumbre ---crítica en los
-manifiestos pequeños--- y no como una prueba de hipótesis.
+La comparación se restringe a los \textbf{siete partidos presentes en los tres
+canales}: FN, LFI, LR, LREM, MoDem, PCF y PS (el PCF corresponde al grupo GDR-PCF
+en Twitter y el hemiciclo). FN entra como \textbf{familia analítica}: aunque en
+los datos parlamentarios sus once diputados figuran como no inscritos, se aíslan
+por su identidad estable en la cohorte (sección~\ref{sec:normalizacion}), de modo
+que dispone de manifiesto propio y de texto en los tres canales; por su parte,
+\emph{NI} queda como residuo heterogéneo y no entra en esta comparación. Otros
+partidos, como EELV, solo aparecen en los manifiestos y quedan fuera del
+contraste. Para cada partido se mide su distribución de énfasis por dominio en
+cada canal y la distancia entre esos perfiles, con los tres indicadores definidos
+en la sección~\ref{sec:metricas-cross-channel} ---desplazamiento bruto, específico
+y persistencia de firma---, acompañados de intervalos por \emph{bootstrap} que
+exhiben la incertidumbre, crítica en los manifiestos pequeños.
 
-Conviene retener una salvedad de interpretación ya señalada en la
-sección~\ref{sec:normalizacion}: los tres canales no provienen del mismo tipo de
-actor. El manifiesto es texto del \emph{partido como organización}, mientras que
-los tuits y las intervenciones son texto de sus \emph{diputados individuales}. La
-agenda declarada mezcla, por tanto, el documento oficial con la comunicación de
-los representantes; no es un defecto ---ambos son lo que el partido comunica---
-pero condiciona la lectura de las diferencias entre canales.
+Conviene retener una salvedad ya señalada (sección~\ref{sec:normalizacion}): los
+tres canales no provienen del mismo tipo de actor. El manifiesto es texto del
+\emph{partido como organización}, mientras que los tuits y las intervenciones son
+texto de sus \emph{diputados individuales}. La agenda declarada mezcla, por tanto,
+el documento oficial con la comunicación de los representantes; no es un defecto
+---ambos son lo que el partido comunica--- pero condiciona la lectura.
 
 \subsection{El canal reorganiza la mezcla temática}
 \label{sec:res-declarada-patron}
@@ -337,31 +296,32 @@ El hallazgo de fondo es que la mezcla temática depende fuertemente del canal
 \emph{Economy}, los dominios donde el partido despliega su oferta sustantiva. En
 \textbf{Twitter} y el \textbf{hemiciclo}, en cambio, la agenda se desplaza hacia
 la \emph{meta-política}: el dominio \emph{Political System} (gobierno, autoridad,
-instituciones, corrupción) pasa a ser el más enfatizado en los seis partidos. El
-efecto es marcado: por ejemplo, en LFI el peso de \emph{Political System} sube del
-$6\,\%$ en el programa al $41\,\%$ en Twitter, y en PS, del $8\,\%$ al $39\,\%$
-en el hemiciclo. Observado en su programa o en su Twitter, un mismo partido
-parece hablar de mundos distintos.
+instituciones, corrupción) pasa a ser el más enfatizado en los siete partidos. El
+efecto es marcado: en LFI el peso de \emph{Political System} sube del $6\,\%$ en
+el programa al $41\,\%$ en Twitter, en PS del $8\,\%$ al $39\,\%$ en el hemiciclo
+y en FN del $5{,}5\,\%$ al $41{,}9\,\%$ en Twitter ---el más alto del panel---.
+Observado en su programa o en su Twitter, un mismo partido parece hablar de mundos
+distintos.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=\linewidth]{imagenes/heatmap_party_channel_domain.png}
-\caption{Énfasis por dominio MARPOR (porcentaje de cuasi-frases) para los seis
+\caption{Énfasis por dominio MARPOR (porcentaje de cuasi-frases) para los siete
 partidos comparables en los tres canales de agenda declarada. \emph{Welfare \&
 QoL} y \emph{Economy} dominan en los manifiestos; \emph{Political System} domina
-en Twitter y el hemiciclo en los seis partidos.}
+en Twitter y el hemiciclo en todos los partidos.}
 \label{fig:heatmap-canal}
 \end{figure}
 
 Para separar ese efecto estructural de la estrategia propia de cada partido se
 contrastan el desplazamiento bruto y el específico
-(Figura~\ref{fig:shift-canal}). El \textbf{desplazamiento bruto} es alto y
-similar para casi todos (en torno a $19$--$27$ pp), pero buena parte de él es común:
-al centrar por canal, el desplazamiento se reduce en \textbf{unos 13 a 17 puntos
-porcentuales} en los cinco partidos estimables (en el PCF esta medida se
-distorsiona por su manifiesto de solo 39 cuasi-frases). Es decir, el arrastre
-hacia \emph{Political System} en Twitter y el hemiciclo no es estrategia de
-ningún partido en particular, sino el género del texto; el desplazamiento bruto
+(Figura~\ref{fig:shift-canal}). El \textbf{desplazamiento bruto} es alto para casi
+todos (en torno a $19$--$31$ pp, con FN en el máximo), pero buena parte de él es
+común: al centrar por canal, el desplazamiento se reduce en \textbf{unos 12 a 16
+puntos porcentuales} en los seis partidos estimables (el PCF queda fuera por su
+manifiesto de solo 39 cuasi-frases). Es decir, el arrastre hacia
+\emph{Political System} en Twitter y el hemiciclo no es estrategia de ningún
+partido en particular, sino el género del texto; el desplazamiento bruto
 \emph{sobreestima} cuánto cambia de agenda cada partido.
 
 \begin{figure}[H]
@@ -370,60 +330,67 @@ ningún partido en particular, sino el género del texto; el desplazamiento brut
 \caption{Desplazamiento bruto frente a desplazamiento específico (distancia
 euclídea en puntos porcentuales entre canales) por partido. El centrado por canal
 descuenta el efecto estructural común y reduce el desplazamiento en torno a
-13--17 pp en todos los casos. El PCF se incluye solo a título indicativo (véase
-el texto).}
+12--16 pp; FN presenta el mayor desplazamiento específico y LREM el menor. El PCF
+se incluye solo a título indicativo (véase el texto).}
 \label{fig:shift-canal}
 \end{figure}
 
 \subsection{Identidad que persiste y estrategia que reorganiza}
 \label{sec:res-declarada-persistencia}
 
-Descontado el efecto del canal, los extremos son lo robusto. \textbf{LFI}
-presenta el mayor desplazamiento específico ($14{,}4$ pp, con intervalo estrecho)
-y la menor persistencia de firma ($0{,}02$): es el partido que más reorganiza su
-identidad relativa según dónde habla. En su programa es una izquierda
-internacionalista y social; en Twitter su marca pasa a ser la confrontación con
-el poder (\emph{Autoridad Política}), con un perfil casi opuesto al programático.
-En el extremo contrario, \textbf{LREM}, el partido presidencial, muestra el menor
-desplazamiento específico ($5{,}7$ pp) y la mayor persistencia ($0{,}56$): su
-marca de eficiencia y gestión gubernamental reaparece de forma estable en los
-tres canales. Este contraste
-entre LFI y LREM ---reorganización frente a estabilidad--- sobrevive a los
-intervalos de confianza. Conviene precisar que lo que aquí se denomina
-\emph{estrategia} es una etiqueta descriptiva para el residuo de reorganización
-que queda tras descontar el efecto del canal, no una afirmación sobre la
+Descontado el efecto del canal, los extremos son lo robusto. \textbf{FN} presenta
+el mayor desplazamiento específico ($17{,}5$ pp, intervalo $[15{,}9,\ 20{,}7]$ sin
+solaparse con el resto): es el partido que más reorganiza su superficie temática
+según dónde habla. En Twitter salta a \emph{Political System} ($41{,}9\,\%$) en
+modo confrontación anti-establishment, con su contenido programático casi
+desaparecido; pero en el hemiciclo \textbf{no se diluye} como los demás y conserva
+\emph{Fabric of Society} como dominio dominante ($24{,}9\,\%$, el más alto del
+panel). Su manifiesto y su hemiciclo se parecen entre sí mucho más que cualquiera
+de ellos con Twitter, que funciona como \emph{outlier} y hace que su persistencia
+media sea solo modesta ($0{,}148$); aun así, su núcleo nacional-securitario
+---\emph{National Way of Life} (601) y \emph{Law and Order} (605)--- reaparece en
+los tres canales. En el extremo contrario, \textbf{LREM}, el partido presidencial,
+muestra el menor desplazamiento específico ($7{,}4$ pp) y la mayor persistencia
+($0{,}412$): su marca de gestión y eficiencia gubernamental reaparece de forma
+estable en los tres canales. El contraste FN--LREM ---reorganización de superficie
+frente a estabilidad--- sobrevive a los intervalos de confianza. Conviene precisar
+que la \emph{estrategia} es aquí una etiqueta descriptiva del residuo de
+reorganización que queda tras descontar el canal, no una afirmación sobre la
 intención de los partidos.
 
-Los demás partidos quedan en una zona intermedia cuyos intervalos se solapan, por
-lo que \textbf{no conviene leer un orden exacto entre ellos}. Un caso ilustrativo
-es \textbf{MoDem}: su desplazamiento bruto es de los más altos (cercano a
-$27$ pp), pero casi todo se explica por el efecto común del canal, de modo que su
-desplazamiento específico ($10{,}5$ pp) es moderado.
-
-El \textbf{PCF}
-queda explícitamente fuera de la interpretación: su manifiesto aporta solo $39$
-cuasi-frases, lo que produce un intervalo de \emph{bootstrap} muy ancho y vuelve
-su desplazamiento no estimable con confianza; en los dos canales con datos
-suficientes (Twitter y hemiciclo) su firma sí es consistente, pero no se afirma
-nada sobre su estabilidad global. El Cuadro~\ref{tab:persistencia-canal} resume
-la persistencia de firma de los seis partidos.
+\textbf{LFI} es el segundo mayor reorganizador ($12{,}1$ pp; persistencia
+$0{,}172$), un caso importante pero ya no el extremo del panel: en su programa es
+una izquierda internacionalista y social, y en Twitter su marca pasa a la
+confrontación con el poder (\emph{Autoridad Política}). Los demás partidos quedan
+en una zona intermedia cuyos intervalos se solapan, por lo que \textbf{no conviene
+leer un orden exacto entre ellos}: \textbf{MoDem} ($11{,}3$ pp específico) ilustra
+el caso de un desplazamiento bruto alto (cercano a $27$ pp) que es casi todo
+efecto del canal, y PS ($10{,}8$) y LR ($9{,}1$) completan esa banda media. El
+\textbf{PCF} queda explícitamente fuera de la interpretación: su manifiesto aporta
+solo $39$ cuasi-frases, lo que produce un intervalo de \emph{bootstrap} muy ancho
+y vuelve su desplazamiento no estimable con confianza; en los dos canales con
+datos suficientes (Twitter y hemiciclo) su firma sí es consistente, pero no se
+afirma nada sobre su estabilidad global. El Cuadro~\ref{tab:persistencia-canal}
+resume la persistencia de firma de los siete partidos.
 
 \begin{table}[H]
 \centering
 \caption{Persistencia de firma por partido: correlación media de los vectores de
 firma de categorías entre los tres canales (mayor valor indica una firma temática
-más estable). El PCF se reporta con la salvedad de su manifiesto pequeño.}
+más estable). Salvo LREM, los valores quedan en una banda baja cuyo orden fino no
+es interpretable; el PCF se reporta con la salvedad de su manifiesto pequeño.}
 \label{tab:persistencia-canal}
 \begin{tabular}{@{}l r@{}}
 \toprule
 \textbf{Partido} & \textbf{Persistencia (corr.\ media)} \\
 \midrule
-LREM & $0{,}56$ \\
-LR & $0{,}32$ \\
-MoDem & $0{,}21$ \\
-PS & $0{,}18$ \\
-PCF\textsuperscript{*} & $0{,}12$ \\
-LFI & $0{,}02$ \\
+LREM & $0{,}412$ \\
+LFI & $0{,}172$ \\
+PCF\textsuperscript{*} & $0{,}156$ \\
+FN & $0{,}148$ \\
+PS & $0{,}108$ \\
+MoDem & $0{,}108$ \\
+LR & $0{,}107$ \\
 \bottomrule
 \end{tabular}
 
@@ -437,14 +404,16 @@ hemiciclo, en cambio, su firma sí correlaciona alto.}
 
 El resultado no significa que los partidos cambien por completo de identidad al
 pasar de un canal a otro. Cada uno conserva un núcleo temático reconocible que
-reaparece entre canales ---el bienestar en el PS, la gestión en LREM, la nación
-en LR, los temas sociales en LFI---; lo que cambia drásticamente es el
-\emph{peso relativo} de la meta-política, que el canal institucional y el
-comunicativo activan en todos de forma comparable. Dicho de otro modo, el canal
-\textbf{condiciona fuertemente la agenda observable}, hasta el punto de que
-hablar de ``la agenda'' de un partido sin especificar el canal es ambiguo: existe
-una agenda programática en el manifiesto, una comunicativa en Twitter y una
-institucional en el hemiciclo.
+reaparece entre canales ---el bienestar en el PS, la gestión en LREM, la nación y
+la seguridad en FN, los temas sociales en LFI---; lo que cambia drásticamente es
+el \emph{peso relativo} de la meta-política, que el canal institucional y el
+comunicativo activan en todos de forma comparable. La incorporación de FN, además,
+recalibra el promedio del canal en los temas nacional-identitarios y diluye la
+distintividad de LR en ellos (comparten el tema 601), lo que explica su baja
+persistencia relativa. Dicho de otro modo, el canal \textbf{condiciona fuertemente
+la agenda observable}, hasta el punto de que hablar de ``la agenda'' de un partido
+sin especificar el canal es ambiguo: existe una agenda programática en el
+manifiesto, una comunicativa en Twitter y una institucional en el hemiciclo.
 
 Estas métricas, sin embargo, miden \emph{salience} ---de qué se habla--- y no
 postura ni comportamiento. Por eso el análisis siguiente cambia de superficie:
@@ -461,6 +430,15 @@ de modo que el cruce entre el contenido temático del texto y el voto de cada
 diputado deja ver qué apoya o rechaza cada partido. La pregunta es si ese voto
 revela preferencias \emph{temáticas} propias o si, sobre todo, refleja la
 posición \emph{institucional} de gobierno frente a oposición.
+
+En síntesis, el voto tiene dos capas y la primera es la posición. En las leyes
+finales, saber si un partido pertenece a la mayoría o a la oposición basta para
+anticipar su voto; en las enmiendas esa lógica se afloja y deja aflorar un
+clivaje temático modesto pero estadísticamente sólido que, en esta legislatura,
+se ordena más por la dimensión cultural (orden y modo de vida frente a
+libertades y derechos) que por la económica. La cohesión interna, en fin, valida
+el tratamiento de los grupos como familias políticas ---y, en particular, de FN
+como familia separada del residuo de no inscritos.
 
 \subsection{Cobertura y planteamiento}
 \label{sec:res-revelada-cobertura}
@@ -489,7 +467,14 @@ ahora la izquierda apoya en su mayoría (GDR-PCF $87{,}0\,\%$, LFI $83{,}7\,\%$,
 PS $82{,}7\,\%$) y el Gobierno las rechaza (LREM $15{,}7\,\%$, MoDem $22{,}4\,\%$),
 precisamente porque defiende su texto frente a las modificaciones propuestas. Los
 partidos se ordenan así sobre una antidiagonal: quien aprueba las leyes tiende a
-rechazar las enmiendas, y a la inversa.
+rechazar las enmiendas, y a la inversa. FN, al no integrar la mayoría
+($\text{GOV}=\text{LREM}+\text{MoDem}$), cae del lado opositor con un perfil
+propio: su apoyo a las leyes finales es de los más bajos del arco
+($27{,}1\,\%$, por debajo de LR $45{,}9\,\%$ y cercano al rechazo de PS
+$36{,}7\,\%$) y su apoyo a enmiendas es alto ($73{,}4\,\%$). El NI residual, en
+cambio, queda más arriba ($52{,}6\,\%$ en leyes, $83{,}0\,\%$ en enmiendas), lo
+que confirma que es un agregado heterogéneo de no inscritos y no un bloque
+opositor homogéneo ni un proxy de RN/FN.
 
 \begin{figure}[H]
 \centering
@@ -498,7 +483,8 @@ rechazar las enmiendas, y a la inversa.
 las leyes finales (eje horizontal) frente a las enmiendas (eje vertical). Los
 partidos se ordenan sobre la antidiagonal: la mayoría presidencial (LREM, MoDem)
 apoya las leyes y rechaza las enmiendas; la oposición de izquierda (LFI, GDR-PCF,
-PS) hace lo contrario.}
+PS) hace lo contrario. FN se sitúa en el polo opositor (leyes $27{,}1\,\%$,
+enmiendas $73{,}4\,\%$).}
 \label{fig:scatter-lois-amend}
 \end{figure}
 
@@ -513,8 +499,8 @@ enmiendas dejen de medir posición, sino que en ellas la lógica de bloque
 Para cuantificar cuánto pesa cada factor se comparan cuatro modelos anidados
 sobre el apoyo por \emph{partido$\times$scrutin}, en términos de la varianza
 explicada ($R^2$ ponderado) y no de la significancia
-(sección~\ref{sec:metricas-descomposicion}). El Cuadro~\ref{tab:r2-voto} y la
-Figura~\ref{fig:r2-voto} resumen el resultado.
+(sección~\ref{sec:metricas-descomposicion}). El Cuadro~\ref{tab:r2-voto} resume
+el resultado.
 
 \begin{table}[H]
 \centering
@@ -528,21 +514,11 @@ nivel absoluto.}
 \toprule
 \textbf{Corpus} & \textbf{Bloque} & \textbf{Partido} & \textbf{+ Dominio} & \textbf{Partido$\times$Dominio} \\
 \midrule
-Leyes ($n=2.075$) & $0{,}47$ & $0{,}57$ & $0{,}58$ & $0{,}59$ \\
-Enmiendas ($n=13.256$) & $0{,}33$ & $0{,}35$ & $0{,}36$ & $0{,}36$ \\
+Leyes ($n=2.129$) & $0{,}47$ & $0{,}57$ & $0{,}58$ & $0{,}59$ \\
+Enmiendas ($n=13.116$) & $0{,}33$ & $0{,}35$ & $0{,}36$ & $0{,}36$ \\
 \bottomrule
 \end{tabular}
 \end{table}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=\linewidth]{imagenes/r2_decomposition.png}
-\caption{Varianza del apoyo explicada por cada modelo anidado (bloque, partido,
-partido más dominio, interacción partido$\times$dominio), en leyes y enmiendas.
-En las leyes el binario mayoría/oposición ya explica el grueso; el dominio
-temático añade poco en ambos corpus.}
-\label{fig:r2-voto}
-\end{figure}
 
 La lectura es matizada. En las \textbf{leyes}, el binario mayoría/oposición ya
 explica el $47\,\%$ de la varianza; el partido fino añade unos $10$ puntos
@@ -559,16 +535,14 @@ etiqueta de dominio no captura. El efecto temático, por tanto, es real pero
 \subsection{El clivaje temático es cultural y robusto}
 \label{sec:res-revelada-clivaje}
 
-Esa herramienta es el \textbf{soporte relativo}: el apoyo de un partido a un
-dominio menos su apoyo global, lo que aísla la señal temática del efecto
-gobierno/oposición (sección~\ref{sec:metricas-revelada}). Aquí es
-\textbf{crucial} interpretarlo bien: un soporte relativo \emph{negativo no
-significa que el partido vote mayoritariamente en contra}, sino que apoya ese
-tema \emph{por debajo de su propia base}. Por ejemplo, PS, LFI y GDR-PCF, pese a
-su soporte relativo de $-16$ a $-22$ pp en \emph{Fabric of Society}, siguen
-aprobando en términos absolutos la mayoría de esas enmiendas (del orden de
-$61$ a $70\,\%$ a favor), solo que muy por debajo de su base general (en torno a
-$83$--$87\,\%$).
+Esa herramienta es el \textbf{soporte relativo} (apoyo de un partido a un dominio
+menos su apoyo global), que aísla la señal temática del efecto gobierno/oposición
+(sección~\ref{sec:metricas-revelada}). Conviene recordar que un soporte relativo
+\emph{negativo no significa} que el partido vote mayoritariamente en contra, sino
+que apoya ese tema \emph{por debajo de su propia base}: PS, LFI y GDR-PCF, pese a
+su $-16$ a $-22$ pp en \emph{Fabric of Society}, siguen aprobando en términos
+absolutos la mayoría de esas enmiendas (del orden de $61$ a $70\,\%$), solo que
+muy por debajo de su base general ($83$--$87\,\%$).
 
 Sobre las enmiendas (Figura~\ref{fig:heatmap-soporte-enmiendas}), el clivaje más
 nítido es \textbf{cultural}, no económico, y se ordena en dos dominios espejo:
@@ -576,13 +550,19 @@ nítido es \textbf{cultural}, no económico, y se ordena en dos dominios espejo:
   \item \emph{Fabric of Society} (orden público, inmigración, modo de vida
         nacional): la izquierda lo apoya \emph{de menos} (PS $-21{,}9$,
         GDR-PCF $-17{,}5$, LFI $-15{,}9$, EDS $-14{,}9$ pp) y el centro-derecha
-        de más (UDI-Agir $+7{,}7$, MoDem $+3{,}4$ pp).
+        de más (UDI-Agir $+7{,}7$, MoDem $+3{,}3$ pp). FN, en cambio, no es
+        distintivo aquí ($-1{,}0$ pp, sin estabilidad de signo), pese a que su
+        agenda \emph{declarada} gira sobre este dominio
+        (sección~\ref{sec:res-declarada}).
   \item \emph{Freedom \& Democracy} (libertades, derechos, democracia): el patrón
         se invierte, con la derecha apoyando \emph{de menos} (LR $-19{,}1$,
-        NI $-19{,}9$ pp) y la izquierda de más (LFI $+7{,}0$ pp).
+        FN $-19{,}2$ pp) y la izquierda de más (LFI $+7{,}0$ pp).
 \end{itemize}
-La \emph{Economy}, en cambio, polariza menos: sus signos están mezclados y no
-dibujan un eje izquierda--derecha limpio.
+FN aporta además un rasgo propio: es el partido que más apoya \emph{de más} el
+dominio \emph{Welfare \& QoL} ($+14{,}0$ pp). La \emph{Economy}, en cambio,
+polariza menos: sus signos están mezclados y no dibujan un eje izquierda--derecha
+limpio (el valor de FN, $-24{,}9$ pp, tiene un intervalo tan ancho que cruza el
+cero y no se interpreta).
 
 \begin{figure}[H]
 \centering
@@ -597,18 +577,23 @@ texto).}
 \end{figure}
 
 Este clivaje no es un artefacto de unos pocos votos. Un remuestreo por
-\emph{scrutin} (\emph{bootstrap}) confirma que las dos puntas son sólidas: el menor apoyo
-relativo de la izquierda a \emph{Fabric of Society} y el de la derecha (LR, NI) a
-\emph{Freedom \& Democracy} conservan el signo en prácticamente el $100\,\%$ de
-las réplicas y sus intervalos excluyen el cero (Cuadro~\ref{tab:clivaje-ci}).
-Además, el patrón se reparte en más de $50$ leyes distintas en cada dominio, de
-modo que no proviene de un único debate. El lado más frágil es el apoyo
-\emph{positivo} del centro-derecha a \emph{Fabric of Society} (UDI-Agir $+7{,}7$,
-con intervalo que roza el cero): el clivaje se sostiene sobre todo porque cada
-bloque apoya \emph{de menos} el tema del otro. Debe señalarse, además, que no se
-controla quién propone cada enmienda (sección~\ref{sec:corpus-enmiendas}), lo que
-podría explicar en parte estas diferencias; aun así, la robustez al remuestreo y
-el reparto entre leyes hacen improbable que el patrón sea un mero artefacto.
+\emph{scrutin} (\emph{bootstrap}) confirma que las dos puntas son sólidas: el menor
+apoyo relativo de la izquierda a \emph{Fabric of Society} y el de la derecha
+(LR y FN) a \emph{Freedom \& Democracy} conservan el signo en prácticamente el
+$100\,\%$ de las réplicas y sus intervalos excluyen el cero
+(Cuadro~\ref{tab:clivaje-ci}); también es robusto el mayor apoyo de FN a
+\emph{Welfare \& QoL}. Al separar FN se corrige, de paso, una atribución previa:
+el polo derecho de \emph{Freedom \& Democracy} que antes recaía sobre NI era en
+realidad de los diputados de FN; el NI residual cae a $-3{,}6$ pp, con signo
+inestable, y deja de ser un polo del clivaje. El patrón se reparte, por lo demás,
+en más de $50$ leyes distintas en cada dominio, de modo que no proviene de un
+único debate. El lado más frágil es el apoyo \emph{positivo} del centro-derecha a
+\emph{Fabric of Society} (UDI-Agir $+7{,}7$, con intervalo que roza el cero): el
+clivaje se sostiene sobre todo porque cada bloque apoya \emph{de menos} el tema
+del otro. Debe señalarse, en fin, que no se controla quién propone cada enmienda
+(sección~\ref{sec:corpus-enmiendas}), lo que podría explicar en parte estas
+diferencias; aun así, la robustez al remuestreo y el reparto entre leyes hacen
+improbable que el patrón sea un mero artefacto.
 
 \begin{table}[H]
 \centering
@@ -625,8 +610,9 @@ GDR-PCF & Fabric of Society & $-17{,}5$ & $[-27{,}4,\ -7{,}1]$ & $1{,}00$ \\
 LFI & Fabric of Society & $-15{,}9$ & $[-23{,}9,\ -8{,}4]$ & $1{,}00$ \\
 EDS & Fabric of Society & $-14{,}9$ & $[-25{,}1,\ -4{,}6]$ & $1{,}00$ \\
 LR & Freedom \& Democracy & $-19{,}1$ & $[-25{,}0,\ -13{,}9]$ & $1{,}00$ \\
-NI & Freedom \& Democracy & $-19{,}9$ & $[-27{,}8,\ -12{,}5]$ & $1{,}00$ \\
+FN & Freedom \& Democracy & $-19{,}2$ & $[-29{,}0,\ -10{,}1]$ & $1{,}00$ \\
 LFI & Freedom \& Democracy & $+7{,}0$ & $[+2{,}7,\ +11{,}2]$ & $1{,}00$ \\
+FN & Welfare \& QoL & $+14{,}0$ & $[+8{,}4,\ +19{,}8]$ & $1{,}00$ \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -638,12 +624,15 @@ Como apoyo secundario, la cohesión interna medida con el índice de Rice
 (sección~\ref{sec:metricas-revelada}) confirma que tratar a los grupos como
 familias políticas es razonable. LFI es el partido más disciplinado (índice de
 Rice cercano a $1{,}00$ en ambos corpus): su radicalidad discursiva no implica
-indisciplina de voto. En el extremo opuesto, los agregados heterogéneos son los
-menos cohesionados ---NI en las leyes ($\approx 0{,}74$), y UDI-Agir y LT en las
-enmiendas ($\approx 0{,}74$--$0{,}77$)---, lo que es coherente con que se trata de
-no inscritos y grupos mixtos más que de partidos homogéneos, y justifica leer sus
-métricas con cautela. El núcleo de familias con voto coherente (PS, GDR-PCF,
-LREM, MoDem, LR) mantiene una cohesión por encima de $0{,}88$ en ambos corpus.
+indisciplina de voto. FN, pese a su base parlamentaria pequeña (11 diputados),
+vota como un bloque muy cohesionado ($0{,}955$ en leyes, $0{,}987$ en enmiendas),
+lo que respalda empíricamente tratarlo como familia propia y no como un conjunto
+disperso. En el extremo opuesto, el NI residual es el agregado más heterogéneo
+---al quitarle el bloque cohesionado de FN, su Rice cae a $0{,}495$ en las
+leyes---, junto con UDI-Agir y LT en las enmiendas ($\approx 0{,}74$--$0{,}77$):
+son no inscritos y grupos mixtos más que partidos homogéneos, y sus métricas se
+leen con cautela. El núcleo de familias con voto coherente (PS, GDR-PCF, LREM,
+MoDem, LR y FN) mantiene una cohesión por encima de $0{,}88$ en ambos corpus.
 
 \subsection{Lectura del análisis}
 \label{sec:res-revelada-cierre}
@@ -659,8 +648,9 @@ derechos) que económico. Conviene no sobreinterpretarlo: el efecto temático es
 real pero pequeño frente al peso de la posición, y describe alineaciones
 agregadas, no relaciones causales. Con la agenda declarada
 (sección~\ref{sec:res-declarada}) y la revelada ya caracterizadas por separado,
-el análisis siguiente las pone en contraste: ¿apoyan los partidos al votar los
-temas que enfatizan en su discurso?
+el análisis siguiente pone ambas caras en contraste para los siete partidos con
+manifiesto electoral: ¿apoyan los partidos al votar los temas que enfatizan en su
+discurso?
 
 \section{Declarado frente a revelado: ¿votan lo que dicen?}
 \label{sec:res-declarado-revelado}
@@ -674,6 +664,15 @@ en contacto: ¿los dominios que un partido sobre-enfatiza en su comunicación so
 también los que apoya por encima de su propia base al votar? La pregunta no es si
 existe una alineación global perfecta ---no la hay---, sino si la relación
 discurso--voto adopta patrones \emph{localizados} e interpretables.
+
+En síntesis, la agenda declarada se alinea solo \textbf{débilmente} con la
+revelada: la relación no es lo bastante estable como para rankear partidos por
+``coherencia'' ni para coronar un canal como mejor predictor, de modo que el
+aporte principal es \emph{tipológico}, no correlacional. Pero no es aleatoria:
+aparece de forma localizada en banderas de identidad respaldadas, en distancias
+coherentes y en usos oposicionales de ciertos temas. FN es el caso más
+ilustrativo del desfase entre lo que un partido proclama y lo que su voto
+distingue.
 
 \subsection{Diseño de la comparación}
 \label{sec:res-cruce-diseno}
@@ -699,18 +698,21 @@ de la base del propio partido. Toda la tipología que sigue compara \emph{signos
 relativos}, no niveles absolutos.
 
 \paragraph{Cobertura.}
-El cruce con manifiestos solo admite \textbf{seis partidos comparables} ---LFI,
-PS, PCF, MoDem, LREM y LR---, porque el manifiesto se indexa por partido electoral
-de 2017 y el voto por grupo parlamentario de la XV legislatura, y solo esos seis
-coinciden limpiamente. En lo que sigue, PCF designa al partido electoral, cuyo
-grupo parlamentario es GDR-PCF en los datos de voto (de ahí que su soporte
-revelado coincida con el reportado para GDR-PCF en la sección
-anterior). Tweets y hemiciclo comparten la consolidación de grupos del
-voto y permiten comparar diez familias, pero la comparación entre canales debe
-restringirse a intersecciones equivalentes. Como en las secciones previas, debe
-recordarse que ``partido'' designa unidades heterogéneas según el canal
-(partido-organización en el manifiesto, diputados individuales en tweets, grupo
-parlamentario en hemiciclo y voto), por lo que la lectura es exploratoria.
+El cruce con manifiestos admite \textbf{siete partidos comparables} ---LFI, PS,
+PCF, MoDem, LREM, LR y \textbf{FN}---, porque el manifiesto se indexa por partido
+electoral de 2017 y el voto por grupo parlamentario de la XV legislatura, y solo
+esos siete coinciden limpiamente; FN entra como familia analítica con manifiesto
+propio de 2017 ($274$ cuasi-frases) y voto por familia, mientras que \textbf{NI},
+al no ser un partido electoral de 2017, no participa del cruce con manifiestos y
+se mantiene como residuo heterogéneo, no como \emph{proxy} de RN/FN. En lo que
+sigue, PCF designa al partido electoral, cuyo grupo parlamentario es GDR-PCF en
+los datos de voto (de ahí que su soporte revelado coincida con el reportado para
+GDR-PCF en la sección anterior). Tweets y hemiciclo comparten la consolidación de
+grupos del voto y permiten comparar once familias, pero la comparación entre
+canales debe restringirse a intersecciones equivalentes. Como en las secciones
+previas, debe recordarse que ``partido'' designa unidades heterogéneas según el
+canal (partido-organización en el manifiesto, diputados individuales en tweets,
+grupo parlamentario en hemiciclo y voto), por lo que la lectura es exploratoria.
 
 \subsection{Resultado principal: una tipología, no un ranking}
 \label{sec:res-cruce-tipologia}
@@ -730,7 +732,7 @@ apoya relativamente menos). Los nombres son descriptivos, no normativos.
 \caption{Firma declarada en el manifiesto (eje horizontal, énfasis del partido en
 un dominio respecto del promedio de sus pares, en pp) frente a la firma revelada
 en enmiendas (eje vertical, soporte relativo del análisis anterior, en pp), para
-los seis partidos comparables. Cada punto es un dominio. El cuadrante superior
+los siete partidos comparables. Cada punto es un dominio. El cuadrante superior
 derecho corresponde a \emph{énfasis respaldado} y el inferior izquierdo a
 \emph{baja prioridad y menor apoyo relativo}. El coeficiente por partido ($r$) se
 muestra solo como resumen descriptivo (véase la sección~\ref{sec:res-cruce-coherencia}).}
@@ -750,9 +752,9 @@ Hay casos donde la identidad del partido se sostiene del discurso al voto en sus
 temas propios. \textbf{LFI} y las libertades civiles (\emph{Freedom \&
 Democracy}) es el caso más nítido: énfasis declarado positivo y soporte relativo
 $+6{,}9$ pp (apoyo absoluto $90{,}6\,\%$ sobre una base de $\sim 84\,\%$). \textbf{PS}
-y el bienestar (\emph{Welfare \& QoL}): fuerte énfasis en el manifiesto ($+12{,}8$)
+y el bienestar (\emph{Welfare \& QoL}): fuerte énfasis en el manifiesto ($+13{,}1$)
 y soporte relativo $+3{,}6$. \textbf{MoDem} ilustra el caso del centro de
-gobierno en \emph{Economy}: la enfatiza ($+2{,}5$) y la apoya relativamente más
+gobierno en \emph{Economy}: la enfatiza ($+1{,}9$) y la apoya relativamente más
 ($+5{,}5$), aun cuando su apoyo absoluto sea bajo ($27{,}9\,\%$), porque está por
 encima de su base global ($\sim 22\,\%$) ---ilustración de que la señal temática
 es enteramente relativa---. \textbf{LREM} comparte ese soporte relativo positivo
@@ -766,54 +768,67 @@ está ausente en las nueve combinaciones partido-canal de LFI, PCF y PS, y el
 soporte relativo es marcadamente negativo (PS $-21{,}9$, PCF $-17{,}5$, LFI
 $-15{,}9$). Debe insistirse en que esto \textbf{no es rechazo absoluto}: la
 izquierda sigue aprobando en mayoría esas enmiendas ($60$--$70\,\%$ a favor), solo
-que muy por debajo de su altísima base. Un matiz de medición: PS no sub-enfatiza
-\emph{Fabric of Society} en sentido estricto (su firma declarada es $+0{,}1$,
-prácticamente neutra: en la Figura~\ref{fig:cruce-cuadrantes} queda sobre el eje
-vertical, y por eso el Cuadro~\ref{tab:cruce-casos} lo reporta como neutro pese a
-su signo crudo). El patrón se describe mejor como \emph{ausencia de apropiación
-discursiva positiva combinada con soporte relativo negativo} que como silencio
-explícito.
+que muy por debajo de su altísima base. Con el conjunto comparable ampliado a
+siete partidos ---y el fuerte sobre-énfasis de FN en \emph{Fabric of Society}
+recentrando el promedio del dominio---, la firma declarada de PS pasa a ser
+levemente negativa ($-1{,}6$) en los tres canales: PS deja de aparecer como
+``neutro'' y se suma limpiamente a la coherencia negativa de la izquierda, con
+ausencia de apropiación discursiva positiva y un soporte relativo muy negativo
+($-21{,}9$).
 
 \paragraph{Énfasis no respaldado (uso oposicional).}
 Otros casos enfatizan un tema cuyo soporte relativo es negativo, lo que, según el
 contexto, sugiere un uso confrontativo más que legislativo. \textbf{LR} y
 \emph{Fabric of Society}: lo enfatiza en dos de los tres canales (su \emph{issue
-ownership} securitario) pero su soporte relativo es $-4{,}7$, más discursivo que
-respaldado en enmiendas.
-\textbf{NI} (donde se ubica el RN) y las libertades en el hemiciclo: enfatiza
-derechos ($+2{,}3$) pero su soporte relativo es $-19{,}9$ (apoyo absoluto
-$53{,}5\,\%$ sobre una base de $\sim 73\,\%$), un uso del lenguaje de las
-libertades para confrontar. Conviene \textbf{no} sobre-leer el manifiesto del
-\textbf{PCF}: su muestra es pequeña ($39$ quasi-frases) y casos como
-PCF--\emph{Political System} ($+10{,}5$ declarado) descansan en categorías de
-muestra mínima señaladas como ruido, por lo que sus celdas se toman como
-indicativas.
+ownership} securitario; $+2{,}4$ en el manifiesto) pero su soporte relativo es
+$-4{,}7$, más discursivo que respaldado en enmiendas. Conviene \textbf{no}
+sobre-leer el manifiesto del \textbf{PCF}: su muestra es pequeña ($39$ quasi-frases)
+y casos como PCF--\emph{Political System} ($+11{,}5$ declarado) descansan en
+categorías de muestra mínima señaladas como ruido, por lo que sus celdas se toman
+como indicativas.
+
+\paragraph{FN: la firma declarada que el voto no respalda.}
+FN es la ilustración más nítida del \emph{gap} entre capas observables, y conviene
+leerlo como diferencia entre lo que un partido proclama y lo que su voto distingue,
+no como incoherencia moral. Su firma \emph{identitaria} es persistente en el
+discurso ---sobre-enfatiza \emph{Fabric of Society} en los tres canales ($+9{,}8$
+en el manifiesto)--- pero en el voto sobre enmiendas de ese dominio \textbf{no es
+distintiva} ($-1{,}0$, no robusto): es la versión más pura del \emph{énfasis no
+respaldado}. A la vez \textbf{revela apoyo donde no enfatiza}: en \emph{Welfare
+\& QoL} apoya $+14{,}0$ pp por encima de su base (el más alto de cualquier partido
+en ese dominio, robusto) pese a no declararlo ---\emph{apoyo no enfatizado}---. Y
+en \emph{Freedom \& Democracy} se ubica como \emph{baja prioridad y menor apoyo
+relativo} ($-19{,}2$, empatado con LR como polo derecho del clivaje cultural),
+aunque, como toda firma revelada, ello convive con un apoyo absoluto mayoritario
+($54{,}2\,\%$): es apoyo por debajo de su base, no rechazo.
 
 El Cuadro~\ref{tab:cruce-casos} reúne las celdas canónicas que sostienen esta
-lectura; la tipología completa por canal queda en
-\texttt{declared\_revealed\_aligned.csv} y puede llevarse a un anexo si se desea
-el detalle de las $36$ celdas del manifiesto.
+lectura; el detalle completo de la tipología por canal se recoge en el
+anexo~\ref{anexo:cruce}.
 
 \begin{table}[H]
 \centering
-\caption{Celdas canónicas de la tipología (manifiesto, salvo la fila de NI, que es
-hemiciclo). \emph{s\_decl} y \emph{s\_rev} son las firmas centradas declarada y
-revelada (pp); ``Apoyo abs.'' y ``Base'' son el apoyo absoluto al dominio y el
-apoyo global del partido en enmiendas (\%); un \emph{s\_rev} negativo es apoyo por
-debajo de la base, no rechazo.}
+\caption{Celdas canónicas de la tipología (manifiesto). \emph{s\_decl} y
+\emph{s\_rev} son las firmas centradas declarada y revelada (pp); ``Apoyo abs.'' y
+``Base'' son el apoyo absoluto al dominio y el apoyo global del partido en
+enmiendas (\%); un \emph{s\_rev} negativo es apoyo por debajo de la base, no
+rechazo. En FN, \emph{Fabric of Society} revelado ($-1{,}0$) no es robusto y se
+reporta como neutro.}
 \label{tab:cruce-casos}
 \begin{tabular}{@{}l l r r r r l@{}}
 \toprule
 \textbf{Partido} & \textbf{Dominio} & \textbf{s\_decl} & \textbf{s\_rev} & \textbf{Apoyo abs.} & \textbf{Base} & \textbf{Tipo} \\
 \midrule
-LFI & Freedom \& Democracy & $+1{,}8$ & $+6{,}9$ & $90{,}6$ & $\sim 84$ & énfasis respaldado \\
-PS & Welfare \& QoL & $+12{,}8$ & $+3{,}6$ & $86{,}3$ & $\sim 83$ & énfasis respaldado \\
-MoDem & Economy & $+2{,}5$ & $+5{,}5$ & $27{,}9$ & $\sim 22$ & énfasis respaldado \\
-LFI & Fabric of Society & $-2{,}8$ & $-15{,}9$ & $67{,}8$ & $\sim 84$ & baja prioridad / menor apoyo rel. \\
-PCF & Fabric of Society & $-2{,}3$ & $-17{,}5$ & $69{,}5$ & $\sim 87$ & baja prioridad / menor apoyo rel. \\
-PS & Fabric of Society & $+0{,}1$ & $-21{,}9$ & $60{,}8$ & $\sim 83$ & neutro / bajo apoyo rel. \\
-LR & Fabric of Society & $+4{,}1$ & $-4{,}7$ & $66{,}2$ & $\sim 71$ & énfasis no respaldado \\
-NI & Freedom \& Democracy & $+2{,}3$ & $-19{,}9$ & $53{,}5$ & $\sim 73$ & énfasis no respaldado \\
+LFI & Freedom \& Democracy & $+2{,}1$ & $+6{,}9$ & $90{,}6$ & $\sim 84$ & énfasis respaldado \\
+PS & Welfare \& QoL & $+13{,}1$ & $+3{,}6$ & $86{,}3$ & $\sim 83$ & énfasis respaldado \\
+MoDem & Economy & $+1{,}9$ & $+5{,}5$ & $27{,}9$ & $\sim 22$ & énfasis respaldado \\
+PCF & Fabric of Society & $-4{,}0$ & $-17{,}5$ & $69{,}5$ & $\sim 87$ & baja prioridad / menor apoyo rel. \\
+LFI & Fabric of Society & $-4{,}5$ & $-15{,}9$ & $67{,}8$ & $\sim 84$ & baja prioridad / menor apoyo rel. \\
+PS & Fabric of Society & $-1{,}6$ & $-21{,}9$ & $60{,}8$ & $\sim 83$ & baja prioridad / menor apoyo rel. \\
+LR & Fabric of Society & $+2{,}4$ & $-4{,}7$ & $66{,}2$ & $\sim 71$ & énfasis no respaldado \\
+FN & Fabric of Society & $+9{,}8$ & $-1{,}0$ & $72{,}4$ & $\sim 73$ & énfasis no respaldado / neutro \\
+FN & Welfare \& QoL & $-1{,}5$ & $+14{,}0$ & $87{,}4$ & $\sim 73$ & apoyo no enfatizado \\
+FN & Freedom \& Democracy & $-1{,}8$ & $-19{,}2$ & $54{,}2$ & $\sim 73$ & baja prioridad / menor apoyo rel. \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -826,14 +841,19 @@ entre su firma declarada y la revelada sobre los seis dominios) es tentador, per
 \textbf{no permite rankear partidos}. La Figura~\ref{fig:cruce-coherencia} muestra
 los coeficientes con sus intervalos de confianza por \emph{bootstrap} de dominios:
 con solo seis puntos, los intervalos cubren casi todo el rango $[-1, +1]$ para
-\emph{todos} los partidos, ningún coeficiente es distinguible de cero ni de los
-demás, y el orden cambia según se use Pearson, Spearman o la variante re-centrada
-(LR pasa de $0{,}40$ a $0{,}65$; MoDem de $0{,}12$ a $-0{,}10$). Estos intervalos
-no deben leerse como inferencia estadística fuerte, sino como una visualización de
-la \textbf{sensibilidad} del coeficiente a la composición temática: una
-demostración de fragilidad, no un estimador de ``coherencia partidaria''. Por eso
-el peso interpretativo recae en la tipología por celda, que no depende de este
-coeficiente.
+\emph{todos} los partidos ---incluida FN, la más baja en Pearson ($-0{,}20$), con
+intervalo $[-0{,}90,\ 0{,}75]$---, ningún coeficiente es distinguible de cero ni de
+los demás, y el orden cambia según se use Pearson, Spearman o la variante
+re-centrada (LR pasa de $0{,}39$ a $0{,}42$; MoDem de $-0{,}01$ a $-0{,}17$;
+LREM de $0{,}43$ a $-0{,}10$). Que FN aparezca última en Pearson \textbf{no}
+autoriza a llamarla ``la menos coherente'': su intervalo cruza el cero como el de
+los demás, y su manifiesto no es de muestra pequeña ($274$ cuasi-frases), de modo
+que el bajo coeficiente refleja el \emph{gap} declarado--revelado descrito arriba,
+no un artefacto. Estos intervalos no deben leerse como inferencia estadística
+fuerte, sino como una visualización de la \textbf{sensibilidad} del coeficiente a
+la composición temática: una demostración de fragilidad, no un estimador de
+``coherencia partidaria''. Por eso el peso interpretativo recae en la tipología
+por celda, que no depende de este coeficiente.
 
 \begin{figure}[H]
 \centering
@@ -843,33 +863,25 @@ firma declarada en el manifiesto y revelada en enmiendas, sobre seis dominios),
 con intervalo de confianza al $95\,\%$ por \emph{bootstrap} de dominios. Los
 intervalos, muy anchos por $n=6$, cubren casi todo el rango para todos los
 partidos: el orden no es interpretable como un ranking de coherencia. En gris, los
-manifiestos de muestra pequeña (PS, PCF).}
+manifiestos de muestra pequeña (PS, PCF); FN, en cambio, no es de muestra pequeña.}
 \label{fig:cruce-coherencia}
 \end{figure}
 
 \subsection{Resultado exploratorio: ningún canal anticipa mejor el voto}
 \label{sec:res-cruce-canales}
 
-¿Anticipa algún canal declarado el voto mejor que los otros? A primera vista
-(Figura~\ref{fig:cruce-canales}), hemiciclo y tweets parecen alinearse mejor con
-el soporte relativo que el manifiesto. Pero la comparación no es justa: el
-manifiesto cubre seis partidos y los otros canales diez, y un mayor rango
-ideológico infla mecánicamente la correlación. Igualando los tres canales a los
-mismos seis partidos, la alineación agregada queda \textbf{pareja y débil} en
-todos: manifiesto $0{,}12$, tweets $0{,}19$ y hemiciclo $0{,}16$. La aparente
-superioridad del hemiciclo era casi todo un artefacto de cobertura. Cuando se
-restringe a la misma base comparable, ningún canal anticipa de forma
-sustantivamente mejor el voto; la lectura es exploratoria.
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=0.78\linewidth]{imagenes/fig_coherence_by_channel.png}
-\caption{Coherencia (correlación de Pearson) entre la firma declarada de cada
-canal y el soporte relativo revelado en enmiendas, por partido. El manifiesto solo
-cubre seis partidos; la mayor coherencia aparente de tweets y hemiciclo se debe en
-buena parte a que abarcan diez familias y, por tanto, más rango ideológico.}
-\label{fig:cruce-canales}
-\end{figure}
+¿Anticipa algún canal declarado el voto mejor que los otros? A primera vista,
+hemiciclo y tweets parecen alinearse mejor con el soporte relativo que el
+manifiesto. Pero la comparación no es justa: el manifiesto cubre siete partidos y
+los otros canales once, y un mayor rango ideológico infla mecánicamente la
+correlación. Igualando los tres canales a los mismos siete partidos comparables
+(incluida FN), la alineación agregada queda \textbf{pareja y débil} en todos:
+manifiesto $0{,}08$, tweets $0{,}08$ y hemiciclo $0{,}16$. La aparente
+superioridad del hemiciclo era casi todo un artefacto de cobertura; incluir FN
+recalibra los niveles a la baja ---su firma identitaria declarada no se respalda
+en el voto--- pero no cambia la conclusión. Cuando se restringe a la misma base
+comparable, ningún canal anticipa de forma sustantivamente mejor el voto; la
+matriz completa por partido y canal se recoge en el anexo~\ref{anexo:cruce}.
 
 \subsection{Lectura del análisis}
 \label{sec:res-cruce-cierre}
@@ -880,15 +892,20 @@ recibirán más apoyo relativo, ni para rankear partidos por coherencia, ni para
 coronar un canal como mejor predictor. Pero no es aleatoria: adopta formas
 sistemáticas y localizadas ---banderas respaldadas (LFI con las libertades, PS con
 el bienestar, el centro de gobierno con la economía), una coherencia negativa
-limpia en el eje cultural de la izquierda, y usos oposicionales del tema en LR y
-NI---. La coherencia, así, se concentra en las banderas de identidad y se diluye o
-invierte en los temas usados instrumentalmente.
+limpia en el eje cultural de la izquierda, y usos oposicionales del tema en LR---.
+FN es el caso extremo del \emph{gap}: declara una firma nacional-securitaria
+persistente que en el voto no es distintiva, mientras revela ---sin declararlo---
+apoyo a la protección social y una distancia robusta de las libertades. La
+coherencia, así, se concentra en las banderas de identidad y se diluye o desplaza
+de dominio en los temas usados instrumentalmente.
 
 Este resultado conecta los dos análisis previos sin confundirlos: declarado y
-revelado \textbf{no son equivalentes}, sino capas distintas del comportamiento
-partidario. El voto añade una dimensión que el discurso no agota ---una capa
-posicional de bloque y un clivaje ideológico que aflora en las enmiendas---, y su
-relación con lo que los partidos dicen es parcial, multidimensional y mejor
-descrita por una cartografía de alineaciones y brechas que por un único índice de
-consistencia. No se afirma, en ningún caso, que el discurso cause el voto ni a la
-inversa.
+revelado \textbf{no son equivalentes}, sino capas distintas ---y solo
+parcialmente conectadas--- del comportamiento partidario. El voto añade una
+dimensión que el discurso no agota ---una capa posicional de bloque y un clivaje
+ideológico que aflora en las enmiendas---, y su relación con lo que los partidos
+dicen es parcial, multidimensional y mejor descrita por una cartografía de
+alineaciones y brechas que por un único índice de consistencia. La separación de
+FN respecto del residuo de no inscritos permite ver este desfase con claridad,
+antes diluido en un agregado heterogéneo. No se afirma, en ningún caso, que el
+discurso cause el voto ni a la inversa.

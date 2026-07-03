@@ -3,37 +3,49 @@
 
 % Responde a ¿qué método?, ¿qué procedimientos?, ¿qué materiales e instrumentos?
 
+Este capítulo describe cómo se construye un sistema capaz de comparar, en un
+mismo marco, lo que los partidos \emph{dicen} y lo que \emph{votan}. El material
+empírico proviene de \textbf{cinco fuentes} de la XV legislatura de la Asamblea
+Nacional francesa (2017--2022) ---manifiestos electorales, actividad en Twitter,
+intervenciones en el hemiciclo, leyes y enmiendas--- integradas en torno a una
+\textbf{cohorte única de diputados} con un identificador estable. Las tres
+primeras conforman la \emph{agenda declarada} (el texto que los partidos o sus
+representantes producen) y las dos últimas la \emph{agenda revelada} por el voto.
+Sobre esa base, todos los textos se proyectan sobre una taxonomía temática común
+---el esquema MARPOR--- que habilita la comparación entre arenas, y las siglas de
+grupo se consolidan en familias políticas; entre ellas, la extrema derecha (Front
+National / Rassemblement National) se trata como una \textbf{familia analítica
+propia}, separada del residuo heterogéneo de no inscritos. A partir de esas
+etiquetas se definen métricas a nivel de partido y los análisis transversales que
+sostienen la tesis. La exposición se concentra en \emph{qué} se mide y \emph{con
+qué} método: los modelos de clasificación, las métricas detalladas y los
+resultados se desarrollan en las secciones y capítulos siguientes, y el detalle
+técnico de artefactos y esquemas se relega a los anexos.
+
 \section{Fuentes de datos y construcción de los corpus}
 \label{sec:fuentes}
 
-El material empírico de este trabajo proviene de cinco arenas discursivas
-distintas en las que los diputados de la XV legislatura de la Asamblea Nacional
-francesa (2017--2022) producen o expresan posiciones políticas: los programas
-electorales de sus partidos, su actividad en Twitter, sus intervenciones en el
-hemiciclo y sus votaciones nominales sobre leyes y enmiendas. Las tres primeras
-arenas constituyen lo que llamaremos la \emph{agenda declarada} ---el texto que
-un partido o sus representantes producen voluntariamente--- y las dos últimas la
-\emph{agenda revelada} ---la preferencia que un partido expresa al votar un
-texto que, a efectos de la medición, no se imputa a un autor partidario. Cada
-fuente aporta una \emph{unidad de análisis
-textual} propia (la cuasi-frase, el tuit, la intervención, el párrafo de ley y
-la enmienda), por lo que la construcción de los corpus exige normalizar fuentes
-heterogéneas (JSON, XML, TSV, NDJSON y APIs REST/OAuth) a unidades comparables y
-anclarlas a una única cohorte de diputados.
+Esta sección presenta las cinco fuentes textuales del estudio: qué representa
+políticamente cada una, su unidad de análisis, los filtros de calidad que se le
+aplican, su tamaño y su rol en el contraste entre agenda declarada y revelada.
+Todas comparten un mismo anclaje ---la cohorte única de diputados--- que permite
+identificar al mismo actor a través de las cinco arenas.
 
-El eje que articula toda la integración es esa cohorte única: una tabla maestra
-de identidad construida a partir de los datos abiertos de la Asamblea Nacional
-que asigna a cada diputado un identificador estable (\texttt{id}) y una
-afiliación de grupo parlamentario (\texttt{political\_group\_abbrev}). Todos los
-corpus se cruzan contra esa tabla, de modo que un mismo diputado se identifica
-siempre con la misma clave a lo largo de las cinco fuentes. El
+El material proviene de cinco arenas discursivas en las que los diputados
+producen o expresan posiciones políticas. Las tres primeras ---manifiestos,
+Twitter e intervenciones en el hemiciclo--- constituyen la \emph{agenda
+declarada}, el texto que un partido o sus representantes producen voluntariamente;
+las dos últimas ---leyes y enmiendas--- la \emph{agenda revelada}, la preferencia
+que un partido expresa al votar un texto que no se imputa a un autor partidario.
+Cada fuente aporta una unidad de análisis textual propia (la cuasi-frase, el
+tuit, la intervención, el párrafo de ley y la enmienda), por lo que su
+integración exige normalizar formatos heterogéneos (JSON, XML, TSV, NDJSON y
+APIs REST/OAuth) a unidades comparables y anclarlas a una misma cohorte de
+diputados, construida a partir de los datos abiertos de la Asamblea Nacional. El
 Cuadro~\ref{tab:corpus-resumen} resume, para cada fuente, qué representa, su
-unidad textual, el filtro principal de calidad, el tamaño del corpus analizable
-documentado y su rol declarado/revelado; el Cuadro~\ref{tab:corpus-cobertura} lo
-complementa con el período cubierto, el nivel político observado y el vínculo con
-los partidos o grupos parlamentarios, para orientar al lector entre fuentes que
-no observan el mismo tipo de actor. Las subsecciones siguientes detallan cada
-una.
+unidad textual, el filtro principal y el tamaño analizable; el
+Cuadro~\ref{tab:corpus-cobertura} lo complementa con el período, el nivel
+político observado y el vínculo con los partidos o grupos parlamentarios.
 
 \begin{table}[H]
 \centering
@@ -50,7 +62,7 @@ tamaño documentado del corpus analizable y rol en el contraste declarada/revela
 \midrule
 Manifiestos & Programa electoral 2017 & cuasi-frase MARPOR & unidad nativa (sin filtro de longitud) & 3.801 cuasi-frases (10 partidos) & declarada \\
 Twitter & Comunicación en redes & tuit & $\geq 10$ palabras & 222.644--224.466 tuits & declarada \\
-Hemiciclo & Debate en sesión & intervención & \texttt{deputy\_id} $+\geq 10$ palabras $+$ no procedimental & 338.192 intervenciones & declarada \\
+Hemiciclo & Debate en sesión & intervención & atribuida a diputado $+\geq 10$ palabras $+$ no procedimental & 338.192 intervenciones & declarada \\
 Leyes & Adopción de texto promulgado & párrafo de ley (JORF) & confianza alta de texto $+\geq 10$ palabras & 335 scrutins analizados (373 de adopción); 23.267 párrafos & revelada \\
 Enmiendas & Voto sobre cambios propuestos & enmienda (texto $+$ exposición) & confianza alta/media $+\geq 10$ palabras & 2.575 enmiendas analizadas (de 3.126 scrutins) & revelada \\
 \bottomrule
@@ -81,212 +93,164 @@ Enmiendas & XV legislatura (2017--2022) & Grupo parlamentario (voto agregado) & 
 \end{tabularx}
 \end{table}
 
-% TODO: fijar una unica cifra del corpus analizable de Twitter al redactar la
-% seccion de clasificacion; hoy esta documentado un rango de 222.644 a 224.466
-% segun el modulo de analisis (la diferencia proviene de la regex de hashtags).
-
 \subsection{Cohorte de diputados y grupos parlamentarios}
 \label{sec:datos-diputados}
 
-La cohorte se construye integrando dos fuentes oficiales. La identidad
-parlamentaria proviene de los datos abiertos de la Asamblea Nacional para la XV
-legislatura \cite{an_opendata_xv}, de donde se extraen el identificador del
-diputado, su circunscripción, las fechas de su mandato y el grupo político al
-que pertenece. Las cuentas de Twitter provienen del proyecto
-\emph{twitter-parlementaires} de Regards Citoyens \cite{regardscitoyens_twitter}.
-El identificador \texttt{id} es el número de actor de la Asamblea Nacional (sin
-el prefijo \texttt{PA}) y opera como clave primaria lógica de todo el proyecto:
-es la misma clave que aparece en los votos nominales y en las intervenciones del
-hemiciclo, lo que permite reidentificar a cada diputado de forma consistente
-entre fuentes.
+La cohorte integra dos fuentes oficiales: la identidad parlamentaria de los datos
+abiertos de la Asamblea Nacional para la XV legislatura \cite{an_opendata_xv}
+---identificador, circunscripción, fechas de mandato y grupo político--- y las
+cuentas de Twitter del proyecto \emph{twitter-parlementaires} de Regards Citoyens
+\cite{regardscitoyens_twitter}. Cada diputado recibe un identificador numérico
+estable, derivado del número de actor de la Asamblea Nacional, que reaparece como
+clave en los votos nominales y en las intervenciones y opera como clave primaria
+lógica de todo el proyecto.
 
-La unidad de análisis de esta fuente no es textual sino la persona del diputado:
-se trata de una tabla maestra, no de un corpus. Su construcción consiste en
-parsear el JSON de actores y de órganos políticos, retener para cada diputado el
-mandato de tipo Asamblea y asignarle el grupo parlamentario cuyo mandato solapa
-con la ventana legislativa del 18 de junio de 2017 al 21 de junio de 2022
-y, finalmente, cruzar la lista resultante con las cuentas de Twitter por nombre y
-apellido. El resultado es el archivo \texttt{deputes\_2017\_2022.csv}, que
-contiene \textbf{668} diputados, de los cuales \textbf{587} (un $87{,}9\,\%$)
-disponen de una cuenta de Twitter identificada y \textbf{81} no la tienen. La
-cohorte abarca \textbf{18} grupos parlamentarios distintos, con una marcada
-asimetría de tamaño: dos grupos mayoritarios ---LAREM ($\approx 317$ diputados) y
-LR ($117$)--- concentran la mayor parte de la cohorte, seguidos a gran distancia
-por MoDem ($\approx 37$) y por una decena de grupos menores (socialistas, GDR, La
-France insoumise y otros) que aportan entre quince y poco más de veinte miembros
-cada uno. Esta asimetría es relevante para la lectura posterior: en los grupos más
-pequeños las estimaciones por canal descansan en pocas voces. La tabla maestra es
-el primer eslabón del pipeline: sin ella no existe una cohorte única ni cruces
-consistentes entre las demás fuentes.
+La unidad aquí no es textual sino la persona del diputado: es una tabla maestra,
+no un corpus. Se construye reteniendo, para cada diputado, el mandato de Asamblea
+y el grupo parlamentario cuyo mandato solapa la ventana legislativa (del 18 de
+junio de 2017 al 21 de junio de 2022), y cruzando la lista con las cuentas de
+Twitter por nombre y apellido. La cohorte contiene \textbf{668} diputados, de los
+cuales \textbf{587} ($87{,}9\,\%$) tienen cuenta de Twitter identificada y
+\textbf{81} no. Abarca \textbf{18} grupos parlamentarios, con fuerte asimetría de
+tamaño: dos grupos mayoritarios ---LAREM ($\approx 317$) y LR ($117$)---
+concentran la mayor parte, seguidos por MoDem ($\approx 37$) y una decena de
+grupos menores (socialistas, GDR, La France insoumise y otros) de entre quince y
+poco más de veinte miembros. Esta asimetría importa para la lectura posterior: en
+los grupos pequeños las estimaciones descansan en pocas voces. Sin esta tabla
+maestra no existe una cohorte única ni cruces consistentes entre las demás
+fuentes.
 
 \subsection{Manifiestos electorales}
 \label{sec:corpus-manifestos}
 
 Los programas electorales representan la \emph{agenda declarada en campaña}: lo
-que cada partido propuso formalmente de cara a las elecciones legislativas de
-junio de 2017. Se obtienen del Manifesto Project (MARPOR), en su edición de datos
+que cada partido propuso formalmente ante las elecciones legislativas de junio de
+2017. Se obtienen del Manifesto Project (MARPOR), edición de datos
 \texttt{MPDS2025a} \cite{marpor_mpds2025a}, que entrega los textos ya segmentados
-en \emph{cuasi-frases} y anotados manualmente con un código temático
-(\texttt{cmp\_code}) según el esquema de codificación del proyecto
-\cite{marpor_mp_v5}. La unidad de análisis textual es, por tanto, la cuasi-frase
-MARPOR; al tratarse de la unidad nativa del esquema, no se aplica ningún filtro
-de longitud sobre este corpus. El archivo resultante,
-\texttt{manifesto\_texts.csv}, reúne \textbf{3.801} cuasi-frases distribuidas en
-\textbf{10} partidos.
+en \emph{cuasi-frases} y anotados manualmente con un código temático humano según
+su esquema de codificación \cite{marpor_mp_v5}. La unidad de análisis es la
+cuasi-frase MARPOR; al ser la unidad nativa del esquema, no se aplica filtro de
+longitud. El corpus reúne \textbf{3.801} cuasi-frases en \textbf{10} partidos.
 
-Este corpus es singular por dos motivos. Primero, es el único que viene con una
+Este corpus es singular por dos motivos. Primero, es el único con una
 codificación temática humana de referencia (\emph{ground truth}), lo que lo
-convierte en la base para validar la clasificación automática
+convierte en la base de la validación posterior
 (sección~\ref{sec:clasificacion}). Segundo, su enlace con la cohorte es
 indirecto: un diputado no tiene un programa individual, sino que se le asigna el
-manifiesto de su grupo parlamentario mediante una tabla de correspondencia
-(\texttt{group\_to\_party\_mapping.csv}) entre la sigla del grupo
-(\texttt{political\_group\_abbrev}) y el partido MARPOR. Con esa correspondencia,
-\textbf{628} de los \textbf{668} diputados (un $94{,}0\,\%$) quedan asociados a
-un programa; los \textbf{40} restantes pertenecen a cuatro grupos sin manifiesto
-propio en MARPOR 2017 (LT, EDS, AGIR-E y un grupo sin sigla). Deben señalarse
-dos particularidades documentadas del dataset: los manifiestos de PCF ($39$
-cuasi-frases) y PS ($79$) son corpus muy pequeños, por lo que sus distribuciones
-temáticas son apenas indicativas; y los documentos atribuidos a LR y a UDI son
-byte a byte idénticos ($282$ cuasi-frases cada uno), porque MARPOR asignó el
-mismo manifiesto a ambos identificadores. No se trata de un error de este
-trabajo, sino de un hecho del dataset de origen; en consecuencia, ambos cuentan
-como un único documento en el análisis.
+manifiesto de su grupo mediante una correspondencia entre la sigla del grupo y el
+partido MARPOR. Con ella, \textbf{628} de los \textbf{668} diputados ($94{,}0\,\%$)
+quedan asociados a un programa; los \textbf{40} restantes pertenecen a cuatro
+grupos sin manifiesto propio en MARPOR 2017 (LT, EDS, AGIR-E y un grupo sin
+sigla). Dos particularidades del dataset deben señalarse: los manifiestos de PCF
+($39$ cuasi-frases) y PS ($79$) son muy pequeños, por lo que sus distribuciones
+temáticas son apenas indicativas; y los documentos de LR y UDI son idénticos
+($282$ cuasi-frases cada uno) porque MARPOR asignó el mismo manifiesto a ambos
+---un hecho del dataset de origen, no un error de este trabajo---, de modo que
+cuentan como un único documento.
 
 \subsection{Actividad en Twitter}
 \label{sec:corpus-twitter}
 
 Twitter es el canal de \emph{comunicación pública en redes} de los diputados y
-constituye una segunda superficie de agenda declarada. A diferencia de las demás
-fuentes, no se recolecta mediante una API oficial, sino capturando el tráfico que
-el navegador recibe al recorrer cada perfil con la extensión Zeeschuimer
-\cite{peeters2022zeeschuimer}, asistida por un desplazamiento automático del
-navegador. % TODO: completar cita de la extension de autoscroll (FoxScroller) si
-% se decide referenciarla formalmente.
-El protocolo es estandarizado por cuenta (del orden de quince minutos de
-desplazamiento por perfil) y la lista de cuentas a recorrer se deriva de la
-cohorte, tomando los diputados con \texttt{twitter\_handle} conocido
-\cite{regardscitoyens_twitter}. La unidad de análisis textual es el tuit. Los
-exportes en formato NDJSON se parsean y se cruzan con la cohorte por el nombre de
-usuario del autor, produciendo el archivo \texttt{tweets\_text\_only.csv}.
+una segunda superficie de agenda declarada. No se recolecta con una API oficial,
+sino capturando el tráfico que el navegador recibe al recorrer cada perfil con la
+extensión Zeeschuimer \cite{peeters2022zeeschuimer}, asistida por un
+desplazamiento automático. El protocolo es estandarizado por cuenta (del orden de
+quince minutos por perfil) y la lista de cuentas se deriva de la cohorte, tomando
+los diputados con \emph{handle} conocido \cite{regardscitoyens_twitter}. La
+unidad de análisis es el tuit; los exportes NDJSON se parsean y se cruzan con la
+cohorte por el nombre de usuario del autor.
 
 El corpus capturado contiene del orden de \textbf{244.876} ítems, de los cuales
-\textbf{244.244} ($99{,}7\,\%$) pudieron atribuirse a un diputado de la cohorte y
-\textbf{632} corresponden a autores externos aparecidos en la línea de tiempo.
-Se capturaron \textbf{533} de las \textbf{587} cuentas con \emph{handle}, de modo
-que \textbf{54} cuentas quedaron sin captura. Para el análisis temático se aplica
-una limpieza del texto (eliminación de URL, menciones y \emph{hashtags}) y un
-filtro de longitud que conserva solo los tuits con \textbf{al menos 10
-palabras}; tras este filtro el corpus analizable se sitúa entre
-\textbf{222.644} y \textbf{224.466} tuits según el módulo de análisis. Dos
-limitaciones de cobertura son inherentes a este método de
-recolección y deben hacerse explícitas: el desplazamiento recorre la línea de
-tiempo de cada cuenta \emph{desde la actividad más reciente hacia atrás}, de modo
-que la ventana temporal capturada depende del uso que cada diputado da a la
-cuenta. En las cuentas oficiales que dejaron de actualizarse al terminar el
-mandato, el material recogido corresponde mayormente al período de la
-legislatura; en cambio, en la fracción de diputados que sigue usando Twitter
-como plataforma de comunicación, el desplazamiento alcanza sobre todo los
-últimos años de actividad y no necesariamente la ventana 2017--2022. De hecho,
-las marcas de tiempo del corpus capturado abarcan un \textbf{rango observado de
-diciembre de 2011 a marzo de 2026}, claramente fuera de la XV legislatura; el
-corpus mezcla, por tanto, tramos temporales heterogéneos según la cuenta. (Como
-el filtro de longitud opera sobre el texto y no sobre la fecha, el corpus
-analizable hereda ese mismo rango; las marcas de tiempo provienen de
-\texttt{tweets\_with\_deputies.csv}, ya que \texttt{tweets\_text\_only.csv} no
-conserva la fecha.) La segunda
-limitación es que se observan \textbf{74.659} filas duplicadas por identificador
-de tuit (\texttt{tweet\_id}), producto de capturar la misma cuenta en varias
-sesiones.
-% TODO: verificar el tratamiento de la deduplicacion de tuits (74.659 duplicados)
-% y de los 632 tuits sin diputado en el analisis downstream.
+\textbf{244.244} ($99{,}7\,\%$) se atribuyen a un diputado de la cohorte y
+\textbf{632} a autores externos aparecidos en la línea de tiempo. Se capturaron
+\textbf{533} de las \textbf{587} cuentas con \emph{handle} (\textbf{54} quedaron
+sin captura). Para el análisis temático se limpia el texto (URL, menciones y
+\emph{hashtags}) y se conservan los tuits con \textbf{al menos 10 palabras}; tras
+el filtro, el corpus analizable ronda los \textbf{223.000} tuits (la cifra exacta
+oscila entre $222.644$ y $224.466$ según un matiz de la limpieza de
+\emph{hashtags} entre módulos de análisis). Este método arrastra dos limitaciones
+de cobertura que deben hacerse explícitas. Primera, el desplazamiento recorre cada
+perfil \emph{desde la actividad más reciente hacia atrás}, por lo que la ventana
+temporal depende del uso de cada cuenta: en las que dejaron de actualizarse al
+terminar el mandato predomina el período de la legislatura, pero en las aún
+activas predominan los últimos años; de hecho, las marcas de tiempo del corpus
+abarcan un \textbf{rango observado de diciembre de 2011 a marzo de 2026},
+claramente fuera de la XV legislatura, de modo que mezcla tramos temporales
+heterogéneos. Segunda, se observan \textbf{74.659} filas duplicadas por
+identificador de tuit, producto de capturar la misma cuenta en varias sesiones.
 
 \subsection{Intervenciones en el hemiciclo}
 \label{sec:corpus-hemiciclo}
 
 Las intervenciones en el hemiciclo recogen el \emph{debate parlamentario en
-sesión}: lo que cada diputado dice durante el trabajo legislativo, registrado en
-el \emph{compte rendu intégral} de la Asamblea Nacional. La fuente es el exporte
-de intervenciones publicado por Regards Citoyens a través de NosDéputés.fr
-\cite{regardscitoyens_nosdeputes}, del que se utiliza el subconjunto
-correspondiente a la XV legislatura. La unidad de análisis textual es la
-\emph{intervención}, entendida como un turno de palabra en el acta, y no un
-discurso completo ni una sesión entera. El procesamiento limpia el marcado HTML
-del acta, enriquece cada fila con metadatos de la sesión y cruza al orador con la
-cohorte por su nombre completo, produciendo el archivo
-\texttt{interventions\_xv\_2017\_2022\_with\_deputies.csv.gz}.
+sesión}, registrado en el \emph{compte rendu intégral} de la Asamblea Nacional.
+La fuente es el exporte publicado por Regards Citoyens a través de NosDéputés.fr
+\cite{regardscitoyens_nosdeputes}, del que se usa el subconjunto de la XV
+legislatura. La unidad de análisis es la \emph{intervención} ---un turno de
+palabra en el acta, no un discurso completo ni una sesión entera---. El
+procesamiento limpia el marcado HTML, enriquece cada fila con metadatos de la
+sesión y cruza al orador con la cohorte por su nombre completo.
 
 El exporte contiene \textbf{949.718} intervenciones, de las cuales
-\textbf{661.690} (cerca del $70\,\%$) pudieron atribuirse a un diputado de la
-cohorte (\textbf{646} diputados distintos registran al menos una intervención).
-El resto, alrededor de un $30\,\%$, corresponde a ministros, a la presidencia de
-la sesión o a oradores no presentes en la cohorte, además de eventuales fallos de
-emparejamiento por nombre. Para el análisis temático se aplica una cascada de
-tres filtros: que la intervención tenga \texttt{deputy\_id} asignado, que tenga
-\textbf{al menos 10 palabras} y que no sea habla puramente procedimental
-(apertura y cierre de sesión, fórmulas de cesión de la palabra, etc.). Tras estos
-filtros el corpus analizable se reduce a \textbf{338.192} intervenciones. Una
-limitación relevante para los análisis posteriores es que esta fuente no contiene
-un identificador de la ley discutida: el vínculo entre una intervención y una ley
+\textbf{661.690} (cerca del $70\,\%$) se atribuyen a un diputado de la cohorte
+(\textbf{646} diputados registran al menos una intervención). El $30\,\%$
+restante corresponde a ministros, a la presidencia de la sesión o a oradores
+fuera de la cohorte, además de fallos de emparejamiento por nombre. Para el
+análisis temático se aplican tres filtros en cascada: que la intervención esté
+atribuida a un diputado, que tenga \textbf{al menos 10 palabras} y que no sea
+habla puramente procedimental (apertura y cierre de sesión, fórmulas de cesión de
+la palabra, etc.); tras ellos, el corpus analizable se reduce a \textbf{338.192}
+intervenciones. Una limitación relevante es que esta fuente no contiene un
+identificador de la ley discutida: el vínculo entre una intervención y una ley
 concreta solo puede aproximarse de forma heurística por la sección y la fecha del
-acta, y no equivale a un cruce por identificador de expediente legislativo.
+acta, y no equivale a un cruce por expediente legislativo.
 
 \subsection{Leyes}
 \label{sec:corpus-leyes}
 
-La votación de leyes es la primera de las dos superficies de \emph{agenda
-revelada}: capta qué texto legal completo apoya o rechaza cada partido en la
-votación final de adopción. La fuente combina dos orígenes oficiales. Por un
-lado, los datos abiertos de la Asamblea Nacional aportan los \emph{scrutins}
-(votaciones nominales) y los \emph{dossiers} legislativos
-\cite{an_opendata_xv}; de allí se filtran los scrutins de adopción del texto
-completo (la votación \emph{sur l'ensemble}) y se extrae, para cada uno, la
-posición de cada diputado (a favor, en contra o abstención). Por otro lado, el
-texto oficial promulgado se recupera del Journal Officiel a través de la API
-PISTE de Légifrance \cite{legifrance_piste}, enlazando cada scrutin con su
-expediente y su número NOR. La unidad de análisis textual es el \emph{párrafo de
-ley} del texto promulgado.
+La votación de leyes es la primera superficie de \emph{agenda revelada}: capta
+qué texto legal completo apoya o rechaza cada partido en la votación final de
+adopción. Combina dos orígenes oficiales. Los datos abiertos de la Asamblea
+Nacional aportan los \emph{scrutins} (votaciones nominales) y los \emph{dossiers}
+legislativos \cite{an_opendata_xv}: de allí se filtran los scrutins de adopción
+del texto completo (la votación \emph{sur l'ensemble}) y la posición de cada
+diputado (a favor, en contra o abstención). El texto oficial promulgado se
+recupera del Journal Officiel a través de la API PISTE de Légifrance
+\cite{legifrance_piste}, enlazando cada scrutin con su expediente. La unidad de
+análisis es el \emph{párrafo de ley} del texto promulgado.
 
-Se identifican \textbf{373} scrutins de adopción de ley, correspondientes a
-\textbf{212} expedientes legislativos distintos, y \textbf{78.116} votos
-individuales. El cruce entre scrutin y dossier ---y, por tanto, con el texto
-promulgado--- es heurístico, por lo que cada fila lleva un nivel de confianza de
-texto: hay texto oficial asociado en \textbf{337} de los \textbf{373} scrutins
+Se identifican \textbf{373} scrutins de adopción, en \textbf{212} expedientes
+legislativos, y \textbf{78.116} votos individuales. El cruce entre scrutin y
+texto promulgado es heurístico, por lo que cada fila lleva un nivel de confianza:
+hay texto oficial asociado en \textbf{337} de los \textbf{373} scrutins
 ($90{,}3\,\%$), de los cuales \textbf{335} alcanzan confianza alta. Para el
-análisis temático se retienen únicamente los párrafos provenientes de scrutins
-con confianza alta de texto y con al menos $10$ palabras, lo que produce un
-corpus analizable de \textbf{23.267} párrafos. Conviene anotar que el texto
-promulgado representa la ley final, no el debate intermedio, y que una misma ley
-jurídica puede dar lugar a varios scrutins (por sucesivas lecturas o por la
-comisión mixta paritaria); para razonar a nivel de ley jurídica se agrupa por el
-identificador de expediente.
+análisis se retienen solo los párrafos de scrutins con confianza alta y al menos
+$10$ palabras, lo que produce \textbf{23.267} párrafos. El texto promulgado
+representa la ley final, no el debate intermedio; y como una misma ley jurídica
+puede dar lugar a varios scrutins (sucesivas lecturas o comisión mixta
+paritaria), para razonar a nivel de ley se agrupa por expediente.
 
 \subsection{Enmiendas y votaciones nominales}
 \label{sec:corpus-enmiendas}
 
 La votación de enmiendas es la segunda superficie de agenda revelada y la de
-grano más fino: en lugar del texto legal completo, capta la posición de cada
-partido frente a cada cambio puntual propuesto durante la tramitación. Las
-enmiendas y sus votaciones provienen igualmente de los datos abiertos de la
-Asamblea Nacional \cite{an_opendata_xv}: por un lado, los scrutins sobre
-enmiendas con el voto nominal de cada diputado; por otro, el texto de cada
-enmienda (su dispositivo y su exposición de motivos), extraído del exporte XML de
-enmiendas de la legislatura. La unidad de análisis textual es la \emph{enmienda},
-representada por la concatenación de su dispositivo y su exposición sumaria.
+grano más fino: capta la posición de cada partido frente a cada cambio puntual
+propuesto durante la tramitación. Proviene igualmente de los datos abiertos de la
+Asamblea Nacional \cite{an_opendata_xv}: los scrutins sobre enmiendas con el voto
+nominal de cada diputado y el texto de cada enmienda (dispositivo y exposición de
+motivos), extraído del exporte XML de la legislatura. La unidad de análisis es la
+\emph{enmienda}, representada por la concatenación de su dispositivo y su
+exposición sumaria.
 
 Se identifican \textbf{3.126} scrutins sobre enmiendas y \textbf{297.574} votos
-individuales, casi un orden de magnitud más que en las leyes, lo que refleja la
-granularidad de esta fuente. El enlace entre el scrutin de una enmienda y su
-texto es heurístico y se gradúa con un nivel de confianza de emparejamiento, con
-\textbf{2.155} casos de confianza alta, \textbf{565} media, \textbf{304} baja y
-\textbf{102} sin emparejamiento. Considerando las enmiendas que disponen de
-dispositivo o exposición de motivos, hay texto para \textbf{2.886} scrutins
-(cifra reproducible hoy; la documentación del módulo reporta un valor
-ligeramente superior y desactualizado); y tras retener solo las de confianza
-alta o media con al menos $10$ palabras, el corpus analizable queda en
-\textbf{2.575} enmiendas.
-Las votaciones nominales sobre enmiendas son típicamente intentos de la oposición
-de modificar el texto del Gobierno, por lo que esta fuente expone matices
+individuales, casi un orden de magnitud más que en las leyes. El enlace entre el
+scrutin y su texto es heurístico y se gradúa por confianza de emparejamiento
+(\textbf{2.155} alta, \textbf{565} media, \textbf{304} baja y \textbf{102} sin
+emparejamiento); hay texto para \textbf{2.886} scrutins, y tras retener las de
+confianza alta o media con al menos $10$ palabras el corpus analizable queda en
+\textbf{2.575} enmiendas. Como estas votaciones son típicamente intentos de la
+oposición de modificar el texto del Gobierno, la fuente expone matices
 intrapartidarios y temas focalizados que la votación de la ley completa no
 muestra. Una limitación documentada es que no se controla quién propone cada
 enmienda (el campo \emph{demandeur} es texto libre, a menudo vacío), lo que puede
@@ -295,94 +259,90 @@ condicionar el sentido del voto.
 \section{Normalización, limpieza y enlace}
 \label{sec:normalizacion}
 
-El problema central de ingeniería de este trabajo no es procesar cada fuente por
-separado, sino integrarlas de forma que un mismo diputado, partido o ley se
-identifique de manera consistente a través de cinco corpus en formatos dispares.
-Esta sección describe cómo se resuelve ese enlace y qué limitaciones de cobertura
-quedan documentadas.
+El problema central de ingeniería no es procesar cada fuente por separado, sino
+integrarlas de forma que un mismo diputado, partido o ley se identifique de
+manera consistente a través de cinco corpus en formatos dispares. Esta sección
+describe cómo se resuelve ese enlace, cómo se consolidan las familias políticas y
+qué limitaciones de cobertura quedan documentadas.
 
 \paragraph{Cohorte única e identificadores.}
-La integración se ancla en una única tabla de diputados
-(\texttt{deputes\_2017\_2022.csv}, sección~\ref{sec:datos-diputados}) y en un
-identificador estable. La clave primaria lógica es el \texttt{id} numérico de la
-Asamblea Nacional, que se obtiene del identificador de actor descartando el
-prefijo \texttt{PA}. Ese mismo número reaparece como \texttt{deputy\_id} en los
-votos nominales de leyes y enmiendas, lo que hace que el cruce entre un voto y el
-diputado que lo emitió sea \emph{determinístico} y no requiera emparejamiento
-aproximado.
+La integración se ancla en la tabla maestra de diputados
+(sección~\ref{sec:datos-diputados}) y en el identificador numérico estable de la
+Asamblea Nacional. Ese mismo identificador reaparece en los votos nominales de
+leyes y enmiendas, de modo que el cruce entre un voto y el diputado que lo emitió
+es \emph{determinístico} y no requiere emparejamiento aproximado.
 
-\paragraph{Normalización de grupos a familias políticas.}
-La afiliación se registra con la sigla del grupo parlamentario
-(\texttt{political\_group\_abbrev}), pero a lo largo de la legislatura las siglas
-varían por escisiones, refundaciones o cambios de bancada. Para el análisis a
-nivel de partido, las siglas se consolidan en familias políticas legibles
-mediante una correspondencia explícita (por ejemplo, las variantes del grupo
-mayoritario presidencial se agrupan bajo LREM, las del centro bajo MoDem, las de
-la derecha tradicional bajo LR, la France Insoumise bajo LFI, el grupo comunista
-bajo GDR-PCF y las variantes socialistas bajo PS). Los no inscritos (NI), donde
-se sitúa la extrema derecha, se conservan como categoría propia. Esta
-consolidación es la que permite comparar la misma familia política entre las
-cinco fuentes.
+\paragraph{Consolidación en familias políticas.}
+La afiliación se registra con la sigla del grupo parlamentario, pero a lo largo
+de la legislatura las siglas varían por escisiones, refundaciones o cambios de
+bancada. Para el análisis a nivel de partido, las siglas se consolidan en
+familias políticas legibles mediante una correspondencia explícita: las variantes
+del grupo mayoritario presidencial bajo LREM, las del centro bajo MoDem, la
+derecha tradicional bajo LR, la France Insoumise bajo LFI, el grupo comunista
+bajo GDR-PCF y las variantes socialistas bajo PS. Sobre esa consolidación se
+aplica un tratamiento particular para la extrema derecha: los diputados del Front
+National ---hoy Rassemblement National--- no alcanzaron el umbral de escaños para
+formar grupo propio en la XV legislatura y figuran en los datos como no inscritos.
+Como constituyen una familia política reconocible, se reagrupan de forma estable,
+a partir de su identidad en la cohorte, en una \textbf{familia analítica propia
+(FN) de once diputados}. En consecuencia, la categoría de \textbf{no inscritos
+(NI) queda como un residuo heterogéneo} de diputados sin adscripción común y
+\textbf{no debe interpretarse como equivalente del FN/RN}. Esta consolidación es
+la que permite comparar la misma familia política entre las cinco fuentes.
 
 \paragraph{Enlace texto--diputado--partido y texto--voto.}
 El mecanismo de enlace difiere según la fuente y su calidad debe interpretarse en
 consecuencia. Las cuentas de Twitter se enlazan a la cohorte por el nombre de
 usuario del autor; las intervenciones del hemiciclo, por el nombre completo del
-orador tras normalizarlo (minúsculas y descomposición de acentos); y los votos
-nominales, por el \texttt{deputy\_id} ya descrito. Los manifiestos se enlazan a
-nivel de partido, no de diputado, mediante la tabla de correspondencia
-grupo--partido. Finalmente, el enlace entre una votación y su texto ---scrutin
-con dossier y texto promulgado, en el caso de las leyes; scrutin de enmienda con
-su dispositivo, en el caso de las enmiendas--- se resuelve mediante coincidencia
-aproximada de títulos (con normalización de cadenas y bibliotecas de
-\emph{fuzzy matching}), graduada por los niveles de confianza descritos en las
-subsecciones anteriores. Conviene anticipar que estos mecanismos sitúan la
-noción de \emph{partido} en niveles de agregación distintos según la fuente: el
-manifiesto corresponde al partido como organización, los tuits y las
-intervenciones a diputados individuales, y el voto al grupo parlamentario. Esta
-heterogeneidad condiciona la comparación entre canales y se retoma al
-interpretar los resultados.
+orador normalizado (minúsculas y descomposición de acentos); y los votos
+nominales, por el identificador estable ya descrito. Los manifiestos se enlazan a
+nivel de partido, no de diputado, mediante la correspondencia grupo--partido.
+Finalmente, el enlace entre una votación y su texto ---scrutin con expediente y
+texto promulgado en las leyes; scrutin de enmienda con su dispositivo en las
+enmiendas--- se resuelve por coincidencia aproximada de títulos (\emph{fuzzy
+matching} con normalización de cadenas), graduada por los niveles de confianza ya
+descritos. Estos mecanismos sitúan la noción de \emph{partido} en niveles de
+agregación distintos según la fuente: el manifiesto corresponde al partido como
+organización, los tuits y las intervenciones a diputados individuales, y el voto
+al grupo parlamentario. Esta heterogeneidad condiciona la comparación entre
+canales y se retoma al interpretar los resultados.
 
 \paragraph{Filtros de calidad transversales.}
 Salvo en los manifiestos ---cuya unidad nativa es la cuasi-frase---, todos los
-corpus textuales se filtran a un mínimo de $10$ palabras por documento; las
-intervenciones del hemiciclo añaden la exclusión de habla procedimental, y las
-leyes y enmiendas aplican además umbrales mínimos de confianza de texto y de
-emparejamiento. Estos filtros se aplican de manera homogénea entre los corpus
-para preservar la comparabilidad documento a documento en los análisis
-posteriores.
+corpus se filtran a un mínimo de $10$ palabras por documento; el hemiciclo añade
+la exclusión de habla procedimental, y las leyes y enmiendas aplican además
+umbrales mínimos de confianza de texto y de emparejamiento. Estos filtros se
+aplican de manera homogénea para preservar la comparabilidad documento a
+documento en los análisis posteriores.
 
 \paragraph{Cobertura y limitaciones del emparejamiento.}
-La integración no es perfecta y sus brechas deben quedar explícitas. En la
-cohorte, $81$ diputados no tienen cuenta de Twitter en la fuente y $13$ figuran
-sin sigla de grupo; además, el cruce entre la lista de la Asamblea y las cuentas
-de Twitter se hace por nombre y apellido sin emparejamiento aproximado, lo que es
-sensible a homónimos y variantes ortográficas y deja $12$ cuentas de Twitter sin
-correspondencia. En Twitter, $54$ cuentas no se capturaron y la cobertura
-temporal varía según la cuenta ---el desplazamiento recorre cada perfil desde lo
-más reciente hacia atrás, por lo que en las cuentas aún activas predominan los
-últimos años y no la ventana 2017--2022. En el hemiciclo, cerca del $30\,\%$ de las
-intervenciones carecen de \texttt{deputy\_id}. En los manifiestos, $40$ diputados
-quedan fuera por pertenecer a grupos sin programa MARPOR. Y en leyes y enmiendas,
-el emparejamiento entre votación y texto es heurístico: las filas de confianza
-baja o nula se excluyen del análisis principal. Hecha esa salvedad, el cruce
-entre votos y diputados y entre scrutins y texto es completo para el subconjunto
-efectivamente analizado.
-% TODO: verificar que party_analysis usa deputes_an_rd.csv y no el consolidado con
-% Twitter; confirmar coherencia de id y grupos entre ambos archivos.
+La integración no es perfecta y sus brechas deben quedar explícitas. El cruce
+entre la lista de la Asamblea y las cuentas de Twitter se hace por nombre y
+apellido sin emparejamiento aproximado, lo que es sensible a homónimos y variantes
+ortográficas y deja $81$ diputados sin cuenta, $13$ sin sigla de grupo y $12$
+cuentas de Twitter sin correspondencia. En Twitter, $54$ cuentas no se capturaron
+y la cobertura temporal excede la legislatura
+(sección~\ref{sec:corpus-twitter}). En el hemiciclo, cerca del $30\,\%$ de las
+intervenciones no se atribuyen a un diputado de la cohorte. En los manifiestos,
+$40$ diputados quedan fuera por pertenecer a grupos sin programa MARPOR. Y en
+leyes y enmiendas el emparejamiento entre votación y texto es heurístico, por lo
+que las filas de confianza baja o nula se excluyen del análisis principal. Hecha
+esa salvedad, el cruce entre votos y diputados y entre scrutins y texto es
+completo para el subconjunto efectivamente analizado. El inventario de artefactos
+y esquemas de columnas por fuente, junto con la correspondencia de siglas a
+familias políticas y los umbrales mínimos por análisis, se recoge en el
+anexo~\ref{anexo:corpus}.
 
 \section{Clasificación y modelado del contenido}
 \label{sec:clasificacion}
 
 Una vez construidos y enlazados los corpus (secciones~\ref{sec:fuentes}
 y~\ref{sec:normalizacion}), el problema pasa de la integración de datos a la
-medición del contenido. El obstáculo de fondo es que las cinco arenas son
-\textbf{heterogéneas y no resultan directamente comparables} ---difieren en
-vocabulario, registro, audiencia y unidad textual (sección~\ref{sec:metodo-marpor})---,
-de modo que contrastar de qué habla y qué vota cada partido exige primero llevar
-todos los textos a una representación común. Con ese fin se combinan tres
-instrumentos de propósitos distintos, cuyos roles conviene fijar antes de
-detallarlos.
+medición del contenido. Como las cinco arenas son \textbf{heterogéneas y no
+resultan directamente comparables} (sección~\ref{sec:metodo-marpor}), contrastar
+de qué habla y qué vota cada partido exige primero llevar todos los textos a una
+representación común. Con ese fin se combinan tres instrumentos de propósitos
+distintos, cuyos roles conviene fijar antes de detallarlos.
 
 El \textbf{núcleo} es una clasificación supervisada con ManifestoBERTa sobre el
 esquema MARPOR: proyecta los cinco corpus sobre una misma taxonomía de categorías
@@ -440,11 +400,10 @@ posicional para validar.
 \label{sec:metodo-manifestoberta}
 
 El núcleo del análisis es la clasificación supervisada de los cinco corpus sobre
-la taxonomía MARPOR. Se emplea el modelo preentrenado
-\texttt{manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1}
+la taxonomía MARPOR. Se emplea el modelo preentrenado ManifestoBERTa
 \cite{manifestoberta2024}, publicado por el propio Manifesto Project, que asigna
 a un texto político una de las 56 categorías del esquema. El modelo está
-construido sobre \texttt{xlm-roberta-large} \cite{conneau2020xlmr}, un
+construido sobre XLM-RoBERTa-large \cite{conneau2020xlmr}, un
 \emph{transformer} multilingüe de unos 560 millones de parámetros preentrenado
 sobre un centenar de idiomas, y fue ajustado (\emph{fine-tuned}) sobre el
 conjunto de cuasi-frases codificadas de MARPOR en decenas de lenguas. Su
@@ -461,8 +420,8 @@ etiquetas propias salvo en los manifiestos.
 La \textbf{unidad de entrada} es el documento individual tal como lo define cada
 corpus: la cuasi-frase en los manifiestos, el tuit limpio, la intervención, el
 párrafo de ley y el texto de la enmienda (dispositivo más exposición sumaria).
-Cada documento se procesa con el \emph{tokenizer} de
-\texttt{xlm-roberta-large} configurado a una longitud máxima de \textbf{200
+Cada documento se procesa con el \emph{tokenizer} de XLM-RoBERTa-large
+configurado a una longitud máxima de \textbf{200
 \emph{tokens}} (con relleno a esa longitud y truncamiento de los textos más
 largos); ese límite coincide con la longitud máxima usada en el entrenamiento del
 modelo. El truncamiento es inocuo en textos cortos como los tuits y solo afecta a
@@ -494,10 +453,9 @@ lado, produce una representación temática homogénea y citable de las cinco
 arenas, que es exactamente lo que habilita el contraste entre agenda declarada y
 revelada. Por otro, sus salidas son la materia prima directa de las métricas a
 nivel de partido (sección~\ref{sec:metricas}) y de la validación externa
-(sección~\ref{sec:metodo-validacion}). En términos de reproducibilidad, la
-inferencia está encapsulada en un cargador y clasificador común
-(\texttt{common/classifier\_runner.py}) invocado por un \emph{script} por fuente,
-con selección automática del dispositivo de cómputo disponible.
+(sección~\ref{sec:metodo-validacion}). La inferencia se apoya en un cargador y
+clasificador común invocado por fuente; el detalle de implementación se recoge en
+la sección~\ref{sec:arquitectura} y en el anexo~\ref{anexo:corpus}.
 
 \subsection{Modelado exploratorio con BERTopic}
 \label{sec:metodo-bertopic}
@@ -514,9 +472,9 @@ supervisados.
 
 El pipeline de BERTopic se aplica de forma uniforme a las cinco fuentes y
 encadena cuatro etapas. Primero, cada documento se representa mediante
-\emph{embeddings} de oración multilingües con el modelo
-\texttt{paraphrase-multilingual-MiniLM-L12-v2} \cite{reimers2019sentencebert},
-que proyecta el texto a un vector denso de 384 dimensiones; se optó por un modelo
+\emph{embeddings} de oración multilingües con un modelo MiniLM multilingüe
+\cite{reimers2019sentencebert}, que proyecta el texto a un vector denso de 384
+dimensiones; se optó por un modelo
 ligero priorizando la velocidad sobre el máximo rendimiento semántico, dada la
 escala de los corpus (cientos de miles de documentos). Segundo, esos vectores se reducen a una dimensionalidad
 baja con UMAP \cite{mcinnes2018umap} y se agrupan con HDBSCAN
@@ -543,8 +501,8 @@ categorías MARPOR: son agrupaciones empíricas sin una correspondencia directa 
 un marco teórico estándar, y la asignación depende de componentes con
 aleatoriedad (UMAP y HDBSCAN), por lo que su reproducibilidad es solo parcial.
 Por todo ello BERTopic se mantiene como herramienta de exploración y no como base
-de las mediciones. El pipeline está centralizado en un ejecutor común
-(\texttt{common/bertopic\_runner.py}) compartido por las cinco fuentes.
+de las mediciones. El pipeline está centralizado en un ejecutor común de tópicos
+compartido por las cinco fuentes (sección~\ref{sec:arquitectura}).
 
 Dado que ambas vías clasifican los \emph{mismos} documentos, es posible cruzar
 un tópico de BERTopic con la distribución de dominios MARPOR de los documentos
@@ -592,7 +550,7 @@ que el número de partidos es pequeño, se privilegian medidas de correlación d
 rangos; la fiabilidad del RILE estimado se examina además restringiéndolo a los
 partidos con suficiente texto codificado (del orden de un centenar de cuasi-frases
 o más). El cálculo del índice y el cruce con CHES están encapsulados en módulos
-reproducibles (\texttt{common/rile.py} y \texttt{common/ches.py}).
+de cálculo posicional reproducibles (sección~\ref{sec:arquitectura}).
 
 Dos decisiones de diseño enmarcan esta validación. Por una parte, se mantiene
 deliberadamente \emph{circunscrita a los manifiestos}: extenderla a tuits,
@@ -607,26 +565,30 @@ ricas y multidimensionales. El análisis sustantivo de la tesis se construye, en
 cambio, sobre el \emph{énfasis temático} (las distribuciones completas de
 categorías y dominios MARPOR), que se desarrolla en la
 sección~\ref{sec:metricas}. Conviene señalar, por último, un desfase temporal
-asumido: la referencia de expertos corresponde a 2019 y los manifiestos a 2017.
-% TODO: revisar si conviene reportar la version/anho exacto del CHES (2019) y el
-% desfase frente a los manifiestos 2017 tambien en la seccion de validacion de
-% resultados, para no repetir el caveat.
+asumido en este diseño: la referencia de expertos corresponde a 2019 y los
+manifiestos a 2017, distancia que se acepta por ser la ola de CHES más próxima al
+período analizado.
 
 \section{Métricas de análisis a nivel de partido}
 \label{sec:metricas}
 
+Esta sección define las métricas con que se compara a los partidos y recorre
+cinco bloques: la agenda declarada (énfasis, firma y concentración del texto
+producido), la agenda revelada (soporte, soporte relativo y cohesión del voto),
+la comparación entre canales declarados, la descomposición del voto y, como
+aporte central, el cruce entre lo que un partido enfatiza y lo que apoya al
+votar.
+
 Las predicciones MARPOR y los votos nominales son señales a nivel de documento o
-de diputado; el análisis, en cambio, vive a nivel de partido. Esta sección
-describe cómo se pasa de esas señales crudas a indicadores comparables de agenda
-declarada, agenda revelada y de su cruce. Todas las métricas se calculan
-agregando por familia política (sección~\ref{sec:normalizacion}) y comparten dos
-principios: trabajan sobre la \emph{distribución completa} de dominios y
-categorías MARPOR ---no sobre un índice posicional colapsado--- y separan, cuando
-es posible, la señal temática del efecto estructural del canal o de la dinámica
-gobierno/oposición. El cálculo está encapsulado en dos motores reutilizables,
-uno para el texto producido (\texttt{common/analysis.py}) y otro para el texto
-votado (\texttt{common/votes.py}). Se describe aquí únicamente la metodología;
-los resultados se presentan en el capítulo correspondiente.
+de diputado; el análisis, en cambio, vive a nivel de partido. Todas las métricas
+se calculan agregando por familia política (sección~\ref{sec:normalizacion}) y
+comparten dos principios: trabajan sobre la \emph{distribución completa} de
+dominios y categorías MARPOR ---no sobre un índice posicional colapsado--- y
+separan, cuando es posible, la señal temática del efecto estructural del canal o
+de la dinámica gobierno/oposición. El cálculo se apoya en dos motores de
+agregación partidaria, uno para el texto producido y otro para el texto votado
+(sección~\ref{sec:arquitectura}). Se describe aquí únicamente la metodología; los
+resultados se presentan en el capítulo correspondiente.
 
 \subsection{Agenda declarada: énfasis, firma y concentración}
 \label{sec:metricas-declarada}
@@ -728,7 +690,11 @@ alto.
 
 Para preguntarse si un partido mantiene su agenda al pasar del programa al tuit y
 al hemiciclo, se compara su perfil de dominios entre los canales en que está
-presente de forma simultánea. La comparación usa la \textbf{distancia euclídea}
+presente de forma simultánea. La comparación se restringe al conjunto de siete
+familias con presencia en los tres canales declarados ---FN, LFI, LR, LREM,
+MoDem, PCF y PS, tratadas según la sección~\ref{sec:normalizacion}---, de modo
+que todos los partidos se midan sobre la misma base. La comparación usa la
+\textbf{distancia euclídea}
 entre distribuciones de dominios, deliberadamente interpretada \emph{en puntos
 porcentuales} en lugar de divergencias como la de Jensen--Shannon: la euclídea es
 directamente legible como cuánta masa temática se desplaza entre canales.
@@ -747,12 +713,11 @@ firma de categorías (a una granularidad más fina que la de los dominios usada 
 el desplazamiento).
 
 Dado que algunos corpus de manifiestos son pequeños, las estimaciones se
-acompañan de \textbf{intervalos de confianza por \emph{bootstrap}}, obtenidos
-remuestreando documentos, cuyo propósito es exhibir la incertidumbre de cada
-magnitud ---especialmente para los partidos con pocas cuasi-frases--- y no
-respaldar comparaciones finas entre partidos con intervalos solapados.
-% TODO: completar cita del metodo bootstrap (p. ej. Efron 1979) si se decide
-% referenciarlo formalmente.
+acompañan de \textbf{intervalos de confianza por \emph{bootstrap}}
+\cite{efron1979bootstrap}, obtenidos remuestreando documentos, cuyo propósito es
+exhibir la incertidumbre de cada magnitud ---especialmente para los partidos con
+pocas cuasi-frases--- y no respaldar comparaciones finas entre partidos con
+intervalos solapados.
 
 \subsection{Descomposición del voto}
 \label{sec:metricas-descomposicion}
@@ -761,7 +726,8 @@ Para cuantificar qué estructura explica mejor el comportamiento de voto se ajus
 una serie de \textbf{modelos anidados} sobre la unidad partido$\times$scrutin,
 tomando como variable de salida el porcentaje de apoyo ponderado por el número de
 votos. Los modelos incorporan progresivamente más estructura: (i) el
-\emph{bloque} (mayoría presidencial frente a oposición), (ii) el \emph{partido}
+\emph{bloque} (mayoría presidencial ---LREM y MoDem--- frente a oposición),
+(ii) el \emph{partido}
 (las familias políticas individuales), (iii) \emph{partido más dominio} de forma
 aditiva y (iv) la \emph{interacción partido$\times$dominio}. La comparación se
 hace en términos de la \textbf{capacidad explicativa}, medida con el $R^2$
@@ -782,8 +748,12 @@ ajuste saturado.
 \label{sec:metricas-cruce}
 
 El aporte central del análisis es contrastar lo que un partido enfatiza con lo
-que apoya al votar. Las dos señales, sin embargo, viven en unidades distintas: la
-declarada es un \emph{énfasis sin signo} (cuánto se habla de un tema) y la
+que apoya al votar. El cruce se realiza sobre las siete familias emparejables
+entre manifiesto y voto ---FN incluida---; el grupo residual de no inscritos (NI)
+no entra en este cruce por su heterogeneidad interna
+(sección~\ref{sec:normalizacion}). Las dos señales, sin embargo, viven en
+unidades distintas: la declarada es un \emph{énfasis sin signo} (cuánto se habla
+de un tema) y la
 revelada es un \emph{soporte con signo} (cuánto se apoya, por encima o por debajo
 de la base del partido). Por eso \textbf{no se restan los niveles} de una y otra:
 hacerlo mezclaría magnitudes no homologables. En su lugar, ambas se transforman a
@@ -817,160 +787,93 @@ patrones cualitativamente distintos: una misma correlación baja puede deberse a
 banderas afirmativas, a usos meramente oposicionales o a temas ignorados. La
 lectura por celdas conserva esa distinción sustantiva, que es justamente lo que
 interesa de la relación entre lo que un partido dice y lo que vota. El cómputo de
-estos cruces está centralizado en los \emph{scripts} transversales del módulo de
-análisis de partidos (\texttt{cross\_channel/build.py},
-\texttt{agenda\_revelada/build.py} y \texttt{declarado\_vs\_revelado/build.py}).
+estos cruces está centralizado en los tres análisis transversales del módulo de
+partidos (sección~\ref{sec:arquitectura}).
 
 \section{Arquitectura e implementación del pipeline}
 \label{sec:arquitectura}
 
 Las secciones anteriores describieron \emph{qué} se mide y \emph{con qué}
-métodos; esta describe \emph{cómo} está construido el sistema que las ejecuta.
-El objetivo es justificar que el trabajo se materializa en un pipeline
-reproducible de ingeniería de datos y NLP, con la granularidad suficiente para
-evaluar el método sin reproducir aquí la documentación técnica exhaustiva de cada
-módulo. La contribución de ingeniería del trabajo reside precisamente ahí: en
-integrar cinco fuentes heterogéneas bajo una cohorte única y clasificarlas con
-una taxonomía común, mediante un pipeline modular y reproducible.
+métodos; esta describe \emph{cómo} se construye el sistema que lo ejecuta. El
+diseño es un \textbf{pipeline modular} en el que una cohorte única de diputados
+actúa como eje de integración: ocho etapas encadenan los datos brutos con las
+tablas y figuras finales, y como cada una persiste sus salidas, el sistema puede
+regenerarse de forma incremental. Se expone aquí la arquitectura al nivel
+suficiente para evaluar el método; el detalle de implementación ---orden de
+ejecución, entorno y procedencia de los resultados--- se recoge en el
+anexo~\ref{anexo:reproducibilidad}.
 
-\subsection{Diseño modular}
+\subsection{Diseño modular y flujo de ejecución}
 \label{sec:arq-modular}
 
-El proyecto se organiza en \textbf{módulos independientes}, separados a la vez
-por fuente de datos y por etapa del procesamiento. Una primera capa de módulos
-de corpus se ocupa de cada arena (la cohorte de diputados, los manifiestos, los
-tuits, el hemiciclo y las votaciones de leyes y enmiendas); una segunda capa de
-clasificación etiqueta esos corpus (clasificación supervisada y modelado
-exploratorio); una tercera valida el método contra referencias externas; y una
-última agrega los resultados a nivel de partido y produce los análisis
-transversales. Dentro de cada módulo, las responsabilidades se mantienen
-separadas en etapas sucesivas ---adquisición y preprocesamiento, clasificación,
-análisis y materialización de resultados--- de modo que cada etapa consume los
-artefactos de la anterior y deja los suyos en una carpeta de salidas dedicada
-(los corpus en \texttt{processed/}; los módulos de clasificación y análisis en
-\texttt{results/}).
+El sistema se organiza en \textbf{módulos independientes}, separados a la vez por
+fuente de datos y por etapa de procesamiento, y dispuestos en cuatro capas
+sucesivas: una capa de \emph{corpus} construye cada arena (la cohorte de
+diputados, los manifiestos, los tuits, el hemiciclo y las votaciones de leyes y
+enmiendas); una capa de \emph{clasificación} etiqueta esos corpus por la vía
+supervisada y la exploratoria; una capa de \emph{validación} contrasta el método
+contra referencias externas; y una capa de \emph{partido} agrega los resultados y
+produce los análisis transversales. Dentro de cada módulo las responsabilidades
+se mantienen separadas en etapas ---adquisición y preprocesamiento, clasificación,
+análisis y materialización de resultados---, de modo que cada etapa consume los
+artefactos de la anterior y deja los suyos en una carpeta de salidas dedicada.
+Como cada etapa persiste sus salidas, el sistema se puede \textbf{regenerar de
+forma incremental}: es posible reconstruir los corpus, las predicciones o los
+análisis por separado sin rehacer todo el recorrido. El punto de integración es
+la \textbf{cohorte de diputados} (sección~\ref{sec:datos-diputados}), cuyo
+identificador estable se reutiliza como clave en todos los módulos posteriores;
+sin ella no habría cohorte única ni cruces consistentes entre fuentes.
 
-Esta separación tiene una consecuencia práctica importante: el sistema se puede
-\textbf{regenerar de forma incremental}. Como cada etapa persiste sus salidas, es
-posible reconstruir los corpus, las predicciones o los análisis por separado sin
-rehacer todo el recorrido, lo que facilita iterar sobre una parte del pipeline
-sin recomputar las demás. El punto de integración de toda la arquitectura es la
-\textbf{cohorte de diputados}, una tabla maestra de identidad
-(\texttt{datos\_diputados/}, sección~\ref{sec:datos-diputados}) cuyo
-identificador estable se reutiliza como clave en todos los módulos de las etapas
-posteriores; sin ella no existe una cohorte única ni cruces consistentes entre
-fuentes.
+A alto nivel, el pipeline encadena \textbf{ocho etapas} en una cadena de
+dependencias estricta (cohorte $\rightarrow$ corpus $\rightarrow$ clasificación
+$\rightarrow$ validación $\rightarrow$ agregación $\rightarrow$ análisis
+$\rightarrow$ salidas); el detalle numerado de cada etapa se encuentra en el
+anexo~\ref{anexo:reproducibilidad}. Las dos vías de clasificación ---supervisada
+y exploratoria--- son paralelas entre sí, pero comparten los mismos corpus de
+entrada y filtros alineados para preservar la comparabilidad documento a
+documento.
 
-\subsection{Flujo de ejecución}
-\label{sec:arq-flujo}
-
-A alto nivel, el pipeline encadena ocho etapas que van de los datos brutos a las
-tablas y figuras finales:
-\begin{enumerate}
-  \item \textbf{Adquisición y limpieza}: descarga y parseo de las fuentes
-        heterogéneas (JSON/XML del \emph{open data} parlamentario, API académica
-        de manifiestos, captura de tuits, API legal) y limpieza de texto.
-  \item \textbf{Construcción de corpus}: segmentación a la unidad textual de cada
-        arena, filtros de calidad y enlace a la cohorte
-        (sección~\ref{sec:normalizacion}).
-  \item \textbf{Clasificación temática} con ManifestoBERTa sobre el esquema
-        MARPOR (sección~\ref{sec:metodo-manifestoberta}).
-  \item \textbf{Modelado exploratorio} con BERTopic
-        (sección~\ref{sec:metodo-bertopic}).
-  \item \textbf{Validación} contra los códigos humanos MARPOR y contra CHES
-        (sección~\ref{sec:metodo-validacion}).
-  \item \textbf{Agregación} de las predicciones a nivel de partido, canal y
-        dominio (sección~\ref{sec:metricas}).
-  \item \textbf{Análisis de voto y cruce} declarado--revelado sobre los
-        artefactos agregados.
-  \item \textbf{Generación de tablas y figuras} a partir de las salidas de los
-        pasos anteriores.
-\end{enumerate}
-El orden no es arbitrario: refleja una \textbf{cadena de dependencias} estricta
-en la que la cohorte precede a los corpus, los corpus a la clasificación, y las
-predicciones de la clasificación supervisada a la validación y a todos los
-análisis a nivel de partido. Las dos vías de clasificación (supervisada y
-exploratoria) son paralelas entre sí, pero comparten los mismos corpus de entrada
-y filtros alineados para preservar la comparabilidad documento a documento.
-
-\subsection{Reproducibilidad y trazabilidad}
+\subsection{Reproducibilidad y entorno}
 \label{sec:arq-reproducibilidad}
 
-Cada etapa del pipeline se ejecuta mediante \emph{scripts} que producen
-\textbf{archivos intermedios documentados}, de modo que las entradas y salidas de
-cada paso quedan explícitas y son inspeccionables. Los resultados se materializan
-en formatos abiertos y heterogéneos según su naturaleza: tablas en CSV,
-metadatos y resúmenes en JSON, visualizaciones como figuras, y, para los análisis
-transversales, documentos en Markdown que consolidan la lectura de cada análisis.
+Cada etapa se ejecuta de forma programática y deja \textbf{archivos intermedios
+documentados} en formatos abiertos, de modo que las entradas y salidas de cada
+paso quedan explícitas e inspeccionables; el inventario de salidas y el orden de
+ejecución se detallan en el anexo~\ref{anexo:reproducibilidad}. El sistema está
+implementado en \textbf{Python} sobre el ecosistema estándar de datos y
+aprendizaje automático ---pandas, NumPy, SciPy y scikit-learn para el
+procesamiento y las métricas
+\cite{mckinney2010pandas, harris2020numpy, virtanen2020scipy, pedregosa2011scikit};
+PyTorch y \emph{Transformers} para la clasificación supervisada
+\cite{paszke2019pytorch, wolf2020transformers}; y BERTopic para el modelado
+exploratorio \cite{grootendorst2022bertopic}---, con la lista completa de
+bibliotecas y versiones en el anexo.
 
-A lo largo de esta memoria, los nombres de carpetas y \emph{scripts} citados con
-tipografía monoespaciada (por ejemplo, \texttt{party\_analysis/} o
-\texttt{common/votes.py}) son \textbf{referencias de trazabilidad interna} al
-repositorio del proyecto ---no referencias bibliográficas--- y sirven para
-localizar dónde se implementa cada paso. Por razones prácticas, los artefactos
-pesados o fácilmente regenerables (datos brutos masivos y carpetas de salidas
-intermedias) no necesariamente se versionan en el control de código: se
-reconstruyen ejecutando los \emph{scripts}, y las cifras canónicas quedan
-registradas en la documentación de cada módulo. En consecuencia, las tablas y
-figuras definitivas que acompañen al capítulo de resultados se
-\textbf{regenerarán} a partir del pipeline en el momento de integrarlas a la
-memoria.
-% TODO: al integrar resultados, regenerar y versionar las figuras/tablas
-% finales (o anexar las salidas de results/ usadas), y fijar su procedencia.
-
-\subsection{Dependencias y entorno de ejecución}
-\label{sec:arq-entorno}
-
-El sistema está implementado en \textbf{Python} y se apoya en bibliotecas
-estándar del ecosistema de datos y aprendizaje automático. El procesamiento de
-datos y el cálculo de métricas usan \texttt{pandas} \cite{mckinney2010pandas},
-\texttt{numpy} \cite{harris2020numpy}, \texttt{scipy} \cite{virtanen2020scipy} y
-\texttt{scikit-learn} \cite{pedregosa2011scikit}. La clasificación supervisada
-con ManifestoBERTa se ejecuta sobre \texttt{PyTorch}
-\cite{paszke2019pytorch} y la biblioteca \emph{Transformers} de Hugging Face
-\cite{wolf2020transformers}. El modelado exploratorio emplea BERTopic
-\cite{grootendorst2022bertopic}, que integra reducción de dimensionalidad con
-UMAP \cite{mcinnes2018umap}, \emph{clustering} con HDBSCAN
-\cite{mcinnes2017hdbscan} y \emph{embeddings} de oración mediante
-\emph{sentence-transformers} \cite{reimers2019sentencebert}. La visualización se
-realiza con \texttt{matplotlib} y \texttt{plotly}.
-
-La reproducibilidad tiene límites que conviene declarar. Por un lado, los
-resultados pueden depender de las \textbf{versiones} exactas de las bibliotecas y
-del \textbf{hardware} de ejecución ---en particular, la inferencia del modelo de
-clasificación selecciona automáticamente el acelerador disponible, lo que puede
-inducir diferencias numéricas menores entre máquinas---. Por otro, el modelado
-exploratorio incorpora componentes con aleatoriedad cuya semilla no está fijada
-en todos los casos, por lo que su reproducibilidad es solo parcial. Finalmente,
-como los datos brutos y varias salidas intermedias no se versionan, reproducir el
-sistema de extremo a extremo exige regenerarlos con los \emph{scripts}
-correspondientes.
-% TODO: centralizar y fijar versiones de transformers/torch y demas librerias, y
-% documentar el hardware usado, para una reproducibilidad estricta.
+La reproducibilidad tiene límites que conviene declarar. Los resultados pueden
+depender de las versiones exactas de las bibliotecas y del hardware de ejecución
+---la inferencia del clasificador selecciona automáticamente el acelerador
+disponible, lo que puede inducir diferencias numéricas menores entre máquinas---,
+y el modelado exploratorio incorpora componentes con aleatoriedad cuya semilla no
+está fijada en todos los casos, por lo que su reproducibilidad es solo parcial.
+Además, como los datos brutos y varias salidas intermedias no se versionan,
+reproducir el sistema de extremo a extremo exige regenerarlos.
 
 \subsection{Decisiones de implementación y límites}
 \label{sec:arq-decisiones}
 
-La arquitectura modular fue una decisión deliberada y no una consecuencia
-accidental. Integrar cinco fuentes muy heterogéneas bajo una cohorte común exige
-poder intervenir cada fuente por separado, y separar las etapas hace que un
-cambio en el preprocesamiento de un corpus, o en la taxonomía de clasificación,
-se propague de forma controlada sin obligar a recomputar todo. La misma
-modularidad es la que habilita la regeneración incremental descrita más arriba.
+La arquitectura modular fue una decisión deliberada: integrar cinco fuentes muy
+heterogéneas bajo una cohorte común exige poder intervenir cada fuente por
+separado, y separar las etapas hace que un cambio en el preprocesamiento de un
+corpus o en la taxonomía de clasificación se propague de forma controlada sin
+obligar a recomputar todo; esa misma modularidad es la que habilita la
+regeneración incremental. El repositorio incluye además un experimento
+exploratorio ---extracción de grafos de conocimiento sobre una muestra de
+intervenciones--- que no está integrado al pipeline ni validado, y que por tanto
+queda fuera del método evaluado en esta memoria.
 
-El repositorio contiene además un componente exploratorio que \textbf{queda
-fuera del alcance} de esta memoria: en particular, un experimento de extracción
-de grafos de conocimiento sobre una muestra de intervenciones que no está
-integrado al pipeline principal ni validado, y que por tanto no forma parte del
-método evaluado aquí.
-
-Por último, este capítulo describe la \textbf{arquitectura suficiente para
-evaluar el método}, no cada \emph{script} línea por línea. Varios detalles finos
----el orden completo de ejecución de los \emph{scripts}, el manejo de
-credenciales de las APIs, las listas de palabras vacías específicas de cada
-dominio, los esquemas de columnas de los archivos intermedios y el inventario
-completo de salidas--- pertenecen a la documentación de implementación y se
-relegan a los anexos, donde pueden consultarse sin interrumpir la exposición
-metodológica.
-% TODO: confirmar que los anexos recogen orden de ejecucion, credenciales/APIs,
-% stop-words, esquemas de columnas e inventario de outputs referidos aqui.
+Con el método y su arquitectura ya definidos, el capítulo siguiente presenta los
+hallazgos en el mismo orden lógico del pipeline: primero la \textbf{validación}
+del clasificador y de las posiciones estimadas, que fija la confianza en las
+mediciones, y sobre esa base los tres ejes del análisis ---la \textbf{agenda
+declarada}, la \textbf{agenda revelada} por el voto y el \textbf{cruce} entre lo
+que cada partido enfatiza y lo que apoya al votar---.
