@@ -2,20 +2,129 @@
 \label{cap:conclusiones}
 
 % Responde a ¿qué?: evalúa si se cumplieron los objetivos, presenta los principales
-% hallazgos, aprendizajes y proyecciones.
+% hallazgos, aprendizajes y proyecciones. No repite Resultados ni Discusión: sintetiza
+% y cierra el arco.
+
+Este trabajo partió de una pregunta difícil de responder con datos: ¿coincide lo
+que los partidos declaran en su discurso con lo que sus representantes revelan al
+votar? La respuesta, para la XV legislatura de la Asamblea Nacional francesa
+(2017--2022), es que ambos planos están conectados solo parcialmente y que su
+relación es localizada, no resumible en un único grado de coherencia. El aporte
+de la memoria es, ante todo, metodológico y de sistema: un instrumento
+reproducible que hace comparable material heterogéneo y que muestra que la
+relación entre discurso y voto puede medirse de forma disciplinada, sin reducir a
+los partidos a un ranking de cumplimiento.
 
 \section{Cumplimiento de los objetivos}
 \label{sec:concl-objetivos}
 
+El objetivo general, diseñar, implementar y validar un sistema reproducible que
+integrara las cinco arenas discursivas bajo una cohorte común y permitiera
+contrastar la agenda declarada con la revelada por el voto, se alcanzó: la
+memoria entrega tanto las bases de datos integradas como el análisis comparativo
+que habilitan. Los objetivos específicos se cumplieron en los siguientes
+términos.
+
+\begin{enumerate}
+  \item Se logró recolectar e integrar las cinco arenas discursivas (programas
+  electorales, actividad en redes, intervenciones en el hemiciclo, leyes y
+  enmiendas) a partir de fuentes públicas en formatos dispares.
+  \item Se logró construir una cohorte única de diputados con un identificador
+  estable que ancla todos los cruces, consolidando las siglas de grupo en
+  familias políticas y tratando a la extrema derecha como una familia analítica
+  propia, separada del residuo de no inscritos.
+  \item Se logró normalizar los cinco corpus a unidades textuales comparables,
+  con las limitaciones de un enlace de entidades parcialmente heurístico y de una
+  cobertura desigual entre arenas.
+  \item Se logró clasificar los corpus sobre la taxonomía común MARPOR por una
+  vía supervisada y otra exploratoria, con las limitaciones de un clasificador
+  imperfecto y no calibrado y de un modelado de tópicos de carácter solo
+  exploratorio.
+  \item Se logró validar el instrumento contra un panel externo de expertos, con
+  la limitación de que la validación se apoya únicamente en los manifiestos y en
+  muestras pequeñas, si bien resulta sólida al restringirse a los partidos con
+  texto suficiente.
+  \item Se logró contrastar la agenda declarada con la revelada por el voto a
+  nivel de partido y documentar la reproducibilidad del sistema, con la salvedad
+  de que la coherencia por partido no admite un ordenamiento y de que algunos
+  artefactos intermedios no se versionan y deben regenerarse.
+\end{enumerate}
+
 \section{Principales hallazgos}
 \label{sec:concl-hallazgos}
-% El gap declarado-vs-revelado como aporte central; firmas que persisten por canal.
+
+El análisis descansa sobre una validación previa: las posiciones estimadas a
+partir del texto reproducen la codificación humana de referencia y se
+correlacionan con un panel externo de expertos, con una correlación alta al
+restringir la comparación a los partidos con texto suficiente (del orden de
+$\rho \approx 0{,}89$). Esa base habilita leer las agendas de forma agregada. El
+detalle de todas las magnitudes se encuentra en el
+capítulo~\ref{cap:resultados}.
+
+El primer hallazgo es que el canal reorganiza fuertemente la agenda declarada:
+un mismo partido habla de cosas distintas en su programa, en las redes y en el
+hemiciclo, pero, descontado ese efecto estructural del medio, conserva una firma
+temática reconocible. FN es el mayor reorganizador estimable de su agenda,
+mientras que LREM exhibe la firma más estable.
+
+El segundo hallazgo es que el voto opera en dos capas. En las leyes domina una
+lógica posicional de bloque, de manera que saber si un partido está en la mayoría
+o en la oposición basta para anticipar en gran medida su voto. En las enmiendas,
+al aflojarse esa lógica, aflora un clivaje temático de naturaleza cultural más
+que económica, con LR y FN compartiendo su polo derecho.
+
+El tercer hallazgo es que la relación entre lo declarado y lo revelado es débil e
+inestable cuando se resume en un coeficiente único, hasta el punto de no permitir
+ordenar a los partidos por coherencia, pero se vuelve sistemática y legible cuando
+se describe como una tipología por celda de partido y dominio, con banderas
+afirmativas, una distancia cultural limpia en la izquierda y casos de énfasis no
+respaldado. FN es el caso extremo de ese desfase entre capas: sostiene en el
+discurso una firma nacional-securitaria persistente que el voto no confirma como
+distintiva, un contraste que solo se vuelve visible al tratarla como familia
+separada del residuo de no inscritos.
 
 \section{Contribuciones}
 \label{sec:concl-contribuciones}
-% Bases de datos públicas, documentadas y replicables; pipeline de análisis.
+
+La contribución principal es de ingeniería, en la línea propia de la ingeniería
+civil en computación. La memoria entrega un sistema reproducible que integra
+cinco corpus muy heterogéneos bajo una cohorte común de diputados, que ancla toda
+comparación en un identificador estable, y que clasifica esas fuentes dispares
+sobre una taxonomía temática común y citable, lo que las vuelve comparables entre
+sí pese a sus formatos y unidades de origen. A ello se suman una validación
+externa que fija la confianza en las mediciones antes de interpretarlas y una
+documentación de las decisiones de diseño, los filtros y los límites que permite
+auditar, criticar o trasladar el sistema a otro caso; el detalle técnico se
+recoge en el anexo~\ref{anexo:a}.
+
+La contribución analítica es un marco comparativo, articulado en tres análisis
+encadenados (la reorganización de la agenda declarada según el canal, la
+estructura del voto y el cruce entre lo declarado y lo revelado), que describe la
+relación discurso--voto como una cartografía de alineaciones y brechas antes que
+como un grado único de consistencia. El resultado no es un juicio sobre qué
+partido cumple más su programa, sino una tipología que muestra dónde el discurso
+y el voto se alinean y dónde se separan, y que resulta multidimensional y
+localizada en vez de reducible a un eje izquierda--derecha.
 
 \section{Trabajo futuro}
 \label{sec:concl-futuro}
-% Extensión a Chile; stance detection; marcos de valores (Schwartz, MFT);
-% análisis a nivel de diputado; KG-Gen sobre el corpus completo.
+
+Varias líneas quedan abiertas a partir de las limitaciones reconocidas. En el
+plano de los datos, conviene depurar la duplicación en el corpus de redes y
+acotarlo temporalmente a la legislatura estudiada, así como identificar y
+controlar quién propone cada enmienda, un factor que puede incidir en el voto y
+que aquí no se modeló. En el plano del método, la calibración de las
+probabilidades del clasificador permitiría un uso más fino de sus predicciones, y
+la desagregación del análisis a nivel de diputado, más allá del partido, abriría
+preguntas sobre la disciplina interna de los grupos.
+
+En el plano del alcance, la extensión del sistema a otras legislaturas o países
+pondría a prueba la generalidad de las regularidades observadas y aprovecharía el
+carácter trasladable del diseño. Finalmente, la incorporación de la detección de
+postura o de marcos de valores, que en este trabajo no se aplicaron al análisis,
+constituye una línea posible para enriquecer la caracterización del discurso
+político más allá del énfasis temático. En conjunto, estas proyecciones refuerzan
+la idea que articuló la memoria desde el comienzo: que la agenda declarada y la
+revelada son capas distintas de un mismo comportamiento partidario, y que medir
+su relación con rigor exige tanto buenas preguntas como un sistema capaz de
+sostenerlas.

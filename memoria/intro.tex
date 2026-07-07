@@ -2,42 +2,222 @@
 \label{cap:introduccion}
 
 % La introducción responde a ¿qué? y ¿por qué?: contexto, justificación, objetivos,
-% alcances, método (a grandes rasgos) y estructura de la memoria.
+% alcances, método (a grandes rasgos) y estructura de la memoria. No repite el marco
+% teórico ni adelanta los resultados.
+
+Esta memoria construye un sistema reproducible que integra, bajo una cohorte
+común de diputados, las cinco arenas discursivas de la XV legislatura de la
+Asamblea Nacional francesa (2017--2022) y las clasifica con una taxonomía
+temática común, con el fin de contrastar de forma comparable lo que los partidos
+\emph{dicen} en su discurso (la agenda declarada) con lo que sus representantes
+\emph{votan} en el Parlamento (la agenda revelada). El aporte central es de
+ingeniería de datos y procesamiento de lenguaje natural: hacer comparable
+material que, en su forma bruta, no lo es, y validar que la medición resultante
+capta señal política interpretable.
 
 \section{Contexto y motivación}
 \label{sec:contexto}
-% En las democracias representativas los partidos comunican sus valores mediante
-% programas y discursos públicos, pero a menudo hay discrepancias entre lo que
-% declaran y lo que hacen sus representantes. Por qué importa: confianza, transparencia.
+
+En las democracias representativas los partidos comunican sus valores y
+prioridades mediante programas electorales, redes sociales y debates públicos,
+pero esa agenda declarada no siempre coincide con la práctica de sus
+representantes cuando legislan y votan. Medir esa brecha entre el discurso y la
+acción parlamentaria importa por razones de transparencia y de rendición de
+cuentas, y también porque es un objeto de estudio clásico de la ciencia política
+que hoy puede abordarse a gran escala gracias a la disponibilidad de datos
+abiertos y a los avances en procesamiento de lenguaje natural. El desafío es que
+comparar discurso y voto exige integrar fuentes muy distintas y proyectarlas
+sobre un marco temático común, una tarea que es, ante todo, de ingeniería.
+
+Esta memoria aborda el problema desde la ciencia política computacional, tomando
+como caso la XV legislatura de la Asamblea Nacional francesa (2017--2022). El
+período ofrece un escenario rico, con una amplia gama de familias políticas y
+con datos públicos sobre programas, actividad en redes, intervenciones en el
+hemiciclo y votaciones nominales, lo que permite observar a un mismo conjunto de
+diputados a través de varias arenas y a lo largo de una legislatura completa. El
+trabajo no busca emitir un juicio sobre qué partido cumple más, sino diseñar y
+validar un instrumento que mida, de forma comparable y reproducible, la relación
+entre lo declarado y lo revelado.
 
 \section{Descripción del problema}
 \label{sec:problema}
-% El desfase declarado/práctica está poco medido empíricamente; las fuentes están
-% dispersas y en formatos heterogéneos; los estudios suelen mirar una sola dimensión.
+
+La principal dificultad es que la evidencia relevante está dispersa en fuentes
+heterogéneas, tanto en su formato como en su naturaleza. Los programas
+electorales, la actividad en redes, las intervenciones parlamentarias y las
+votaciones sobre leyes y enmiendas provienen de orígenes distintos, con
+estructuras dispares, y cada canal aporta además una unidad de análisis propia
+(la cuasi-frase del manifiesto, el mensaje en redes, el turno de palabra en el
+hemiciclo y la enmienda votada). A ello se suma que la noción misma de
+\emph{partido} se sitúa en niveles de agregación diferentes según la fuente: el
+manifiesto corresponde al partido electoral, los mensajes y las intervenciones a
+diputados individuales, y el voto al grupo parlamentario. Sin una capa de
+identidad que reconcilie esos niveles, las arenas quedan como conjuntos de textos
+inconexos que no pueden compararse.
+
+De ahí que el problema no sea solo analítico, sino de integración: se requiere
+anclar todas las fuentes a una identidad común de diputado, normalizarlas a
+unidades comparables y clasificarlas con una taxonomía temática única que
+habilite el contraste entre canales y entre partidos. Sobre esa base es posible
+formular la pregunta central que articula el trabajo: ¿coincide lo que un partido
+enfatiza en su discurso con lo que sus representantes apoyan al votar? Responderla
+supone distinguir dos planos, la agenda declarada y la agenda revelada, medirlos
+por separado con métricas adecuadas y compararlos de manera que las diferencias
+observadas sean atribuibles al comportamiento partidario y no a artefactos de la
+fuente.
 
 \section{Objetivos}
 \label{sec:objetivos}
 
 \subsection{Objetivo general}
 \label{sec:objetivo-general}
-% Construir y analizar bases de datos públicas que permitan detectar y describir
-% discrepancias entre el discurso programático de los partidos y la práctica
-% parlamentaria de sus representantes.
+
+Diseñar, implementar y validar un sistema reproducible de ingeniería de datos y
+procesamiento de lenguaje natural que integre, bajo una cohorte común de
+diputados, las cinco arenas discursivas de la XV legislatura de la Asamblea
+Nacional francesa (2017--2022), las clasifique con una taxonomía temática común y
+citable, y permita construir y analizar bases de datos públicas que contrasten de
+forma comparable la agenda declarada en el discurso con la agenda revelada por el
+voto a nivel de partido.
 
 \subsection{Objetivos específicos}
 \label{sec:objetivos-especificos}
-% 1. Recolectar y organizar fuentes (redes sociales, programas, datos parlamentarios).
-% 2. Construir una base de programas partidarios comparable (MPDB).
-% 3. Recolectar y estructurar información parlamentaria (intervenciones, votaciones).
-% 4. Estandarizar y unificar las bases en un formato apto para análisis computacional.
-% 5. Aplicar modelos de NLP (clasificación MARPOR, modelado de tópicos) sobre los corpus.
-% 6. Identificar y cuantificar discrepancias entre lo declarado y lo revelado por el voto.
+
+\begin{enumerate}
+  \item Recolectar e integrar las cinco arenas discursivas (programas
+  electorales, actividad en redes, intervenciones en el hemiciclo, leyes y
+  enmiendas) a partir de fuentes públicas en formatos heterogéneos.
+  \item Construir una cohorte única de diputados con un identificador estable que
+  ancle todos los cruces, y consolidar las siglas de grupo en familias políticas,
+  tratando a la extrema derecha como una familia analítica propia separada del
+  residuo de no inscritos.
+  \item Normalizar los cinco corpus a unidades textuales comparables mediante
+  enlace de entidades y filtros de calidad documentados.
+  \item Clasificar los corpus sobre una taxonomía temática común (MARPOR) por dos
+  vías, una supervisada como núcleo del análisis y otra exploratoria de apoyo.
+  \item Validar el instrumento contrastando las posiciones estimadas a partir del
+  texto con un panel externo de expertos.
+  \item Contrastar la agenda declarada con la agenda revelada por el voto a nivel
+  de partido, y documentar la reproducibilidad del sistema, sus decisiones de
+  diseño y sus límites.
+\end{enumerate}
 
 \section{Alcances}
 \label{sec:alcances}
-% Qué cubre y qué no: foco en Francia (XV legislatura 2017-2022); 5 corpus;
-% análisis a nivel de partido; limitaciones de cobertura y de los datos.
 
-\section{Estructura de la memoria}
+El estudio abarca la XV legislatura de la Asamblea Nacional francesa (2017--2022)
+y sus cinco arenas discursivas, con el análisis situado a nivel de partido y no
+de diputado individual. Las familias políticas se construyen consolidando las
+siglas de grupo, y la extrema derecha, con once diputados que figuran como no
+inscritos por no haber formado grupo propio, se trata como una familia analítica
+separada de ese residuo heterogéneo, de modo que su señal no quede diluida en él.
+El contraste entre discurso y voto sobre programas electorales se restringe a los
+siete partidos con presencia suficiente en las arenas comparables, mientras que
+los análisis basados en redes y hemiciclo abarcan un conjunto más amplio de
+familias.
+
+El trabajo tiene límites deliberados. La evidencia proviene de un único caso, por
+lo que sus regularidades se describen para ese contexto y su validez en otras
+legislaturas o países no puede darse por supuesta. Los análisis son descriptivos
+y no causales: caracterizan alineaciones agregadas entre lo que los partidos
+dicen y lo que votan, sin afirmar que el discurso determine el voto. La
+clasificación temática se apoya en un modelo entrenado sobre manifiestos, por lo
+que su transferencia a redes, intervenciones y textos de voto es un supuesto que
+se somete a validación y se lee con cautela. Finalmente, quedan fuera del alcance
+del cuerpo del análisis la detección de postura y los marcos de valores.
+
+\section{Método y estructura de la memoria}
 \label{sec:estructura}
-% Breve mapa de los capítulos siguientes.
+
+En cuanto al método, y a grandes rasgos, el sistema recolecta e integra los cinco
+corpus bajo la cohorte común, los clasifica sobre la taxonomía MARPOR por una vía
+supervisada, basada en un modelo de lenguaje afinado para manifiestos, y una vía
+exploratoria de modelado de tópicos, y sobre esas etiquetas calcula métricas a
+nivel de partido que sostienen tres análisis: la reorganización de la agenda
+declarada según el canal, la estructura del voto y el cruce entre lo declarado y
+lo revelado. El detalle de fuentes, modelos, métricas y decisiones de
+implementación se desarrolla en el capítulo~\ref{cap:metodologia}.
+
+El resto de la memoria se organiza como sigue. El
+capítulo~\ref{cap:marco-teorico} revisa los conceptos y la literatura sobre
+discurso político, coherencia partidaria, la taxonomía MARPOR y el procesamiento
+de lenguaje natural aplicado a texto político. El
+capítulo~\ref{cap:metodologia} presenta los materiales y métodos, esto es, las
+fuentes, la construcción de los corpus, la clasificación, las métricas y la
+arquitectura del sistema. El capítulo~\ref{cap:resultados} expone los hallazgos,
+comenzando por la validación del instrumento y siguiendo con los tres análisis
+partidarios. El capítulo~\ref{cap:discusion} interpreta esos resultados a la luz
+de la pregunta que articula el trabajo, y el capítulo~\ref{cap:conclusiones}
+evalúa el cumplimiento de los objetivos y delinea líneas de continuación. El
+material complementario, con el detalle técnico y las tablas extensas, se recoge
+en el anexo~\ref{anexo:a}.
+
+\section{Declaración de uso de inteligencia artificial}
+\label{sec:declaracion-ia}
+
+En la elaboración de esta memoria utilicé herramientas de inteligencia artificial
+generativa, tanto en el desarrollo del software del proyecto (generación,
+depuración y refactorización de código) como en la redacción de este documento
+(borradores, edición de estilo, reorganización de contenidos y revisión crítica
+de la estructura). El diseño de la investigación, las decisiones metodológicas,
+la interpretación de los resultados y la verificación de todas las cifras y
+afirmaciones son de mi autoría. Todo el contenido asistido por inteligencia
+artificial fue revisado y validado críticamente por mí, y asumo plena
+responsabilidad académica sobre el trabajo presentado. El uso de estas
+herramientas no constituye coautoría.
+
+\subsection*{Modelos y herramientas utilizados}
+
+El trabajo asistido por inteligencia artificial se realizó principalmente en el
+entorno de desarrollo Cursor, que integra modelos de lenguaje directamente sobre
+los archivos del proyecto y de la memoria. Los modelos que utilicé con mayor
+frecuencia fueron Claude Opus 4.8 (Anthropic), GPT-5.5 (OpenAI) y Composer 2.5
+(Anysphere). Preferí trabajar dentro del editor, y no en una interfaz de
+conversación aislada, porque me permitía entregar como contexto los datos y la
+documentación del propio proyecto, verificar cada cambio contra su fuente y
+alternar entre modelos según la tarea: el razonamiento sobre texto y la redacción
+técnica en español, por un lado, y la iteración rápida sobre el código, por otro.
+
+\subsection*{Metodología de uso}
+
+Usé estas herramientas mediante tareas acotadas y verificables, manteniendo en
+todo momento el control sobre las decisiones. Para el código, la asistencia sirvió
+para redactar funciones, diagnosticar errores y proponer refactorizaciones, que
+luego ejecutaba y contrastaba con los datos reales antes de incorporarlas. Para
+la memoria, dirigí la asistencia sobre secciones específicas, entregando siempre
+como contexto las fuentes pertinentes y con instrucciones explícitas de no
+inventar cifras y de remitir el detalle a los anexos. Revisé cada texto generado
+frente a esas fuentes, lo corregí y lo ajusté al estilo del documento; ninguna
+cifra se dio por buena sin comprobarla contra los resultados del análisis.
+
+\subsection*{Ejemplos representativos de prompts}
+
+Los mejores resultados provinieron de instrucciones en las que yo aportaba el
+criterio y el modelo ejecutaba una tarea delimitada, por ejemplo:
+
+\begin{itemize}
+  \item ``Revisa las incongruencias en los siguientes capítulos y entrégame un
+  orden de prioridades para corregirlos'', que usé para auditar el documento y
+  decidir yo el plan de trabajo a partir de su diagnóstico.
+  \item Instrucciones donde fijaba la decisión analítica de antemano, como pedir
+  integrar a la familia FN como familia separada de los no inscritos en una
+  sección concreta, respetando datos que yo ya conocía y prohibiendo inventar
+  cifras.
+\end{itemize}
+
+En cambio, funcionaron mal las instrucciones vagas o sin fuente, por ejemplo un
+``mejora este capítulo'' sin criterios, que producía reescrituras extensas e
+innecesarias, o pedir que redactara resultados sin entregarle las tablas de
+origen, lo que llevaba al modelo a proponer valores plausibles pero inventados.
+En esos casos la solución fue acotar la tarea y entregar siempre los datos como
+contexto.
+
+\subsection*{Qué cambiaría}
+
+Si tuviera que rehacer el trabajo, adoptaría desde el comienzo tres prácticas que
+fui incorporando sobre la marcha: registrar de forma sistemática las decisiones y
+los prompts relevantes para dejar mejor trazabilidad; entregar siempre las
+fuentes de datos antes de solicitar cualquier redacción de resultados, para
+eliminar de raíz el riesgo de cifras inventadas; y dividir el trabajo en cambios
+pequeños y verificables en lugar de delegar tareas amplias, lo que facilita
+revisar, corregir y mantener el control sobre el contenido final.
