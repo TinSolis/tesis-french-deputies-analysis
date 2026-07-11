@@ -11,15 +11,10 @@
 \memoria{Ingeniero Civil en Computación}
 % \tesis{Magíster en ???} % incluir solo en caso de doble titulación
 
-% Profesores guía separados por coma: el primero aparece como "PROFESOR GUÍA"
-% y el segundo como "PROFESOR GUÍA 2" en la portada.
-\guia{Valentin Barriere,Franziska Wagner}
-
-% Comisión aún por definir. Cuando tengas los nombres, complétalos separados por
-% coma usando nombre y los DOS apellidos de cada integrante (Biblioteca revisa los
-% apellidos), por ejemplo:
-%   \comision{Nombre Apellido1 Apellido2,Otro Nombre Apellido1 Apellido2}
-\comision{}
+% apellidos según registro de Comisión (Biblioteca revisa nombre y dos apellidos).
+\guia{Valentin Barriere Clement}
+\coguia{Franziska Wagner [Apellido2]}
+\comision{Claudio Gutiérrez,Nicolás Varas}
 
 % \auspicio{Nombre Institución} % incluir si el trabajo recibió financiamiento (p. ej. CENIA)
 
@@ -38,18 +33,35 @@
 \maketitle
 
 \begin{resumen}
-% Resumen ejecutivo en una sola página: justificación, objetivos, método y hallazgos.
-% TODO: redactar al final, cuando los resultados estén consolidados.
 En las democracias representativas existe una brecha potencial entre lo que los
 partidos políticos \emph{declaran} en sus programas y discursos y lo que sus
-representantes \emph{hacen} al legislar. Este trabajo construye bases de datos
-públicas y comparables sobre la actividad de los diputados de la Asamblea Nacional
-francesa (XV legislatura, 2017--2022), a saber, programas electorales, intervenciones en
-el hemiciclo, actividad en Twitter, y votaciones sobre leyes y enmiendas, y
-aplica modelos de procesamiento de lenguaje natural (clasificación supervisada
-MARPOR con ManifestoBERTa y modelado de tópicos con BERTopic) para caracterizar y
-contrastar la \emph{agenda declarada} (énfasis temático) con la \emph{agenda
-revelada} (soporte por el voto) de cada partido. Los resultados muestran que [\dots].
+representantes \emph{hacen} al legislar. Comprender esa distancia es difícil
+porque las distintas fuentes de evidencia (programas, discurso público y
+votaciones) suelen analizarse por separado y con categorías no comparables. Esta
+memoria aborda ese problema tomando como caso la Asamblea Nacional francesa
+durante la XV legislatura (2017--2022).
+
+El objetivo es construir un sistema reproducible que integre cinco arenas de
+actividad política (programas electorales, intervenciones en el hemiciclo,
+actividad en Twitter, votaciones de leyes y votaciones de enmiendas) sobre una
+cohorte común de diputados, y que permita contrastar de manera sistemática la
+\emph{agenda declarada} (el énfasis temático que cada partido expresa) con la
+\emph{agenda revelada} (el soporte temático que emerge de su voto). Para ello se
+adopta una taxonomía temática común: los textos se clasifican con un modelo
+supervisado sobre las categorías MARPOR (ManifestoBERTa), se complementan con un
+modelado exploratorio de tópicos (BERTopic) y se validan externamente contra
+posiciones de referencia de expertos (CHES).
+
+Los resultados muestran tres patrones. Primero, el canal de comunicación
+reorganiza la agenda declarada (los mismos partidos priorizan temas distintos en
+programas, discurso y redes), pero la firma temática del partido persiste a
+través de los canales. Segundo, el voto se estructura en dos capas: una posición
+de bloque relativamente estable en las leyes y un clivaje cultural más marcado en
+las enmiendas. Tercero, el cruce entre agenda declarada y revelada es débil en
+promedio, pero se vuelve legible cuando se describe como una tipología de perfiles
+de coherencia en vez de un puntaje único. El aporte principal es
+metodológico y sistémico (un marco comparable y reproducible para integrar
+fuentes heterogéneas), no un ranking de partidos ni una afirmación causal.
 \end{resumen}
 
 \chapter*{Declaración de uso de inteligencia artificial}

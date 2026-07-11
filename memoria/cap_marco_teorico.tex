@@ -3,32 +3,254 @@
 
 % Responde a ¿cómo? y ¿con qué herramientas?: define los conceptos clave del trabajo.
 
+Este capítulo define los conceptos y las herramientas sobre los que se apoya el
+resto de la memoria, siguiendo una lógica deductiva que va de las nociones
+generales a los instrumentos concretos. Primero se precisan las ideas de agenda
+temática, \emph{salience} y coherencia partidaria, y la distinción entre lo que
+un partido declara y lo que revela al votar, que es la pregunta que articula el
+trabajo. Luego se presenta la taxonomía del \emph{Manifesto Project} (MARPOR)
+como espacio de categorías políticas comparable entre fuentes, junto con el índice
+posicional RILE y las encuestas de expertos que sirven de referencia externa.
+Por último se revisan las técnicas de procesamiento de lenguaje natural que
+permiten clasificar texto político a gran escala. Estos conceptos preparan la
+metodología del capítulo~\ref{cap:metodologia} y la lectura de los hallazgos del
+capítulo~\ref{cap:resultados}, pero aquí no se presentan resultados del caso
+estudiado.
+
 \section{Discurso político, agenda y coherencia partidaria}
 \label{sec:discurso-coherencia}
-% Issue ownership, salience, agenda declarada vs. revelada; por qué medir énfasis
-% (de qué se habla) es más robusto que medir posición (izquierda-derecha / RILE).
+
+El estudio del comportamiento partidario distingue de manera habitual entre lo
+que un partido \emph{dice} y lo que un partido \emph{hace}. La primera dimensión
+remite a la \textbf{agenda declarada}, es decir, al conjunto de temas que una
+organización política decide poner en primer plano en su comunicación pública, ya
+sea en su programa electoral, en los medios o en el debate parlamentario. La
+segunda remite a la \textbf{agenda revelada}, esto es, a las posiciones que el
+partido expresa cuando sus representantes votan sobre textos concretos. Ambas son
+observables, pero no son equivalentes, y su contraste es el problema central de
+esta memoria.
+
+Un concepto útil para caracterizar la agenda declarada es el de \emph{salience},
+la prominencia relativa que un actor otorga a cada tema. La literatura sobre
+competencia partidaria sostiene que los partidos compiten menos tomando
+posiciones opuestas sobre los mismos asuntos y más enfatizando selectivamente
+aquellos temas en los que se sienten fuertes, una idea vinculada a la noción de
+\emph{issue ownership}, la asociación duradera entre un partido y ciertos temas.
+Desde esta perspectiva, describir una agenda es, ante todo, medir de qué se habla
+y cuánto, antes que ubicar al actor en una escala de posiciones.
+
+Esta óptica temática tiene una consecuencia metodológica importante. Reducir a un
+partido a un único punto en un eje izquierda--derecha resume su posición, pero
+pierde la estructura de su agenda y resulta frágil cuando el objeto de interés es
+la coherencia entre discurso y voto. La ciencia política comparada ha mostrado,
+además, que la competencia europea no se ordena solo por el eje económico, sino
+también por una segunda dimensión que opone valores libertarios, alternativos y
+cosmopolitas a posiciones tradicionales, autoritarias y nacionalistas, conocida
+como dimensión GAL--TAN \cite{hooghe2002galtan}. Un enfoque basado en el énfasis
+por temas permite captar esa multidimensionalidad, que un índice unidimensional
+tiende a aplanar.
+
+La agenda declarada, sin embargo, no se expresa igual en todas partes. Un mismo
+partido se dirige a audiencias distintas en su programa, en las redes sociales y
+en el hemiciclo, y adapta a cada canal tanto el registro como la selección de
+temas, de modo que el canal opera como un condicionante estructural de lo que se
+observa \cite{ivanusch2024channels}. Comparar la agenda de un partido consigo
+misma a través de canales, y no solo entre partidos, se vuelve entonces una
+pregunta con contenido propio.
+
+Del lado de la agenda revelada, el estudio del voto legislativo aporta un segundo
+cuerpo de conceptos. En los sistemas parlamentarios, el voto rara vez es la suma
+de decisiones individuales independientes: los grupos exhiben una fuerte
+\textbf{disciplina de bloque}, sostenida por incentivos organizativos y por la
+lógica de gobierno frente a oposición \cite{sieberer2006partyunity}. La unidad de
+voto observada es, en consecuencia, el resultado de principales en competencia,
+como el partido, el electorado y el gobierno, más que un reflejo directo de las
+preferencias temáticas de cada representante \cite{carey2007competing}. Esta
+distinción anticipa una idea que la memoria retoma más adelante: el voto puede
+revelar sobre todo una posición de bloque y, solo en ciertos márgenes, una señal
+temática propia. El contraste sistemático entre la agenda declarada y la revelada,
+sobre un mismo conjunto de actores y bajo una taxonomía común, es precisamente el
+vacío que este trabajo busca ocupar.
 
 \section{El Manifesto Project y la taxonomía MARPOR}
 \label{sec:marpor}
-% Manifesto Corpus, codificación a nivel de cuasi-frase, 7 dominios y 56 categorías,
-% índice RILE y sus limitaciones.
+
+Para comparar el contenido político de fuentes tan distintas como un programa
+electoral, un mensaje en redes o un texto legislativo se necesita un espacio de
+categorías común. Esta memoria adopta el esquema del \emph{Manifesto Project}
+(MARPOR) \cite{marpor_mp_v5}, un estándar consolidado de la ciencia política
+comparada con el que se han codificado manualmente programas electorales de
+numerosos países durante décadas. Su unidad de análisis es la \emph{cuasi-frase},
+un fragmento que expresa una única idea política, a la que se asigna una
+categoría temática.
+
+El esquema organiza el contenido en \textbf{56 categorías} agrupadas en
+\textbf{siete dominios} macro. El dominio se obtiene del primer dígito del código
+de categoría, lo que habilita una lectura jerárquica: fina a nivel de categoría y
+más robusta a nivel de dominio. El Cuadro~\ref{tab:marpor-dominios} resume los
+siete dominios con una categoría de ejemplo cada uno; el listado completo de las
+56 categorías se recoge en el anexo~\ref{anexo:marpor}.
+
+\begin{table}[H]
+\centering
+\caption{Los siete dominios de la taxonomía MARPOR, con una categoría ilustrativa
+por dominio. El detalle de las 56 categorías se encuentra en el
+anexo~\ref{anexo:marpor}.}
+\label{tab:marpor-dominios}
+\small
+\begin{tabularx}{\textwidth}{@{}l l >{\raggedright\arraybackslash}X@{}}
+\toprule
+\textbf{Dominio} & \textbf{Nombre (MARPOR)} & \textbf{Categoría de ejemplo} \\
+\midrule
+1 & External Relations & Internacionalismo \\
+2 & Freedom and Democracy & Libertad y derechos humanos \\
+3 & Political System & Autoridad política \\
+4 & Economy & Economía de libre mercado \\
+5 & Welfare and Quality of Life & Expansión del Estado de bienestar \\
+6 & Fabric of Society & Ley y orden \\
+7 & Social Groups & Grupos laborales \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Tres propiedades hacen de MARPOR un espacio idóneo para este trabajo. Es
+\emph{independiente de la fuente}, porque las mismas categorías se aplican por
+igual a distintos tipos de texto; es \emph{citable y externamente validable}, al
+ser un estándar internacional cuyas estimaciones pueden contrastarse contra
+codificaciones humanas y encuestas de expertos; y admite una \emph{lectura tanto
+temática como posicional}, pues las distribuciones de categorías sostienen el
+análisis de énfasis y, al mismo tiempo, permiten derivar un índice de posición
+cuando se lo necesita.
+
+Ese índice es el \textbf{RILE} (\emph{right--left}), propuesto por Laver y Budge
+\cite{laver1992party}, que resume la posición de un partido como la diferencia
+entre el porcentaje de cuasi-frases asignadas a un conjunto canónico de
+categorías de derecha y el de un conjunto de categorías de izquierda. El RILE es
+un resumen conveniente, pero tiene límites conceptuales conocidos: es
+\emph{unidimensional}, de modo que colapsa en un solo eje una agenda que suele ser
+multidimensional, y es \emph{ciego a la dirección} del enunciado, ya que cuenta
+del mismo modo el apoyo y el ataque a una misma idea. Por estas razones, en esta
+memoria el RILE no es el instrumento del análisis sustantivo, sino que se reserva
+para \emph{validar} el pipeline; el análisis principal se construye sobre el
+\textbf{énfasis por dominio}, es decir, sobre las distribuciones temáticas
+completas y no sobre un índice posicional colapsado.
+
+La validación posicional se apoya en una referencia externa e independiente del
+texto: el \emph{Chapel Hill Expert Survey} (CHES), una encuesta que sitúa a los
+partidos europeos en distintas dimensiones a partir del juicio de expertos. Se
+emplea la edición de 2019 \cite{jolly2022ches, ches2019data}; existe una edición
+más reciente de 2024 \cite{rovny2025ches}, que no se utiliza aquí. CHES cumple en
+este trabajo un papel estrictamente de \emph{benchmark} externo con el cual
+contrastar las posiciones estimadas, y no el de una taxonomía que oriente el
+análisis temático.
 
 \section{Procesamiento de lenguaje natural para texto político}
 \label{sec:nlp-politico}
 
+Codificar manualmente cinco corpus con el esquema MARPOR sería inviable por su
+volumen, de modo que la asignación de categorías se automatiza con técnicas de
+procesamiento de lenguaje natural. Se combinan dos enfoques complementarios: una
+clasificación supervisada, que asigna las categorías teóricas del esquema, y un
+modelado de tópicos no supervisado, que descubre agrupaciones empíricas dentro de
+cada corpus. Ambos se describen a continuación en el plano conceptual; su
+configuración concreta se detalla en el capítulo~\ref{cap:metodologia}.
+
 \subsection{Clasificación supervisada: ManifestoBERTa}
 \label{sec:manifestoberta}
-% XLM-RoBERTa fine-tuneado por el Manifesto Project; clasificación en 56 categorías.
+
+La clasificación supervisada parte de un modelo de lenguaje preentrenado que se
+afina para una tarea específica. El núcleo del análisis emplea ManifestoBERTa
+\cite{manifestoberta2024}, un modelo publicado por el propio Manifesto Project que
+clasifica cuasi-frases en las 56 categorías del esquema MARPOR. Está construido
+sobre XLM-RoBERTa \cite{conneau2020xlmr}, un modelo multilingüe preentrenado sobre
+texto de numerosos idiomas, lo que resulta apropiado para un corpus en francés y
+permite aprovechar representaciones lingüísticas transferibles entre lenguas.
+
+Un supuesto conceptual debe hacerse explícito. ManifestoBERTa fue entrenado sobre
+programas electorales, un género con un registro particular, de manera que
+aplicarlo a otras superficies, como mensajes en redes, intervenciones
+parlamentarias o textos legislativos, constituye una \textbf{transferencia de
+dominio}. Esa transferencia es razonable, porque la taxonomía es temática y no
+depende del formato, pero no es gratuita, y por eso el desempeño del clasificador
+fuera de su dominio de origen debe evaluarse antes de interpretar cualquier
+resultado. La forma de esa evaluación se desarrolla en la
+sección~\ref{sec:metodo-manifestoberta}.
 
 \subsection{Modelado de tópicos no supervisado: BERTopic}
 \label{sec:bertopic}
-% Embeddings + UMAP + HDBSCAN + c-TF-IDF; complementariedad con MARPOR.
 
-\subsection{Stance detection y marcos de valores}
+Como complemento exploratorio se utiliza BERTopic \cite{grootendorst2022bertopic},
+una técnica de modelado de tópicos que, en lugar de imponer categorías teóricas,
+descubre agrupaciones de documentos a partir de su similitud semántica. Su lógica
+encadena varias etapas: representa cada documento como un vector denso mediante
+\emph{embeddings} de oraciones \cite{reimers2019sentencebert}, reduce la
+dimensionalidad de esos vectores con UMAP \cite{mcinnes2018umap}, agrupa los
+documentos con un algoritmo de \emph{clustering} basado en densidad, HDBSCAN
+\cite{mcinnes2017hdbscan}, y describe cada grupo con sus términos más
+característicos.
+
+El papel de BERTopic en esta memoria es \textbf{exploratorio y no comparable entre
+arenas}. Como los tópicos emergen de cada corpus por separado, no constituyen un
+espacio común entre fuentes ni permiten contrastar partidos de manera sistemática,
+a diferencia de la clasificación supervisada sobre MARPOR. Por ello se emplea para
+inspeccionar qué temas afloran en el texto y para detectar ruido o lenguaje
+procedimental, pero no para sostener conclusiones cuantitativas. Su configuración
+se detalla en la sección~\ref{sec:metodo-bertopic}. El
+Cuadro~\ref{tab:nlp-comparacion} resume la complementariedad conceptual de ambos
+enfoques.
+
+\begin{table}[H]
+\centering
+\caption{Comparación conceptual de los dos enfoques de clasificación de texto
+empleados en el trabajo.}
+\label{tab:nlp-comparacion}
+\small
+\begin{tabularx}{\textwidth}{@{}l >{\raggedright\arraybackslash}X >{\raggedright\arraybackslash}X@{}}
+\toprule
+ & \textbf{ManifestoBERTa (supervisado)} & \textbf{BERTopic (no supervisado)} \\
+\midrule
+Categorías & Fijas y teóricas (esquema MARPOR) & Emergentes del propio corpus \\
+Comparabilidad entre arenas & Alta (espacio común) & Baja (tópicos por corpus) \\
+Rol en el trabajo & Núcleo del análisis & Complemento exploratorio \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{Detección de postura y marcos de valores}
 \label{sec:stance-valores}
-% CoFE y consultas públicas europeas; Schwartz; Moral Foundations Theory.
-% (Discutir qué se incorpora y qué queda como trabajo futuro.)
+
+Existen enfoques que apuntan a dimensiones del texto político distintas del tema.
+La \emph{detección de postura} busca determinar si un texto está a favor o en
+contra de un objetivo, y se ha desarrollado, por ejemplo, sobre plataformas de
+democracia participativa y consultas públicas europeas
+\cite{barriere2022cofe, barriere2023multilingual}. Los \emph{marcos de valores}
+ofrecen otra lente complementaria, ya sea a través de la teoría de valores básicos
+de Schwartz \cite{schwartz2012overview} o de la teoría de los fundamentos morales
+\cite{graham2013moral}, que caracterizan el discurso según los valores o
+principios que moviliza. Estos enfoques son afines al problema de esta memoria,
+pero quedan \textbf{fuera de su alcance}: el análisis se concentra en el énfasis
+temático bajo la taxonomía MARPOR, y la incorporación de la postura o de los
+marcos de valores se deja señalada como línea de trabajo futuro.
 
 \section{Trabajos relacionados}
 \label{sec:trabajos-relacionados}
-% Estudios previos sobre coherencia discurso/voto; análisis de manifiestos; brechas.
+
+La pregunta por la coherencia entre lo que los partidos declaran y lo que hacen
+tiene una larga tradición en la ciencia política, que ha estudiado por separado
+tanto el contenido de los programas electorales como el comportamiento de voto en
+las legislaturas. La codificación de manifiestos y los índices posicionales
+derivados de ella han permitido caracterizar la oferta programática de los
+partidos, mientras que el estudio del voto legislativo ha documentado la fuerza de
+la disciplina de bloque y la lógica de gobierno frente a oposición. Con la
+disponibilidad creciente de datos parlamentarios abiertos y de comunicación
+digital, ha surgido además una línea que compara la agenda de los partidos a
+través de distintos canales de comunicación \cite{ivanusch2024channels}.
+
+El aporte de este trabajo se sitúa en la intersección de esas líneas. En lugar de
+analizar una sola fuente, integra cinco arenas discursivas heterogéneas bajo una
+cohorte común de diputados y las proyecta sobre una misma taxonomía temática, lo
+que permite contrastar de forma directa la agenda declarada con la revelada por el
+voto sobre un mismo conjunto de actores. Ese diseño, más que un resultado
+sustantivo puntual, es la contribución que la memoria desarrolla en detalle a
+partir del capítulo~\ref{cap:metodologia}, donde se describen las fuentes, la
+construcción de los corpus y los métodos de clasificación y de análisis.
