@@ -161,11 +161,174 @@ integrarlas a la memoria.
 
 \section{Taxonomía MARPOR: dominios y categorías}
 \label{anexo:marpor}
-% Tabla con los 7 dominios y las 56 categorías.
+
+Este anexo complementa las secciones~\ref{sec:marpor} y~\ref{sec:metodo-marpor}
+con el listado completo de las \textbf{56 categorías} del esquema del
+\emph{Manifesto Project} (MARPOR) \cite{marpor_mp_v5}, agrupadas en los
+\textbf{siete dominios} macro. El dominio de una categoría se obtiene del primer
+dígito de su código (p.\ ej.\ 504 $\rightarrow$ dominio~5, \emph{Welfare and
+Quality of Life}). Los nombres de las categorías siguen la nomenclatura estándar
+del \emph{handbook} MARPOR (en inglés); el Cuadro~\ref{tab:marpor-dominios} del
+marco teórico resume los dominios con un ejemplo cada uno.
+
+{\footnotesize
+\begin{longtable}{@{}c >{\raggedright\arraybackslash}p{0.22\linewidth} >{\raggedright\arraybackslash}p{0.58\linewidth}@{}}
+\caption{Las 56 categorías MARPOR y su dominio macro. Fuente: esquema v5 del
+Manifesto Project \cite{marpor_mp_v5}.}\label{tab:anexo-marpor-categorias}\\
+\toprule
+\textbf{Cód.} & \textbf{Dominio} & \textbf{Categoría (nombre estándar)} \\
+\midrule
+\endfirsthead
+\multicolumn{3}{@{}l}{\footnotesize\itshape (continuación del
+Cuadro~\ref{tab:anexo-marpor-categorias})}\\
+\toprule
+\textbf{Cód.} & \textbf{Dominio} & \textbf{Categoría (nombre estándar)} \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+101 & External Relations & Foreign Special Relationships: Positive \\
+102 &  & Foreign Special Relationships: Negative \\
+103 &  & Anti-Imperialism \\
+104 &  & Military: Positive \\
+105 &  & Military: Negative \\
+106 &  & Peace \\
+107 &  & Internationalism: Positive \\
+108 &  & European Community/Union: Positive \\
+109 &  & Internationalism: Negative \\
+110 &  & European Community/Union: Negative \\
+\addlinespace
+201 & Freedom and Democracy & Freedom and Human Rights \\
+202 &  & Democracy \\
+203 &  & Constitutionalism: Positive \\
+204 &  & Constitutionalism: Negative \\
+\addlinespace
+301 & Political System & Federalism \\
+302 &  & Centralisation \\
+303 &  & Governmental and Administrative Efficiency \\
+304 &  & Political Corruption \\
+305 &  & Political Authority \\
+\addlinespace
+401 & Economy & Free Market Economy \\
+402 &  & Incentives \\
+403 &  & Market Regulation \\
+404 &  & Economic Planning \\
+405 &  & Corporatism / Mixed Economy \\
+406 &  & Protectionism: Positive \\
+407 &  & Protectionism: Negative \\
+408 &  & Economic Goals \\
+409 &  & Keynesian Demand Management \\
+410 &  & Economic Growth: Positive \\
+411 &  & Technology and Infrastructure \\
+412 &  & Controlled Economy \\
+413 &  & Nationalisation \\
+414 &  & Economic Orthodoxy \\
+415 &  & Marxist Analysis: Positive \\
+416 &  & Anti-Growth Economy: Positive \\
+\addlinespace
+501 & Welfare and Quality of Life & Environmental Protection: Positive \\
+502 &  & Culture: Positive \\
+503 &  & Equality: Positive \\
+504 &  & Welfare State Expansion \\
+505 &  & Welfare State Limitation \\
+506 &  & Education Expansion \\
+507 &  & Education Limitation \\
+\addlinespace
+601 & Fabric of Society & National Way of Life: Positive \\
+602 &  & National Way of Life: Negative \\
+603 &  & Traditional Morality: Positive \\
+604 &  & Traditional Morality: Negative \\
+605 &  & Law and Order: Positive \\
+606 &  & Civic Mindedness: Positive \\
+607 &  & Multiculturalism: Positive \\
+608 &  & Multiculturalism: Negative \\
+\addlinespace
+701 & Social Groups & Labour Groups: Positive \\
+702 &  & Labour Groups: Negative \\
+703 &  & Agriculture and Farmers: Positive \\
+704 &  & Middle Class and Professional Groups \\
+705 &  & Underprivileged Minority Groups \\
+706 &  & Non-economic Demographic Groups \\
+\end{longtable}
+}
 
 \section{Validación del clasificador}
 \label{anexo:validacion}
-% Accuracy top-1/top-3 y matriz de confusión contra cmp_code humano.
+
+Este anexo complementa la sección~\ref{sec:res-val-clasificador} del capítulo de
+resultados con el detalle de la validación \emph{interna} del clasificador
+ManifestoBERTa \cite{manifestoberta2024} frente al código humano MARPOR
+(\texttt{cmp\_code}) sobre los manifiestos de 2017. La validación posicional
+(RILE frente a CHES) y su alcance se reportan en el cuerpo
+(secciones~\ref{sec:res-val-ches} y~\ref{sec:res-val-alcance}); aquí se recogen
+las métricas a nivel de documento y la matriz de confusión por dominio.
+
+La comparación cuasi-frase a cuasi-frase abarca \textbf{3.430} entradas con
+código utilizable (del total de 3.801 del corpus; se excluyen cuasi-frases sin
+\texttt{cmp\_code} numérico asignable, p.\ ej.\ encabezados o códigos vacíos).
+El Cuadro~\ref{tab:anexo-val-clasificador} reproduce las métricas globales; los
+valores coinciden con los del cuerpo (Cuadro~\ref{tab:val-clasificador}) y con
+la \emph{model card} del modelo.
+
+\begin{table}[H]
+\centering
+\caption{Validación interna de ManifestoBERTa contra el código humano MARPOR
+(manifiestos 2017; $n = 3.430$ cuasi-frases con código utilizable).}
+\label{tab:anexo-val-clasificador}
+\begin{tabular}{@{}l r r@{}}
+\toprule
+\textbf{Métrica} & \textbf{Valor obtenido} & \textbf{\emph{Model card}} \\
+\midrule
+Exactitud top-1 (categoría exacta) & $58{,}3\,\%$ & $57{,}0\,\%$ \\
+Exactitud top-3 (categoría en las 3 principales) & $82{,}0\,\%$ & $81{,}0\,\%$ \\
+Exactitud a nivel de dominio (1--7) & $70{,}3\,\%$ & --- \\
+\emph{Macro} F1 (56 categorías) & $0{,}44$ & --- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La brecha entre exactitud top-1 y top-3, y entre categoría y dominio, es coherente
+con el diseño del esquema (una etiqueta por cuasi-frase) y con confusiones
+concentradas entre dominios temáticamente vecinos. El
+Cuadro~\ref{tab:anexo-confusion-dominio} muestra la matriz de confusión por
+dominio (filas = código humano, columnas = predicción top-1); la diagonal
+concentra la mayor parte de la masa. Los desvíos más frecuentes ocurren entre
+\emph{Economy} y \emph{Welfare and Quality of Life} (presupuesto y prestaciones
+se solapan), entre \emph{Welfare} y \emph{Social Groups} (p.\ ej.\ igualdad frente
+a grupos demográficos) y entre \emph{Fabric of Society} y \emph{Welfare}
+(orden social frente a políticas de bienestar).
+
+\begin{table}[H]
+\centering
+\caption{Matriz de confusión por dominio MARPOR: código humano (filas) frente a
+predicción top-1 de ManifestoBERTa (columnas). Manifiestos 2017;
+$n = 3.430$ cuasi-frases.}
+\label{tab:anexo-confusion-dominio}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}l r r r r r r r r@{}}
+\toprule
+ & \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{6} & \textbf{7} & \textbf{Tot.} \\
+\midrule
+\textbf{1} External & \textbf{246} & 6 & 8 & 14 & 5 & 8 & 3 & 290 \\
+\textbf{2} Freedom & 18 & \textbf{158} & 18 & 1 & 11 & 15 & 1 & 222 \\
+\textbf{3} Pol.\ Sys. & 7 & 39 & \textbf{182} & 24 & 42 & 24 & 5 & 323 \\
+\textbf{4} Economy & 36 & 6 & 27 & \textbf{498} & 115 & 11 & 28 & 721 \\
+\textbf{5} Welfare & 15 & 5 & 27 & 90 & \textbf{724} & 19 & 24 & 904 \\
+\textbf{6} Society & 29 & 27 & 27 & 24 & 85 & \textbf{358} & 8 & 558 \\
+\textbf{7} Social Gr. & 4 & 9 & 16 & 42 & 84 & 13 & \textbf{244} & 412 \\
+\midrule
+\textbf{Total} & 355 & 250 & 305 & 693 & 1.066 & 448 & 313 & 3.430 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+El reporte de precisión, \emph{recall} y F1 por categoría (las 56 códigos) y el
+listado de los cincuenta errores de mayor confianza del modelo quedan
+disponibles como material complementario del repositorio
+(\texttt{per\_code\_classification\_report.csv} y
+\texttt{top50\_errors\_high\_confidence.csv}, generados por
+\texttt{validate\_against\_marpor.py}).
 
 \section{Tópicos de BERTopic por corpus}
 \label{anexo:bertopic}

@@ -13,8 +13,8 @@
 
 % apellidos según registro de Comisión (Biblioteca revisa nombre y dos apellidos).
 \guia{Valentin Barriere Clement}
-\coguia{Franziska Wagner [Apellido2]}
-\comision{Claudio Gutiérrez,Nicolás Varas}
+\coguia{Franziska Christl Wagner}
+\comision{Claudio Gutiérrez Gallardo,Nicolás Varas}
 
 % \auspicio{Nombre Institución} % incluir si el trabajo recibió financiamiento (p. ej. CENIA)
 
@@ -33,35 +33,36 @@
 \maketitle
 
 \begin{resumen}
-En las democracias representativas existe una brecha potencial entre lo que los
-partidos políticos \emph{declaran} en sus programas y discursos y lo que sus
-representantes \emph{hacen} al legislar. Comprender esa distancia es difícil
-porque las distintas fuentes de evidencia (programas, discurso público y
-votaciones) suelen analizarse por separado y con categorías no comparables. Esta
-memoria aborda ese problema tomando como caso la Asamblea Nacional francesa
-durante la XV legislatura (2017--2022).
+Los partidos políticos dicen muchas cosas: las escriben en sus programas, las
+repiten en el hemiciclo y las publican en redes sociales. Pero lo que realmente
+importa es cómo votan cuando llega el momento de legislar. Entre ese discurso y
+esa práctica puede haber una distancia, y medirla no es fácil, porque cada fuente
+de información se suele estudiar por separado y con criterios que no se pueden
+comparar entre sí. Esta memoria enfrenta ese problema tomando como caso la
+Asamblea Nacional francesa durante la XV legislatura (2017--2022).
 
-El objetivo es construir un sistema reproducible que integre cinco arenas de
+La idea central es construir un sistema reproducible que reúna cinco espacios de
 actividad política (programas electorales, intervenciones en el hemiciclo,
-actividad en Twitter, votaciones de leyes y votaciones de enmiendas) sobre una
-cohorte común de diputados, y que permita contrastar de manera sistemática la
-\emph{agenda declarada} (el énfasis temático que cada partido expresa) con la
-\emph{agenda revelada} (el soporte temático que emerge de su voto). Para ello se
-adopta una taxonomía temática común: los textos se clasifican con un modelo
-supervisado sobre las categorías MARPOR (ManifestoBERTa), se complementan con un
-modelado exploratorio de tópicos (BERTopic) y se validan externamente contra
-posiciones de referencia de expertos (CHES).
+publicaciones en Twitter, votaciones de leyes y votaciones de enmiendas) sobre un
+mismo grupo de diputados, de modo que se puedan comparar de forma ordenada. Con
+ese sistema contrastamos la \emph{agenda declarada}, es decir, los temas que cada
+partido dice priorizar, con la \emph{agenda revelada}, los temas que en la
+práctica sostiene con su voto. Para que la comparación sea justa, todo se traduce
+a un mismo lenguaje temático: los textos se clasifican con un modelo entrenado
+sobre las categorías MARPOR (ManifestoBERTa), se exploran con un modelado de
+tópicos (BERTopic) y se contrastan con posiciones de referencia elaboradas por
+expertos (CHES).
 
-Los resultados muestran tres patrones. Primero, el canal de comunicación
-reorganiza la agenda declarada (los mismos partidos priorizan temas distintos en
-programas, discurso y redes), pero la firma temática del partido persiste a
-través de los canales. Segundo, el voto se estructura en dos capas: una posición
-de bloque relativamente estable en las leyes y un clivaje cultural más marcado en
-las enmiendas. Tercero, el cruce entre agenda declarada y revelada es débil en
-promedio, pero se vuelve legible cuando se describe como una tipología de perfiles
-de coherencia en vez de un puntaje único. El aporte principal es
-metodológico y sistémico (un marco comparable y reproducible para integrar
-fuentes heterogéneas), no un ranking de partidos ni una afirmación causal.
+Del análisis surgen tres hallazgos. El primero es que el canal importa: un mismo
+partido prioriza temas distintos según hable en su programa, en el hemiciclo o en
+redes, pero su sello temático de fondo se mantiene en todos ellos. El segundo es
+que el voto tiene dos capas: una posición de bloque bastante estable en las leyes
+y una división cultural más marcada en las enmiendas. El tercero es que la
+coincidencia entre lo declarado y lo votado es baja en promedio, aunque se vuelve
+mucho más comprensible cuando se describe como distintos perfiles de coherencia y
+no como una sola nota. El aporte de este trabajo es, ante todo, metodológico: un
+marco común y reproducible para comparar fuentes muy distintas, más que un ranking
+de partidos o una afirmación sobre causas.
 \end{resumen}
 
 \chapter*{Declaración de uso de inteligencia artificial}
