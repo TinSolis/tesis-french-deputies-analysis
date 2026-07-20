@@ -136,9 +136,8 @@ y \texttt{bertopic} (que integra UMAP, HDBSCAN, c-TF-IDF y \texttt{KeyBERTInspir
 para el modelado exploratorio; y \texttt{matplotlib}/\texttt{plotly} para la
 visualización. La adquisición emplea además \texttt{requests} y utilidades de
 parseo. Las \textbf{versiones exactas} de las bibliotecas y el \textbf{hardware}
-de ejecución no están centralizados en esta versión del trabajo
-\textup{(por verificar)}; se documentarán junto al \texttt{requirements.txt} de
-cada módulo. La inferencia del clasificador selecciona automáticamente el
+de ejecución no están centralizados en esta versión del trabajo; están pendientes
+de consolidarse en un \texttt{requirements.txt} por módulo. La inferencia del clasificador selecciona automáticamente el
 acelerador disponible (MPS, CUDA o CPU), lo que puede inducir diferencias
 numéricas menores entre máquinas.
 
@@ -344,6 +343,32 @@ como \emph{residuales} o \emph{procedimentales} recogen sobre todo lenguaje de
 forma (fórmulas administrativas, mecánica de votos o de sesión) antes que
 contenido político, y deben leerse con esa salvedad. Por tratarse de un análisis
 exploratorio, estos tópicos no alimentan las métricas a nivel de partido.
+
+Aplicado de forma uniforme a las cinco fuentes y reducido a un número comparable
+de tópicos (24 finales por corpus, más un grupo residual de \emph{outliers}),
+BERTopic recupera agrupaciones coherentes con la naturaleza de cada arena: en los
+manifiestos, temas programáticos de campaña (educación, fiscalidad, servicios
+públicos, energía); en leyes y enmiendas, materia legislativa (fiscalidad,
+vivienda, salud, jubilaciones), mezclada en las leyes con fórmulas administrativas
+del texto oficial; en los tuits, coyuntura y comunicación política; y en las
+intervenciones, debate sustantivo con tramos de lenguaje procedimental. Esta
+lectura confirma que cada fuente contiene señal temática plausible, pero también
+expone los límites del enfoque no supervisado: en los corpus más grandes (tuits e
+intervenciones) cerca de la mitad de los documentos quedan sin asignar como
+\emph{outliers}, y persisten tópicos de fórmula administrativa que reflejan la
+forma del texto antes que su contenido político.
+
+De este contraste cualitativo se siguen las tres razones que fijan el papel de
+BERTopic frente a MARPOR, resumidas en la sección~\ref{sec:res-bt-por-que-marpor}.
+Primero, no \textbf{valida} la clasificación MARPOR: sus tópicos son agrupaciones
+empíricas sin correspondencia directa con las categorías del esquema, de modo que
+su parecido con los temas esperables de cada arena no prueba el acierto del
+clasificador supervisado. Segundo, no \textbf{reemplaza} a ManifestoBERTa: al
+descubrir tópicos distintos en cada corpus, no ofrece un espacio común en el que
+comparar arenas o agregar por partido. Tercero, su reproducibilidad es solo
+parcial y carece de métricas de coherencia, lo que desaconseja apoyar conclusiones
+cuantitativas en él. El anexo~\ref{anexo:bertopic-marpor} ilustra este último
+punto sin constituir un mapeo formal.
 
 {\footnotesize
 \begin{longtable}{@{}r r >{\raggedright\arraybackslash}p{0.34\linewidth} >{\raggedright\arraybackslash}p{0.40\linewidth}@{}}
@@ -561,9 +586,6 @@ Adicionalmente, cada corrida genera una visualización de prevalencia temática 
 grupo parlamentario (\texttt{viz\_topics\_per\_political\_group}) para los corpus
 de tuits e intervenciones. Estas visualizaciones son interactivas y no se
 versionan en el repositorio, por lo que se regeneran ejecutando el pipeline.
-% TODO (opcional): si se decide incluir una versión estática, regenerar el
-% heatmap de prevalencia de tópicos por grupo (tuits e intervenciones) desde
-% bertopic_analysis/<fuente>/results/ y anexarlo aquí.
 
 \subsection{Cruce ilustrativo BERTopic\,$\times$\,MARPOR}
 \label{anexo:bertopic-marpor}
@@ -617,6 +639,46 @@ ilustrativa y no debe tomarse como evidencia fuerte de alineación entre método
   cuerpo del anexo).}
   \label{fig:bertopic-marpor}
 \end{figure}
+
+\section{Ejemplos de clasificación temática en Twitter}
+\label{anexo:ejemplos-tweets}
+
+Este anexo complementa la sección~\ref{sec:res-declarada-patron} del capítulo de
+resultados, donde se observa que en Twitter y el hemiciclo la agenda de todos los
+partidos se desplaza hacia el dominio \emph{Political System} (meta-política). El
+Cuadro~\ref{tab:ejemplos-metapolitica} recoge, para cada uno de los siete partidos
+del panel, un tuit real clasificado en ese dominio, con su categoría MARPOR de
+mayor probabilidad. Los ejemplos ilustran que, fuera del programa electoral, el
+texto partidario gira hacia campañas, apoyos, mociones de confianza y corrupción,
+antes que hacia política sustantiva. Se conserva la lengua original del corpus (el
+francés) y se recorta el material accesorio (menciones, enlaces, etiquetas) con
+puntos suspensivos.
+
+\begin{table}[H]
+\centering
+\caption{Un tuit real por partido clasificado por ManifestoBERTa en el dominio
+\emph{Political System}, con su traducción al español. La categoría es la etiqueta
+de mayor probabilidad (top-1): 304, \emph{corrupción política}; 305,
+\emph{autoridad política}. Los diputados del FN se identifican por su lista estable
+de \emph{deputy\_id} (sección~\ref{sec:normalizacion}).}
+\label{tab:ejemplos-metapolitica}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabularx}{\textwidth}{@{}l l W W@{}}
+\toprule
+\textbf{Partido} & \textbf{Cat.} & \textbf{Tuit original (francés)} & \textbf{Traducción (español)} \\
+\midrule
+FN & 304 & ``La réponse tient dans toute la corruption du copinage politique du système !'' & ``La respuesta está en toda la corrupción del amiguismo político del sistema.'' \\
+LFI & 305 & ``Pour une gauche de rupture à Saint-Ouen, il n'y a qu'une seule liste [\ldots]'' & ``Por una izquierda de ruptura en Saint-Ouen, no hay más que una sola lista [\ldots]'' \\
+LR & 305 & ``Je connais les dossiers, la ruralité, les frontaliers, les transports [\ldots] Je suis 1 candidat crédible !'' & ``Conozco los expedientes, la ruralidad, los trabajadores transfronterizos, el transporte [\ldots] ¡Soy un candidato creíble!'' \\
+LREM & 305 & ``Fier d'être investi par La République En Marche et motivé pour gagner la 2\textsuperscript{e} circonscription de la Manche [\ldots]'' & ``Orgulloso de ser designado candidato por La République En Marche y motivado para ganar la 2.\textsuperscript{a} circunscripción de la Mancha [\ldots]'' \\
+MoDem & 305 & ``Avec mes collègues du groupe, en responsabilité, je voterai la confiance au gouvernement [\ldots]'' & ``Con mis colegas del grupo, con responsabilidad, votaré la confianza al gobierno [\ldots]'' \\
+GDR-PCF & 304 & ``[\ldots] Inéligibilité à vie pour les élus corrompus !'' & ``[\ldots] ¡Inelegibilidad de por vida para los cargos electos corruptos!'' \\
+PS & 305 & ``Bonheur de retrouver le groupe Socialiste à l'Assemblée ce jour.'' & ``Alegría de reencontrar al grupo Socialista en la Asamblea hoy.'' \\
+\bottomrule
+\end{tabularx}
+\end{table}
 
 \section{Cruce declarado--revelado: detalle por canal}
 \label{anexo:cruce}

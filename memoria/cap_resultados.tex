@@ -8,10 +8,9 @@ pipeline, en cinco movimientos. El primero \textbf{valida} el método sobre el
 único corpus con codificación humana de referencia, los manifiestos: comprueba
 que la clasificación temática reproduce la codificación experta y que, agregada
 por partido, recupera posiciones reconocibles por un panel externo de expertos.
-El segundo contrasta la vía supervisada con un \textbf{modelado exploratorio} de
-tópicos, que confirma la plausibilidad temática de cada corpus pero no ofrece un
-espacio comparable entre arenas, y justifica apoyar el análisis en la taxonomía
-MARPOR. Sobre esa base se despliegan los tres análisis sustantivos. El tercero
+El segundo, breve, justifica por qué el análisis se apoya en la taxonomía MARPOR y
+no en un \textbf{modelado exploratorio} de tópicos, cuyo desarrollo se traslada al
+anexo. Sobre esa base se despliegan los tres análisis sustantivos. El tercero
 describe la \textbf{agenda declarada} de los partidos comparables (incluida la
 familia FN) y muestra que el canal reorganiza fuertemente de qué se habla
 aunque cada partido conserva una firma reconocible. El cuarto examina la
@@ -51,11 +50,18 @@ codificación humana de referencia y se organiza en los niveles diseñados en la
 sección~\ref{sec:metodo-validacion}: una validación \emph{interna} a nivel de
 documento y, tras proyectar las categorías sobre el eje izquierda--derecha con el
 índice RILE, dos contrastes a nivel de partido (frente a los códigos humanos y
-frente a un \emph{benchmark} externo de expertos, el \emph{Chapel Hill Expert
+frente a un panel de referencia externo de expertos, el \emph{Chapel Hill Expert
 Survey} (CHES) 2019 \cite{jolly2022ches, ches2019data}).
 
 \subsection{Validación del clasificador contra MARPOR humano}
 \label{sec:res-val-clasificador}
+
+Conviene precisar el propósito de esta subsección. No se reentrena ni se ajusta
+(\emph{fine-tuning}) el modelo: ManifestoBERTa se emplea en \textbf{inferencia
+directa}, tal como lo publican sus autores. Lo que aquí se hace es \textbf{validar}
+ese uso, contrastando sus predicciones con la codificación humana MARPOR sobre los
+manifiestos de 2017, el único corpus del proyecto con una verdad de referencia
+disponible.
 
 La primera comprobación enfrenta las predicciones de ManifestoBERTa
 \cite{manifestoberta2024} sobre los manifiestos de 2017 contra el código humano
@@ -98,6 +104,9 @@ coherente con dos rasgos ya anticipados en la metodología, a saber, una etiquet
 documento, que penaliza a las cuasi-frases multitemáticas, y confusiones
 concentradas entre dominios contiguos (economía/bienestar, bienestar/grupos
 sociales), de modo que el error se atenúa al leer los resultados por dominio.
+Leído en términos prácticos, este desempeño da confianza para aplicar
+ManifestoBERTa a las cinco fuentes, con la salvedad de que esa validación humana
+solo existe en los manifiestos.
 
 \subsection{Validación posicional: RILE frente a CHES}
 \label{sec:res-val-ches}
@@ -106,75 +115,103 @@ La validación interna confirma que el modelo reproduce la codificación humana,
 pero no garantiza que las estimaciones \emph{agregadas} midan algo externamente
 reconocible. Para examinarlo, las categorías MARPOR se proyectan sobre el eje
 izquierda--derecha con el índice \textbf{RILE} \cite{laver1992party} y se
-comparan con la ubicación del CHES~2019, según el diseño de tres capas de la
-sección~\ref{sec:metodo-validacion}. Como el número de partidos emparejables es
-pequeño, se reporta siempre el $n$ y se privilegia la correlación de rangos de
-Spearman ($\rho$).
+comparan con la ubicación del CHES~2019, según el diseño de validación de la
+sección~\ref{sec:metodo-validacion}. Este contrasta tres formas de ubicar a cada
+partido en el eje izquierda--derecha (la del modelo, la de la codificación humana
+y la de los expertos) y las correlaciona por pares. Como el número de partidos
+emparejables es pequeño, se reporta siempre el $n$ y se privilegia la correlación
+de rangos de Spearman ($\rho$).
 
 \begin{table}[H]
 \centering
-\caption{Correlación entre el RILE estimado y la ubicación izquierda--derecha del
-CHES~2019, en las tres capas de validación. Se reportan el coeficiente de rangos
-de Spearman ($\rho$), el de Pearson ($r$) y el número de partidos ($n$).}
+\caption{Tres comparaciones de posición izquierda--derecha por partido. Cada fila
+correlaciona dos formas de ubicar a los partidos: la estimada por el modelo (RILE
+sobre sus predicciones), la obtenida de la codificación humana MARPOR y la del
+panel de expertos CHES~2019. Se reportan el coeficiente de rangos de Spearman
+($\rho$), el de Pearson ($r$) y el número de partidos ($n$).}
 \label{tab:val-ches}
-\begin{tabular}{@{}l r r r@{}}
+\begin{tabular}{@{}l l r r r@{}}
 \toprule
-\textbf{Comparación} & \textbf{Spearman $\rho$} & \textbf{Pearson $r$} & \textbf{$n$} \\
+\textbf{Comparación} & \textbf{Qué evalúa} & \textbf{$\rho$} & \textbf{$r$} & \textbf{$n$} \\
 \midrule
-A) Modelo frente a humano & $0{,}79$ & $0{,}85$ & $10$ \\
-B) Modelo frente a CHES (externa) & $0{,}38$ & $0{,}42$ & $8$ \\
-Techo) Humano frente a CHES & $0{,}76$ & $0{,}75$ & $8$ \\
+Modelo frente a humano & Fidelidad del clasificador & $0{,}79$ & $0{,}85$ & $10$ \\
+Modelo frente a CHES & Validación externa & $0{,}38$ & $0{,}42$ & $8$ \\
+Humano frente a CHES & Máximo alcanzable (techo) & $0{,}76$ & $0{,}75$ & $8$ \\
 \bottomrule
 \end{tabular}
-
-{\footnotesize Diagnósticos sobre la capa B ($\rho$; $r$; $n$): partidos con
-$\geq 100$ cuasi-frases $0{,}89$; $0{,}72$; $6$. Excluyendo RN $0{,}36$; $0{,}37$;
-$7$. Eje económico del CHES $0{,}57$; $0{,}43$; $8$.}
 \end{table}
 
-Las tres capas (Cuadro~\ref{tab:val-ches}) separan el error del modelo del error
-del método. La capa \textbf{A} (\emph{modelo frente a humano}) mide cuánto se
+Las tres comparaciones (Cuadro~\ref{tab:val-ches}) separan el error del modelo del
+error del método. La primera (\emph{modelo frente a humano}) mide cuánto se
 aparta el clasificador de la codificación experta una vez agregado por partido:
 pese a una exactitud por-cuasi-frase de apenas el $58{,}3\,\%$, alcanza
 $\rho \approx 0{,}79$ ($n=10$), señal de que los errores se \emph{cancelan} al
-promediar por partido y la posición agregada se preserva. La capa \textbf{B}
+promediar por partido y la posición agregada se preserva. La segunda
 (\emph{modelo frente a CHES}) es la validación externa propiamente dicha y arroja
-una correlación más modesta, $\rho \approx 0{,}38$ ($n=8$). La \textbf{tercera}
-(\emph{humano frente a CHES}) fija el \textbf{techo} del método (cuánto
-coinciden dos referencias independientes) en $\rho \approx 0{,}76$ ($n=8$): que
-no sea cercano a uno es esperable, porque el RILE resume \emph{énfasis temático} y
-el CHES \emph{posición percibida}.
+una correlación más modesta, $\rho \approx 0{,}38$ ($n=8$). La tercera
+(\emph{humano frente a CHES}) fija el \textbf{techo} del método, es decir, cuánto
+coinciden dos referencias independientes entre sí, en $\rho \approx 0{,}76$
+($n=8$): que no sea cercano a uno es esperable, porque el RILE resume
+\emph{énfasis temático} y el CHES \emph{posición percibida}.
 
-La distancia entre la capa B y el techo no responde a un fallo sistemático del
-modelo, sino a unos pocos partidos con muy poco texto codificado. Al restringir
-la comparación a los partidos con \textbf{al menos 100 cuasi-frases} (umbral de
-fiabilidad habitual en MARPOR) la correlación externa sube a
+La distancia entre la validación externa y ese techo no responde a un fallo
+sistemático del modelo, sino a unos pocos partidos con muy poco texto codificado.
+Al restringir la comparación a los partidos con \textbf{al menos 100 cuasi-frases}
+(umbral de fiabilidad habitual en MARPOR) la correlación externa sube a
 $\rho \approx 0{,}89$ ($n=6$), dentro del rango de la propia codificación humana.
 Ese diagnóstico y el techo no se calculan sobre la misma muestra (seis frente a
 ocho partidos), por lo que no son directamente comparables; leídos en conjunto
 indican que, con suficiente texto por partido, la posición estimada desde el
-discurso se aproxima a la de los expertos. El caso que más arrastra la
+discurso se aproxima a la de los expertos. Dos comprobaciones adicionales
+apuntan en el mismo sentido: medida sobre el eje económico del CHES la correlación
+externa es algo mayor ($\rho \approx 0{,}57$, $n=8$), y al excluir al RN apenas se
+mueve ($\rho \approx 0{,}36$, $n=7$), lo que indica que la brecha no depende de un
+único partido. El caso que más arrastra la
 correlación en la muestra completa es el del PCF, cuyo manifiesto aporta solo 39
 cuasi-frases y produce un RILE inestable; la Figura~\ref{fig:rile-ches} ilustra la
-capa externa sobre los ocho partidos emparejables.
+validación externa sobre los ocho partidos emparejables.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.82\linewidth]{imagenes/scatter_rile_vs_ches.png}
-\caption{RILE estimado por el modelo (eje horizontal) frente a la ubicación
-izquierda--derecha del CHES~2019 (eje vertical) para los ocho partidos
-emparejables (capa B, $\rho \approx 0{,}38$, $n=8$). La línea discontinua marca la
-tendencia; el desajuste del PCF, con muy pocas cuasi-frases, condiciona la
-correlación.}
+\caption{RILE estimado por el modelo (eje horizontal, énfasis temático del
+manifiesto) frente a la ubicación izquierda--derecha del CHES~2019 (eje vertical,
+escala 0--10) para los ocho partidos emparejables (validación externa,
+$\rho \approx 0{,}38$, $n=8$). La línea discontinua marca la tendencia. Dos casos
+tensan la correlación: el PCF, con muy pocas cuasi-frases, y el FN, que el RILE
+sitúa cerca del centro pese a que los expertos lo ubican en el extremo derecho.}
 \label{fig:rile-ches}
 \end{figure}
+
+Conviene explicitar qué compara esta figura, porque toca directamente la pregunta
+de la tesis. El RILE resume el \emph{énfasis temático} del manifiesto, es decir,
+lo que el partido \emph{dice} priorizar; el CHES resume la \emph{posición que le
+atribuyen los expertos} en el eje izquierda--derecha, esto es, cómo se lo
+\emph{percibe} desde fuera. Que ambas medidas no coincidan del todo (una
+correlación externa moderada) no invalida el pipeline: miden cosas
+distintas y, con poco texto, como en el PCF, el RILE se vuelve inestable. Dos
+casos concretos lo ilustran. El manifiesto del FN enfatiza tanto la protección
+social y el bienestar que su RILE queda cerca del centro, incluso levemente a la
+izquierda (en torno a $-6$), mientras el CHES lo ubica en el extremo derecho
+($9{,}75$ sobre $10$): el índice, ciego a la dirección del enunciado, no distingue
+el \emph{énfasis} en bienestar de una \emph{posición} de izquierda. El PCF, en el
+extremo opuesto, aporta apenas $39$ cuasi-frases y su RILE se va al centro
+($0{,}0$) pese a que los expertos lo sitúan en la izquierda ($1{,}1$ sobre $10$):
+con tan poco texto la estimación es inestable. Ambos ejemplos son ilustrativos y
+no afirman nada sobre la intención de los partidos. Cuando
+el material alcanza ($\geq 100$ cuasi-frases), la alineación mejora hasta
+$\rho \approx 0{,}89$ ($n=6$), dentro del rango de la codificación humana. De cara
+al contraste declarado--revelado, esto indica que las posiciones agregadas
+desde el texto son razonables cuando hay material suficiente, un requisito previo
+para luego cruzar con confianza lo que un partido declara con lo que revela al
+votar.
 
 \subsection{Alcance de la validación}
 \label{sec:res-val-alcance}
 
 La evidencia anterior debe leerse con tres salvedades. La más importante es que
 \textbf{la validación solo puede hacerse sobre los manifiestos}, el único canal
-con codificación humana MARPOR y con un \emph{benchmark} de expertos comparable:
+con codificación humana MARPOR y con un panel de expertos de referencia comparable:
 la calidad de la clasificación en tuits, intervenciones, leyes o enmiendas se
 asume por transferencia desde el desempeño observado en los manifiestos, no se
 mide directamente. En segundo lugar, todas las correlaciones descansan sobre
@@ -197,67 +234,39 @@ contrasta la vía supervisada con un modelado exploratorio de tópicos, para
 justificar por qué el análisis a nivel de partido se apoya en la taxonomía
 MARPOR.
 
-\section{Comparación exploratoria entre BERTopic y ManifestoBERTa}
+\section{Modelado exploratorio con BERTopic}
 \label{sec:res-bertopic}
 
-El proyecto clasifica los cinco corpus por dos vías paralelas descritas en la
-metodología: la supervisada con ManifestoBERTa \cite{manifestoberta2024} sobre la
-taxonomía MARPOR (sección~\ref{sec:metodo-manifestoberta}) y la exploratoria, no
-supervisada, con BERTopic \cite{grootendorst2022bertopic}
-(sección~\ref{sec:metodo-bertopic}). Esta sección ofrece una lectura exploratoria
-de los tópicos y justifica por qué el análisis a nivel de partido se apoya en
-MARPOR; la comparación es cualitativa y de roles, no una validación de una vía
-con la otra.
-
-\subsection{Lectura exploratoria de los tópicos}
-\label{sec:res-bt-lectura}
-
-BERTopic \textbf{descubre} agrupamientos temáticos empíricos dentro de cada
-corpus, sin imponer un marco previo, mientras que ManifestoBERTa \textbf{proyecta}
-todos los corpus sobre una taxonomía común. Aplicado de forma uniforme a las
-cinco fuentes y reducido a un número comparable de tópicos (\textbf{24 tópicos
-finales por corpus}, más un grupo residual de \emph{outliers}), BERTopic
-recupera agrupaciones coherentes con la naturaleza de cada arena: en los
-\textbf{manifiestos}, temas \emph{programáticos} de campaña (educación,
-fiscalidad, servicios públicos, energía); en \textbf{leyes} y \textbf{enmiendas},
-materia \emph{legislativa} (fiscalidad, vivienda, salud, jubilaciones), mezclada
-en las leyes con fórmulas administrativas del texto oficial; en los \textbf{tuits},
-\emph{coyuntura} y comunicación política; y en las \textbf{intervenciones}, debate
-sustantivo con tramos de lenguaje \emph{procedimental}.
-
-Esta lectura confirma que cada fuente contiene señal temática plausible, pero
-también expone los límites del enfoque no supervisado: en los corpus más grandes
-(tuits e intervenciones) cerca de la mitad de los documentos quedan sin
-asignar como \emph{outliers}, y persisten tópicos procedimentales o de fórmula
-administrativa que reflejan la forma del texto antes que su contenido político. El
-detalle completo por corpus, con sus palabras representativas, se recoge en el
-anexo~\ref{anexo:bertopic} (Cuadros~\ref{tab:bt-manifestos}
-a~\ref{tab:bt-interventions}).
+Antes de desplegar los análisis sustantivos conviene explicar por qué se apoyan en
+la taxonomía MARPOR y no en un modelado de tópicos no supervisado. Los cinco
+corpus se exploraron también con BERTopic \cite{grootendorst2022bertopic}
+(sección~\ref{sec:metodo-bertopic}), que \textbf{descubre} agrupamientos temáticos
+empíricos dentro de cada corpus en lugar de \textbf{proyectarlos} sobre un marco
+común. Ese modelado recupera tópicos coherentes con la naturaleza de cada arena
+(programáticos en los manifiestos, legislativos en leyes y enmiendas, de coyuntura
+en los tuits), lo que confirma que las fuentes contienen señal temática plausible;
+pero al producir tópicos distintos en cada corpus no ofrece un espacio comparable
+entre arenas. El detalle por corpus, con sus palabras representativas y sus
+límites, se recoge en el anexo~\ref{anexo:bertopic}
+(Cuadros~\ref{tab:bt-manifestos} a~\ref{tab:bt-interventions}).
 
 \subsection{Por qué el análisis principal usa MARPOR}
 \label{sec:res-bt-por-que-marpor}
 
-El contraste anterior es cualitativo, y de él se siguen tres salvedades que fijan
-el papel de BERTopic. Primero, \textbf{no valida} la clasificación MARPOR: sus
-tópicos son agrupaciones empíricas sin correspondencia directa con las categorías
-del esquema, de modo que su parecido con los temas esperables de cada arena no
-prueba el acierto del clasificador supervisado (esa es la validación de la
-sección~\ref{sec:res-validacion}). Segundo, \textbf{no reemplaza} a
-ManifestoBERTa: al descubrir tópicos distintos en cada corpus, no ofrece un
-espacio común en el que comparar arenas o agregar por partido. Tercero, su
-reproducibilidad es solo parcial y carece de métricas de coherencia, lo que
-desaconseja apoyar conclusiones cuantitativas en él. A título ilustrativo, y sin
-constituir un mapeo formal, el anexo~\ref{anexo:bertopic-marpor} muestra, para
-un tópico de enmiendas, cómo sus documentos se reparten sobre los dominios MARPOR.
-
-Por estas razones, el análisis sustantivo se construye sobre las categorías y
-dominios MARPOR estimados por ManifestoBERTa: solo una representación común y
-comparable entre las cinco arenas permite contrastar de forma sistemática lo que
-cada partido enfatiza y lo que apoya al votar. BERTopic cumple así un papel de
-triangulación exploratoria que respalda la plausibilidad de los corpus sin
-sustituir el eje comparable del análisis, sobre el que se desarrollan los tres
-análisis a nivel de partido: la agenda declarada, la revelada por el voto y su
-cruce.
+De ese contraste, cualitativo, se sigue el papel acotado de BERTopic. No
+\textbf{valida} la clasificación MARPOR (sus tópicos no tienen correspondencia
+directa con las categorías del esquema; esa validación es la de la
+sección~\ref{sec:res-validacion}), no \textbf{reemplaza} a ManifestoBERTa (no
+ofrece un espacio común para comparar arenas o agregar por partido) y su
+reproducibilidad es solo parcial. Por eso el análisis sustantivo se construye
+sobre las categorías y dominios MARPOR estimados por ManifestoBERTa: solo una
+representación común y comparable entre las cinco arenas permite contrastar de
+forma sistemática lo que cada partido enfatiza y lo que apoya al votar. BERTopic
+queda, así, como una triangulación exploratoria que respalda la plausibilidad de
+los corpus sin sustituir el eje comparable del análisis. El desarrollo de esta
+comparación, incluido un ejemplo ilustrativo de cómo los documentos de un tópico
+de enmiendas se reparten sobre los dominios MARPOR, se traslada al
+anexo~\ref{anexo:bertopic} (y~\ref{anexo:bertopic-marpor}).
 
 \section{Agenda declarada: el canal define de qué se habla}
 \label{sec:res-declarada}
@@ -314,15 +323,36 @@ efecto es marcado: en LFI el peso de \emph{Political System} sube del $6\,\%$ en
 el programa al $41\,\%$ en Twitter, en PS del $8\,\%$ al $39\,\%$ en el hemiciclo
 y en FN del $5{,}5\,\%$ al $41{,}9\,\%$ en Twitter (el más alto del panel).
 Observado en su programa o en su Twitter, un mismo partido parece hablar de mundos
-distintos.
+distintos. Leído contra la pregunta central, esto implica que la agenda
+\emph{declarada} no es una sola: el canal reorganiza la saliencia de los temas, de
+modo que lo que un partido ``prioriza'' depende de dónde lo diga.
+
+Los ejemplos ayudan a ver el patrón más allá de los porcentajes. Fuera del
+manifiesto, el texto partidario gira hacia campañas, apoyos, mociones de confianza
+y corrupción, contenido que el clasificador asigna a \emph{Political System}. Así,
+un tuit del FN como ``La réponse tient dans toute la corruption du copinage
+politique du système !'' (``la respuesta está en toda la corrupción del amiguismo
+político del sistema'') o uno de MoDem como ``[\ldots] je voterai la confiance au
+gouvernement [\ldots]'' (``[\ldots] votaré la confianza al gobierno [\ldots]'')
+quedan etiquetados como meta-política y no como política
+sustantiva; el Cuadro~\ref{tab:ejemplos-metapolitica} del
+anexo~\ref{anexo:ejemplos-tweets} reúne un ejemplo real por cada uno de los siete
+partidos. Conviene añadir una cautela: ManifestoBERTa se entrenó sobre manifiestos,
+de modo que parte de este salto hacia \emph{Political System} podría reflejar no
+solo un cambio real de contenido, sino también un efecto de transferencia de
+dominio, esto es, texto fuera de la distribución de entrenamiento que el modelo
+tiende a encauzar hacia categorías institucionales. Los datos disponibles no
+permiten separar ambos componentes, por lo que se plantea como limitación
+(sección~\ref{sec:res-val-alcance}) y no como conclusión.
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=\linewidth]{imagenes/heatmap_party_channel_domain.png}
 \caption{Énfasis por dominio MARPOR (porcentaje de cuasi-frases) para los siete
-partidos comparables en los tres canales de agenda declarada. \emph{Welfare \&
-QoL} y \emph{Economy} dominan en los manifiestos; \emph{Political System} domina
-en Twitter y el hemiciclo en todos los partidos.}
+partidos comparables en los tres canales de agenda declarada. \emph{Bienestar y
+calidad de vida} (Welfare \& QoL) y \emph{Economía} (Economy) dominan en los
+manifiestos; \emph{Sistema político} (Political System) domina en Twitter y el
+hemiciclo en todos los partidos.}
 \label{fig:heatmap-canal}
 \end{figure}
 
@@ -347,6 +377,22 @@ descuenta el efecto estructural común y reduce el desplazamiento en torno a
 se incluye solo a título indicativo (véase el texto).}
 \label{fig:shift-canal}
 \end{figure}
+
+¿Qué significa esta reducción en la práctica? Que buena parte del ``cambio de
+agenda'' entre canales es \emph{común a todos los partidos} y no una estrategia
+individual: es el género del texto, y no la decisión de cada quien, lo que arrastra
+el discurso hacia la meta-política fuera del programa. Dos lecturas son compatibles
+con este patrón, sin que los datos permitan elegir entre ellas: que los partidos
+adapten el mensaje a audiencias distintas (el electorado en el programa, el público
+amplio en las redes, la audiencia institucional en el hemiciclo) y que cada canal
+tenga \emph{afordancias} propias (género, formato y contexto que condicionan qué
+temas resultan visibles), en línea con lo anticipado en el
+capítulo~\ref{cap:marco-teorico}. Lo que este desplazamiento común \emph{no}
+demuestra es intención estratégica ni causalidad; la variación atribuible a cada
+partido queda en el desplazamiento \emph{específico} (el residual), donde FN y LREM
+marcan los extremos. Esto condiciona, de paso, cualquier comparación de
+la agenda declarada: hablar de ``la agenda del partido'' sin precisar el canal es
+ambiguo, una cautela necesaria antes de cruzarla con el voto.
 
 \subsection{Identidad que persiste y estrategia que reorganiza}
 \label{sec:res-declarada-persistencia}
@@ -428,8 +474,8 @@ la agenda observable}, hasta el punto de que hablar de ``la agenda'' de un parti
 sin especificar el canal es ambiguo: existe una agenda programática en el
 manifiesto, una comunicativa en Twitter y una institucional en el hemiciclo.
 
-Estas métricas, sin embargo, miden \emph{salience} (de qué se habla) y no
-postura ni comportamiento. Por eso el análisis siguiente cambia de superficie:
+Estas métricas, sin embargo, miden \textbf{saliencia} o prominencia temática (de
+qué se habla) y no postura ni comportamiento. Por eso el análisis siguiente cambia de superficie:
 del texto que los partidos producen al texto que \emph{votan}, donde la agenda
 revelada por el voto aporta una capa distinta de su conducta.
 
@@ -501,10 +547,21 @@ enmiendas $73{,}4\,\%$).}
 \label{fig:scatter-lois-amend}
 \end{figure}
 
-Conviene leer esta inversión con cuidado: en bruto, las enmiendas \emph{también}
-son posicionales, solo que con el signo invertido. El argumento no es que las
-enmiendas dejen de medir posición, sino que en ellas la lógica de bloque
-\textbf{pesa menos}, y ese margen abre espacio para una diferenciación temática.
+¿Cómo se lee este gráfico? La antidiagonal tiene una explicación institucional
+directa. Las leyes finales son votos de adopción, donde la mayoría presidencial
+aprueba su propio texto y la oposición lo rechaza; las enmiendas, en cambio, son
+en su mayoría intentos de la oposición de modificar ese texto
+(sección~\ref{sec:res-revelada-cobertura}), de modo que el Gobierno las rechaza
+para defenderlo y la oposición las apoya. Por eso quien aprueba las leyes tiende a
+rechazar las enmiendas, y a la inversa: no son dos temas distintos, sino la misma
+lógica de bloque vista desde dos lados. En bruto, entonces, las enmiendas
+\emph{también} son posicionales, solo que con el signo invertido; el argumento no
+es que dejen de medir posición, sino que en ellas la lógica de bloque \textbf{pesa
+menos} y ese margen abre espacio para una diferenciación temática. La figura no es,
+pues, el hallazgo temático central, sino el \textbf{puente} que justifica el paso
+siguiente: para cruzar el discurso con el voto hay que usar el soporte
+\emph{relativo} (neto de la posición de gobierno u oposición) y no el apoyo bruto,
+que aquí solo refleja el lado del bloque en que cae cada partido.
 
 \subsection{¿Posición o tema? Descomposición del apoyo}
 \label{sec:res-revelada-descomposicion}
@@ -582,19 +639,39 @@ cero y no se interpreta).
 \includegraphics[width=0.92\linewidth]{imagenes/heatmap_domain_support_amendements.png}
 \caption{Soporte relativo por dominio en las enmiendas (apoyo por tema menos
 apoyo global del partido, en pp; azul indica apoyo por encima de la propia base y
-rojo por debajo). El eje cultural (\emph{Fabric of Society} frente a
-\emph{Freedom \& Democracy}) es el más marcado. La columna \emph{External
-Relations} se excluye de la interpretación por su escasa base muestral (véase el
-texto).}
+rojo por debajo). El eje cultural, que opone \emph{Tejido social} (Fabric of
+Society) a \emph{Libertad y democracia} (Freedom \& Democracy), es el más marcado.
+La columna \emph{Relaciones exteriores} (External Relations) se excluye de la
+interpretación por su escasa base muestral (véase el texto).}
 \label{fig:heatmap-soporte-enmiendas}
 \end{figure}
 
-Este clivaje no es un artefacto de unos pocos votos. Un remuestreo por
-\emph{scrutin} (\emph{bootstrap}) confirma que las dos puntas son sólidas: el menor
+Conviene precisar qué mide este heatmap: el dominio del \emph{texto de la propia
+enmienda}, no el de la ley que modifica. Ambos no siempre coinciden. De las
+$2.575$ enmiendas, solo unas $1.301$ pudieron enlazarse a la ley madre por el
+emparejamiento heurístico ya descrito (sección~\ref{sec:corpus-enmiendas}), y en
+ellas el dominio de la enmienda coincide con el dominio dominante de su ley en
+torno a la \emph{mitad} de los casos. El detalle es revelador: las enmiendas
+clasificadas en \emph{Fabric of Society} provienen mayoritariamente de leyes de
+ese mismo dominio (cerca del $84\,\%$), es decir, del debate dentro de proyectos
+sobre inmigración, seguridad u orden público; en cambio, las clasificadas en
+\emph{Freedom \& Democracy} se reparten entre leyes de otros dominios
+(sistema político, tejido social, bienestar) y rara vez provienen de leyes de
+libertades. Dicho de otro modo, un polo del clivaje refleja el contenido de leyes
+temáticamente afines y el otro, enmiendas sobre derechos y garantías planteadas
+dentro de proyectos sobre otras materias. El heatmap, por tanto, describe el tema
+de \emph{lo que se vota}, no el de la ley que lo alberga, y no controla quién
+propone cada enmienda; no se afirma nada sobre la intención de los proponentes.
+
+Este clivaje no es un artefacto de unos pocos votos. Para comprobarlo se recurre a
+un \emph{bootstrap} por \emph{scrutins}: como cada \emph{scrutin} es una votación
+nominal, se recalcula el soporte relativo muchas veces sobre muestras de
+votaciones extraídas al azar; si una punta del clivaje dependiera de unas pocas
+enmiendas, su valor se volvería inestable al remuestrear. No ocurre: el menor
 apoyo relativo de la izquierda a \emph{Fabric of Society} y el de la derecha
 (LR y FN) a \emph{Freedom \& Democracy} conservan el signo en prácticamente el
-$100\,\%$ de las réplicas y sus intervalos excluyen el cero
-(Cuadro~\ref{tab:clivaje-ci}); también es robusto el mayor apoyo de FN a
+$100\,\%$ de las réplicas (lo que la tabla llama \emph{estabilidad de signo}) y
+sus intervalos excluyen el cero (Cuadro~\ref{tab:clivaje-ci}); también es robusto el mayor apoyo de FN a
 \emph{Welfare \& QoL}. Al separar FN se corrige, de paso, una atribución previa:
 el polo derecho de \emph{Freedom \& Democracy} que antes recaía sobre NI era en
 realidad de los diputados de FN; el NI residual cae a $-3{,}6$ pp, con signo
@@ -612,20 +689,23 @@ improbable que el patrón sea un mero artefacto.
 \centering
 \caption{Soporte relativo (pp) de las dos puntas del clivaje cultural en las
 enmiendas, con intervalo de confianza al $95\,\%$ por \emph{bootstrap} de
-\emph{scrutins} y estabilidad de signo (fracción de réplicas que conservan el signo).}
+\emph{scrutins}: cada \emph{scrutin} es una votación nominal y el remuestreo repite
+el cálculo sobre votaciones extraídas al azar con reemplazo. En las ocho filas
+reportadas la estabilidad de signo es $1{,}00$ (el soporte relativo conserva su
+signo en el $100\,\%$ de las réplicas), por lo que esa columna se omite.}
 \label{tab:clivaje-ci}
-\begin{tabular}{@{}l l r c r@{}}
+\begin{tabular}{@{}l l r c@{}}
 \toprule
-\textbf{Partido} & \textbf{Dominio} & \textbf{Soporte rel.\ (pp)} & \textbf{IC$_{95}$} & \textbf{Estab.\ signo} \\
+\textbf{Partido} & \textbf{Dominio} & \textbf{Soporte rel.\ (pp)} & \textbf{IC$_{95}$} \\
 \midrule
-PS & Fabric of Society & $-21{,}9$ & $[-29{,}7,\ -14{,}2]$ & $1{,}00$ \\
-GDR-PCF & Fabric of Society & $-17{,}5$ & $[-27{,}4,\ -7{,}1]$ & $1{,}00$ \\
-LFI & Fabric of Society & $-15{,}9$ & $[-23{,}9,\ -8{,}4]$ & $1{,}00$ \\
-EDS & Fabric of Society & $-14{,}9$ & $[-25{,}1,\ -4{,}6]$ & $1{,}00$ \\
-LR & Freedom \& Democracy & $-19{,}1$ & $[-25{,}0,\ -13{,}9]$ & $1{,}00$ \\
-FN & Freedom \& Democracy & $-19{,}2$ & $[-29{,}0,\ -10{,}1]$ & $1{,}00$ \\
-LFI & Freedom \& Democracy & $+7{,}0$ & $[+2{,}7,\ +11{,}2]$ & $1{,}00$ \\
-FN & Welfare \& QoL & $+14{,}0$ & $[+8{,}4,\ +19{,}8]$ & $1{,}00$ \\
+PS & Fabric of Society & $-21{,}9$ & $[-29{,}7,\ -14{,}2]$ \\
+GDR-PCF & Fabric of Society & $-17{,}5$ & $[-27{,}4,\ -7{,}1]$ \\
+LFI & Fabric of Society & $-15{,}9$ & $[-23{,}9,\ -8{,}4]$ \\
+EDS & Fabric of Society & $-14{,}9$ & $[-25{,}1,\ -4{,}6]$ \\
+LR & Freedom \& Democracy & $-19{,}1$ & $[-25{,}0,\ -13{,}9]$ \\
+FN & Freedom \& Democracy & $-19{,}2$ & $[-29{,}0,\ -10{,}1]$ \\
+LFI & Freedom \& Democracy & $+7{,}0$ & $[+2{,}7,\ +11{,}2]$ \\
+FN & Welfare \& QoL & $+14{,}0$ & $[+8{,}4,\ +19{,}8]$ \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -681,7 +761,15 @@ discurso--voto adopta patrones \emph{localizados} e interpretables.
 En síntesis, la agenda declarada se alinea solo \textbf{débilmente} con la
 revelada: la relación no es lo bastante estable como para rankear partidos por
 ``coherencia'' ni para coronar un canal como mejor predictor, de modo que el
-aporte principal es \emph{tipológico}, no correlacional. Pero no es aleatoria:
+aporte principal es \emph{tipológico}, no correlacional. Que la alineación global
+sea débil no es un hallazgo nuevo ni sorprendente: la ciencia política comparada
+ha mostrado que el voto legislativo se estructura ante todo por la disciplina de
+bloque \cite{sieberer2006partyunity} y por las tensiones entre el partido y las
+preferencias del representante \cite{carey2007competing}, más que por el
+contenido programático. El aporte de esta memoria no es, por tanto, revelar que los
+partidos ``incumplen'', sino \emph{tipificar} dónde convergen y dónde divergen la
+agenda declarada y la revelada, apoyándose en el marco multi-fuente descrito en el
+capítulo~\ref{cap:marco-teorico}. Pero la relación no es aleatoria:
 aparece de forma localizada en banderas de identidad respaldadas, en distancias
 coherentes y en usos oposicionales de ciertos temas. FN es el caso más
 ilustrativo del desfase entre lo que un partido proclama y lo que su voto

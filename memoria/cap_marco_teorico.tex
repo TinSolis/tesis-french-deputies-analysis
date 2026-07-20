@@ -6,9 +6,9 @@
 Este capítulo define los conceptos y las herramientas sobre los que se apoya el
 resto de la memoria, siguiendo una lógica deductiva que va de las nociones
 generales a los instrumentos concretos. Primero se precisan las ideas de agenda
-temática, \emph{salience} y coherencia partidaria, y la distinción entre lo que
-un partido declara y lo que revela al votar, que es la pregunta que articula el
-trabajo. Luego se presenta la taxonomía del \emph{Manifesto Project} (MARPOR)
+temática, fijación de agenda, saliencia (o prominencia temática) y coherencia
+partidaria, y la distinción entre lo que un partido declara y lo que revela al
+votar, que es la pregunta que articula el trabajo. Luego se presenta la taxonomía del \emph{Manifesto Project} (MARPOR)
 como espacio de categorías políticas comparable entre fuentes, junto con el índice
 posicional RILE y las encuestas de expertos que sirven de referencia externa.
 Por último se revisan las técnicas de procesamiento de lenguaje natural que
@@ -30,14 +30,40 @@ partido expresa cuando sus representantes votan sobre textos concretos. Ambas so
 observables, pero no son equivalentes, y su contraste es el problema central de
 esta memoria.
 
-Un concepto útil para caracterizar la agenda declarada es el de \emph{salience},
-la prominencia relativa que un actor otorga a cada tema. La literatura sobre
+Un concepto útil para caracterizar la agenda declarada es el de \textbf{saliencia}
+(o prominencia temática, del inglés \emph{salience}), la importancia relativa que
+un actor otorga a cada tema. La literatura sobre
 competencia partidaria sostiene que los partidos compiten menos tomando
 posiciones opuestas sobre los mismos asuntos y más enfatizando selectivamente
 aquellos temas en los que se sienten fuertes, una idea vinculada a la noción de
-\emph{issue ownership}, la asociación duradera entre un partido y ciertos temas.
+\emph{issue ownership} (propiedad de temas), la asociación duradera entre un
+partido y ciertos temas.
 Desde esta perspectiva, describir una agenda es, ante todo, medir de qué se habla
 y cuánto, antes que ubicar al actor en una escala de posiciones.
+
+Esta mirada centrada en el énfasis conecta con una tradición amplia de la ciencia
+política, la de la \textbf{fijación de agenda}, que estudia qué asuntos logran
+instalarse como prioritarios en el debate público, quiénes impulsan su entrada
+(los \emph{emprendedores de temas}, actores que apuestan por visibilizar
+cuestiones antes marginales) y cómo se reordena con el tiempo la prioridad
+relativa entre unos asuntos y otros. En esa literatura conviven explicaciones
+diversas, desde las que anticipan una convergencia de los partidos hacia las
+preferencias del votante mediano hasta las que subrayan la competencia por
+instalar temas propios; para los fines de esta memoria lo pertinente no es
+arbitrar entre ellas, sino recoger un desplazamiento de foco que comparten:
+caracterizar a un actor político consiste, en buena parte, en observar de qué
+habla y con cuánta insistencia, más que en situarlo en una escala de posiciones.
+
+Ese desplazamiento vuelve operativa la noción de saliencia. Medir la agenda de un
+partido equivale entonces a estimar cómo reparte su atención entre temas, y esta
+memoria adopta esa lectura al describir cada fuente por su distribución de énfasis
+sobre los dominios y categorías de la taxonomía MARPOR, en lugar de resumirla en
+un único punto de la escala izquierda--derecha. Así entendida, la saliencia deja
+de ser un concepto abstracto y se vuelve una cantidad comparable entre partidos
+y, sobre todo, entre canales: como muestran los estudios de agenda multi-canal, un
+mismo partido puede repartir su énfasis de forma distinta según se dirija a su
+electorado en un programa, en las redes o en el hemiciclo
+\cite{ivanusch2024channels}.
 
 Esta óptica temática tiene una consecuencia metodológica importante. Reducir a un
 partido a un único punto en un eje izquierda--derecha resume su posición, pero
@@ -59,10 +85,12 @@ misma a través de canales, y no solo entre partidos, se vuelve entonces una
 pregunta con contenido propio.
 
 Del lado de la agenda revelada, el estudio del voto legislativo aporta un segundo
-cuerpo de conceptos. En los sistemas parlamentarios, el voto rara vez es la suma
-de decisiones individuales independientes: los grupos exhiben una fuerte
-\textbf{disciplina de bloque}, sostenida por incentivos organizativos y por la
-lógica de gobierno frente a oposición \cite{sieberer2006partyunity}. La unidad de
+cuerpo de conceptos. En los sistemas parlamentarios, aunque cada representante
+emite formalmente su propio voto, el resultado rara vez es la suma de decisiones
+individuales independientes: los grupos exhiben una fuerte \textbf{disciplina de
+bloque}, sostenida por incentivos organizativos y políticos, no por una norma
+institucional, y por la lógica de gobierno frente a oposición
+\cite{sieberer2006partyunity}. La unidad de
 voto observada es, en consecuencia, el resultado de principales en competencia,
 como el partido, el electorado y el gobierno, más que un reflejo directo de las
 preferencias temáticas de cada representante \cite{carey2007competing}. Esta
@@ -71,6 +99,17 @@ revelar sobre todo una posición de bloque y, solo en ciertos márgenes, una se�
 temática propia. El contraste sistemático entre la agenda declarada y la revelada,
 sobre un mismo conjunto de actores y bajo una taxonomía común, es precisamente el
 vacío que este trabajo busca ocupar.
+
+Situado en ese cruce, el aporte de esta memoria es deliberadamente acotado. No
+propone una teoría nueva de fijación de agenda ni busca demostrar el teorema del
+votante mediano o una relación causal que vaya del discurso al voto. Lo que ofrece
+es una medición sistemática allí donde la literatura suele examinar las fuentes
+por separado: integra cinco arenas discursivas bajo una cohorte común de
+diputados, mide el énfasis temático con una taxonomía compartida que hace
+comparables textos de muy distinta naturaleza y contrasta la agenda declarada con
+la revelada por el voto mediante un procedimiento documentado y replicable. El
+interés está, por tanto, en el diseño de medición y comparación, y no en zanjar
+los debates teóricos sobre cómo se forma la agenda.
 
 \section{El Manifesto Project y la taxonomía MARPOR}
 \label{sec:marpor}
@@ -100,15 +139,15 @@ anexo~\ref{anexo:marpor}.}
 \small
 \begin{tabularx}{\textwidth}{@{}l l >{\raggedright\arraybackslash}X@{}}
 \toprule
-\textbf{Dominio} & \textbf{Nombre (MARPOR)} & \textbf{Categoría de ejemplo} \\
+\textbf{Dominio} & \textbf{Nombre del dominio} & \textbf{Categoría de ejemplo} \\
 \midrule
-1 & External Relations & Internacionalismo \\
-2 & Freedom and Democracy & Libertad y derechos humanos \\
-3 & Political System & Autoridad política \\
-4 & Economy & Economía de libre mercado \\
-5 & Welfare and Quality of Life & Expansión del Estado de bienestar \\
-6 & Fabric of Society & Ley y orden \\
-7 & Social Groups & Grupos laborales \\
+1 & Relaciones exteriores & Internacionalismo \\
+2 & Libertad y democracia & Libertad y derechos humanos \\
+3 & Sistema político & Autoridad política \\
+4 & Economía & Economía de libre mercado \\
+5 & Bienestar y calidad de vida & Expansión del Estado de bienestar \\
+6 & Tejido social & Ley y orden \\
+7 & Grupos sociales & Grupos laborales \\
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -138,11 +177,16 @@ completas y no sobre un índice posicional colapsado.
 La validación posicional se apoya en una referencia externa e independiente del
 texto: el \emph{Chapel Hill Expert Survey} (CHES), una encuesta que sitúa a los
 partidos europeos en distintas dimensiones a partir del juicio de expertos. Se
-emplea la edición de 2019 \cite{jolly2022ches, ches2019data}; existe una edición
-más reciente de 2024 \cite{rovny2025ches}, que no se utiliza aquí. CHES cumple en
-este trabajo un papel estrictamente de \emph{benchmark} externo con el cual
-contrastar las posiciones estimadas, y no el de una taxonomía que oriente el
-análisis temático.
+emplea la edición de 2019 \cite{jolly2022ches, ches2019data}, por ser la ola más
+cercana a los manifiestos de 2017 y a la XV legislatura, lo que la hace el punto
+de comparación temporalmente más pertinente. CHES cumple en este trabajo un papel
+estrictamente de referencia externa de validación con la cual contrastar las
+posiciones estimadas, y no el de una taxonomía que oriente el análisis temático.
+
+En conjunto, MARPOR aporta el espacio temático común que vuelve comparables las
+cinco arenas; el RILE se reserva para validar ese espacio sobre un eje posicional
+y el CHES ofrece la referencia externa de esa validación, mientras que el análisis
+sustantivo descansa en el énfasis por dominio y no en el índice posicional.
 
 \section{Procesamiento de lenguaje natural para texto político}
 \label{sec:nlp-politico}
@@ -174,7 +218,7 @@ dominio}. Esa transferencia es razonable, porque la taxonomía es temática y no
 depende del formato, pero no es gratuita, y por eso el desempeño del clasificador
 fuera de su dominio de origen debe evaluarse antes de interpretar cualquier
 resultado. La forma de esa evaluación se desarrolla en la
-sección~\ref{sec:metodo-manifestoberta}.
+sección~\ref{sec:metodo-validacion}.
 
 \subsection{Modelado de tópicos no supervisado: BERTopic}
 \label{sec:bertopic}
@@ -216,22 +260,6 @@ Rol en el trabajo & Núcleo del análisis & Complemento exploratorio \\
 \end{tabularx}
 \end{table}
 
-\subsection{Detección de postura y marcos de valores}
-\label{sec:stance-valores}
-
-Existen enfoques que apuntan a dimensiones del texto político distintas del tema.
-La \emph{detección de postura} busca determinar si un texto está a favor o en
-contra de un objetivo, y se ha desarrollado, por ejemplo, sobre plataformas de
-democracia participativa y consultas públicas europeas
-\cite{barriere2022cofe, barriere2023multilingual}. Los \emph{marcos de valores}
-ofrecen otra lente complementaria, ya sea a través de la teoría de valores básicos
-de Schwartz \cite{schwartz2012overview} o de la teoría de los fundamentos morales
-\cite{graham2013moral}, que caracterizan el discurso según los valores o
-principios que moviliza. Estos enfoques son afines al problema de esta memoria,
-pero quedan \textbf{fuera de su alcance}: el análisis se concentra en el énfasis
-temático bajo la taxonomía MARPOR, y la incorporación de la postura o de los
-marcos de valores se deja señalada como línea de trabajo futuro.
-
 \section{Trabajos relacionados}
 \label{sec:trabajos-relacionados}
 
@@ -254,3 +282,12 @@ voto sobre un mismo conjunto de actores. Ese diseño, más que un resultado
 sustantivo puntual, es la contribución que la memoria desarrolla en detalle a
 partir del capítulo~\ref{cap:metodologia}, donde se describen las fuentes, la
 construcción de los corpus y los métodos de clasificación y de análisis.
+
+Frente a la línea que compara la agenda de los partidos entre canales de
+comunicación \cite{ivanusch2024channels}, este trabajo extiende la comparación en
+dos direcciones: suma a los canales declarativos las arenas de voto (leyes y
+enmiendas) y las ancla a una misma cohorte de diputados, de modo que el énfasis
+declarado y el revelado quedan medidos sobre los mismos actores y bajo una
+taxonomía común. Su contribución no es, así, un hallazgo aislado sobre la agenda
+francesa, sino un marco replicable para integrar fuentes heterogéneas y contrastar
+de forma sistemática lo que los partidos enfatizan con lo que sostienen al votar.

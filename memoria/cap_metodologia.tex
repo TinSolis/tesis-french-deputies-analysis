@@ -60,6 +60,32 @@ unidad textual, el filtro principal y el tamaño analizable; el
 Cuadro~\ref{tab:corpus-cobertura} lo complementa con el período, el nivel
 político observado y el vínculo con los partidos o grupos parlamentarios.
 
+Antes de entrar en los filtros y particularidades de cada fuente, conviene fijar
+el orden de magnitud de cada corpus. El Cuadro~\ref{tab:corpus-volumen} ofrece ese
+panorama de volumen: los tamaños varían en varios órdenes de magnitud entre
+fuentes, desde algunos miles de cuasi-frases en los manifiestos hasta cientos de
+miles de intervenciones en el hemiciclo.
+
+\begin{table}[H]
+\centering
+\caption{Panorama de volumen por corpus: unidad de análisis y número de documentos
+analizables por fuente. En las leyes, los párrafos provienen de 335 scrutins
+analizados.}
+\label{tab:corpus-volumen}
+\small
+\begin{tabular}{@{}llr@{}}
+\toprule
+\textbf{Fuente} & \textbf{Unidad} & \textbf{Documentos analizables} \\
+\midrule
+Manifiestos & cuasi-frase & 3.801 \\
+Twitter & tuit & 222.644 \\
+Hemiciclo & intervención & 338.192 \\
+Leyes & párrafo & 23.267 \\
+Enmiendas & enmienda & 2.575 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
 \begin{table}[H]
 \centering
 \caption{Las cinco fuentes textuales, su unidad de análisis, filtro principal,
@@ -109,6 +135,13 @@ Enmiendas & XV legislatura (2017--2022) & Grupo parlamentario (voto agregado) & 
 \subsection{Cohorte de diputados y grupos parlamentarios}
 \label{sec:datos-diputados}
 
+Antes de describir las cinco fuentes textuales una a una, conviene detenerse en la
+pieza que las mantiene unidas. Todas las arenas del Cuadro~\ref{tab:corpus-volumen}
+remiten, en última instancia, a personas concretas, y sin una identidad común que
+las reconcilie quedarían como corpus inconexos. Esa identidad es la cohorte de
+diputados, que opera como eje de integración de todo el sistema y como clave de
+los cruces posteriores.
+
 La cohorte integra dos fuentes oficiales: la identidad parlamentaria de los datos
 abiertos de la Asamblea Nacional para la XV legislatura \cite{an_opendata_xv}
 (identificador, circunscripción, fechas de mandato y grupo político) y las
@@ -146,7 +179,7 @@ cuasi-frase MARPOR; al ser la unidad nativa del esquema, no se aplica filtro de
 longitud. El corpus reúne \textbf{3.801} cuasi-frases en \textbf{10} partidos.
 
 Este corpus es singular por dos motivos. Primero, es el único con una
-codificación temática humana de referencia (\emph{ground truth}), lo que lo
+codificación temática humana de referencia, lo que lo
 convierte en la base de la validación posterior
 (sección~\ref{sec:clasificacion}). Segundo, su enlace con la cohorte es
 indirecto: un diputado no tiene un programa individual, sino que se le asigna el
@@ -316,9 +349,12 @@ enmiendas) se resuelve por coincidencia aproximada de títulos (\emph{fuzzy
 matching} con normalización de cadenas), graduada por los niveles de confianza ya
 descritos. Estos mecanismos sitúan la noción de \emph{partido} en niveles de
 agregación distintos según la fuente: el manifiesto corresponde al partido como
-organización, los tuits y las intervenciones a diputados individuales, y el voto
-al grupo parlamentario. Esta heterogeneidad condiciona la comparación entre
-canales y se retoma al interpretar los resultados.
+organización, los tuits y las intervenciones a diputados individuales, y el voto,
+que cada diputado emite individualmente en las votaciones nominales, se agrega a
+nivel de grupo o familia como decisión analítica, no porque la institución vote
+como un actor único; la disciplina de bloque es fuerte, pero no una norma
+institucional. Esta heterogeneidad condiciona la comparación entre canales y se
+retoma al interpretar los resultados.
 
 \paragraph{Filtros de calidad transversales.}
 Salvo en los manifiestos (cuya unidad nativa es la cuasi-frase), todos los
@@ -341,10 +377,44 @@ $40$ diputados quedan fuera por pertenecer a grupos sin programa MARPOR. Y en
 leyes y enmiendas el emparejamiento entre votación y texto es heurístico, por lo
 que las filas de confianza baja o nula se excluyen del análisis principal. Hecha
 esa salvedad, el cruce entre votos y diputados y entre scrutins y texto es
-completo para el subconjunto efectivamente analizado. El inventario de artefactos
+completo para el subconjunto efectivamente analizado. Debe subrayarse que este
+enlace es en parte heurístico y no dispone de una verdad de referencia automática:
+su calidad se controla con los umbrales de confianza descritos y con exclusiones
+explícitas, pero no puede automatizarse por completo ni verificarse contra un
+patrón oro, lo que constituye una limitación asumida del diseño. El inventario de artefactos
 y esquemas de columnas por fuente, junto con la correspondencia de siglas a
 familias políticas y los umbrales mínimos por análisis, se recoge en el
 anexo~\ref{anexo:corpus}.
+
+Cerrado el enlace, conviene consolidar en un solo lugar el corpus que realmente
+entra al análisis. A diferencia del Cuadro~\ref{tab:corpus-volumen}, que resume el
+volumen bruto por unidad, el Cuadro~\ref{tab:corpus-final} añade la dimensión que
+introduce esta sección: cuánto de la cohorte queda efectivamente enlazado a cada
+fuente y qué se excluye por filtros o falta de correspondencia.
+
+\begin{table}[H]
+\centering
+\caption{Corpus efectivamente analizado tras el enlace, los filtros y las
+exclusiones documentadas. Complementa al Cuadro~\ref{tab:corpus-volumen}
+(volumen por unidad) con la cobertura de la cohorte y la principal exclusión de
+cada fuente. Las cifras provienen de las subsecciones de este capítulo y del
+anexo~\ref{anexo:corpus}.}
+\label{tab:corpus-final}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{\textwidth}{@{}l l Y Y@{}}
+\toprule
+\textbf{Fuente} & \textbf{Tamaño analizable} & \textbf{Cobertura de la cohorte} & \textbf{Principal exclusión} \\
+\midrule
+Manifiestos & 3.801 cuasi-frases & 628 de 668 diputados (10 partidos) & 40 diputados en grupos sin programa MARPOR \\
+Twitter & $\approx 223.000$ tuits & 533 de 587 cuentas capturadas & 54 cuentas no capturadas; ventana temporal amplia \\
+Hemiciclo & 338.192 intervenciones & 646 diputados con intervención & $\approx 30\,\%$ no atribuido a la cohorte; habla procedimental \\
+Leyes & 23.267 párrafos (335 scrutins) & voto nominal de la cohorte & scrutins de confianza baja o nula \\
+Enmiendas & 2.575 enmiendas & voto nominal de la cohorte & scrutins sin texto o de baja confianza \\
+\bottomrule
+\end{tabularx}
+\end{table}
 
 \section{Clasificación y modelado del contenido}
 \label{sec:clasificacion}
@@ -461,6 +531,17 @@ clasificador. Ponderar los documentos por la probabilidad del top-1 queda
 planteado como posible análisis de robustez futuro, condicionado a una calibración
 previa de esas probabilidades.
 
+Esta decisión conlleva una limitación que conviene declarar. La validación
+cuantitativa del clasificador es sólida solo en los manifiestos
+(sección~\ref{sec:metodo-validacion}), que son el dominio de entrenamiento; su
+aplicación a tuits, intervenciones, leyes y enmiendas supone una transferencia de
+dominio para la que no se dispone de una verdad de referencia por arena. La
+etiqueta top-1 se usa, por tanto, sin recalibrar ni validar de forma
+independiente en cada canal, y esa asignación no puede automatizarse por completo:
+una comprobación fina exigiría anotación manual específica por arena, que queda
+fuera del alcance de esta memoria. Los resultados por fuera de los manifiestos
+deben leerse con esta cautela.
+
 Este módulo es el \textbf{núcleo del análisis principal} por dos razones. Por un
 lado, produce una representación temática homogénea y citable de las cinco
 arenas, que es exactamente lo que habilita el contraste entre agenda declarada y
@@ -553,8 +634,8 @@ de otras 13 de izquierda. El RILE se computa por partido de dos maneras, a
 partir de los códigos predichos por el modelo y a partir de los códigos
 humanos, y ambas series se comparan en tres capas que separan el error del
 modelo del error del método: el RILE del modelo frente al humano, el RILE del
-modelo frente a un \emph{benchmark} externo y el RILE humano frente a ese mismo
-\emph{benchmark} (que fija el techo alcanzable). El referente externo es el
+modelo frente a una referencia externa y el RILE humano frente a esa misma
+referencia (que fija el techo alcanzable). El referente externo es el
 \emph{Chapel Hill Expert Survey} (CHES) 2019 \cite{jolly2022ches, ches2019data},
 una encuesta a varios cientos de politólogos que ubica a los partidos europeos en
 escalas de posición. La
@@ -568,7 +649,7 @@ de cálculo posicional reproducibles (sección~\ref{sec:arquitectura}).
 Dos decisiones de diseño enmarcan esta validación. Por una parte, se mantiene
 deliberadamente \emph{circunscrita a los manifiestos}: extenderla a tuits,
 intervenciones, leyes o enmiendas carecería de fundamento, porque esas arenas no
-tienen un \emph{ground truth} humano ni un \emph{benchmark} de expertos
+tienen una codificación humana de referencia ni un panel de expertos
 equivalente con el cual contrastarlas. Por otra, el RILE se emplea
 \emph{únicamente como instrumento de validación}, no como eje del análisis. La
 razón es metodológica: RILE es un índice posicional unidimensional, frágil y
@@ -601,7 +682,37 @@ separan, cuando es posible, la señal temática del efecto estructural del canal
 de la dinámica gobierno/oposición. El cálculo se apoya en dos motores de
 agregación partidaria, uno para el texto producido y otro para el texto votado
 (sección~\ref{sec:arquitectura}). Se describe aquí únicamente la metodología; los
-resultados se presentan en el capítulo correspondiente.
+resultados se presentan en el capítulo correspondiente. El
+Cuadro~\ref{tab:metricas-mapa} ofrece un mapa de todas las métricas, indicando
+sobre qué corpus se calcula cada una, con qué unidad y qué busca estimar, antes de
+sus definiciones formales.
+
+\begin{table}[H]
+\centering
+\caption{Mapa de las métricas del capítulo: corpus sobre el que se calcula cada
+una, unidad de análisis y magnitud que estima. Recoge solo métricas definidas en
+las subsecciones siguientes; las fórmulas y matices se detallan en cada una.}
+\label{tab:metricas-mapa}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabularx}{\textwidth}{@{}l l l Y@{}}
+\toprule
+\textbf{Métrica} & \textbf{Corpus} & \textbf{Unidad} & \textbf{Qué estima} \\
+\midrule
+Énfasis (saliencia) & Declarada & documento & Distribución temática: de qué habla el partido \\
+Firma distintiva & Declarada & documento & Énfasis del partido respecto del promedio del canal \\
+Concentración (entropía) & Declarada & documento & Agenda monotemática frente a diversa \\
+Desplazamiento (bruto y específico) & Declarada, entre canales & perfil por canal & Cuánto cambia la agenda entre canales, con y sin el efecto común del canal \\
+Persistencia de la firma & Declarada, entre canales & vector de firma & Cuánto se conserva el patrón distintivo entre canales \\
+Soporte global & Revelada & voto por scrutin & Cuánto aprueba el partido \\
+Cohesión (Rice) & Revelada & voto por scrutin & Disciplina interna de voto \\
+Soporte relativo por dominio & Revelada & voto $\times$ dominio & Apoyo temático neto de la posición gobierno/oposición \\
+Descomposición del voto ($R^2$) & Revelada & partido $\times$ scrutin & Qué estructura (bloque, partido o dominio) explica el voto \\
+Cruce declarado--revelado & Declarada y revelada & partido $\times$ dominio & Si lo que un partido enfatiza coincide con lo que apoya \\
+\bottomrule
+\end{tabularx}
+\end{table}
 
 \subsection{Agenda declarada: énfasis, firma y concentración}
 \label{sec:metricas-declarada}
@@ -611,9 +722,13 @@ los partidos o sus diputados: manifiestos, tuits e intervenciones en el
 hemiciclo. La unidad base es el documento ya clasificado con MARPOR
 (sección~\ref{sec:metodo-manifestoberta}): cada documento aporta una categoría y,
 por agregación del primer dígito, un dominio. Sobre esa base se definen tres
-indicadores.
+indicadores. Los tres se inscriben en el \textbf{enfoque de saliencia} de la
+tradición del \emph{Manifesto Project}, que caracteriza a los partidos por el
+énfasis relativo que conceden a cada tema antes que por su posición
+\cite{laver1992party, marpor_mp_v5}; la concentración, además, adopta la entropía
+de Shannon como medida clásica de dispersión \cite{shannon1948mathematical}.
 
-El \textbf{énfasis} (\emph{salience}) de un partido $p$ en un dominio o categoría
+El \textbf{énfasis} o saliencia de un partido $p$ en un dominio o categoría
 $d$ es la proporción de sus documentos clasificados en $d$,
 \[
 e_{p,d} = \frac{\#\{\text{documentos de } p \text{ en } d\}}{\#\{\text{documentos de } p\}},
@@ -641,7 +756,7 @@ donde $p_i$ es el énfasis en la categoría $i$ y $k$ el número de categorías.
 valor bajo señala una agenda monotemática y uno alto, una agenda diversa
 repartida entre muchos temas.
 
-Conviene subrayar que estas tres métricas miden \emph{salience} (volumen y
+Conviene subrayar que estas tres métricas miden \textbf{saliencia} (volumen y
 reparto temático del discurso) y no dirección ideológica: capturan qué temas
 prioriza un partido, no si los defiende o los ataca. Las categorías y dominios
 provienen del esquema MARPOR \cite{marpor_mp_v5}.
@@ -649,10 +764,13 @@ provienen del esquema MARPOR \cite{marpor_mp_v5}.
 \subsection{Agenda revelada: soporte, soporte relativo y cohesión}
 \label{sec:metricas-revelada}
 
-La agenda revelada se mide sobre los dos corpus con \emph{voto nominal}: leyes y
-enmiendas. Aquí el partido no produce el texto, sino que revela una preferencia
-al votarlo, de modo que las métricas resumen \emph{qué apoya o rechaza}. Solo se
-consideran los votos efectivamente expresados (a favor o en contra); las
+Si la subsección anterior midió la agenda declarada sobre el texto que los
+partidos producen, esta hace lo propio con la agenda revelada, medida sobre los
+dos corpus con \emph{voto nominal}: leyes y enmiendas. Aquí el partido no produce
+el texto, sino que revela una preferencia al votarlo, de modo que las métricas
+resumen \emph{qué apoya o rechaza}. Solo se
+consideran los votos efectivamente expresados (a favor o en contra; en los datos
+originales de la Asamblea, \emph{Pour} y \emph{Contre}); las
 abstenciones y ausencias quedan fuera del denominador, y un scrutin entra en el
 cálculo de un partido solo si al menos tres de sus diputados expresan voto, para
 evitar estimaciones sobre muestras minúsculas.
@@ -661,14 +779,14 @@ El \textbf{soporte global} de un partido es la fracción de votos a favor sobre
 los expresados, agregando (\emph{pooled}) todos sus votos a lo largo de los
 scrutins,
 \[
-\text{Soporte}_p = \frac{\text{Pour}_p}{\text{Pour}_p + \text{Contre}_p}.
+\text{Soporte}_p = \frac{\text{Favor}_p}{\text{Favor}_p + \text{Contra}_p}.
 \]
 
 La \textbf{cohesión} interna se mide con el índice de Rice
 \cite{rice1928quantitative}, que a diferencia del soporte global se calcula
 \emph{por scrutin} y luego se promedia. Para un partido $p$ en un scrutin $s$,
 \[
-\text{Rice}_{p,s} = \frac{\lvert \text{Pour}_{p,s} - \text{Contre}_{p,s} \rvert}{\text{Pour}_{p,s} + \text{Contre}_{p,s}},
+\text{Rice}_{p,s} = \frac{\lvert \text{Favor}_{p,s} - \text{Contra}_{p,s} \rvert}{\text{Favor}_{p,s} + \text{Contra}_{p,s}},
 \qquad
 \text{Rice}_p = \frac{\sum_{s} w_{p,s}\,\text{Rice}_{p,s}}{\sum_{s} w_{p,s}},
 \]
@@ -734,6 +852,12 @@ intervalos solapados.
 
 \subsection{Descomposición del voto}
 \label{sec:metricas-descomposicion}
+
+Las métricas anteriores resumen cuánto apoya cada partido y con qué cohesión, pero
+no dicen \emph{qué} organiza ese apoyo: si responde ante todo a la lógica de bloque
+(gobierno frente a oposición), a la identidad de cada partido o al tema en juego.
+Esta subsección aborda esa pregunta, una de las que el capítulo de resultados
+retoma al analizar la estructura del voto.
 
 Para cuantificar qué estructura explica mejor el comportamiento de voto se ajusta
 una serie de \textbf{modelos anidados} sobre la unidad partido$\times$scrutin,
