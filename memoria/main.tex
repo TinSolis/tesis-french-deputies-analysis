@@ -27,6 +27,12 @@
 \usepackage{tabularx}  % tablas con ancho ajustado al texto
 \usepackage{longtable} % tablas largas que se reparten en varias páginas (anexos)
 
+% Tipos de columna X con texto alineado a la izquierda, disponibles en todo el
+% documento (definidos una sola vez para evitar problemas de alcance en tablas).
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcolumntype{Z}{>{\raggedright\arraybackslash}X}
+\newcolumntype{W}{>{\raggedright\arraybackslash}X}
+
 \begin{document}
 
 \frontmatter
