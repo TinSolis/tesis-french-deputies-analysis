@@ -498,6 +498,21 @@ preserva la comparabilidad con la taxonomía MARPOR estándar y evita introducir
 sesgos por un reajuste sobre un dominio (la legislatura XV) que no dispone de
 etiquetas propias salvo en los manifiestos.
 
+La elección de este modelo frente a sus alternativas fue igualmente deliberada.
+Se prefirió la variante a nivel de cuasi-frase sobre la versión \emph{context} de
+ManifestoBERTa, que condiciona cada segmento en su texto circundante: las unidades
+provienen de cinco arenas heterogéneas --un tuit es una unidad aislada y el
+articulado de una ley o el dispositivo de una enmienda no comparten un contexto
+homogéneo entre sí--, de modo que clasificar cada documento por separado entrega
+una unidad consistente e independiente de la arena, condición para comparar
+canales. Se descartó, asimismo, recurrir a modelos de lenguaje generativos
+(locales o comerciales): exigirían diseñar \emph{prompts} para un esquema de 56
+categorías, son costosos, no deterministas y de reproducibilidad frágil y, sobre
+todo, no se contrastan de forma directa contra la codificación humana MARPOR, que
+es precisamente lo que habilita la validación del clasificador
+(sección~\ref{sec:metodo-validacion}). Comparar estas predicciones con las de un
+modelo generativo queda planteado como línea futura.
+
 La \textbf{unidad de entrada} es el documento individual tal como lo define cada
 corpus: la cuasi-frase en los manifiestos, el tuit limpio, la intervención, el
 párrafo de ley y el texto de la enmienda (dispositivo más exposición sumaria).

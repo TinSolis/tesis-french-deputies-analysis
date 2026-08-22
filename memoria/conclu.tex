@@ -97,6 +97,21 @@ documentación de las decisiones de diseño, los filtros y los límites que perm
 auditar, criticar o trasladar el sistema a otro caso; el detalle técnico se
 recoge en el anexo~\ref{anexo:a}.
 
+En concreto, el grueso del trabajo recae en técnicas y decisiones propias de la
+computación. Anclar las cinco fuentes exigió resolución de entidades sin clave
+compartida y la consolidación de siglas de grupo en familias, además de reducir
+formatos y unidades muy dispares a documentos comparables mediante limpieza,
+filtros de calidad y enlace. La clasificación aplicó un \emph{transformer}
+multilingüe (ManifestoBERTa, sobre XLM-RoBERTa) en transferencia directa a corpus
+fuera de su dominio de entrenamiento, acompañado de un modelado exploratorio de
+tópicos (BERTopic) para triangular y de una capa de validación que cuantifica
+cuánto de esa transferencia es fiable antes de interpretarla. Sobre esas etiquetas
+se levantan las métricas a nivel de partido y un \emph{pipeline} modular y
+reproducible que encadena adquisición, clasificación, validación y análisis. Es en
+esa capa de ingeniería donde se concentra el aporte de la memoria como trabajo de
+computación: la lectura politológica posterior se apoya en el instrumento, pero es
+el instrumento --y no ese análisis-- lo que aquí se diseña y se construye.
+
 La contribución analítica es un marco comparativo, articulado en tres análisis
 encadenados (la reorganización de la agenda declarada según el canal, la
 estructura del voto y el cruce entre lo declarado y lo revelado), que describe la
@@ -121,8 +136,11 @@ plano de los datos, conviene depurar la duplicación en el corpus de redes y
 acotarlo temporalmente a la legislatura estudiada, así como identificar y
 controlar quién propone cada enmienda, un factor que puede incidir en el voto y
 que aquí no se modeló. En el plano del método, la calibración de las
-probabilidades del clasificador permitiría un uso más fino de sus predicciones, y
-la desagregación del análisis a nivel de diputado, más allá del partido, abriría
+probabilidades del clasificador permitiría un uso más fino de sus predicciones;
+anotar a mano una muestra pequeña por arena --en especial de tuits, cuyo registro
+se aparta más del texto de manifiesto-- mediría directamente la calidad de la
+transferencia que hoy solo se asume (sección~\ref{sec:res-val-alcance}); y la
+desagregación del análisis a nivel de diputado, más allá del partido, abriría
 preguntas sobre la disciplina interna de los grupos.
 
 En el plano del alcance, la extensión del sistema a otras legislaturas o países

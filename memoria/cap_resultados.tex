@@ -214,7 +214,12 @@ La evidencia anterior debe leerse con tres salvedades. La más importante es que
 con codificación humana MARPOR y con un panel de expertos de referencia comparable:
 la calidad de la clasificación en tuits, intervenciones, leyes o enmiendas se
 asume por transferencia desde el desempeño observado en los manifiestos, no se
-mide directamente. En segundo lugar, todas las correlaciones descansan sobre
+mide directamente. Esta cautela es más aguda en los tuits, cuyo registro --breve,
+informal y a menudo irónico-- se aleja del texto de manifiesto sobre el que el
+modelo fue entrenado y validado; una muestra pequeña anotada a mano por arena
+bastaría para dimensionar directamente esa pérdida de calidad, y se plantea como
+paso de validación futuro (sección~\ref{sec:concl-futuro}). En segundo lugar,
+todas las correlaciones descansan sobre
 \textbf{un número muy pequeño de partidos} (entre 6 y 10, y solo entre 6 y 8 en
 las capas con CHES) y sobre manifiestos a veces diminutos (el PCF aporta apenas
 39 cuasi-frases), por lo que son indicios de validez y no estimaciones
@@ -314,12 +319,12 @@ el documento oficial con la comunicación de los representantes; no es un defect
 
 El hallazgo de fondo es que la mezcla temática depende fuertemente del canal
 (Figura~\ref{fig:heatmap-canal}). En el \textbf{manifiesto}, la agenda es
-\emph{programática}: dominan \emph{Welfare \& QoL} (políticas sociales) y
-\emph{Economy}, los dominios donde el partido despliega su oferta sustantiva. En
+\emph{programática}: dominan \emph{Bienestar y calidad de vida} (políticas sociales) y
+\emph{Economía}, los dominios donde el partido despliega su oferta sustantiva. En
 \textbf{Twitter} y el \textbf{hemiciclo}, en cambio, la agenda se desplaza hacia
-la \emph{meta-política}: el dominio \emph{Political System} (gobierno, autoridad,
+la \emph{meta-política}: el dominio \emph{Sistema político} (gobierno, autoridad,
 instituciones, corrupción) pasa a ser el más enfatizado en los siete partidos. El
-efecto es marcado: en LFI el peso de \emph{Political System} sube del $6\,\%$ en
+efecto es marcado: en LFI el peso de \emph{Sistema político} sube del $6\,\%$ en
 el programa al $41\,\%$ en Twitter, en PS del $8\,\%$ al $39\,\%$ en el hemiciclo
 y en FN del $5{,}5\,\%$ al $41{,}9\,\%$ en Twitter (el más alto del panel).
 Observado en su programa o en su Twitter, un mismo partido parece hablar de mundos
@@ -329,7 +334,7 @@ modo que lo que un partido ``prioriza'' depende de dónde lo diga.
 
 Los ejemplos ayudan a ver el patrón más allá de los porcentajes. Fuera del
 manifiesto, el texto partidario gira hacia campañas, apoyos, mociones de confianza
-y corrupción, contenido que el clasificador asigna a \emph{Political System}. Así,
+y corrupción, contenido que el clasificador asigna a \emph{Sistema político}. Así,
 un tuit del FN como ``La réponse tient dans toute la corruption du copinage
 politique du système !'' (``la respuesta está en toda la corrupción del amiguismo
 político del sistema'') o uno de MoDem como ``[\ldots] je voterai la confiance au
@@ -338,7 +343,7 @@ quedan etiquetados como meta-política y no como política
 sustantiva; el Cuadro~\ref{tab:ejemplos-metapolitica} del
 anexo~\ref{anexo:ejemplos-tweets} reúne un ejemplo real por cada uno de los siete
 partidos. Conviene añadir una cautela: ManifestoBERTa se entrenó sobre manifiestos,
-de modo que parte de este salto hacia \emph{Political System} podría reflejar no
+de modo que parte de este salto hacia \emph{Sistema político} podría reflejar no
 solo un cambio real de contenido, sino también un efecto de transferencia de
 dominio, esto es, texto fuera de la distribución de entrenamiento que el modelo
 tiende a encauzar hacia categorías institucionales. Los datos disponibles no
@@ -350,8 +355,8 @@ permiten separar ambos componentes, por lo que se plantea como limitación
 \includegraphics[width=\linewidth]{imagenes/heatmap_party_channel_domain.png}
 \caption{Énfasis por dominio MARPOR (porcentaje de cuasi-frases) para los siete
 partidos comparables en los tres canales de agenda declarada. \emph{Bienestar y
-calidad de vida} (Welfare \& QoL) y \emph{Economía} (Economy) dominan en los
-manifiestos; \emph{Sistema político} (Political System) domina en Twitter y el
+calidad de vida} y \emph{Economía} dominan en los
+manifiestos; \emph{Sistema político} domina en Twitter y el
 hemiciclo en todos los partidos.}
 \label{fig:heatmap-canal}
 \end{figure}
@@ -363,7 +368,7 @@ todos (en torno a $19$--$31$ pp, con FN en el máximo), pero buena parte de él 
 común: al centrar por canal, el desplazamiento se reduce en \textbf{unos 12 a 16
 puntos porcentuales} en los seis partidos estimables (el PCF queda fuera por su
 manifiesto de solo 39 cuasi-frases). Es decir, el arrastre hacia
-\emph{Political System} en Twitter y el hemiciclo no es estrategia de ningún
+\emph{Sistema político} en Twitter y el hemiciclo no es estrategia de ningún
 partido en particular, sino el género del texto; el desplazamiento bruto
 \emph{sobreestima} cuánto cambia de agenda cada partido.
 
@@ -400,10 +405,10 @@ ambiguo, una cautela necesaria antes de cruzarla con el voto.
 Descontado el efecto del canal, los extremos son lo robusto. \textbf{FN} presenta
 el mayor desplazamiento específico ($17{,}5$ pp, intervalo $[15{,}9,\ 20{,}7]$ sin
 solaparse con el resto): es el partido que más reorganiza su superficie temática
-según dónde habla. En Twitter salta a \emph{Political System} ($41{,}9\,\%$) en
+según dónde habla. En Twitter salta a \emph{Sistema político} ($41{,}9\,\%$) en
 modo confrontación anti-establishment, con su contenido programático casi
 desaparecido; pero en el hemiciclo \textbf{no se diluye} como los demás y conserva
-\emph{Fabric of Society} como dominio dominante ($24{,}9\,\%$, el más alto del
+\emph{Tejido social} como dominio dominante ($24{,}9\,\%$, el más alto del
 panel). Su manifiesto y su hemiciclo se parecen entre sí mucho más que cualquiera
 de ellos con Twitter, que funciona como \emph{outlier} y hace que su persistencia
 media sea solo modesta ($0{,}148$); aun así, su núcleo nacional-securitario
@@ -610,26 +615,26 @@ menos su apoyo global), que aísla la señal temática del efecto gobierno/oposi
 (sección~\ref{sec:metricas-revelada}). Conviene recordar que un soporte relativo
 \emph{negativo no significa} que el partido vote mayoritariamente en contra, sino
 que apoya ese tema \emph{por debajo de su propia base}: PS, LFI y GDR-PCF, pese a
-su $-16$ a $-22$ pp en \emph{Fabric of Society}, siguen aprobando en términos
+su $-16$ a $-22$ pp en \emph{Tejido social}, siguen aprobando en términos
 absolutos la mayoría de esas enmiendas (del orden de $61$ a $70\,\%$), solo que
 muy por debajo de su base general ($83$--$87\,\%$).
 
 Sobre las enmiendas (Figura~\ref{fig:heatmap-soporte-enmiendas}), el clivaje más
 nítido es \textbf{cultural}, no económico, y se ordena en dos dominios espejo:
 \begin{itemize}
-  \item \emph{Fabric of Society} (orden público, inmigración, modo de vida
+  \item \emph{Tejido social} (orden público, inmigración, modo de vida
         nacional): la izquierda lo apoya \emph{de menos} (PS $-21{,}9$,
         GDR-PCF $-17{,}5$, LFI $-15{,}9$, EDS $-14{,}9$ pp) y el centro-derecha
         de más (UDI-Agir $+7{,}7$, MoDem $+3{,}3$ pp). FN, en cambio, no es
         distintivo aquí ($-1{,}0$ pp, sin estabilidad de signo), pese a que su
         agenda \emph{declarada} gira sobre este dominio
         (sección~\ref{sec:res-declarada}).
-  \item \emph{Freedom \& Democracy} (libertades, derechos, democracia): el patrón
+  \item \emph{Libertad y democracia} (libertades, derechos, democracia): el patrón
         se invierte, con la derecha apoyando \emph{de menos} (LR $-19{,}1$,
         FN $-19{,}2$ pp) y la izquierda de más (LFI $+7{,}0$ pp).
 \end{itemize}
 FN aporta además un rasgo propio: es el partido que más apoya \emph{de más} el
-dominio \emph{Welfare \& QoL} ($+14{,}0$ pp). La \emph{Economy}, en cambio,
+dominio \emph{Bienestar y calidad de vida} ($+14{,}0$ pp). La \emph{Economía}, en cambio,
 polariza menos: sus signos están mezclados y no dibujan un eje izquierda--derecha
 limpio (el valor de FN, $-24{,}9$ pp, tiene un intervalo tan ancho que cruza el
 cero y no se interpreta).
@@ -639,9 +644,9 @@ cero y no se interpreta).
 \includegraphics[width=0.92\linewidth]{imagenes/heatmap_domain_support_amendements.png}
 \caption{Soporte relativo por dominio en las enmiendas (apoyo por tema menos
 apoyo global del partido, en pp; azul indica apoyo por encima de la propia base y
-rojo por debajo). El eje cultural, que opone \emph{Tejido social} (Fabric of
-Society) a \emph{Libertad y democracia} (Freedom \& Democracy), es el más marcado.
-La columna \emph{Relaciones exteriores} (External Relations) se excluye de la
+rojo por debajo). El eje cultural, que opone \emph{Tejido social}
+a \emph{Libertad y democracia}, es el más marcado.
+La columna \emph{Relaciones exteriores} se excluye de la
 interpretación por su escasa base muestral (véase el texto).}
 \label{fig:heatmap-soporte-enmiendas}
 \end{figure}
@@ -652,10 +657,10 @@ $2.575$ enmiendas, solo unas $1.301$ pudieron enlazarse a la ley madre por el
 emparejamiento heurístico ya descrito (sección~\ref{sec:corpus-enmiendas}), y en
 ellas el dominio de la enmienda coincide con el dominio dominante de su ley en
 torno a la \emph{mitad} de los casos. El detalle es revelador: las enmiendas
-clasificadas en \emph{Fabric of Society} provienen mayoritariamente de leyes de
+clasificadas en \emph{Tejido social} provienen mayoritariamente de leyes de
 ese mismo dominio (cerca del $84\,\%$), es decir, del debate dentro de proyectos
 sobre inmigración, seguridad u orden público; en cambio, las clasificadas en
-\emph{Freedom \& Democracy} se reparten entre leyes de otros dominios
+\emph{Libertad y democracia} se reparten entre leyes de otros dominios
 (sistema político, tejido social, bienestar) y rara vez provienen de leyes de
 libertades. Dicho de otro modo, un polo del clivaje refleja el contenido de leyes
 temáticamente afines y el otro, enmiendas sobre derechos y garantías planteadas
@@ -668,17 +673,17 @@ un \emph{bootstrap} por \emph{scrutins}: como cada \emph{scrutin} es una votaci�
 nominal, se recalcula el soporte relativo muchas veces sobre muestras de
 votaciones extraídas al azar; si una punta del clivaje dependiera de unas pocas
 enmiendas, su valor se volvería inestable al remuestrear. No ocurre: el menor
-apoyo relativo de la izquierda a \emph{Fabric of Society} y el de la derecha
-(LR y FN) a \emph{Freedom \& Democracy} conservan el signo en prácticamente el
+apoyo relativo de la izquierda a \emph{Tejido social} y el de la derecha
+(LR y FN) a \emph{Libertad y democracia} conservan el signo en prácticamente el
 $100\,\%$ de las réplicas (lo que la tabla llama \emph{estabilidad de signo}) y
 sus intervalos excluyen el cero (Cuadro~\ref{tab:clivaje-ci}); también es robusto el mayor apoyo de FN a
-\emph{Welfare \& QoL}. Al separar FN se corrige, de paso, una atribución previa:
-el polo derecho de \emph{Freedom \& Democracy} que antes recaía sobre NI era en
+\emph{Bienestar y calidad de vida}. Al separar FN se corrige, de paso, una atribución previa:
+el polo derecho de \emph{Libertad y democracia} que antes recaía sobre NI era en
 realidad de los diputados de FN; el NI residual cae a $-3{,}6$ pp, con signo
 inestable, y deja de ser un polo del clivaje. El patrón se reparte, por lo demás,
 en más de $50$ leyes distintas en cada dominio, de modo que no proviene de un
 único debate. El lado más frágil es el apoyo \emph{positivo} del centro-derecha a
-\emph{Fabric of Society} (UDI-Agir $+7{,}7$, con intervalo que roza el cero): el
+\emph{Tejido social} (UDI-Agir $+7{,}7$, con intervalo que roza el cero): el
 clivaje se sostiene sobre todo porque cada bloque apoya \emph{de menos} el tema
 del otro. Debe señalarse, en fin, que no se controla quién propone cada enmienda
 (sección~\ref{sec:corpus-enmiendas}), lo que podría explicar en parte estas
@@ -698,14 +703,14 @@ signo en el $100\,\%$ de las réplicas), por lo que esa columna se omite.}
 \toprule
 \textbf{Partido} & \textbf{Dominio} & \textbf{Soporte rel.\ (pp)} & \textbf{IC$_{95}$} \\
 \midrule
-PS & Fabric of Society & $-21{,}9$ & $[-29{,}7,\ -14{,}2]$ \\
-GDR-PCF & Fabric of Society & $-17{,}5$ & $[-27{,}4,\ -7{,}1]$ \\
-LFI & Fabric of Society & $-15{,}9$ & $[-23{,}9,\ -8{,}4]$ \\
-EDS & Fabric of Society & $-14{,}9$ & $[-25{,}1,\ -4{,}6]$ \\
-LR & Freedom \& Democracy & $-19{,}1$ & $[-25{,}0,\ -13{,}9]$ \\
-FN & Freedom \& Democracy & $-19{,}2$ & $[-29{,}0,\ -10{,}1]$ \\
-LFI & Freedom \& Democracy & $+7{,}0$ & $[+2{,}7,\ +11{,}2]$ \\
-FN & Welfare \& QoL & $+14{,}0$ & $[+8{,}4,\ +19{,}8]$ \\
+PS & Tejido social & $-21{,}9$ & $[-29{,}7,\ -14{,}2]$ \\
+GDR-PCF & Tejido social & $-17{,}5$ & $[-27{,}4,\ -7{,}1]$ \\
+LFI & Tejido social & $-15{,}9$ & $[-23{,}9,\ -8{,}4]$ \\
+EDS & Tejido social & $-14{,}9$ & $[-25{,}1,\ -4{,}6]$ \\
+LR & Libertad y democracia & $-19{,}1$ & $[-25{,}0,\ -13{,}9]$ \\
+FN & Libertad y democracia & $-19{,}2$ & $[-29{,}0,\ -10{,}1]$ \\
+LFI & Libertad y democracia & $+7{,}0$ & $[+2{,}7,\ +11{,}2]$ \\
+FN & Bienestar y calidad de vida & $+14{,}0$ & $[+8{,}4,\ +19{,}8]$ \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -788,7 +793,7 @@ comparables, en el caso declarado; el apoyo global del partido, en el revelado),
 de modo que ambas expresan distintividad (``más/menos que mi referencia'') y
 sus \emph{signos} sí son comparables celda a celda
 (sección~\ref{sec:metricas-cruce}). El análisis se mantiene a nivel de los siete
-dominios MARPOR (seis, al excluir \emph{External Relations} por su bajísima base
+dominios MARPOR (seis, al excluir \emph{Relaciones exteriores} por su bajísima base
 de voto) y no de las $56$ categorías: la unidad revelada (enmiendas votadas)
 no tiene densidad para estimar un soporte relativo estable en $56$ categorías, así
 que los dominios sacrifican detalle a cambio de robustez.
@@ -850,19 +855,19 @@ segunda es tan informativa como la primera (una distancia sostenida en discurso
 
 \paragraph{Banderas respaldadas (coherencia afirmativa).}
 Hay casos donde la identidad del partido se sostiene del discurso al voto en sus
-temas propios. \textbf{LFI} y las libertades civiles (\emph{Freedom \&
-Democracy}) es el caso más nítido: énfasis declarado positivo y soporte relativo
+temas propios. \textbf{LFI} y las libertades civiles (\emph{Libertad y
+democracia}) es el caso más nítido: énfasis declarado positivo y soporte relativo
 $+6{,}9$ pp (apoyo absoluto $90{,}6\,\%$ sobre una base de $\sim 84\,\%$). \textbf{PS}
-y el bienestar (\emph{Welfare \& QoL}): fuerte énfasis en el manifiesto ($+13{,}1$)
+y el bienestar (\emph{Bienestar y calidad de vida}): fuerte énfasis en el manifiesto ($+13{,}1$)
 y soporte relativo $+3{,}6$. \textbf{MoDem} ilustra el caso del centro de
-gobierno en \emph{Economy}: la enfatiza ($+1{,}9$) y la apoya relativamente más
+gobierno en \emph{Economía}: la enfatiza ($+1{,}9$) y la apoya relativamente más
 ($+5{,}5$), aun cuando su apoyo absoluto sea bajo ($27{,}9\,\%$), porque está por
 encima de su base global ($\sim 22\,\%$), ilustración de que la señal temática
 es enteramente relativa. \textbf{LREM} comparte ese soporte relativo positivo
 en economía, si bien su énfasis declarado en el dominio es prácticamente neutro.
 
 \paragraph{Distancia cultural de la izquierda (coherencia negativa).}
-Es el patrón más limpio del capítulo. En \emph{Fabric of Society} (identidad,
+Es el patrón más limpio del capítulo. En \emph{Tejido social} (identidad,
 seguridad, nación), la izquierda \textbf{no se apropia discursivamente del eje y a
 la vez lo apoya relativamente menos} que cualquier otro tema: el énfasis positivo
 está ausente en las nueve combinaciones partido-canal de LFI, PCF y PS, y el
@@ -870,7 +875,7 @@ soporte relativo es marcadamente negativo (PS $-21{,}9$, PCF $-17{,}5$, LFI
 $-15{,}9$). Debe insistirse en que esto \textbf{no es rechazo absoluto}: la
 izquierda sigue aprobando en mayoría esas enmiendas ($60$--$70\,\%$ a favor), solo
 que muy por debajo de su altísima base. Con el conjunto comparable ampliado a
-siete partidos (y el fuerte sobre-énfasis de FN en \emph{Fabric of Society}
+siete partidos (y el fuerte sobre-énfasis de FN en \emph{Tejido social}
 recentrando el promedio del dominio), la firma declarada de PS pasa a ser
 levemente negativa ($-1{,}6$) en los tres canales: PS deja de aparecer como
 ``neutro'' y se suma limpiamente a la coherencia negativa de la izquierda, con
@@ -880,11 +885,11 @@ ausencia de apropiación discursiva positiva y un soporte relativo muy negativo
 \paragraph{Énfasis no respaldado (uso oposicional).}
 Otros casos enfatizan un tema cuyo soporte relativo es negativo, lo que, según el
 contexto, sugiere un uso confrontativo más que legislativo. \textbf{LR} y
-\emph{Fabric of Society}: lo enfatiza en dos de los tres canales (su \emph{issue
+\emph{Tejido social}: lo enfatiza en dos de los tres canales (su \emph{issue
 ownership} securitario; $+2{,}4$ en el manifiesto) pero su soporte relativo es
 $-4{,}7$, más discursivo que respaldado en enmiendas. Conviene \textbf{no}
 sobre-leer el manifiesto del \textbf{PCF}: su muestra es pequeña ($39$ quasi-frases)
-y casos como PCF--\emph{Political System} ($+11{,}5$ declarado) descansan en
+y casos como PCF--\emph{Sistema político} ($+11{,}5$ declarado) descansan en
 categorías de muestra mínima señaladas como ruido, por lo que sus celdas se toman
 como indicativas.
 
@@ -892,13 +897,13 @@ como indicativas.
 FN es la ilustración más nítida del \emph{gap} entre capas observables, y conviene
 leerlo como diferencia entre lo que un partido proclama y lo que su voto distingue,
 no como incoherencia moral. Su firma \emph{identitaria} es persistente en el
-discurso (sobre-enfatiza \emph{Fabric of Society} en los tres canales, $+9{,}8$
+discurso (sobre-enfatiza \emph{Tejido social} en los tres canales, $+9{,}8$
 en el manifiesto) pero en el voto sobre enmiendas de ese dominio \textbf{no es
 distintiva} ($-1{,}0$, no robusto): es la versión más pura del \emph{énfasis no
-respaldado}. A la vez \textbf{revela apoyo donde no enfatiza}: en \emph{Welfare
-\& QoL} apoya $+14{,}0$ pp por encima de su base (el más alto de cualquier partido
+respaldado}. A la vez \textbf{revela apoyo donde no enfatiza}: en \emph{Bienestar
+y calidad de vida} apoya $+14{,}0$ pp por encima de su base (el más alto de cualquier partido
 en ese dominio, robusto) pese a no declararlo (\emph{apoyo no enfatizado}). Y
-en \emph{Freedom \& Democracy} se ubica como \emph{baja prioridad y menor apoyo
+en \emph{Libertad y democracia} se ubica como \emph{baja prioridad y menor apoyo
 relativo} ($-19{,}2$, empatado con LR como polo derecho del clivaje cultural),
 aunque, como toda firma revelada, ello convive con un apoyo absoluto mayoritario
 ($54{,}2\,\%$): es apoyo por debajo de su base, no rechazo.
@@ -913,7 +918,7 @@ anexo~\ref{anexo:cruce}.
 \emph{s\_rev} son las firmas centradas declarada y revelada (pp); ``Apoyo abs.'' y
 ``Base'' son el apoyo absoluto al dominio y el apoyo global del partido en
 enmiendas (\%); un \emph{s\_rev} negativo es apoyo por debajo de la base, no
-rechazo. En FN, \emph{Fabric of Society} revelado ($-1{,}0$) no es robusto y se
+rechazo. En FN, \emph{Tejido social} revelado ($-1{,}0$) no es robusto y se
 reporta como neutro.}
 \label{tab:cruce-casos}
 \small
@@ -921,16 +926,16 @@ reporta como neutro.}
 \toprule
 \textbf{Partido} & \textbf{Dominio} & \textbf{s\_decl} & \textbf{s\_rev} & \textbf{Apoyo abs.} & \textbf{Base} & \textbf{Tipo} \\
 \midrule
-LFI & Freedom \& Democracy & $+2{,}1$ & $+6{,}9$ & $90{,}6$ & $\sim 84$ & énfasis respaldado \\
-PS & Welfare \& QoL & $+13{,}1$ & $+3{,}6$ & $86{,}3$ & $\sim 83$ & énfasis respaldado \\
-MoDem & Economy & $+1{,}9$ & $+5{,}5$ & $27{,}9$ & $\sim 22$ & énfasis respaldado \\
-PCF & Fabric of Society & $-4{,}0$ & $-17{,}5$ & $69{,}5$ & $\sim 87$ & baja prioridad, menor apoyo rel. \\
-LFI & Fabric of Society & $-4{,}5$ & $-15{,}9$ & $67{,}8$ & $\sim 84$ & baja prioridad, menor apoyo rel. \\
-PS & Fabric of Society & $-1{,}6$ & $-21{,}9$ & $60{,}8$ & $\sim 83$ & baja prioridad, menor apoyo rel. \\
-LR & Fabric of Society & $+2{,}4$ & $-4{,}7$ & $66{,}2$ & $\sim 71$ & énfasis no respaldado \\
-FN & Fabric of Society & $+9{,}8$ & $-1{,}0$ & $72{,}4$ & $\sim 73$ & énfasis no respaldado, neutro \\
-FN & Welfare \& QoL & $-1{,}5$ & $+14{,}0$ & $87{,}4$ & $\sim 73$ & apoyo no enfatizado \\
-FN & Freedom \& Democracy & $-1{,}8$ & $-19{,}2$ & $54{,}2$ & $\sim 73$ & baja prioridad, menor apoyo rel. \\
+LFI & Libertad y democracia & $+2{,}1$ & $+6{,}9$ & $90{,}6$ & $\sim 84$ & énfasis respaldado \\
+PS & Bienestar y calidad de vida & $+13{,}1$ & $+3{,}6$ & $86{,}3$ & $\sim 83$ & énfasis respaldado \\
+MoDem & Economía & $+1{,}9$ & $+5{,}5$ & $27{,}9$ & $\sim 22$ & énfasis respaldado \\
+PCF & Tejido social & $-4{,}0$ & $-17{,}5$ & $69{,}5$ & $\sim 87$ & baja prioridad, menor apoyo rel. \\
+LFI & Tejido social & $-4{,}5$ & $-15{,}9$ & $67{,}8$ & $\sim 84$ & baja prioridad, menor apoyo rel. \\
+PS & Tejido social & $-1{,}6$ & $-21{,}9$ & $60{,}8$ & $\sim 83$ & baja prioridad, menor apoyo rel. \\
+LR & Tejido social & $+2{,}4$ & $-4{,}7$ & $66{,}2$ & $\sim 71$ & énfasis no respaldado \\
+FN & Tejido social & $+9{,}8$ & $-1{,}0$ & $72{,}4$ & $\sim 73$ & énfasis no respaldado, neutro \\
+FN & Bienestar y calidad de vida & $-1{,}5$ & $+14{,}0$ & $87{,}4$ & $\sim 73$ & apoyo no enfatizado \\
+FN & Libertad y democracia & $-1{,}8$ & $-19{,}2$ & $54{,}2$ & $\sim 73$ & baja prioridad, menor apoyo rel. \\
 \bottomrule
 \end{tabularx}
 \end{table}

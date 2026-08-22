@@ -164,9 +164,10 @@ Este anexo complementa las secciones~\ref{sec:marpor} y~\ref{sec:metodo-marpor}
 con el listado completo de las \textbf{56 categorías} del esquema del
 \emph{Manifesto Project} (MARPOR) \cite{marpor_mp_v5}, agrupadas en los
 \textbf{siete dominios} macro. El dominio de una categoría se obtiene del primer
-dígito de su código (p.\ ej.\ 504 $\rightarrow$ dominio~5, \emph{Welfare and
-Quality of Life}). Los nombres de las categorías siguen la nomenclatura estándar
-del \emph{handbook} MARPOR (en inglés); el Cuadro~\ref{tab:marpor-dominios} del
+dígito de su código (p.\ ej.\ 504 $\rightarrow$ dominio~5, \emph{Bienestar y
+calidad de vida}). Los nombres de los dominios se dan en español, mientras que los
+nombres de las categorías siguen la nomenclatura estándar del \emph{handbook}
+MARPOR (en inglés); el Cuadro~\ref{tab:marpor-dominios} del
 marco teórico resume los dominios con un ejemplo cada uno.
 
 {\footnotesize
@@ -185,7 +186,7 @@ Cuadro~\ref{tab:anexo-marpor-categorias})}\\
 \endhead
 \bottomrule
 \endlastfoot
-101 & External Relations & Foreign Special Relationships: Positive \\
+101 & Relaciones exteriores & Foreign Special Relationships: Positive \\
 102 &  & Foreign Special Relationships: Negative \\
 103 &  & Anti-Imperialism \\
 104 &  & Military: Positive \\
@@ -196,18 +197,18 @@ Cuadro~\ref{tab:anexo-marpor-categorias})}\\
 109 &  & Internationalism: Negative \\
 110 &  & European Community/Union: Negative \\
 \addlinespace
-201 & Freedom and Democracy & Freedom and Human Rights \\
+201 & Libertad y democracia & Freedom and Human Rights \\
 202 &  & Democracy \\
 203 &  & Constitutionalism: Positive \\
 204 &  & Constitutionalism: Negative \\
 \addlinespace
-301 & Political System & Federalism \\
+301 & Sistema político & Federalism \\
 302 &  & Centralisation \\
 303 &  & Governmental and Administrative Efficiency \\
 304 &  & Political Corruption \\
 305 &  & Political Authority \\
 \addlinespace
-401 & Economy & Free Market Economy \\
+401 & Economía & Free Market Economy \\
 402 &  & Incentives \\
 403 &  & Market Regulation \\
 404 &  & Economic Planning \\
@@ -224,7 +225,7 @@ Cuadro~\ref{tab:anexo-marpor-categorias})}\\
 415 &  & Marxist Analysis: Positive \\
 416 &  & Anti-Growth Economy: Positive \\
 \addlinespace
-501 & Welfare and Quality of Life & Environmental Protection: Positive \\
+501 & Bienestar y calidad de vida & Environmental Protection: Positive \\
 502 &  & Culture: Positive \\
 503 &  & Equality: Positive \\
 504 &  & Welfare State Expansion \\
@@ -232,7 +233,7 @@ Cuadro~\ref{tab:anexo-marpor-categorias})}\\
 506 &  & Education Expansion \\
 507 &  & Education Limitation \\
 \addlinespace
-601 & Fabric of Society & National Way of Life: Positive \\
+601 & Tejido social & National Way of Life: Positive \\
 602 &  & National Way of Life: Negative \\
 603 &  & Traditional Morality: Positive \\
 604 &  & Traditional Morality: Negative \\
@@ -241,7 +242,7 @@ Cuadro~\ref{tab:anexo-marpor-categorias})}\\
 607 &  & Multiculturalism: Positive \\
 608 &  & Multiculturalism: Negative \\
 \addlinespace
-701 & Social Groups & Labour Groups: Positive \\
+701 & Grupos sociales & Labour Groups: Positive \\
 702 &  & Labour Groups: Negative \\
 703 &  & Agriculture and Farmers: Positive \\
 704 &  & Middle Class and Professional Groups \\
@@ -291,9 +292,9 @@ concentradas entre dominios temáticamente vecinos. El
 Cuadro~\ref{tab:anexo-confusion-dominio} muestra la matriz de confusión por
 dominio (filas = código humano, columnas = predicción top-1); la diagonal
 concentra la mayor parte de la masa. Los desvíos más frecuentes ocurren entre
-\emph{Economy} y \emph{Welfare and Quality of Life} (presupuesto y prestaciones
-se solapan), entre \emph{Welfare} y \emph{Social Groups} (p.\ ej.\ igualdad frente
-a grupos demográficos) y entre \emph{Fabric of Society} y \emph{Welfare}
+\emph{Economía} y \emph{Bienestar y calidad de vida} (presupuesto y prestaciones
+se solapan), entre \emph{Bienestar y calidad de vida} y \emph{Grupos sociales} (p.\ ej.\ igualdad frente
+a grupos demográficos) y entre \emph{Tejido social} y \emph{Bienestar y calidad de vida}
 (orden social frente a políticas de bienestar).
 
 \begin{table}[H]
@@ -308,13 +309,13 @@ $n = 3.430$ cuasi-frases.}
 \toprule
  & \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{6} & \textbf{7} & \textbf{Tot.} \\
 \midrule
-\textbf{1} External & \textbf{246} & 6 & 8 & 14 & 5 & 8 & 3 & 290 \\
-\textbf{2} Freedom & 18 & \textbf{158} & 18 & 1 & 11 & 15 & 1 & 222 \\
-\textbf{3} Pol.\ Sys. & 7 & 39 & \textbf{182} & 24 & 42 & 24 & 5 & 323 \\
-\textbf{4} Economy & 36 & 6 & 27 & \textbf{498} & 115 & 11 & 28 & 721 \\
-\textbf{5} Welfare & 15 & 5 & 27 & 90 & \textbf{724} & 19 & 24 & 904 \\
-\textbf{6} Society & 29 & 27 & 27 & 24 & 85 & \textbf{358} & 8 & 558 \\
-\textbf{7} Social Gr. & 4 & 9 & 16 & 42 & 84 & 13 & \textbf{244} & 412 \\
+\textbf{1} Rel.\ ext. & \textbf{246} & 6 & 8 & 14 & 5 & 8 & 3 & 290 \\
+\textbf{2} Libertad & 18 & \textbf{158} & 18 & 1 & 11 & 15 & 1 & 222 \\
+\textbf{3} Sist.\ pol. & 7 & 39 & \textbf{182} & 24 & 42 & 24 & 5 & 323 \\
+\textbf{4} Economía & 36 & 6 & 27 & \textbf{498} & 115 & 11 & 28 & 721 \\
+\textbf{5} Bienestar & 15 & 5 & 27 & 90 & \textbf{724} & 19 & 24 & 904 \\
+\textbf{6} Tejido soc. & 29 & 27 & 27 & 24 & 85 & \textbf{358} & 8 & 558 \\
+\textbf{7} Grupos soc. & 4 & 9 & 16 & 42 & 84 & 13 & \textbf{244} & 412 \\
 \midrule
 \textbf{Total} & 355 & 250 & 305 & 693 & 1.066 & 448 & 313 & 3.430 \\
 \bottomrule
@@ -616,12 +617,12 @@ La figura \emph{no} valida un modelo con el otro (son representaciones de
 naturaleza distinta y este trabajo no usa una para evaluar la otra); muestra
 únicamente cómo un agrupamiento empírico no supervisado se reparte sobre la
 taxonomía supervisada usada en el análisis principal. En este caso predomina, de
-forma coherente, el dominio \emph{Fabric of Society} ($73{,}9\,\%$), con una
-fracción menor en \emph{Freedom \& Democracy} ($11{,}9\,\%$). La concentración es
-interpretable sin sorpresa: en la codificación MARPOR el dominio \emph{Fabric of
-Society} agrupa las categorías de orden social y, en particular, la de ley y
+forma coherente, el dominio \emph{Tejido social} ($73{,}9\,\%$), con una
+fracción menor en \emph{Libertad y democracia} ($11{,}9\,\%$). La concentración es
+interpretable sin sorpresa: en la codificación MARPOR el dominio \emph{Tejido
+social} agrupa las categorías de orden social y, en particular, la de ley y
 orden (605), de modo que las enmiendas sobre penas, prisión y procedimiento penal
-se ubican allí; el residuo en \emph{Freedom \& Democracy} recoge el componente de
+se ubican allí; el residuo en \emph{Libertad y democracia} recoge el componente de
 derechos y garantías que también atraviesa la materia penal. Esta lectura es
 ilustrativa y no debe tomarse como evidencia fuerte de alineación entre métodos.
 
@@ -644,7 +645,7 @@ ilustrativa y no debe tomarse como evidencia fuerte de alineación entre método
 
 Este anexo complementa la sección~\ref{sec:res-declarada-patron} del capítulo de
 resultados, donde se observa que en Twitter y el hemiciclo la agenda de todos los
-partidos se desplaza hacia el dominio \emph{Political System} (meta-política). El
+partidos se desplaza hacia el dominio \emph{Sistema político} (meta-política). El
 Cuadro~\ref{tab:ejemplos-metapolitica} recoge, para cada uno de los siete partidos
 del panel, un tuit real clasificado en ese dominio, con su categoría MARPOR de
 mayor probabilidad. Los ejemplos ilustran que, fuera del programa electoral, el
@@ -656,7 +657,7 @@ puntos suspensivos.
 \begin{table}[H]
 \centering
 \caption{Un tuit real por partido clasificado por ManifestoBERTa en el dominio
-\emph{Political System}, con su traducción al español. La categoría es la etiqueta
+\emph{Sistema político}, con su traducción al español. La categoría es la etiqueta
 de mayor probabilidad (top-1): 304, \emph{corrupción política}; 305,
 \emph{autoridad política}. Los diputados del FN se identifican por su lista estable
 de \emph{deputy\_id} (sección~\ref{sec:normalizacion}).}
@@ -686,7 +687,7 @@ Este anexo complementa la sección~\ref{sec:res-declarado-revelado}. El instrume
 principal de ese análisis es la \textbf{tipología por celda} (partido$\times$dominio),
 que compara el signo de la firma declarada con el de la revelada y da lugar a los
 casos canónicos del Cuadro~\ref{tab:cruce-casos}; los tres casos de FN
-(\emph{Fabric of Society}, \emph{Welfare \& QoL} y \emph{Freedom \& Democracy})
+(\emph{Tejido social}, \emph{Bienestar y calidad de vida} y \emph{Libertad y democracia})
 figuran allí y no se repiten aquí. La \emph{correlación} por partido, en cambio,
 es un resumen \textbf{frágil} (con seis dominios los intervalos cruzan el cero
 para todos) y se ofrece solo como material complementario, igual que la matriz
@@ -724,7 +725,7 @@ artefacto muestral.
 \centering
 \caption{Coherencia declarado--revelado por partido en el manifiesto: correlación
 de Pearson, variante re-centrada e intervalo de confianza al $95\,\%$ por
-\emph{bootstrap} de dominios (seis dominios; se excluye \emph{External Relations}
+\emph{bootstrap} de dominios (seis dominios; se excluye \emph{Relaciones exteriores}
 por su escasa base de voto). Un asterisco marca los manifiestos de muestra pequeña
 (PCF $39$, PS $79$ cuasi-frases); FN, en cambio, no lo es.}
 \label{tab:cruce-coherencia-anexo}
