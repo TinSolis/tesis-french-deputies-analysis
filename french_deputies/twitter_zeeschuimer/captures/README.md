@@ -1,10 +1,18 @@
-# Capturas Zeeschuimer (en mi máquina)
+# Capturas de Zeeschuimer
 
-Yo guardo acá los exports **`*.ndjson`** de Zeeschuimer. **No** los subo a GitHub tal cual porque suelen superar el límite de 100 MB por archivo.
+## Propósito
 
-1. Cuando termino una captura, dejo el `.ndjson` en esta carpeta.
-2. Desde **`francia_deputies/`** corro:
+Almacena los exports **`*.ndjson`** generados por Zeeschuimer. Estos archivos **no** se versionan en GitHub tal cual, porque suelen superar el límite de 100 MB por archivo.
 
-   `python3 zeeschuimer/scripts/merge_zeeschuimer_with_deputies.py`
+## Cómo se usa
 
-Lo que sí me interesa versionar o compartir después suele ser lo que sale en **`zeeschuimer/processed/`** (CSVs con el texto ya unido a mis diputados).
+1. Al terminar una captura, dejar el `.ndjson` en esta carpeta.
+2. Desde **`french_deputies/`**, ejecutar:
+
+   ```bash
+   python3 twitter_zeeschuimer/scripts/merge_zeeschuimer_with_deputies.py
+   ```
+
+## Cómo se enlaza con el resto
+
+Lo que se versiona o comparte es la salida en **`twitter_zeeschuimer/processed/`** (CSVs con el texto ya unido a los diputados).

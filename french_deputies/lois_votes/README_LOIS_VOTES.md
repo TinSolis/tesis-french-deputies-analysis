@@ -1,10 +1,10 @@
 # Leyes, enmiendas y votos — Assemblée nationale, XVe législature (2017–2022)
 
-Este bloque conecta **qué se votó** con **cómo votó cada diputado** y **cuál es el texto de la ley o de la enmienda**. Todo sale de fuentes oficiales con licencia ouverte. El marco general de la investigación está en `Propuesta_Memoria.txt` (raíz del repo).
+Este bloque conecta **qué se votó** con **cómo votó cada diputado** y **cuál es el texto de la ley o de la enmienda**. Todos los datos provienen de fuentes oficiales con licencia ouverte. El marco general de la investigación está en la memoria final (`memoria/`) y en la propuesta original (`memoria/propuesta/`).
 
 ---
 
-## Qué tengo hasta ahora (estado actual)
+## Estado actual del dataset
 
 ### Leyes (votos globales sobre el texto completo)
 

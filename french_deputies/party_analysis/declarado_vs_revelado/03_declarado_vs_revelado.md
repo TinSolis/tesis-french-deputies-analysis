@@ -16,7 +16,7 @@ Por eso el capítulo tiene una jerarquía explícita de tres niveles:
 
 ### 1.1 El problema: dos agendas que no son comparables en niveles
 
-Las dos señales viven en unidades distintas y no se pueden restar. La declarada es un porcentaje de quasi-frases: siempre positiva y **sin dirección** (hablar mucho de seguridad no dice si se está a favor o en contra). La revelada es un soporte **signado**: tiene dirección. Por eso no comparamos niveles, sino **firmas relativas entre partidos** (distintividad), y usamos la **correlación** —invariante a escala— para medir si el patrón coincide:
+Las dos señales viven en unidades distintas y no se pueden restar. La declarada es un porcentaje de cuasi-frases: siempre positiva y **sin dirección** (hablar mucho de seguridad no dice si se está a favor o en contra). La revelada es un soporte **signado**: tiene dirección. Por eso no comparamos niveles, sino **firmas relativas entre partidos** (distintividad), y usamos la **correlación** —invariante a escala— para medir si el patrón coincide:
 
 - **Firma declarada** `s_decl[p,d]` = énfasis del partido *p* en el dominio *d* − promedio de ese dominio entre los partidos comparables (cuánto sobre/sub-enfatiza *d* respecto de sus pares, en pp).
 - **Firma revelada** `s_rev[p,d]` = soporte relativo del Análisis 2 (soporte por tema − soporte global del partido, en pp).
@@ -98,7 +98,7 @@ Casos donde el partido **enfatiza un tema pero su soporte relativo es negativo**
 - **LR ↔ Fabric of Society**: lo enfatiza en 2 de 3 canales (su *issue ownership* securitario; +2.4 en manifiesto, +1.1 en tweets), pero su soporte relativo es −4.7. El tema es más discursivo que respaldado en enmiendas.
 - **FN ↔ Fabric of Society**: el caso más nítido del cuadrante (ver bloque dedicado en §2.5). FN enfatiza fuertemente su firma nacional-securitaria en los **3 canales** (manifiesto +9.8, sign-stable 3/3), pero en el voto su soporte a enmiendas de *Fabric of Society* **no es distintivo** (−1.0, no robusto): su bandera identitaria es discursiva, no se traduce en apoyo relativo en enmiendas.
 
-> **Cautela.** El caso PCF–*Sistema Político* en manifiesto (+11.5 declarado, −2.9 relativo) caería acá, pero el +11.5 proviene del énfasis en *Autoridad Política* (cat. 305) que el README marca como **ruido de muestra chica** (PCF: 39 frases). No conviene leerlo como énfasis oposicional real.
+> **Cautela.** El caso PCF–*Sistema Político* en manifiesto (+11.5 declarado, −2.9 relativo) caería aquí, pero el +11.5 proviene del énfasis en *Autoridad Política* (cat. 305) que el README marca como **ruido de muestra pequeña** (PCF: 39 frases). No conviene leerlo como énfasis oposicional real.
 
 ### 2.5 FN: la firma declarada que el voto no respalda
 
@@ -123,7 +123,7 @@ Coherentemente con este desfase entre capas, la **correlación declarado–revel
 
 ### 2.6 Robustez de la tipología
 
-**Umbral de signo.** La clasificación por signo puede ser sensible a valores casi nulos (p. ej. FN en *Fabric of Society* revelado −1.0, o LR en *Sistema Político* +0.1). Reclasificando con una **zona neutra de ±1 pp** (positivo si >+1, negativo si <−1, neutro en el medio): **ninguna celda cambia de cuadrante** (0% de inversiones); solo pasan a "neutro" el 24% de las celdas del manifiesto (43% en todos los canales, donde el centrado comprime más el énfasis). Es decir, los patrones direccionales **no se invierten**: los casos chicos simplemente dejan de calificar. Los hallazgos sustantivos (banderas respaldadas, coherencia negativa cultural, énfasis oposicional de LR, gap declarado–revelado de FN) sobreviven al umbral.
+**Umbral de signo.** La clasificación por signo puede ser sensible a valores casi nulos (p. ej. FN en *Fabric of Society* revelado −1.0, o LR en *Sistema Político* +0.1). Reclasificando con una **zona neutra de ±1 pp** (positivo si >+1, negativo si <−1, neutro en el medio): **ninguna celda cambia de cuadrante** (0% de inversiones); solo pasan a "neutro" el 24% de las celdas del manifiesto (43% en todos los canales, donde el centrado comprime más el énfasis). Es decir, los patrones direccionales **no se invierten**: los casos pequeños simplemente dejan de calificar. Los hallazgos sustantivos (banderas respaldadas, coherencia negativa cultural, énfasis oposicional de LR, gap declarado–revelado de FN) sobreviven al umbral.
 
 **Estabilidad entre canales.** Para cada celda se cuenta en cuántos canales el énfasis declarado tiene el mismo signo (`cross_channel_sign_stability.csv`). Esto refuerza que los patrones no son accidente de un canal — p. ej. la ausencia de apropiación cultural de la izquierda y la sub-enfatización de *Bienestar* por LR (3/3 canales). *Caveat:* el manifiesto es otra unidad y otro período, así que el acuerdo de signo manifiesto–tweets es **convergencia entre actos comunicativos distintos**, no robustez muestral en sentido estricto.
 
@@ -165,7 +165,7 @@ La correlación de la firma declarada con la revelada, por partido, sobre 6 domi
 | MoDem | −0.01 | −0.14 | −0.17 | [−0.81, 0.99] |
 | FN | −0.20 | −0.09 | −0.00 | [−0.90, 0.75] |
 
-`*` manifiesto de muestra chica (PCF 39, PS 79 frases). FN tiene manifiesto de tamaño suficiente (274 cuasi-frases), así que su bajo coeficiente **no es un artefacto de muestra**, sino reflejo del gap declarado–revelado descrito en §2.5.
+`*` manifiesto de muestra pequeña (PCF 39, PS 79 frases). FN tiene manifiesto de tamaño suficiente (274 cuasi-frases), así que su bajo coeficiente **no es un artefacto de muestra**, sino reflejo del gap declarado–revelado descrito en §2.5.
 
 **No se puede rankear a los partidos por coherencia.** Los intervalos cubren casi todo [−1, +1] para *todos* (incluida FN: [−0.90, 0.75]): ningún coeficiente es distinguible de cero ni de los demás. La inestabilidad entre Pearson, Spearman y la variante re-centrada (LREM pasa de 0.43 a −0.10; LFI de 0.49 a 0.47 pero PCF de 0.05 a 0.21; FN de −0.20 a −0.00) confirma lo mismo. **Que FN aparezca último en Pearson no autoriza a llamarlo "el menos coherente"**: con seis dominios y un IC que cruza el cero, el orden es ruido.
 
@@ -206,10 +206,10 @@ El gap declarado–revelado no es incoherencia global: la coherencia se **concen
 ## 6. Caveats
 
 - **n = 6 dominios** limita las correlaciones por partido (ver §1.5); el peso está en la tipología.
-- **Manifiesto: 7 partidos y muestras chicas.** PCF (39) y PS (79 frases) tienen firmas declaradas poco robustas; sus celdas son indicativas. FN tiene manifiesto de tamaño suficiente (274 cuasi-frases).
+- **Manifiesto: 7 partidos y muestras pequeñas.** PCF (39) y PS (79 frases) tienen firmas declaradas poco robustas; sus celdas son indicativas. FN tiene manifiesto de tamaño suficiente (274 cuasi-frases).
 - **FN es una familia analítica de base parlamentaria pequeña** (11 diputados identificados por `deputy_id`). Su lado revelado descansa en n=95 scrutins de leyes y n=319 de enmiendas; pasa el filtro `MIN_EXPRESSED=3`, pero sus celdas por dominio se leen con el IC en la mano: *Welfare & QoL* (+14.0) y *Freedom & Democracy* (−19.2) son robustas (estab. 1.00); *Economy* (−24.9, IC [−54.4, +7.0]) y *Fabric of Society* revelado (−1.0) **no lo son**, y *External Relations* no tiene cobertura.
 - **Composición de FN.** Agrupa a los diputados electos 2017 bajo bandera FN/RN, sus suplentes y a Emmanuelle Ménard (apparentée); es una **decisión analítica** documentada, no una etiqueta oficial de grupo parlamentario.
-- **`NI` es un residuo heterogéneo** (8 no-inscritos), **no un proxy de FN/RN**. No aparece en el cruce del manifiesto y sus celdas reveladas tienen muestra muy chica e IC anchos (p. ej. *Political System* −49.7): no debe leerse como un partido ideológico coherente.
+- **`NI` es un residuo heterogéneo** (8 no-inscritos), **no un proxy de FN/RN**. No aparece en el cruce del manifiesto y sus celdas reveladas tienen muestra muy pequeña e IC anchos (p. ej. *Political System* −49.7): no debe leerse como un partido ideológico coherente.
 - **Soporte relativo ≠ apoyo absoluto** (§1.2): toda lectura de la firma revelada es relativa a la base del partido. Vale para FN: su −19.2 en *Libertades* convive con 54.2% de apoyo absoluto (mayoría Pour), no es rechazo absoluto.
 - **Correlaciones con IC amplios:** los coeficientes por partido (incluida FN) tienen IC que cruzan el cero; no se rankea ni se moraliza la "coherencia".
 - **Desfase temporal/organizacional:** el manifiesto es de campaña (2017, partido electoral); el voto, de la legislatura (grupo parlamentario). Tweets y hemiciclo son contemporáneos al voto.

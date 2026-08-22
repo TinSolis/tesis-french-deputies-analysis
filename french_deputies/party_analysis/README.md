@@ -15,7 +15,7 @@ El contraste entre lo que un partido *dice* y lo que *vota* es el núcleo del an
 
 | Métrica | Qué mide | Archivo |
 |---|---|---|
-| **Énfasis por dominio** | % de quasi-frases en cada uno de los 7 dominios MARPOR | `party_domain_distribution.csv` |
+| **Énfasis por dominio** | % de cuasi-frases en cada uno de los 7 dominios MARPOR | `party_domain_distribution.csv` |
 | **Distribución por categoría** | % en cada una de las 56 categorías | `party_category_distribution.csv` |
 | **Distintividad** | cuánto sobre/sub-enfatiza cada categoría vs. el promedio del corpus (en puntos porcentuales) → *la firma* | `distinctive_categories.csv` |
 | **Concentración de agenda** | *evenness* = entropía normalizada de la distribución de categorías (baja = monotemático; alta = agenda diversa) | `agenda_concentration.csv` |
@@ -40,7 +40,7 @@ Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantien
 
 ## Manifiestos (`manifestos/`)
 
-3.801 quasi-frases, 10 partidos. Dominio dominante casi universal: **Welfare & QoL**. Lo interesante son las firmas:
+3.801 cuasi-frases, 10 partidos. Dominio dominante casi universal: **Welfare & QoL**. El interés está en las firmas:
 
 | Partido | Categoría más distintiva | +pp vs corpus |
 |---|---|---:|
@@ -55,13 +55,13 @@ Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantien
 
 ![Firma temática — manifiestos](manifestos/results/heatmap_party_signature.png)
 
-**Insight:** las firmas reproducen con precisión la identidad conocida de cada partido — ecologistas→ambiente, PS→bienestar, FN→nación, LFI→internacionalismo, LREM→gestión técnica. Es, de paso, una validación cualitativa fuerte del clasificador: captura perfiles temáticos con sentido político.
+**Hallazgo:** las firmas reproducen con precisión la identidad conocida de cada partido — ecologistas→ambiente, PS→bienestar, FN→nación, LFI→internacionalismo, LREM→gestión técnica. Es, además, una validación cualitativa sólida del clasificador: captura perfiles temáticos con sentido político.
 
-> **Caveats de datos:** **LR y UDI son idénticos** en este corpus (comparten manifiesto / filas duplicadas), así que cuentan como uno. **PCF (39 frases)** y **PS (79)** tienen muestra chica: su firma es indicativa, no robusta (el +17pp de 305 del PCF es ruido de muestra).
+> **Caveats de datos:** **LR y UDI son idénticos** en este corpus (comparten manifiesto / filas duplicadas), así que cuentan como uno. **PCF (39 frases)** y **PS (79)** tienen muestra pequeña: su firma es indicativa, no robusta (el +17pp de 305 del PCF es ruido de muestra).
 
 ## Tweets (`tweets/`)
 
-224.056 quasi-frases, 11 familias políticas (grupos parlamentarios consolidados, con FN separado de NI). El dominio **Political System estalla**: FN 42%, LFI 41%, LR 33%, vs. ~6–15% en los manifiestos.
+224.056 cuasi-frases, 11 familias políticas (grupos parlamentarios consolidados, con FN separado de NI). El dominio **Political System se dispara**: FN 42%, LFI 41%, LR 33%, vs. ~6–15% en los manifiestos.
 
 | Partido | Categoría más distintiva | +pp |
 |---|---|---:|
@@ -76,15 +76,15 @@ Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantien
 
 ![Firma temática — tweets](tweets/results/heatmap_party_signature.png)
 
-**Insights:**
-- **FN y LFI usan Twitter como megáfono anti-establishment.** FN es ahora el **más monotemático** (evenness 0.64) y salta a *Political System* **41.9%** (Autoridad Política +9.5); LFI le sigue de cerca (40.9%, +9.9). Su contenido programático casi desaparece en la red. (Esto es justo lo que "rompía" a RILE, pero acá es un hallazgo, no un artefacto.)
+**Hallazgos:**
+- **FN y LFI usan Twitter como megáfono anti-establishment.** FN es ahora el **más monotemático** (evenness 0.64) y salta a *Political System* **41.9%** (Autoridad Política +9.5); LFI le sigue de cerca (40.9%, +9.9). Su contenido programático casi desaparece en la red. (Es justo lo que "rompía" a RILE, pero aquí es un hallazgo, no un artefacto.)
 - **FN conserva su firma identitaria** también en tweets (*Fabric of Society* 17.5%), pero el dominio dominante es la meta-política. El `NI` **residual**, por su parte, marca *Ley y Orden* (605, +4.3) con una composición heterogénea — ya no es proxy de FN.
 - **MoDem es el más europeísta** (+Internacionalismo), coherente con su perfil centrista pro-UE.
 - En general, **en Twitter los partidos son más monotemáticos** que en sus programas y convergen al dominio Political System: la red aplana la sustancia y premia el conflicto institucional.
 
 ## Hemiciclo (`interventions/`)
 
-338.192 quasi-frases. También domina Political System, pero más repartido, y sube *Freedom & Democracy* (~12–15%) — debate procedimental y de derechos.
+338.192 cuasi-frases. También domina Political System, pero más repartido, y sube *Freedom & Democracy* (~12–15%) — debate procedimental y de derechos.
 
 | Partido | Categoría más distintiva | +pp |
 |---|---|---:|
@@ -99,8 +99,8 @@ Pero —y esto es lo valioso— **la firma distintiva de cada partido se mantien
 
 ![Firma temática — hemiciclo](interventions/results/heatmap_party_signature.png)
 
-**Insights:**
-- **La oposición fiscaliza al gobierno.** *Autoridad Política* (305) es la categoría más distintiva de casi todos los grupos de oposición (LR el más, +7.8pp): el hemiciclo es, por naturaleza, el espacio para interpelar al ejecutivo. Por eso 305 discrimina menos acá que en tweets (es el piso del debate parlamentario).
+**Hallazgos:**
+- **La oposición fiscaliza al gobierno.** *Autoridad Política* (305) es la categoría más distintiva de casi todos los grupos de oposición (LR el más, +7.8pp): el hemiciclo es, por naturaleza, el espacio para interpelar al ejecutivo. Por eso 305 discrimina menos aquí que en tweets (es el piso del debate parlamentario).
 - **LREM, partido de gobierno, defiende la gestión:** su seña es *Eficiencia Gubernamental* (303), no la crítica.
 - **FN es el único que no se diluye en el hemiciclo:** conserva *Fabric of Society* como dominio dominante o casi (24.9%, el más alto del panel) y *Ley y Orden* (605, +7.8) como su categoría distintiva — su firma nacional-securitaria persiste. El `NI` **residual**, en cambio, se desplaza a *Expansión del Bienestar* (504, +5.7): otra señal de que es un agregado heterogéneo distinto de FN.
 - **GDR-PCF mantiene su ADN obrero** (701 Grupos Laborales): las firmas ideológicas persisten respecto del corpus de tweets.

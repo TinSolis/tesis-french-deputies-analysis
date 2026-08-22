@@ -2,7 +2,7 @@
 
 > **¿Un partido habla igual en su manifiesto, en Twitter y en el hemiciclo?**
 
-Este es el primero de los tres ejes de la tesis. La idea: un partido no tiene *una* agenda, sino que la **mezcla temática de lo que dice depende del canal donde lo observes**. Acá lo medimos partido por partido, a fondo.
+Este es el primero de los tres ejes de la tesis. La premisa: un partido no tiene *una* agenda, sino que la **mezcla temática de lo que dice depende del canal donde se lo observe**. Aquí lo medimos partido por partido, en detalle.
 
 ## Qué se compara y cómo
 
@@ -10,7 +10,7 @@ Los tres canales de **agenda declarada** (texto que el partido *produce*), clasi
 
 | Canal | Qué es | Volumen |
 |---|---|---|
-| **manifiesto** | programa electoral 2017 | ~3.800 quasi-frases |
+| **manifiesto** | programa electoral 2017 | ~3.800 cuasi-frases |
 | **tweets** | comunicación de los diputados en Twitter | ~224.000 |
 | **hemiciclo** | intervenciones en el Parlamento | ~338.000 |
 
@@ -24,18 +24,18 @@ Para cada partido medimos cuatro cosas:
 - **(c) Shift específico del partido:** lo mismo pero sobre la **firma centrada** (desviación respecto del promedio del canal). Descuenta ese efecto estructural → aísla cuánto cambia la *identidad relativa* del partido.
 - **(d) Persistencia de firma:** correlación de los vectores-firma (categorías centradas) entre pares de canales. Alta = el partido sobre-enfatiza temas parecidos donde sea.
 
-> **Nota de método.** (i) *Una sola métrica:* usamos **distancia euclídea en puntos porcentuales** en todo el análisis (no Jensen-Shannon), porque es directamente interpretable —"cambió 14 pp"— en vez de un índice abstracto entre 0 y 1. (ii) *Baseline:* el "promedio del canal" para centrar la firma se calcula **con los 7 partidos comparables** (FN, LFI, LR, LREM, MoDem, PCF, PS), no con todos los partidos del corpus, para que los tres canales tengan una referencia homogénea. **La inclusión de FN recalibra ese baseline**: como FN es extremo en algunas categorías (601 *National Way of Life*, 605 *Law and Order*, *Fabric of Society*), su entrada eleva el promedio del canal en esos temas y, por construcción, **mueve las firmas y persistencias relativas de los demás partidos** —de forma notable **LR**, que comparte con FN el énfasis nacional-identitario (601). No es un error: es el efecto esperado de recalibrar el análisis con una familia más. (iii) *Bootstrap:* los índices de shift llevan **IC95 por bootstrap** (2.000 remuestreos multinomiales de las quasi-frases), clave porque los manifiestos de PCF (39 frases) y PS (79) son chicos.
+> **Nota de método.** (i) *Una sola métrica:* usamos **distancia euclídea en puntos porcentuales** en todo el análisis (no Jensen-Shannon), porque es directamente interpretable —"cambió 14 pp"— en vez de un índice abstracto entre 0 y 1. (ii) *Baseline:* el "promedio del canal" para centrar la firma se calcula **con los 7 partidos comparables** (FN, LFI, LR, LREM, MoDem, PCF, PS), no con todos los partidos del corpus, para que los tres canales tengan una referencia homogénea. **La inclusión de FN recalibra ese baseline**: como FN es extremo en algunas categorías (601 *National Way of Life*, 605 *Law and Order*, *Fabric of Society*), su entrada eleva el promedio del canal en esos temas y, por construcción, **mueve las firmas y persistencias relativas de los demás partidos** —de forma notable **LR**, que comparte con FN el énfasis nacional-identitario (601). No es un error: es el efecto esperado de recalibrar el análisis con una familia más. (iii) *Bootstrap:* los índices de shift llevan **IC95 por bootstrap** (2.000 remuestreos multinomiales de las cuasi-frases), clave porque los manifiestos de PCF (39 frases) y PS (79) son pequeños.
 
 ## El patrón general
 
 ![Énfasis por dominio, partido × canal](results/heatmap_party_channel_domain.png)
 
-Salta a la vista en la figura, y es el hallazgo de fondo:
+La figura lo muestra con claridad, y es el hallazgo de fondo:
 
 - **El manifiesto es programático:** domina **Welfare & QoL** (políticas sociales) y **Economy**. Es donde el partido despliega su oferta sustantiva.
 - **Twitter y el hemiciclo son meta-política:** domina **Political System** (gobierno, autoridad, instituciones, corrupción). En Twitter de forma extrema; en el hemiciclo, casi igual.
 
-Dicho fuerte: **no existe "la agenda" de un partido en abstracto; la agenda depende mucho del canal.** Un mismo partido, observado en su programa o en su Twitter, parece hablar de mundos distintos.
+En síntesis: **no existe "la agenda" de un partido en abstracto; la agenda depende mucho del canal.** Un mismo partido, observado en su programa o en su Twitter, parece hablar de mundos distintos.
 
 ### Cuánto cambia cada partido: bruto vs. específico
 
@@ -83,7 +83,7 @@ Lo que dice:
 
 ---
 
-# Deep dive por partido
+# Análisis detallado por partido
 
 Para cada partido: su perfil de dominios en los tres canales y las categorías que lo definen en cada uno. Orden ideológico, de izquierda a derecha.
 
@@ -108,7 +108,7 @@ Shift específico **12.1 pp** (el segundo más alto, tras FN) y persistencia de 
 
 ## PCF — Partido Comunista / grupo GDR (no estimable con confianza)
 
-**Caveat fuerte:** su manifiesto tiene solo **39 quasi-frases**. El bootstrap le da un IC enorme en el shift específico (`[14.3, 27.9]`), así que **no se puede afirmar que sea estable ni inestable**. Lo que sí es robusto: entre **tweets y hemiciclo** (los dos canales con datos suficientes) su firma correlaciona alto (0.79) — ahí su ADN obrero sí es consistente; el manifiesto es el que no es fiable.
+**Caveat fuerte:** su manifiesto tiene solo **39 cuasi-frases**. El bootstrap le da un IC enorme en el shift específico (`[14.3, 27.9]`), así que **no se puede afirmar que sea estable ni inestable**. Lo que sí es robusto: entre **tweets y hemiciclo** (los dos canales con datos suficientes) su firma correlaciona alto (0.79) — ahí su ADN obrero sí es consistente; el manifiesto es el que no es fiable.
 
 | Dominio (%) | manifiesto | tweets | hemiciclo |
 |---|---:|---:|---:|
@@ -138,7 +138,7 @@ Shift específico 10.8 pp (IC ancho `[8.1, 17.9]` por las 79 frases del manifies
 - **tweets:** 504 Estado de Bienestar (+2.5), 502 Cultura (+1.6), 503 Igualdad (+0.9), 606 Civismo (+0.7).
 - **hemiciclo:** 305 Autoridad (+2.9), 504 Estado de Bienestar (+1.1), 301 Federalismo (+0.8), 303 Eficiencia Gubernamental (+0.5).
 
-**Lectura:** el PS es **socialdemocracia de manual**: el bienestar es **43%** de su programa, el dominante más alto de todos los partidos en cualquier canal. Pero en el hemiciclo el bienestar cede ante *Political System* (39%) y su marca pasa a ser *Autoridad* (+2.9): el canal institucional lo arrastra al rol de oposición fiscalizadora. El bienestar es su identidad declarada; la fiscalización, su rol parlamentario.
+**Lectura:** el PS es **socialdemocracia clásica**: el bienestar es **43%** de su programa, el dominante más alto de todos los partidos en cualquier canal. Pero en el hemiciclo el bienestar cede ante *Political System* (39%) y su marca pasa a ser *Autoridad* (+2.9): el canal institucional lo arrastra al rol de oposición fiscalizadora. El bienestar es su identidad declarada; la fiscalización, su rol parlamentario.
 
 ## MoDem — Mouvement Démocrate (el europeísta)
 
@@ -220,19 +220,19 @@ La métrica de **overlap** lo deja claro: su núcleo —**601 *National Way of L
 # Síntesis del Análisis 1
 
 1. **El canal define la mezcla temática, y ese efecto es estructural.** Manifiesto = agenda *programática* (bienestar, economía); Twitter y hemiciclo = agenda *meta-política* (gobierno, autoridad). El efecto canal pesa **12–16 pp** para todos los partidos estimables: no es estrategia, es el género del texto.
-2. **Descontado el canal, los extremos son lo robusto: FN es ahora el mayor reorganizador estimable y LREM, partido presidencial, el más estable.** El shift *específico* va de FN (17.5 pp) a LREM (7.4 pp, persistencia 0.412), y ese contraste sobrevive a los intervalos. **LFI sigue siendo un caso de reorganización importante (12.1 pp), pero ya no el extremo.** MoDem, PS y LR quedan en el medio con IC solapados —**no se fuerza un orden exacto entre ellos**— y PCF no se interpreta por su manifiesto chico. No es "gobierno vs oposición" en bloque: MoDem, también del gobierno, marca perfil propio (europeísta).
+2. **Descontado el canal, los extremos son lo robusto: FN es ahora el mayor reorganizador estimable y LREM, partido presidencial, el más estable.** El shift *específico* va de FN (17.5 pp) a LREM (7.4 pp, persistencia 0.412), y ese contraste sobrevive a los intervalos. **LFI sigue siendo un caso de reorganización importante (12.1 pp), pero ya no el extremo.** MoDem, PS y LR quedan en el medio con IC solapados —**no se fuerza un orden exacto entre ellos**— y PCF no se interpreta por su manifiesto pequeño. No es "gobierno vs oposición" en bloque: MoDem, también del gobierno, marca perfil propio (europeísta).
 3. **Cada partido conserva un núcleo de firma que reaparece entre canales — su identidad:** FN→nación/seguridad (601, 605), PCF→trabajadores (en tweets/hemiciclo), PS→bienestar, MoDem→Europa, LREM→gestión, LR→nación, LFI→temas sociales. Medido por overlap de categorías-firma (LREM 5, LR 5, LFI 4, PCF 4, FN 3, PS 3, MoDem 3).
 4. **Una firma puede persistir por overlap aunque su correlación media sea modesta.** El caso nítido es **FN**: su correlación media es baja (0.148) porque Twitter funciona como *outlier* (lo arrastra a *Autoridad Política*), pero su núcleo 601/605 reaparece en los **tres** canales. La correlación promedio y el overlap miden cosas distintas; FN obliga a leerlas juntas. Lo simétrico ocurre con LFI, cuyo +7.8pp de *Autoridad Política* es exclusivo de Twitter.
 
-> **Frase fuerte:** *No existe "la agenda" de un partido: hay una agenda programática en el manifiesto, una comunicativa en Twitter y una institucional en el hemiciclo. Buena parte del cambio entre ellas es efecto del canal (común a todos); el residuo específico de cada partido, ya medido y con intervalos, separa lo que es **identidad ideológica** (persiste: LREM) de lo que es **estrategia de comunicación** (se reorganiza la superficie: FN, LFI) — sin que ello implique perder el tema propietario, que en FN sobrevive en los tres canales.* Esa distinción es lo que el Análisis 3 llevará al terreno del voto.
+> **Idea central:** *No existe "la agenda" de un partido: hay una agenda programática en el manifiesto, una comunicativa en Twitter y una institucional en el hemiciclo. Buena parte del cambio entre ellas es efecto del canal (común a todos); el residuo específico de cada partido, ya medido y con intervalos, separa lo que es **identidad ideológica** (persiste: LREM) de lo que es **estrategia de comunicación** (se reorganiza la superficie: FN, LFI) — sin que ello implique perder el tema propietario, que en FN sobrevive en los tres canales.* Esa distinción es lo que el Análisis 3 llevará al terreno del voto.
 
 ## Caveats
 
 - **n=7 partidos/familias** (los presentes en los tres canales). FN se incorpora vía override por `deputy_id`; EELV y otros siguen fuera (solo manifiestos o no aislables como grupo). **`NI` ya no es proxy de FN/RN**: es familia residual y no entra en esta comparación.
-- **FN: cobertura suficiente, base parlamentaria chica.** Supera los mínimos en los tres canales (manifiesto 274 cf, tweets 3.491, hemiciclo 5.808), pero descansa sobre **11 diputados**, así que conviene no sobreinterpretar matices finos. **Houplain y Évrard no tienen tweets** (el agregado FN-tweets representa a 9 de los 11). **José Évrard dejó el FN en noviembre de 2017** (pasó a "Les Patriotes"): su actividad posterior queda atribuida a FN en este análisis y debe leerse con cautela.
+- **FN: cobertura suficiente, base parlamentaria pequeña.** Supera los mínimos en los tres canales (manifiesto 274 cf, tweets 3.491, hemiciclo 5.808), pero descansa sobre **11 diputados**, así que conviene no sobreinterpretar matices finos. **Houplain y Évrard no tienen tweets** (el agregado FN-tweets representa a 9 de los 11). **José Évrard dejó el FN en noviembre de 2017** (pasó a "Les Patriotes"): su actividad posterior queda atribuida a FN en este análisis y debe leerse con cautela.
 - **Las correlaciones de persistencia no son un ranking fino.** Tras recalibrar con FN quedan comprimidas en una banda baja (0.11–0.17) salvo LREM (0.412); el orden interno de esa banda (incluido FN 0.148 vs LR 0.107) **no es interpretable con confianza**. La métrica es sensible al conjunto de partidos que define el baseline.
-- **Muestras chicas en manifiestos (PCF 39, PS 79):** sus índices de shift llevan **IC bootstrap** anchos. En particular **PCF no es estimable con confianza** (IC `[14.3, 27.9]`), así que se evita afirmar que sea el más o el menos estable. El patrón general (efecto canal grande; FN/LFI alto / LREM bajo en shift específico) se sostiene incluso tomando con cautela esos manifiestos.
-- **"Partido" no es lo mismo en cada canal:** el manifiesto es texto oficial del partido; tweets y hemiciclo son texto de sus diputados, y cada quasi-frase pesa igual (mide *volumen comunicativo*, no la *agenda promedio de un diputado*). Verificamos que **ningún partido depende de 1–2 voces**: el mínimo son 14 diputados (PCF en tweets) y el número efectivo (1/HHI) es ~9–13 para los chicos y mucho mayor para LREM/LR. La concentración aparece sobre todo en el **hemiciclo de los partidos chicos**, donde el diputado más activo aporta MoDem 30%, PS 23%, PCF 16%, LFI 15% — por eso esas columnas de hemiciclo deben leerse con algo más de cautela. Ponderar por diputado queda como robustez pendiente (no se hizo por extensión).
+- **Muestras pequeñas en manifiestos (PCF 39, PS 79):** sus índices de shift llevan **IC bootstrap** anchos. En particular **PCF no es estimable con confianza** (IC `[14.3, 27.9]`), así que se evita afirmar que sea el más o el menos estable. El patrón general (efecto canal grande; FN/LFI alto / LREM bajo en shift específico) se sostiene incluso tomando con cautela esos manifiestos.
+- **"Partido" no es lo mismo en cada canal:** el manifiesto es texto oficial del partido; tweets y hemiciclo son texto de sus diputados, y cada cuasi-frase pesa igual (mide *volumen comunicativo*, no la *agenda promedio de un diputado*). Verificamos que **ningún partido depende de 1–2 voces**: el mínimo son 14 diputados (PCF en tweets) y el número efectivo (1/HHI) es ~9–13 para los pequeños y mucho mayor para LREM/LR. La concentración aparece sobre todo en el **hemiciclo de los partidos pequeños**, donde el diputado más activo aporta MoDem 30%, PS 23%, PCF 16%, LFI 15% — por eso esas columnas de hemiciclo deben leerse con algo más de cautela. Ponderar por diputado queda como robustez pendiente (no se hizo por extensión).
 - El énfasis mide *salience* (cuánto se habla de algo), no postura. La validación de que el clasificador mide bien está en `ches_analysis/`.
 
 ## Reproducir

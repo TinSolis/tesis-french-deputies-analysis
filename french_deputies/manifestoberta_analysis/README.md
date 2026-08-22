@@ -1,60 +1,60 @@
-# ManifestoBERTa — clasificacion tematica supervisada del corpus de diputados franceses (XV legislatura)
+# ManifestoBERTa — clasificación temática supervisada del corpus de diputados franceses (XV legislatura)
 
-Este modulo clasifica los mismos cinco corpus que `bertopic_analysis/` pero con un enfoque **supervisado**: en vez de descubrir topicos por clustering, asigna a cada documento una de las **56 categorias MARPOR** definidas por el Manifesto Project. Cada documento queda etiquetado con su top-1, top-2 y top-3 codigos + sus probabilidades, y agregado a uno de los **7 dominios** macro.
+Este módulo clasifica los mismos cinco corpus que `bertopic_analysis/`, pero con un enfoque **supervisado**: en vez de descubrir tópicos por clustering, asigna a cada documento una de las **56 categorías MARPOR** definidas por el Manifesto Project. Cada documento queda etiquetado con sus códigos top-1, top-2 y top-3 y sus probabilidades, y se agrega a uno de los **7 dominios** macro.
 
-El objetivo es complementar el analisis exploratorio de BERTopic con una taxonomia citable y comparable internacionalmente: no inventamos las categorias, las heredamos del esquema estandar de la ciencia politica comparada (Budge, Klingemann, Volkens, Bara et al., desde 1979). Asi se puede comparar el corpus frances XV contra cualquier otro pais codificado por MARPOR.
+El objetivo es complementar el análisis exploratorio de BERTopic con una taxonomía citable y comparable internacionalmente: no inventamos las categorías, las heredamos del esquema estándar de la ciencia política comparada (Budge, Klingemann, Volkens, Bara et al., desde 1979). Así se puede comparar el corpus francés XV contra cualquier otro país codificado por MARPOR.
 
 ## Modelo
 
-[`manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1`](https://huggingface.co/manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1) (Burst, Lehmann, Franzmann et al., 2024). Es un `xlm-roberta-large` (560 M parametros) fine-tuneado sobre 1.7 M quasi-oraciones del Manifesto Corpus 2024a (38 idiomas, anotadas a mano por codificadores oficiales del WZB Berlin con el Handbook 4 / `mp v5`).
+[`manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1`](https://huggingface.co/manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1) (Burst, Lehmann, Franzmann et al., 2024). Es un `xlm-roberta-large` (560 M parámetros) fine-tuneado sobre 1.7 M quasi-oraciones del Manifesto Corpus 2024a (38 idiomas, anotadas a mano por codificadores oficiales del WZB Berlin con el Handbook 4 / `mp v5`).
 
-- Tamaño en disco: ~2.2 GB. Se descarga la primera vez via `transformers`.
-- Tokenizer: `xlm-roberta-large` (no el del modelo afinado, asi recomienda la model card).
-- Max tokens por documento: 200 (truncamiento con `padding="max_length"`).
-- Salida: softmax sobre 56 categorias.
+- Tamaño en disco: ~2.2 GB. Se descarga la primera vez vía `transformers`.
+- Tokenizer: `xlm-roberta-large` (no el del modelo afinado, como recomienda la model card).
+- Máximo de tokens por documento: 200 (truncamiento con `padding="max_length"`).
+- Salida: softmax sobre 56 categorías.
 
 ## Corpus de entrada
 
-Filtros **identicos** a los de `bertopic_analysis/`, asi un mismo `text_id` es clasificable con ambos metodos y los resultados son comparables doc-por-doc.
+Filtros **idénticos** a los de `bertopic_analysis/`, de modo que un mismo `text_id` es clasificable con ambos métodos y los resultados son comparables doc por doc.
 
 | Fuente | Archivo de origen | Periodo | Filtro de largo | Docs finales |
 |---|---|---|---|---|
-| `manifestos` | `french_deputies/manifestos/processed/manifesto_texts.csv` (+ `manifesto_full_texts.csv` para mapeo de partido) | Eleccion 2017 | **sin filtro de largo** (quasi-frases pre-segmentadas por MARPOR; solo se descartan vacias) | 3 801 |
+| `manifestos` | `french_deputies/manifestos/processed/manifesto_texts.csv` (+ `manifesto_full_texts.csv` para mapeo de partido) | Elección 2017 | **sin filtro de largo** (quasi-frases pre-segmentadas por MARPOR; solo se descartan vacías) | 3 801 |
 | `amendements` | `french_deputies/lois_votes/votes_rd/processed/amendements_votos_con_texto.csv` | XV legis. | enmiendas con `match_confianza` alta/media y texto concatenado (`dispositif + expose_sommaire`) **>= 10 palabras** | 2 575 |
-| `lois` | `french_deputies/lois_votes/votes_rd/processed/leyes_texto_oficial.csv` | XV legis. | parrafos del texto promulgado **>= 10 palabras** (solo leyes con `texto_confianza == "alta"`) | 23 267 |
+| `lois` | `french_deputies/lois_votes/votes_rd/processed/leyes_texto_oficial.csv` | XV legis. | párrafos del texto promulgado **>= 10 palabras** (solo leyes con `texto_confianza == "alta"`) | 23 267 |
 | `tweets` | `french_deputies/twitter_zeeschuimer/processed/tweets_text_only.csv` | mar/2017-2025 | tweets **>= 10 palabras** tras limpieza (urls, menciones, hashtags) | 224 466 |
 | `interventions` | `french_deputies/hemicycle/processed/interventions_xv_2017_2022_with_deputies.csv.gz` | 2017-2022 | intervenciones **>= 10 palabras**, con `deputy_id` y no procedurales | 338 192 |
 
-Origen completo de cada corpus en sus respectivos modulos del proyecto. Aca solo importa que los textos llegan ya procesados desde su carpeta y manifestoberta se aplica con la politica de filtrado descrita en cada `run.py`.
+El origen completo de cada corpus se documenta en sus respectivos módulos del proyecto. Aquí solo importa que los textos llegan ya procesados desde su carpeta y que manifestoberta se aplica con la política de filtrado descrita en cada `run.py`.
 
-> Nota sobre tweets: el filtro `>= 10 palabras` se calcula sobre el `clean_text` (despues de sacar urls y arroba/almohadilla), por eso 224 466 (no 222 644 como en bertopic). La limpieza tiene una pequeña diferencia: en bertopic se "abre" el hashtag (`#climat` -> `climat`), en manifestoberta el regex actual lo deja igual. Esa variacion afecta a un puñado de tweets en el borde del threshold.
+> Nota sobre tweets: el filtro `>= 10 palabras` se calcula sobre el `clean_text` (después de sacar urls y arroba/almohadilla), por eso 224 466 (y no 222 644, como en bertopic). La limpieza tiene una pequeña diferencia: en bertopic se "abre" el hashtag (`#climat` -> `climat`), mientras que en manifestoberta el regex actual lo deja igual. Esa variación afecta a un puñado de tweets en el borde del umbral.
 
-### Politica de filtrado (resumen por fuente)
+### Política de filtrado (resumen por fuente)
 
-La regla general que sigue el modulo: **>= 10 palabras solo en las fuentes con cola corta ruidosa** (tweets, intervenciones, parrafos de leyes, enmiendas con texto trivial); **sin filtro de largo** en manifiestos que ya vienen pre-segmentados por sus anotadores.
+La regla general del módulo es **>= 10 palabras solo en las fuentes con cola corta ruidosa** (tweets, intervenciones, párrafos de leyes, enmiendas con texto trivial) y **sin filtro de largo** en los manifiestos, que ya vienen pre-segmentados por sus anotadores.
 
-- **Manifestos**. **Sin filtro de largo**. Los manifiestos vienen pre-segmentados en *quasi-sentences* por los anotadores del Manifesto Project (MARPOR), que es la unidad nativa de codificacion del esquema. Filtrar por largo equivaldria a descartar texto ya validado por expertos como codificable, y ademas sub-representaria al PCF (39 quasi-frases en total, estilo telegrafico).
-- **Amendements**. **>= 10 palabras** sobre el texto concatenado `dispositif + expose_sommaire`, ademas de `match_confianza` alta/media entre el numero de scrutin y el texto de la enmienda. La distribucion del corpus tiene mediana ~206 palabras, asi que el filtro corta ~5% formado mayormente por filas donde ambos campos del CSV vienen vacios (NaN) y la concatenacion produce texto basura ("nan nan") y por enmiendas tipo "Supprimer cet article".
-- **Lois**. Cada ley es un texto largo (cientos o miles de palabras); para que el classifier reciba unidades coherentes se la parte en **parrafos** y se filtran los parrafos con **< 10 palabras** (descarta encabezados, referencias huerfanas y fragmentos de tabla). Solo se usan leyes con `texto_confianza == "alta"`.
-- **Tweets**. Limpieza previa: se sacan urls, menciones `@`, hashtags `#`, se normaliza espacios. Luego se filtran tweets con **< 10 palabras** (descarta puro emoji, urls residuales o reactivos cortos tipo "merci!").
+- **Manifestos**. **Sin filtro de largo**. Los manifiestos vienen pre-segmentados en *quasi-sentences* por los anotadores del Manifesto Project (MARPOR), la unidad nativa de codificación del esquema. Filtrar por largo equivaldría a descartar texto ya validado por expertos como codificable, y además sub-representaría al PCF (39 quasi-frases en total, de estilo telegráfico).
+- **Amendements**. **>= 10 palabras** sobre el texto concatenado `dispositif + expose_sommaire`, además de `match_confianza` alta/media entre el número de scrutin y el texto de la enmienda. La distribución del corpus tiene mediana ~206 palabras, así que el filtro corta ~5%, formado mayormente por filas donde ambos campos del CSV vienen vacíos (NaN) y la concatenación produce texto basura ("nan nan"), y por enmiendas tipo "Supprimer cet article".
+- **Lois**. Cada ley es un texto largo (cientos o miles de palabras); para que el clasificador reciba unidades coherentes se la parte en **párrafos** y se filtran los párrafos con **< 10 palabras** (descarta encabezados, referencias huérfanas y fragmentos de tabla). Solo se usan leyes con `texto_confianza == "alta"`.
+- **Tweets**. Limpieza previa: se eliminan urls, menciones `@` y hashtags `#`, y se normalizan los espacios. Luego se filtran los tweets con **< 10 palabras** (descarta puro emoji, urls residuales o reactivos cortos tipo "merci!").
 - **Interventions**. Cascada de tres filtros sobre el corpus crudo del hemiciclo XV (949 718 intervenciones):
-  1. `deputy_id` no nulo → 661 690 (descarta intervenciones de presidentes de sesion, primeros ministros, ministros, secretarios de Estado y demas no-cohorte).
+  1. `deputy_id` no nulo → 661 690 (descarta intervenciones de presidentes de sesión, primeros ministros, ministros, secretarios de Estado y demás no-cohorte).
   2. `>= 10 palabras` → 412 535 (descarta interjecciones tipo "Tres bien!", "Merci.", "Mme la Presidente.", "Sur cet amendement.").
-  3. No procedurales (regex) → **338 192** (descarta formulas tipo "la seance est ouverte/suspendue/reprise", "l'ordre du jour appelle", "je mets aux voix", "le scrutin est ouvert", "la parole est a").
+  3. No procedurales (regex) → **338 192** (descarta fórmulas tipo "la seance est ouverte/suspendue/reprise", "l'ordre du jour appelle", "je mets aux voix", "le scrutin est ouvert", "la parole est a").
 
 ## Pipeline
 
 Implementado en [`common/classifier_runner.py`](common/classifier_runner.py). Cada `run.py` (uno por fuente) carga su CSV, aplica los filtros descritos arriba, llama a `classify_dataframe()` y guarda los resultados en `<fuente>/results/`.
 
-1. **Carga del modelo y tokenizer**. `xlm-roberta-large` tokenizer + `manifestoberta-...-2024-1-1` head fine-tuneado, en GPU si esta disponible (orden de preferencia: `mps` → `cuda` → `cpu`).
-2. **Tokenizacion en batch**. Cada documento se trunca a 200 tokens (igual que en el entrenamiento) con padding a longitud fija.
-3. **Inferencia**. Forward pass con `torch.inference_mode()`, softmax sobre los 56 logits de salida, batch size 16 (32 para tweets que son cortos).
-4. **Top-K + dominio**. Para cada doc se guardan top-1, top-2 y top-3 (label + codigo + probabilidad), y el dominio (1..7) derivado del primer digito del codigo top-1.
-5. **Persistencia**. Una fila por documento en `predictions.csv`, mas tres agregados (`topic_distribution.csv`, `domain_distribution.csv`, `summary.json`).
+1. **Carga del modelo y tokenizer**. Tokenizer `xlm-roberta-large` + head fine-tuneado `manifestoberta-...-2024-1-1`, en GPU si está disponible (orden de preferencia: `mps` → `cuda` → `cpu`).
+2. **Tokenización en batch**. Cada documento se trunca a 200 tokens (igual que en el entrenamiento) con padding a longitud fija.
+3. **Inferencia**. Forward pass con `torch.inference_mode()`, softmax sobre los 56 logits de salida y batch size 16 (32 para tweets, que son cortos).
+4. **Top-K + dominio**. Para cada documento se guardan top-1, top-2 y top-3 (label + código + probabilidad) y el dominio (1..7) derivado del primer dígito del código top-1.
+5. **Persistencia**. Una fila por documento en `predictions.csv`, más tres agregados (`topic_distribution.csv`, `domain_distribution.csv`, `summary.json`).
 
-### Las 56 categorias y los 7 dominios MARPOR
+### Las 56 categorías y los 7 dominios MARPOR
 
-El esquema MARPOR (Manifesto Research on Political Representation, antes Comparative Manifesto Project) es la taxonomia estandar de la ciencia politica comparada para clasificar contenido programatico de partidos. Los 7 dominios y ejemplos de codigos:
+El esquema MARPOR (Manifesto Research on Political Representation, antes Comparative Manifesto Project) es la taxonomía estándar de la ciencia política comparada para clasificar el contenido programático de los partidos. Los 7 dominios y ejemplos de códigos:
 
 | Dominio | Nombre | Ejemplos |
 |---|---|---|
@@ -68,19 +68,19 @@ El esquema MARPOR (Manifesto Research on Political Representation, antes Compara
 
 Lista completa con definiciones: <https://manifestoproject.wzb.eu/coding_schemes/mp_v5>.
 
-### Configuracion por fuente
+### Configuración por fuente
 
 | Fuente | `text_col` (input) | `extra_cols` preservadas | `batch_size` | `device` |
 |---|---|---|---|---|
 | manifestos | `text` (quasi-frase) | `cmp_code`, `partido` | 16 | mps |
 | amendements | `texto_completo` (dispositif + expose_sommaire) | `numero_scrutin`, `match_confianza` | 16 | mps |
-| lois | `paragraph` (texto JORF en parrafos) | `dossier_id` | 16 | mps |
+| lois | `paragraph` (texto JORF en párrafos) | `dossier_id` | 16 | mps |
 | tweets | `clean_text` | `deputy_id`, `political_group` | 32 | mps |
 | interventions | `text` | `deputy_id`, `political_group` | 16 | mps |
 
 ## Detalle de la corrida
 
-Numeros reales medidos en este repo (Apple Silicon M2/M3, MPS):
+Números reales medidos en este repo (Apple Silicon M2/M3, MPS):
 
 | Fuente | Docs clasificados | Tiempo total | docs/seg | `batch_size` | Dispositivo |
 |---|---:|---:|---:|---:|---|
@@ -90,30 +90,30 @@ Numeros reales medidos en este repo (Apple Silicon M2/M3, MPS):
 | tweets        | 224 466 | 2 h 46 min   | 22.48 | 32 | mps |
 | interventions | 338 192 | 4 h 57 min   | 18.98 | 16 | mps |
 
-> Costo total: ~8 h de GPU local sumando los cinco corpus. tweets e interventions son los dos pesados; los otros tres son rapidos.
+> Costo total: ~8 h de GPU local sumando los cinco corpus. tweets e interventions son los dos pesados; los otros tres son rápidos.
 
-## Salidas (que se genera por fuente)
+## Salidas (qué se genera por fuente)
 
 Cada `<fuente>/results/` contiene:
 
 | Archivo | Contenido |
 |---|---|
-| `predictions.csv` | una fila por documento: `text` (truncado a 300 chars), `top1_label`, `top1_code`, `top1_prob`, `top2_*`, `top3_*`, `domain`, mas las `extra_cols` (deputy_id / political_group / cmp_code / numero_scrutin segun fuente) |
-| `topic_distribution.csv` | recuento y porcentaje del top-1 por categoria MARPOR (las 56) |
+| `predictions.csv` | una fila por documento: `text` (truncado a 300 chars), `top1_label`, `top1_code`, `top1_prob`, `top2_*`, `top3_*`, `domain`, más las `extra_cols` (deputy_id / political_group / cmp_code / numero_scrutin según fuente) |
+| `topic_distribution.csv` | recuento y porcentaje del top-1 por categoría MARPOR (las 56) |
 | `domain_distribution.csv` | recuento y porcentaje por dominio (1..7) |
-| `summary.json` | metadata de la corrida: modelo, n_documentos, segundos, docs/seg, device, batch_size, top-10 categorias y distribucion por dominio |
+| `summary.json` | metadata de la corrida: modelo, n_documentos, segundos, docs/seg, device, batch_size, top-10 categorías y distribución por dominio |
 | `run.log` | log textual emitido por `run.py` (output line-buffered) |
 
 ## Resultados
 
-Todas las cifras estan tomadas directamente de los archivos generados por la corrida en `<fuente>/results/`. Para cada fuente se muestran:
+Todas las cifras están tomadas directamente de los archivos generados por la corrida en `<fuente>/results/`. Para cada fuente se muestran:
 
-1. la **distribucion por dominio** (1..7), util para una vision macro,
-2. la **distribucion por categoria** (las 25 mas frecuentes; el archivo CSV trae las 56).
+1. la **distribución por dominio** (1..7), útil para una visión macro;
+2. la **distribución por categoría** (las 25 más frecuentes; el archivo CSV trae las 56).
 
 ### 1) Manifestos (programas electorales 2017) — 3 801 quasi-frases
 
-**Distribucion por dominio**
+**Distribución por dominio**
 
 | Dominio | Nombre | Docs | % |
 |---|---|---:|---:|
@@ -125,7 +125,7 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 7 | Social Groups | 344 | 9.05 |
 | 2 | Freedom and Democracy | 280 | 7.37 |
 
-**Top-25 categorias MARPOR**
+**Top-25 categorías MARPOR**
 
 | # | Codigo | Etiqueta | Docs | % |
 |--:|:--:|---|---:|---:|
@@ -155,11 +155,11 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 24 | 406 | Protectionism: Positive | 41 | 1.08 |
 | 25 | 414 | Economic Orthodoxy | 39 | 1.03 |
 
-> Lectura: el corpus de programas refleja la agenda clasica de campaña. Casi un tercio de las quasi-frases caen en *Welfare and Quality of Life*: estado de bienestar, igualdad, educacion, ambiente. Lo siguen Economia (regulacion, infraestructura tecnologica) y Fabric of Society (orden, modo de vida nacional). Es el corpus mas balanceado entre los cinco — coherente con que es el unico explicitamente diseñado para cubrir toda la agenda programatica.
+> Lectura: el corpus de programas refleja la agenda clásica de campaña. Casi un tercio de las quasi-frases caen en *Welfare and Quality of Life*: estado de bienestar, igualdad, educación, ambiente. Lo siguen Economy (regulación, infraestructura tecnológica) y Fabric of Society (orden, modo de vida nacional). Es el corpus más balanceado entre los cinco, coherente con que es el único explícitamente diseñado para cubrir toda la agenda programática.
 
 ### 2) Amendements (enmiendas votadas en hemicycle) — 2 575 enmiendas
 
-**Distribucion por dominio**
+**Distribución por dominio**
 
 | Dominio | Nombre | Docs | % |
 |---|---|---:|---:|
@@ -171,7 +171,7 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 7 | Social Groups | 246 | 9.55 |
 | 1 | External Relations | 16 | 0.62 |
 
-**Top-25 categorias MARPOR**
+**Top-25 categorías MARPOR**
 
 | # | Codigo | Etiqueta | Docs | % |
 |--:|:--:|---|---:|---:|
@@ -201,11 +201,11 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 24 | 107 | Internationalism: Positive | 8 | 0.31 |
 | 25 | 706 | Non-economic Demographic Groups | 7 | 0.27 |
 
-> Lectura: el corpus de enmiendas esta fuertemente sesgado hacia *Welfare* (43%) y *Economy* (16%): tiene sentido, son las dos arenas mas tocadas por la legislacion XV (presupuesto, salud, fiscalidad, jubilacion, mercado laboral). Llama la atencion la casi-ausencia de External Relations (0.62%): las enmiendas de la Asamblea casi no tocan politica exterior. Tambien se ve un pico de 303 *Governmental and Administrative Efficiency* (7.3%), tipico del lenguaje burocratico de muchas enmiendas tecnicas.
+> Lectura: el corpus de enmiendas está fuertemente sesgado hacia *Welfare* (43%) y *Economy* (16%): tiene sentido, son las dos arenas más tocadas por la legislación XV (presupuesto, salud, fiscalidad, jubilación, mercado laboral). Llama la atención la casi ausencia de External Relations (0.62%): las enmiendas de la Asamblea casi no tocan política exterior. También se ve un pico de 303 *Governmental and Administrative Efficiency* (7.3%), típico del lenguaje burocrático de muchas enmiendas técnicas.
 
-### 3) Lois (parrafos del texto JORF promulgado) — 23 267 parrafos
+### 3) Lois (párrafos del texto JORF promulgado) — 23 267 párrafos
 
-**Distribucion por dominio**
+**Distribución por dominio**
 
 | Dominio | Nombre | Docs | % |
 |---|---|---:|---:|
@@ -217,7 +217,7 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 7 | Social Groups | 1 453 | 6.24 |
 | 1 | External Relations | 237 | 1.02 |
 
-**Top-25 categorias MARPOR**
+**Top-25 categorías MARPOR**
 
 | # | Codigo | Etiqueta | Docs | % |
 |--:|:--:|---|---:|---:|
@@ -247,11 +247,11 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 24 | 107 | Internationalism: Positive | 79 | 0.34 |
 | 25 | 705 | Underprivileged Minority Groups | 74 | 0.32 |
 
-> Lectura: el texto promulgado tiene la firma estilistica del lenguaje legal-administrativo. La categoria 303 *Governmental and Administrative Efficiency* sola se lleva un 24% — es el codigo prototipico de la maquinaria del Estado, y aparece masivamente en parrafos de tipo "Le ministre charge de... fixe par decret en Conseil d'Etat...". Le sigue Welfare (codigo bandera de toda ley con prestaciones, jubilacion, salud), Economy (regulacion de mercados, sectores) y *Law and Order* (codigo penal, seguridad, codigo del trabajo). Casi no hay relaciones externas, coherente con que las leyes XV son mayoritariamente domesticas.
+> Lectura: el texto promulgado tiene la firma estilística del lenguaje legal-administrativo. La categoría 303 *Governmental and Administrative Efficiency* sola se lleva un 24%: es el código prototípico de la maquinaria del Estado y aparece masivamente en párrafos de tipo "Le ministre charge de... fixe par decret en Conseil d'Etat...". Le siguen Welfare (código bandera de toda ley con prestaciones, jubilación, salud), Economy (regulación de mercados y sectores) y *Law and Order* (código penal, seguridad, código del trabajo). Casi no hay relaciones externas, coherente con que las leyes XV son mayoritariamente domésticas.
 
 ### 4) Tweets (cohorte de diputados, 2017-2025) — 224 466 tweets
 
-**Distribucion por dominio**
+**Distribución por dominio**
 
 | Dominio | Nombre | Docs | % |
 |---|---|---:|---:|
@@ -263,7 +263,7 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 2 | Freedom and Democracy | 16 646 | 7.42 |
 | 7 | Social Groups | 13 266 | 5.91 |
 
-**Top-25 categorias MARPOR**
+**Top-25 categorías MARPOR**
 
 | # | Codigo | Etiqueta | Docs | % |
 |--:|:--:|---|---:|---:|
@@ -293,11 +293,11 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 24 | 303 | Governmental and Administrative Efficiency | 2 012 | 0.90 |
 | 25 | 416 | Anti-Growth Economy: Positive | 1 834 | 0.82 |
 
-> Lectura: el tweet politico esta dominado por **305 Political Authority** (26.5% — uno de cada cuatro tweets): es el codigo "yo o mi partido somos competentes para gobernar / X es incompetente / candidatos y cargos / liderazgo". Es el codigo natural de la comunicacion electoral y de auto-promocion en redes ("nous proposons", "le gouvernement echoue", "le president decide"). Comparado con manifestos, en Twitter aparecen mucho mas *Internationalism* (3.4%), *Military* (1.8%) y *Peace* (1%) — los diputados usan Twitter para reaccionar a noticias internacionales (Ucrania, Israel, OTAN) que casi no tocan en sus enmiendas.
+> Lectura: el tweet político está dominado por **305 Political Authority** (26.5%, uno de cada cuatro tweets): es el código "yo o mi partido somos competentes para gobernar / X es incompetente / candidatos y cargos / liderazgo". Es el código natural de la comunicación electoral y de la autopromoción en redes ("nous proposons", "le gouvernement echoue", "le president decide"). Comparado con manifestos, en Twitter aparecen mucho más *Internationalism* (3.4%), *Military* (1.8%) y *Peace* (1%): los diputados usan Twitter para reaccionar a noticias internacionales (Ucrania, Israel, OTAN) que casi no tocan en sus enmiendas.
 
 ### 5) Interventions (hemicycle XV, 2017-2022) — 338 192 intervenciones
 
-**Distribucion por dominio**
+**Distribución por dominio**
 
 | Dominio | Nombre | Docs | % |
 |---|---|---:|---:|
@@ -309,7 +309,7 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 7 | Social Groups | 20 369 | 6.02 |
 | 1 | External Relations | 8 841 | 2.61 |
 
-**Top-25 categorias MARPOR**
+**Top-25 categorías MARPOR**
 
 | # | Codigo | Etiqueta | Docs | % |
 |--:|:--:|---|---:|---:|
@@ -339,11 +339,11 @@ Todas las cifras estan tomadas directamente de los archivos generados por la cor
 | 24 | 414 | Economic Orthodoxy | 2 258 | 0.67 |
 | 25 | 704 | Middle Class and Professional Groups | 2 233 | 0.66 |
 
-> Lectura: las intervenciones del hemiciclo replican el patron de Twitter en el codigo dominante (305 *Political Authority*, 27%) pero cambian los pesos en torno a la mecanica institucional. Aparece un peso mucho mayor de **202 Democracy** (8.9% vs 4.7% en Twitter) y **303 Governmental and Administrative Efficiency** (5.9%): son los codigos del lenguaje parlamentario sobre como se hacen las cosas — debate, voto, procedimiento legislativo, mocion, comision. Tambien es interesante el peso de **604 *Traditional Morality: Negative*** (3%): incluye discusiones sobre PMA, fin-de-vida, laicidad, IVG — temas valorados por las leyes XV. La cola de External Relations es muy fina (2.6%): el hemiciclo toca poca politica exterior, igual que en enmiendas.
+> Lectura: las intervenciones del hemiciclo replican el patrón de Twitter en el código dominante (305 *Political Authority*, 27%), pero cambian los pesos en torno a la mecánica institucional. Aparece un peso mucho mayor de **202 Democracy** (8.9% vs. 4.7% en Twitter) y **303 Governmental and Administrative Efficiency** (5.9%): son los códigos del lenguaje parlamentario sobre cómo se hacen las cosas —debate, voto, procedimiento legislativo, moción, comisión—. También es interesante el peso de **604 *Traditional Morality: Negative*** (3%): incluye discusiones sobre PMA, fin de vida, laicidad e IVG, temas trabajados por las leyes XV. La cola de External Relations es muy fina (2.6%): el hemiciclo toca poca política exterior, igual que en enmiendas.
 
 ### Lectura comparada (los cinco corpus de un vistazo)
 
-Top-1 categoria MARPOR por fuente, en la misma tabla:
+Top-1 categoría MARPOR por fuente, en la misma tabla:
 
 | # | manifestos (3 801) | amendements (2 575) | lois (23 267) | tweets (224 466) | interventions (338 192) |
 |--:|---|---|---|---|---|
@@ -353,29 +353,29 @@ Top-1 categoria MARPOR por fuente, en la misma tabla:
 | 4 | 506 Education Expansion (5.9%) | 303 Govt. & Admin. Efficiency (7.3%) | 605 Law and Order+ (9.3%) | 502 Culture+ (6.1%) | 303 Govt. & Admin. Efficiency (5.9%) |
 | 5 | 202 Democracy (5.4%) | 605 Law and Order+ (7.2%) | 411 Technology & Infrastructure (8.7%) | 202 Democracy (4.7%) | 605 Law and Order+ (4.2%) |
 
-Patron observable:
+Patrón observable:
 
-- **manifestos** → corpus mas balanceado, dominado por la agenda de bienestar e igualdad. Refleja la promesa de campaña.
-- **amendements** → fuertemente sesgado a *Welfare* (prestaciones, salud, jubilacion) y *Economy* (regulacion). Casi sin politica exterior.
-- **lois** → dominado por el codigo legalista 303 (mecanica administrativa) por la naturaleza prescriptiva del JORF.
-- **tweets** + **interventions** → dominados por **305 Political Authority**, el codigo de la comunicacion politica sobre quien decide / quien gobierna / quien lidera. Twitter ademas gana en politica exterior y militar; el hemiciclo gana en *Democracy* y procedimiento.
+- **manifestos** → corpus más balanceado, dominado por la agenda de bienestar e igualdad. Refleja la promesa de campaña.
+- **amendements** → fuertemente sesgado a *Welfare* (prestaciones, salud, jubilación) y *Economy* (regulación). Casi sin política exterior.
+- **lois** → dominado por el código legalista 303 (mecánica administrativa), por la naturaleza prescriptiva del JORF.
+- **tweets** + **interventions** → dominados por **305 Political Authority**, el código de la comunicación política sobre quién decide / quién gobierna / quién lidera. Twitter, además, gana en política exterior y militar; el hemiciclo gana en *Democracy* y procedimiento.
 
-Estos contrastes son justamente la motivacion del cruce 5-fuentes: un mismo diputado dice cosas distintas segun donde habla. La superposicion en *Welfare State Expansion* (siempre top-3) sugiere que es la columna vertebral del corpus politico XV; las divergencias estan en como cada arena (programa, ley, tweet, intervencion) modula esa agenda.
+Estos contrastes son justamente la motivación del cruce entre las 5 fuentes: un mismo diputado dice cosas distintas según dónde habla. La superposición en *Welfare State Expansion* (siempre en el top-3) sugiere que es la columna vertebral del corpus político XV; las divergencias están en cómo cada arena (programa, ley, tweet, intervención) modula esa agenda.
 
-## Validacion contra MARPOR (ground truth humano)
+## Validación contra MARPOR (ground truth humano)
 
-Para responder *"¿el modelo, entrenado en 38 idiomas, sigue siendo confiable en frances politico de la XV legislatura?"* se compara la prediccion top-1/top-3 contra el `cmp_code` humano de MARPOR sobre el unico corpus que tiene etiquetas reales (los manifiestos 2017). Script: [`validate_against_marpor.py`](validate_against_marpor.py). Resultados en [`validation/`](validation/).
+Para responder *"¿el modelo, entrenado en 38 idiomas, sigue siendo confiable en francés político de la XV legislatura?"* se compara la predicción top-1/top-3 contra el `cmp_code` humano de MARPOR sobre el único corpus que tiene etiquetas reales (los manifiestos 2017). Script: [`validate_against_marpor.py`](validate_against_marpor.py). Resultados en [`validation/`](validation/).
 
-### Metricas globales (n = 3 430 quasi-frases con `cmp_code` utilizable)
+### Métricas globales (n = 3 430 quasi-frases con `cmp_code` utilizable)
 
-| Metrica | Valor | Esperado por la model card | Observacion |
+| Métrica | Valor | Esperado por la model card | Observación |
 |---|---:|---:|---|
-| Accuracy top-1 (codigo exacto) | **58.3%** | 57.0% | el modelo se desempeña ligeramente mejor de lo prometido en frances |
-| Accuracy top-3 (codigo en top-3) | **82.0%** | 81.0% | reproduce el numero del paper |
+| Accuracy top-1 (código exacto) | **58.3%** | 57.0% | el modelo se desempeña ligeramente mejor de lo prometido en francés |
+| Accuracy top-3 (código en top-3) | **82.0%** | 81.0% | reproduce el número del paper |
 | Accuracy a nivel de **dominio** (1-7) | **70.3%** | — | 7 de cada 10 quasi-frases caen en el dominio correcto |
-| Macro F1 (sobre las 56 categorias) | **0.44** | — | tipico para clasificacion multiclase muy desbalanceada |
+| Macro F1 (sobre las 56 categorías) | **0.44** | — | típico para clasificación multiclase muy desbalanceada |
 
-> Estos numeros son **consistentes con la performance reportada por los autores** del modelo en su paper original. Significa que el corpus frances XV no es un caso fuera de distribucion, y que las predicciones a nivel de dominio (que son las que mas se interpretan en una tesis) tienen 7 de cada 10 correctas.
+> Estos números son **consistentes con la performance reportada por los autores** del modelo en su paper original. Significa que el corpus francés XV no es un caso fuera de distribución, y que las predicciones a nivel de dominio (que son las que más se interpretan en una tesis) aciertan en 7 de cada 10 casos.
 
 ### Confusion matrix por dominio (filas = verdadero, columnas = predicho)
 
@@ -390,12 +390,12 @@ Para responder *"¿el modelo, entrenado en 38 idiomas, sigue siendo confiable en
 | **7** Social Gr. | 4 | 9 | 16 | 42 | 84 | 13 | **244** | 412 |
 | **All** | 355 | 250 | 305 | 693 | 1066 | 448 | 313 | 3 430 |
 
-> La diagonal concentra la mayoria de la masa, como se espera. Las confusiones tipicas son entre dominios cercanos: 4-5 (Economia ↔ Welfare, frecuente porque presupuesto y prestaciones se solapan), 5-7 (Welfare ↔ Social Groups, porque "ayudas a familias" puede ir a 503 *Equality* o 706 *Non-economic Demographic Groups*) y 6-5 (Fabric of Society ↔ Welfare).
+> La diagonal concentra la mayoría de la masa, como se espera. Las confusiones típicas se dan entre dominios cercanos: 4-5 (Economy ↔ Welfare, frecuente porque presupuesto y prestaciones se solapan), 5-7 (Welfare ↔ Social Groups, porque "ayudas a familias" puede ir a 503 *Equality* o 706 *Non-economic Demographic Groups*) y 6-5 (Fabric of Society ↔ Welfare).
 
 ### Reportes adicionales
 
-- `validation/per_code_classification_report.csv` — precision / recall / f1 por las 56 categorias.
-- `validation/top50_errors_high_confidence.csv` — los 50 errores donde el modelo predijo con mayor confianza un codigo que no era el ground-truth (util para inspeccion cualitativa).
+- `validation/per_code_classification_report.csv` — precision / recall / f1 por las 56 categorías.
+- `validation/top50_errors_high_confidence.csv` — los 50 errores donde el modelo predijo con mayor confianza un código que no era el ground-truth (útil para inspección cualitativa).
 
 ## Reproducir las corridas
 
@@ -407,7 +407,7 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Para ver el progreso en vivo (sin nohup) y guardar el log al mismo tiempo, conviene combinar `python3 -u` con `tee` (NO usar `head`, corta con SIGPIPE las corridas largas):
+Para ver el progreso en vivo (sin nohup) y guardar el log al mismo tiempo, conviene combinar `python3 -u` con `tee` (NO usar `head`, que corta con SIGPIPE las corridas largas):
 
 ```bash
 # manifestos (~3 min)
@@ -425,21 +425,21 @@ python3 -u tweets/run.py 2>&1 | tee tweets/results/run.log
 # interventions (~4 h 57 min)
 python3 -u interventions/run.py 2>&1 | tee interventions/results/run.log
 
-# validacion contra MARPOR (manifestos)
+# validación contra MARPOR (manifestos)
 python3 -u validate_against_marpor.py 2>&1 | tee validation/run.log
 ```
 
-> Pausar/reanudar una corrida larga: `Ctrl+Z` para suspender (SIGTSTP), `fg` para retomar en primer plano, `bg` para mandarla a segundo plano. Equivalente con PID: `kill -STOP <pid>` y `kill -CONT <pid>`. La GPU MPS libera automaticamente al pausar el proceso.
+> Pausar/reanudar una corrida larga: `Ctrl+Z` para suspender (SIGTSTP), `fg` para retomar en primer plano, `bg` para mandarla a segundo plano. Equivalente con PID: `kill -STOP <pid>` y `kill -CONT <pid>`. La GPU MPS se libera automáticamente al pausar el proceso.
 
 ## Notas y limitaciones
 
-- **Truncamiento a 200 tokens**. Es el max len del entrenamiento del modelo y la model card lo recomienda explicitamente. En tweets nunca activa (todos < 200 tokens), en intervenciones largas y leyes si trunca: lo recomendado es alimentar al modelo con la unidad mas chica posible (intervencion completa, parrafo de ley, enmienda) en vez de una sesion entera o un texto JORF entero.
-- **Una etiqueta por documento**. El esquema MARPOR original asigna **una sola** quasi-frase a una sola categoria (por eso los manifiestos vienen pre-segmentados). Cuando aplicamos el modelo a un tweet, intervencion o parrafo, asumimos que el documento es coherente tematicamente. Esto vale en general (los tweets son cortos por diseño, las intervenciones largas se cortan en otra etapa, los parrafos de ley son unidades semanticas) pero no es perfecto. Para un texto multitematico, el top-1 reduce informacion; por eso guardamos top-1, top-2 y top-3 + probabilidades en `predictions.csv`.
-- **Calibracion de probabilidades**. Las `top1_prob` no estan calibradas. Sirven para rankear (ej. top-50 errores de alta confianza) pero no para interpretar literalmente como "estoy 73% seguro".
-- **Categorias muy raras**. Codigos como 408 (*Economic Goals*), 415 (*Marxist Analysis: Positive*), 705 (*Underprivileged Minorities*) o 507 (*Education Limitation*) son intrinsicamente raros en el corpus MARPOR original — su F1 individual es bajo y sus predicciones son ruidosas. La interpretacion solida pasa por dominio o por agrupaciones (ej. Welfare = 501-507).
-- **Comparabilidad con bertopic_analysis**. Los corpus son **los mismos** (mismos filtros, mismos `text_id` cuando aplican). El `predictions.csv` de cada fuente puede joinearse con el `topics_per_*.csv` de su gemelo en `bertopic_analysis/` por la columna identificadora correspondiente (`deputy_id`/`numero_scrutin`/`dossier_id`/`partido`).
+- **Truncamiento a 200 tokens**. Es el max len del entrenamiento del modelo y la model card lo recomienda explícitamente. En tweets nunca se activa (todos tienen < 200 tokens); en intervenciones largas y leyes sí trunca. Lo recomendado es alimentar al modelo con la unidad más chica posible (intervención completa, párrafo de ley, enmienda) en vez de una sesión entera o un texto JORF completo.
+- **Una etiqueta por documento**. El esquema MARPOR original asigna cada quasi-frase a **una sola** categoría (por eso los manifiestos vienen pre-segmentados). Cuando aplicamos el modelo a un tweet, una intervención o un párrafo, asumimos que el documento es coherente temáticamente. Esto vale en general (los tweets son cortos por diseño, las intervenciones largas se cortan en otra etapa, los párrafos de ley son unidades semánticas), pero no es perfecto. Para un texto multitemático, el top-1 reduce información; por eso guardamos top-1, top-2 y top-3 más sus probabilidades en `predictions.csv`.
+- **Calibración de probabilidades**. Las `top1_prob` no están calibradas. Sirven para rankear (p. ej. el top-50 de errores de alta confianza), pero no para interpretarlas literalmente como "estoy 73% seguro".
+- **Categorías muy raras**. Códigos como 408 (*Economic Goals*), 415 (*Marxist Analysis: Positive*), 705 (*Underprivileged Minorities*) o 507 (*Education Limitation*) son intrínsecamente raros en el corpus MARPOR original: su F1 individual es bajo y sus predicciones son ruidosas. La interpretación sólida pasa por dominio o por agrupaciones (p. ej. Welfare = 501-507).
+- **Comparabilidad con bertopic_analysis**. Los corpus son **los mismos** (mismos filtros, mismos `text_id` cuando aplican). El `predictions.csv` de cada fuente puede unirse con el `topics_per_*.csv` de su gemelo en `bertopic_analysis/` por la columna identificadora correspondiente (`deputy_id`/`numero_scrutin`/`dossier_id`/`partido`).
 
-## Estructura del modulo
+## Estructura del módulo
 
 ```
 manifestoberta_analysis/
@@ -470,6 +470,6 @@ manifestoberta_analysis/
     └── top50_errors_high_confidence.csv
 ```
 
-## Modulo hermano
+## Módulo hermano
 
-[`bertopic_analysis/`](../bertopic_analysis/) es la version **no supervisada** del mismo analisis sobre los mismos cinco corpus: en vez de mapear cada documento a una de 56 categorias preexistentes, descubre 25 topicos por fuente via embeddings + UMAP + HDBSCAN. Idealmente se leen juntos: BERTopic muestra **que tematicas emergen del corpus** (con su vocabulario propio: "macron", "ukraine", "covid"), manifestoberta muestra **donde caen esos topicos en la grilla MARPOR** que la ciencia politica viene usando desde 1979.
+[`bertopic_analysis/`](../bertopic_analysis/) es la versión **no supervisada** del mismo análisis sobre los mismos cinco corpus: en vez de mapear cada documento a una de 56 categorías preexistentes, descubre 25 tópicos por fuente vía embeddings + UMAP + HDBSCAN. Idealmente se leen juntos: BERTopic muestra **qué temáticas emergen del corpus** (con su vocabulario propio: "macron", "ukraine", "covid") y manifestoberta muestra **dónde caen esos tópicos en la grilla MARPOR** que la ciencia política viene usando desde 1979.

@@ -2,14 +2,18 @@
 
 Proyecto de datos para la tesis: diputados de la Assemblée nationale (XV legislatura, 2017-2022), sus intervenciones en el hemiciclo, votaciones sobre leyes, actividad en Twitter y programas electorales de sus partidos. Sobre esos cinco corpus se aplican tres módulos de análisis: **BERTopic** (no supervisado), **ManifestoBERTa** (supervisado, taxonomía MARPOR) y un demo acotado de **KG-Gen** (extracción de triples con LLM local).
 
-**Documento de referencia:** [Propuesta Memoria .pdf](Propuesta%20Memoria%20.pdf)
+**Documentos de referencia:**
+
+- **Memoria final** (tesis escrita en LaTeX): [`memoria/`](memoria/)
+- **Propuesta original** que encuadra la investigación: [`memoria/propuesta/Propuesta Memoria .pdf`](memoria/propuesta/Propuesta%20Memoria%20.pdf)
 
 ## Estructura del repositorio
 
 ```
 Tesis/
 ├── README.md                              ← estás aquí
-├── Propuesta Memoria .pdf
+├── memoria/                               ← memoria final (tesis escrita en LaTeX)
+│   └── propuesta/Propuesta Memoria .pdf   ← propuesta original de la investigación
 │
 └── french_deputies/
     ├── README.md

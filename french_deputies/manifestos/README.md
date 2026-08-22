@@ -1,12 +1,14 @@
 # Manifestos — programas electorales de los partidos (Francia 2017)
 
-Acá guardo los **manifiestos (programmes électoraux)** de los partidos que presentaron candidatos en las **legislativas de junio 2017** (XVe legislatura). La fuente es el **[Manifesto Project (MARPOR)](https://manifesto-project.wzb.eu/)**, que codifica los programas electorales frase por frase con categorías temáticas estandarizadas.
+## Propósito
 
-Esto me permite asignar a cada diputado de mi `deputes_2017_2022.csv` la **posición programática oficial** de su partido al momento de la elección, y comparar el texto del manifiesto con lo que dicen en el hemiciclo.
+Almacena los **manifiestos (programmes électoraux)** de los partidos que presentaron candidatos en las **legislativas de junio 2017** (XVe legislatura). La fuente es el **[Manifesto Project (MARPOR)](https://manifesto-project.wzb.eu/)**, que codifica los programas electorales frase por frase con categorías temáticas estandarizadas.
+
+Esto permite asignar a cada diputado de `deputes_2017_2022.csv` la **posición programática oficial** de su partido al momento de la elección, y comparar el texto del manifiesto con lo que se dice en el hemiciclo.
 
 ---
 
-## Qué descargué
+## Qué contiene
 
 **10 partidos franceses**, elección legislativa junio 2017, con el **texto completo** de cada programa electoral:
 
@@ -23,9 +25,7 @@ Esto me permite asignar a cada diputado de mi `deputes_2017_2022.csv` la **posic
 | Union des Démocrates et Indépendants | UDI | 31430 | +13.6 | 31,438 |
 | Les Républicains | LR | 31626 | +13.6 | 31,438 |
 
----
-
-## Cómo dejé ordenada la carpeta
+### Organización de la carpeta
 
 | Carpeta / archivo | Qué hay |
 |---|---|
@@ -35,24 +35,24 @@ Esto me permite asignar a cada diputado de mi `deputes_2017_2022.csv` la **posic
 | **`processed/party_positions.csv`** | Resumen cuantitativo: `rile` (score izquierda-derecha), `planeco`, `markeco`, `welfare`, `intpeace`, etc. |
 | **`data/marpor_core_france_2017.csv`** | Dataset MARPOR completo filtrado: una fila por partido con ~100 columnas de posiciones (% de quasi-sentences por categoría temática). |
 | **`data/marpor_corpus_metadata.json`** | Metadatos del corpus: disponibilidad de texto, anotaciones, idioma. |
-| **`group_to_party_mapping.csv`** | Mi tabla de mapeo `political_group_abbrev` → partido MARPOR. |
-| **`scripts/download_manifestos.py`** | Script que baja todo vía API. |
+| **`group_to_party_mapping.csv`** | Tabla de mapeo `political_group_abbrev` → partido MARPOR. |
+| **`scripts/download_manifestos.py`** | Script que descarga todo vía API. |
 
 ---
 
-## Antes de correr el script (lo que tengo que hacer yo)
+## Cómo reproducir
 
-1. **Registrarme** en [manifesto-project.wzb.eu](https://manifesto-project.wzb.eu/) (gratis con email académico).
-2. **Generar un API key** desde mi perfil (login → Profile → Generate API Key).
+### Requisitos previos
+
+1. **Registrarse** en [manifesto-project.wzb.eu](https://manifesto-project.wzb.eu/) (gratis con email académico).
+2. **Generar un API key** desde el perfil (login → Profile → Generate API Key).
 3. **Guardar el key** como variable de entorno:
 
 ```bash
 export MARPOR_API_KEY="mi_key_aqui"
 ```
 
----
-
-## Cómo lo ejecuto
+### Ejecución
 
 Desde la raíz del repo (**`Tesis/`**):
 
@@ -68,19 +68,19 @@ python3 french_deputies/manifestos/scripts/download_manifestos.py --api-key MI_K
 ```
 
 El script hace todo automáticamente:
-1. Baja el dataset principal de MARPOR y filtra Francia 2017 → `data/`
+1. Descarga el dataset principal de MARPOR y filtra Francia 2017 → `data/`
 2. Identifica los 10 party codes de esa elección
 3. Consulta el corpus y verifica qué manifiestos tienen texto digitalizado
 4. Descarga los textos frase por frase con sus códigos temáticos → `processed/manifesto_texts.csv`
 5. Guarda posiciones políticas por partido → `processed/party_positions.csv`
 
-Después de correr el script, yo generé a mano los textos completos (`manifesto_full_texts.csv` y `textos_por_partido/`) concatenando las quasi-sentences.
+Los textos completos (`manifesto_full_texts.csv` y `textos_por_partido/`) se generaron después, de forma manual, concatenando las quasi-sentences.
 
 ---
 
-## Cómo cruzo esto con mis diputados
+## Cómo se enlaza con los diputados
 
-La cadena es:
+La cadena de cruce es:
 
 ```
 deputes_2017_2022.csv  (political_group_abbrev = "FI")
@@ -100,7 +100,7 @@ El mapeo cubre **~85% de los diputados** (los 7 partidos principales: LREM, LR, 
 
 ## Qué significan los códigos temáticos (cmp_code)
 
-MARPOR clasifica cada frase del manifiesto con un código de 3 dígitos. Algunos relevantes para mi tesis:
+MARPOR clasifica cada frase del manifiesto con un código de 3 dígitos. Algunos relevantes para la tesis:
 
 | Código | Dominio | Ejemplo |
 |---|---|---|
@@ -117,8 +117,8 @@ Esquema completo: [Category Scheme](https://manifesto-project.wzb.eu/information
 
 ---
 
-## De dónde sale cada cosa
+## Fuentes de cada archivo
 
 - **Dataset MARPOR:** [manifesto-project.wzb.eu/datasets](https://manifesto-project.wzb.eu/datasets) — versión 2025a.
 - **Corpus (textos):** descargados vía [API REST](https://manifesto-project.wzb.eu/information/documents/api), versión 2025-1.
-- **Mapeo grupos → partidos:** lo armé yo a partir de mi `deputes_2017_2022.csv` y la lista de partidos MARPOR.
+- **Mapeo grupos → partidos:** elaborado a partir de `deputes_2017_2022.csv` y la lista de partidos MARPOR.

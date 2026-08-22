@@ -1,6 +1,6 @@
 # votes_rd — datos brutos, textos oficiales y enmiendas (AN 2017–2022)
 
-Esta carpeta contiene todo lo que se bajó de la Asamblea nacional y de Légifrance antes de generar las tablas finales en `processed/`.
+Esta carpeta contiene los datos brutos descargados de la Assemblée nationale y de Légifrance, previos a la generación de las tablas finales en `processed/`.
 
 ## Estructura
 

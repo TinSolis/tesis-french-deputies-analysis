@@ -2,15 +2,15 @@
 
 Este módulo valida las clasificaciones MARPOR del proyecto (las que produce [`manifestoberta_analysis/`](../manifestoberta_analysis/)) contra un **benchmark externo e independiente**: el [Chapel Hill Expert Survey (CHES)](https://www.chesdata.eu/), una encuesta de expertos sobre las posiciones de los partidos europeos.
 
-La pregunta que responde: *¿las posiciones izquierda-derecha que estimo desde el texto coinciden con dónde los expertos ubican a los partidos?* Si coinciden, es evidencia fuerte de que el pipeline mide lo que dice medir.
+La pregunta que responde es: *¿las posiciones izquierda-derecha estimadas desde el texto coinciden con dónde ubican los expertos a los partidos?* Si coinciden, es evidencia fuerte de que el pipeline mide lo que dice medir.
 
-El módulo valida el pipeline sobre los **manifiestos**, que son el único canal con codificación humana de referencia (`cmp_code`): eso permite medir contra un techo realista y confirmar que el RILE estimado desde texto es correcto a nivel partido.
+El módulo valida el pipeline sobre los **manifiestos**, el único canal con codificación humana de referencia (`cmp_code`): eso permite medir contra un techo realista y confirmar que el RILE estimado desde el texto es correcto a nivel de partido.
 
 ## Por qué CHES y no RILE
 
 Para ubicar partidos en un eje izquierda-derecha hay dos varas posibles:
 
-- **RILE** (el índice estándar de MARPOR): se calcula sumando/restando categorías MARPOR. Útil, pero **no es validación externa**: se construye con el mismo esquema que ya usa nuestro clasificador, así que comparar contra RILE es chequear consistencia interna (MARPOR vs MARPOR).
+- **RILE** (el índice estándar de MARPOR): se calcula sumando y restando categorías MARPOR. Es útil, pero **no es validación externa**: se construye con el mismo esquema que ya usa nuestro clasificador, así que comparar contra RILE solo chequea consistencia interna (MARPOR vs. MARPOR).
 - **CHES**: encuesta a ~420 politólogos sobre las posiciones de los partidos. Otro mecanismo, otra fuente → **genuinamente externo**. Es la validación que sugirió Franziska.
 
 Usamos **ambos**: RILE como el score que derivamos del texto, y CHES `lrgen` (0 = extrema izquierda, 10 = extrema derecha) como la vara externa contra la cual correlacionarlo.
@@ -97,7 +97,7 @@ Se calcula **dos veces** sobre las mismas frases: una desde `top1_code` (modelo,
 
 ## Alcance: por qué solo manifiestos
 
-Este módulo valida el pipeline **a nivel partido sobre los manifiestos**, y ahí se queda a propósito. Extender RILE a tweets o al hemiciclo para comparar *posiciones* entre canales no aporta: RILE es un índice posicional 1-D, frágil y ciego a la dirección (p. ej. la categoría 305 *Autoridad Política* cuenta igual al que defiende que al que ataca al gobierno), así que el ejercicio termina auditando las limitaciones de RILE en vez de decir algo sobre los diputados. El análisis *cross-canal* de la tesis no pasa por la posición izquierda-derecha sino por el **énfasis temático** (de qué se habla en cada canal), que se trabaja con las distribuciones MARPOR/dominios en otro módulo, no con RILE.
+Este módulo valida el pipeline **a nivel de partido sobre los manifiestos**, y ahí se queda a propósito. Extender RILE a tweets o al hemiciclo para comparar *posiciones* entre canales no aporta: RILE es un índice posicional 1-D, frágil y ciego a la dirección (p. ej. la categoría 305 *Autoridad Política* cuenta igual a quien defiende al gobierno que a quien lo ataca), así que el ejercicio termina auditando las limitaciones de RILE en vez de decir algo sobre los diputados. El análisis *cross-canal* de la tesis no pasa por la posición izquierda-derecha sino por el **énfasis temático** (de qué se habla en cada canal), que se trabaja con las distribuciones MARPOR/dominios en otro módulo, no con RILE.
 
 ## Salidas (`manifestos/results/`)
 
@@ -125,7 +125,7 @@ curl -sL "https://www.chesdata.eu/s/CHES2019V3.csv" -o data/CHES2019V3.csv
 
 ## Próximos pasos
 
-- **A nivel diputado.** El cruce con los votos nominales y la metadata para detectar diputados que se desvían de su partido — esa parte no tiene benchmark externo (es contribución propia); CHES valida el piso a nivel partido.
+- **A nivel diputado.** El cruce con los votos nominales y la metadata para detectar diputados que se desvían de su partido; esa parte no tiene benchmark externo (es contribución propia), y CHES valida el piso a nivel de partido.
 - **Cross-canal por énfasis, no por posición.** La comparación entre canales (manifiestos, tweets, hemiciclo) se hace sobre la distribución de dominios/categorías MARPOR, en un módulo aparte; RILE queda solo como validación del pipeline.
 
 ## Estructura del módulo

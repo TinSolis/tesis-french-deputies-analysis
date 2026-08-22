@@ -1,16 +1,16 @@
 # Resumen cuantitativo (hemiciclo)
 
-Yo calculé estas cifras a partir de `**interventions_xv_2017_2022_meta.csv.gz**` (XVe / ND15), más el conteo de otras legislaturas y de filas en mis leyes votadas cuando existía el archivo.
+Estas cifras se calcularon a partir de `interventions_xv_2017_2022_meta.csv.gz` (XVe / ND15), más el conteo de otras legislaturas y de las filas de las leyes votadas cuando el archivo estaba disponible.
 
-## Narrativa breve
+## Síntesis
 
-Tengo **949,718** intervenciones en el hemiciclo para la **XVe legislatura (2017–2022)** en esta exportación. En **949,718** el acta marca al menos una palabra (`nb_mots` > 0), que es lo que uso como señal de que hay texto analizable. En **661,690** filas pude enlazar el orador con mi `deputes_2017_2022.csv` (columna `deputy_id`); eso son **646** diputados distintos con al menos una intervención en este corpus. Vi **1,561** `seance_id` distintos y **737** días (`date`) distintos con actividad en el acta.
+Esta exportación contiene **949,718** intervenciones en el hemiciclo para la **XVe legislatura (2017–2022)**. En las **949,718** el acta marca al menos una palabra (`nb_mots` > 0), señal de que hay texto analizable. En **661,690** filas se pudo enlazar al orador con `deputes_2017_2022.csv` (columna `deputy_id`), lo que corresponde a **646** diputados distintos con al menos una intervención en este corpus. Se registran **1,561** `seance_id` distintos y **737** días (`date`) distintos con actividad en el acta.
 
-Los **tipos** de tramo más frecuentes en `type` los dejé en la tabla de abajo; a mí me sirve ver cuánto cae bajo `loi` vs. `question`, pero eso **no reemplaza** leer el texto ni la sección.
+Los **tipos** de tramo más frecuentes en `type` figuran en la tabla siguiente. La proporción entre `loi` y `question` es informativa, pero **no reemplaza** la lectura del texto ni de la sección.
 
-En `**section`** conté **18,547** títulos distintos no vacíos. **5,132** de esos títulos contienen palabras que yo asocié a legislación («loi» *(ley)*, «projet» *(proyecto)*, «budget» *(presupuesto)*, etc.): es una **heurística mía** para ver cuánto del debate va explícitamente etiquetado en esa lógica, no un conteo oficial de leyes del AN.
+En `section` se contaron **18,547** títulos distintos no vacíos. **5,132** de esos títulos contienen palabras asociadas a legislación («loi» *(ley)*, «projet» *(proyecto)*, «budget» *(presupuesto)*, etc.): es una **heurística** para estimar cuánto del debate va explícitamente etiquetado en esa lógica, no un conteo oficial de leyes de la AN.
 
-Para comparar con mis votos: en `lois_votes/.../leyes_votadas_2017_2022.csv` tengo **373** filas (scrutins de adopción en mi filtro). El vínculo hemiciclo ↔ ley concreta no viene como ID en esta tabla: lo tengo que pensar yo con fechas, dossiers o lectura manual.
+Para comparar con los votos: `lois_votes/.../leyes_votadas_2017_2022.csv` tiene **373** filas (scrutins de adopción en el filtro aplicado). El vínculo hemiciclo ↔ ley concreta no viene como ID en esta tabla; hay que reconstruirlo con fechas, dossiers o lectura manual.
 
 ## Tipos (`type`) más frecuentes (XV)
 
@@ -23,9 +23,9 @@ Para comparar con mis votos: en `lois_votes/.../leyes_votadas_2017_2022.csv` ten
 
 ---
 
-## Tres ejemplos concretos de la data
+## Tres ejemplos concretos
 
-Para entender qué es una fila en este corpus, acá van tres intervenciones reales con campos seleccionados.
+Para ilustrar qué es una fila en este corpus, a continuación se muestran tres intervenciones reales con campos seleccionados.
 
 ### Ejemplo 1 — Apertura protocolar (tipo `loi`, función presidencial)
 
@@ -47,7 +47,7 @@ Para entender qué es una fila en este corpus, acá van tres intervenciones real
 | `source_url`             | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017/20170124.asp#P980120)                                                      |
 
 
-Es la primera frase del primer día de la legislatura. Muestra una intervención corta de **protocolo**: el presidente de edad abre la sesión. `fonction` = "président, doyen d'âge" *(presidente, decano de edad)* y `deputy_id` está enlazado porque Bernard Brochand aparece en `deputes_2017_2022.csv`.
+Es la primera frase del primer día de la legislatura y muestra una intervención corta de **protocolo**: el presidente de edad abre la sesión. `fonction` = "président, doyen d'âge" *(presidente, decano de edad)* y `deputy_id` está enlazado porque Bernard Brochand aparece en `deputes_2017_2022.csv`.
 
 ---
 
@@ -73,7 +73,7 @@ Es la primera frase del primer día de la legislatura. Muestra una intervención
 | `source_url`             | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017-extra/20171002.asp#P982182)                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
-Acá cambia el `type` a **question** y la `section` muestra la jerarquía con `>`. El diputado no tiene `fonction` especial (es un backbencher hablando). Nótese que `twitter_handle` viene del cruce con mi CSV de diputados — eso me permite vincular este turno de palabra con su actividad en Twitter.
+Aquí el `type` cambia a **question** y la `section` muestra la jerarquía con `>`. El diputado no tiene `fonction` especial (es un backbencher). El `twitter_handle` proviene del cruce con el CSV de diputados, lo que permite vincular este turno de palabra con su actividad en Twitter.
 
 ---
 
@@ -100,7 +100,7 @@ Acá cambia el `type` a **question** y la `section` muestra la jerarquía con `>
 | `source_url`             | [acta](http://www.assemblee-nationale.fr/15/cri/2016-2017-extra/20171003.asp#P983279)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 
-Este es el tipo de fila que más me interesa para la tesis: una intervención **argumentativa** dentro de un debate sobre un texto de ley concreto. La `section` indica el proyecto legislativo (prorogation de l'état d'urgence = *prórroga del estado de emergencia*) y la `sous_section` el artículo en discusión. Con 164 palabras es un turno de palabra sustantivo donde la diputada defiende su enmienda de supresión — el texto plano es lo que le paso al pipeline de NLP.
+Este es el tipo de fila de mayor interés para la tesis: una intervención **argumentativa** dentro de un debate sobre un texto de ley concreto. La `section` indica el proyecto legislativo (prorogation de l'état d'urgence = *prórroga del estado de emergencia*) y la `sous_section`, el artículo en discusión. Con 164 palabras es un turno sustantivo en el que la diputada defiende su enmienda de supresión; el texto plano es la entrada del pipeline de NLP.
 
 ---
 
