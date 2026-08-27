@@ -98,17 +98,11 @@ auditar, criticar o trasladar el sistema a otro caso; el detalle técnico se
 recoge en el anexo~\ref{anexo:a}.
 
 En concreto, el grueso del trabajo recae en técnicas y decisiones propias de la
-computación. Anclar las cinco fuentes exigió resolución de entidades sin clave
-compartida y la consolidación de siglas de grupo en familias, además de reducir
-formatos y unidades muy dispares a documentos comparables mediante limpieza,
-filtros de calidad y enlace. La clasificación aplicó un \emph{transformer}
-multilingüe (ManifestoBERTa, sobre XLM-RoBERTa) en transferencia directa a corpus
-fuera de su dominio de entrenamiento, acompañado de un modelado exploratorio de
-tópicos (BERTopic) para triangular y de una capa de validación que cuantifica
-cuánto de esa transferencia es fiable antes de interpretarla. Sobre esas etiquetas
-se levantan las métricas a nivel de partido y un \emph{pipeline} modular y
-reproducible que encadena adquisición, clasificación, validación y análisis. Es en
-esa capa de ingeniería donde se concentra el aporte de la memoria como trabajo de
+computación --resolución de entidades sin clave compartida, normalización a
+unidades comparables, transferencia de dominio de un clasificador multilingüe con
+su capa de validación, y un \emph{pipeline} modular y reproducible, detalladas al
+presentar las contribuciones en el capítulo~\ref{cap:introduccion}--. Es en esa
+capa de ingeniería donde se concentra el aporte de la memoria como trabajo de
 computación: la lectura politológica posterior se apoya en el instrumento, pero es
 el instrumento --y no ese análisis-- lo que aquí se diseña y se construye.
 

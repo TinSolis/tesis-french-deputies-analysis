@@ -15,6 +15,18 @@ ingeniería de datos y procesamiento de lenguaje natural: hacer comparable
 material que, en su forma bruta, no lo es, y validar que la medición resultante
 capta señal política interpretable.
 
+El trabajo hace dos contribuciones y la principal es de computación. La primera,
+de \textbf{ingeniería}, es el diseño de un sistema que vuelve comparable material
+que en bruto no lo es: resolución de entidades para anclar las cinco fuentes a una
+cohorte única de diputados sin clave compartida, normalización de formatos y
+unidades dispares a documentos comparables, transferencia de dominio de un
+clasificador multilingüe (ManifestoBERTa) a corpus fuera de su entrenamiento junto
+a una capa de validación que cuantifica su fiabilidad, y un \emph{pipeline} modular
+y reproducible que encadena adquisición, clasificación, validación y análisis. La
+segunda, \textbf{analítica} y apoyada en ese instrumento, es un marco comparativo
+que contrasta la agenda declarada con la revelada por el voto. Ambas se retoman en
+las conclusiones (sección~\ref{sec:concl-contribuciones}).
+
 \section{Contexto y motivación}
 \label{sec:contexto}
 
@@ -89,6 +101,8 @@ voto a nivel de partido.
 
 \subsection{Objetivos específicos}
 \label{sec:objetivos-especificos}
+
+Los objetivos específicos concretan la contribución computacional del trabajo:
 
 \begin{enumerate}
   \item Recolectar e integrar las cinco arenas discursivas (programas
