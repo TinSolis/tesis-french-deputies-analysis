@@ -1,0 +1,57 @@
+Franziska Wagner  [16:36]
+Hi Agustín, here are some points. As usual, they're from political science perspective.
+
+there's quite a broad agenda-setting literature (issue entrepreneurs, what results in shifts in agenda, median voter theorem, etc.). I think you can engage more with this literature in the theoretical framework and also mark more clearly your contribution to this field, which you certainly have. 
+I think there's also space in different parts of your analysis and the conclusion to engage more with this literature. 
+I would suggest to add some more descriptive graphs to the data section. It's very confusing with all the numbers to understand the kind and scope of data you have. Just some basic stats. 
+You have your subchapters of "lectura del análisis", but I think it would be easier to follow if you could add a sentence or so to your result presentation (e.g. Figura 4.3) and point out what this implies for the research questions or your research topic
+Sometimes when you introduce new chapters or another analysis section, it feels a bit disconnected from the previous section. For instance, 4.5 has a first paragraph that situates the new section with the previous ones. That helps a lot for orientation. 
+I hope this helps. Let me know if you have any questions.
+
+Here chapter{Marco teórico y revisión de la literatura}
+Here(emph{issue ownership}, la asociación duradera entre un partido y ciertos temas.) - feed back; Since this is not a political science thesis, you'll likely know better the extend to which you should engage with interdisciplinary literature. From a political science perspective, I would advise to engage more with literature around agenda setting as this is relevant for salience. 
+Here(begin{table}[H],centerinn,caption{Los siete dominios de la taxonomía MARPOR, con una categoría ilustrativa por dominio. El detalle de las 56 categorías se encuentra en el anexo~) feed back; decide on which language to use 
+Here(cite{rovny2025ches}, que no se utiliza) feed back; why?
+
+Here chapter{Materiales y métodos}
+Here(section{Fuentes de datos y construcción de los corpus}) feedback; add some graphs with basic stats. It's a bit complicated understanding the different sizes of your data sources.
+
+Here chapter{Resultados}
+Here(muy pocas cuasi-frases, condiciona la correlación.label{fig:rile-ches}end{figure})) feedback; You can already here go a bit into the discussion of what you mentioned in the beginning: difference in what parties say and how they're actually judged by experts 
+Here(desplazamiento se reduce en textbf{unos 12 a 16puntos porcentuales}) feedback; what does this mean then practically?
+Here(común: al centrar por canal, el desplazamiento se reduce entextbf{unos 12 a 16puntos porcentuales} en)) feedback; does this confirm previous research? What does it imply? Parties adjust for different audiences? Channels have different affordances that lead to different topics, etc.?
+
+Here chapter{Introducción}
+Here(intervenciones a diputados individuales, y el voto al grupo ) feedback; in the French Assembly, every diputado has their own vote. There's strong group discipline for groupes parlementaires, but it's not an institutional rule. 
+
+
+Valentin Barriere  [16:12]
+Hi Agustin, I am reviewing the thesis. I made many comments in overleaf.
+
+It is good overall, a bit too dense I’d say, there are many findings that might not be very important. A solution could be to put the main takeaways of each chapter (or each section) as a list in a tcolorbox at the beginning of the section (or the end of the chapter).
+One main thing, is that examples from the data are missing. You draw lot of conclusions using the classifiers results, but never show data that support the findings! It would be a way to validate the classifiers (they are off the shelf from another domain, so it is legitimate to ask if they are really outputing meaningful predictions).
+
+Here \chapter{Marco teórico y revisión de la literatura}
+-here (La forma de esa evaluación se desarrolla en lasección~\ref{sec:metodo-manifestoberta}) feedback; Creo que es mas seccion 3.3.4 diseño de validacion 
+-here(\subsection{Detección de postura y marcos de valores}) feedback; You can remove this I think, since you did not use it in the thesis
+
+Here \chapter{Materiales y métodos}
+-here (\section{Normalización, limpieza y enlace}) feedback; At the end of this section, might be good to add a table to summarize the corpus that you will use with the final sizes of every parts of it  
+-here(En coherencia con lo anterior, el análisis principal usa la \textbf{etiqueta} de) feedback; This would be better if there was a clear/rigorous validation.. You should clearly put this in the limitations I think this phase cannot be automated.
+-here(\subsection{Agenda declarada: énfasis, firma y concentración}) feedback; Estas tres metricas,  de donde vienen? Hay que citar los trabajos que usan esto
+-here(\text{Soporte}_p = \frac{\text{Pour}_p}{\text{Pour}_p + \text{Contre}_p}.) feedback; Mejor traducir favor/contra 
+-here(\subsection{Comparación entre canales declarados}) feedback; It would be very useful to have a table summarizing the different metrics that you use, on which domain of the dataset, and what they are meaning or trying to estimate 
+
+Here \chapter{Resultados}
+-here(\subsection{Validación del clasificador contra MARPOR humano}) feedback; What's the purpose of this subsec? You re train the ManifestoBERTa model ? 
+-here(\subsection{Validación posicional: RILE frente a CHES}) feedback; Maybe some real examples here would be useful 
+-here ({\footnotesize Diagnósticos sobre la capa B ($\rho$; $r$; $n$): partidos con$\geq 100$ cuasi-frases $0{,}89$; $0{,}72$; $6$. Excluyendo RN $0{,}36$; $0{,}37$;$7$. Eje económico del CHES $0{,}57$; $0{,}43$; $8$.}) feedback; I dont really understand this table, and this is not helping Why do you call it a layer? Capa A capa B, etc...
+-here ({imagenes/scatter_rile_vs_ches.png}) feedback; Update the values on the axes 
+-here(\section{Comparación exploratoria entre BERTopic y ManifestoBERTa}) feedback; If you do not use BERTopic in the thesis to explore the data, maybe you should remove everything about it from the main text and put it in the appendix
+-here(\textbf{Twitter} y el \textbf{hemiciclo}, en cambio, la agenda se desplaza haciala \emph{meta-política}:); Show some examples from every party here Maybe that is just a bias from the model when it sees out of distribution examples  
+-here(\subsection{El eje se invierte entre leyes y enmiendas}); How to intepret this? Are the amendments from the opposition and the laws from the government party?...Is this graph actually useful for the thesis narrative? ; 
+-here(Sobre las enmiendas (Figura~\ref{fig:heatmap-soporte-enmiendas}), el clivaje másnítido es \textbf{cultural}, no económico, y se ordena en dos dominios espejo:)feedback; It would be interesting to see what the amendments are about in the different classes from Manifesto...Are the amendments classified as the same than the law they are about? 
+-here(\emph{scrutins} y estabilidad de signo (fracción de réplicas que conservan el signo).}) feedback; what is this? 
+-here(\textbf{Partido} & \textbf{Dominio} & \textbf{Soporte rel.\ (pp)} & \textbf{IC$_{95}$} & \textbf{Estab.\ signo} \\) feedback; this columns can be removed and put in the caption if its 1 for eveyrbody
+-here(aporte principal es \emph{tipológico}, no correlacional. Pero no es aleatoria:) feedback; Is there a paper that can be cited here? I guess thsi finding is not new
+
