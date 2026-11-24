@@ -184,7 +184,7 @@ Enfoque de **adquisición vía API académica** + **normalización tabular** en 
 - **Esquema de categorías / Handbook:** [Category Scheme](https://manifesto-project.wzb.eu/information/documents/handbooks) (Handbook v5 en metadatos locales).
 - **RILE:** índice izquierda–derecha estándar MARPOR (Laver & Budge; documentado en `README.md` y `ches_analysis/common/rile.py`).
 - **ManifestoBERTa (análisis downstream):** [manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1](https://huggingface.co/manifesto-project/manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1).
-- **Documentación interna:** `french_deputies/manifestos/README.md`, `french_deputies/ESTRUCTURA.md`, `french_deputies/party_analysis/README.md`, `french_deputies/manifestoberta_analysis/README.md`.
+- **Documentación interna:** `french_deputies/manifestos/README.md`, `french_deputies/estructura.md`, `french_deputies/party_analysis/README.md`, `french_deputies/manifestoberta_analysis/README.md`.
 
 ---
 

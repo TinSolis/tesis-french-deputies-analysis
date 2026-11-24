@@ -13,7 +13,7 @@ En este experimento se usa un LLM local en lugar del paquete oficial:
 - Backend: **Ollama 0.24.0** (servidor HTTP local).
 - Modelo: **`qwen2.5:3b`** (cuantizado Q4, 1.9 GB, multilingüe, soporta francés).
 - Cómputo: Apple Silicon (CPU + Metal). 100% offline, costo USD 0.
-- Implementación: Python 3.9 con llamadas directas a `http://localhost:11434/api/chat` vía `urllib`. El paquete oficial `kg-gen` requiere Python 3.10+ y DSPy; aquí replicamos el pipeline esencial con un *system prompt* equivalente al de KG-Gen (extracción de triples en JSON estructurado, temperatura 0). Se preserva el aporte conceptual sin la dependencia de la librería.
+- Implementación: Python 3.9 con llamadas directas a `http://localhost:11434/api/chat` vía `urllib`. El paquete oficial `kg_gen` requiere Python 3.10+ y DSPy; aquí replicamos el pipeline esencial con un *system prompt* equivalente al de KG-Gen (extracción de triples en JSON estructurado, temperatura 0). Se preserva el aporte conceptual sin la dependencia de la librería.
 
 ## Corpus de entrada
 
@@ -197,7 +197,7 @@ Este módulo queda versionado como **referencia empírica del experimento** y co
 ## Estructura del módulo
 
 ```
-kg-gen/
+kg_gen/
 ├── README.md                        # este documento
 ├── data/
 │   └── sample_interventions.csv     # 25 intervenciones estratificadas

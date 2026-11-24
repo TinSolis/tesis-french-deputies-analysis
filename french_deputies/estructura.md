@@ -1,6 +1,6 @@
 # Estructura y uso de archivos – french_deputies
 
-La **raíz** contiene solo **README.md** y este **ESTRUCTURA.md**. El resto se reparte en cinco carpetas de **corpus** (`datos_diputados/`, `twitter_zeeschuimer/`, `lois_votes/`, `hemicycle/`, `manifestos/`) y tres carpetas de **análisis** (`bertopic_analysis/`, `manifestoberta_analysis/`, `kg-gen/`), de modo que siempre quede claro qué es fuente, qué es script y qué es tabla final.
+La **raíz** contiene solo **README.md** y este **estructura.md**. El resto se reparte en cinco carpetas de **corpus** (`datos_diputados/`, `twitter_zeeschuimer/`, `lois_votes/`, `hemicycle/`, `manifestos/`) y tres carpetas de **análisis** (`bertopic_analysis/`, `manifestoberta_analysis/`, `kg_gen/`), de modo que siempre quede claro qué es fuente, qué es script y qué es tabla final.
 
 ## Archivos principales (los que usa la tesis)
 
@@ -25,7 +25,7 @@ La **raíz** contiene solo **README.md** y este **ESTRUCTURA.md**. El resto se r
 | **`lois_votes/scripts/build_laws_and_votes.py`** | Tablas de leyes filtradas y votos (y cohorte) |
 | **`lois_votes/scripts/build_leyes_texte_oficial.py`** | NOR / URL JORF y texto opcional desde `textes_lois/` |
 | **`hemicycle/scripts/build_interventions_with_deputies.py`** | TSV en `hemicycle/fuente/` → tablas en `hemicycle/processed/` |
-| **`hemicycle/scripts/report_hemicycle_stats.py`** | Actualiza **`RESUMEN_CUANTITATIVO.md`** |
+| **`hemicycle/scripts/report_hemicycle_stats.py`** | Actualiza **`resumen_cuantitativo.md`** |
 | **`manifestos/scripts/download_manifestos.py`** | API MARPOR → dataset + textos Francia 2017 en `manifestos/` |
 
 ## Módulos de análisis (sobre los 5 corpus)
@@ -34,7 +34,7 @@ La **raíz** contiene solo **README.md** y este **ESTRUCTURA.md**. El resto se r
 |---|---|
 | **`bertopic_analysis/`** | Topic modeling no supervisado sobre las 5 fuentes (manifestos, amendements, lois, tweets, interventions). Un `<fuente>/run.py` por corpus + `common/bertopic_runner.py` con la pipeline compartida (embed → UMAP → HDBSCAN → c-TF-IDF, reducción a 25 tópicos). Stop-words por dominio. README con datos, filtros, configuración y resultados embebidos. |
 | **`manifestoberta_analysis/`** | Clasificación supervisada con `manifestoberta-xlm-roberta-56policy-topics-sentence-2024-1-1` sobre las mismas 5 fuentes. Mismos filtros que BERTopic para que los corpus sean comparables. `validate_against_marpor.py` mide accuracy top-1/3 y confusion matrix contra `cmp_code` humano (manifiestos 2017). |
-| **`kg-gen/`** | Demo acotado de KG-Gen sobre 25 intervenciones de un debate emblemático ("renforcement du dialogue social", Ordonnances Macron). Backend local Ollama + `qwen2.5:3b`. Documenta tiempos y calidad para justificar por qué no se aplica al corpus completo. |
+| **`kg_gen/`** | Demo acotado de KG-Gen sobre 25 intervenciones de un debate emblemático ("renforcement du dialogue social", Ordonnances Macron). Backend local Ollama + `qwen2.5:3b`. Documenta tiempos y calidad para justificar por qué no se aplica al corpus completo. |
 
 > Los `<fuente>/results/` de los tres módulos no se versionan (CSVs, HTMLs interactivos, logs y `predictions.csv` grandes); se regeneran corriendo el `run.py` correspondiente. Sí se versionan los códigos (`run.py`, `common/`, `requirements.txt`) y el README con resultados embebidos.
 
@@ -53,17 +53,17 @@ La **raíz** contiene solo **README.md** y este **ESTRUCTURA.md**. El resto se r
 | Archivo | Contenido |
 |---|---|
 | **`README.md`** (raíz `french_deputies/`) | Visión general, los 5 corpus y los 3 módulos de análisis |
-| **`ESTRUCTURA.md`** | Este índice |
+| **`estructura.md`** | Este índice |
 | **`datos_diputados/README.md`** | Construcción del CSV de diputados |
 | **`twitter_zeeschuimer/README.md`** | Captura y fusión de Twitter |
 | **`lois_votes/votes_rd/README.md`** | Leyes y votos: fuentes, pasos, archivos de salida |
 | **`hemicycle/README.md`** | Hemiciclo: carpetas, comandos, resumen cuantitativo |
-| **`hemicycle/GUIA_IDENTIFICADORES_TESIS.md`** | Diccionario de columnas y enlaces con el resto del proyecto |
-| **`hemicycle/RESUMEN_CUANTITATIVO.md`** | Cifras del corpus de intervenciones (regenerado con el script de reporte) |
+| **`hemicycle/guia_identificadores.md`** | Diccionario de columnas y enlaces con el resto del proyecto |
+| **`hemicycle/resumen_cuantitativo.md`** | Cifras del corpus de intervenciones (regenerado con el script de reporte) |
 | **`manifestos/README.md`** | Descarga de los manifiestos, mapeo grupos → partidos, códigos MARPOR |
 | **`bertopic_analysis/README.md`** | Topic modeling no supervisado: corpus, filtros, pipeline, configuración por fuente, resultados (top tópicos por corpus) |
 | **`manifestoberta_analysis/README.md`** | Clasificación supervisada MARPOR: corpus, filtros, configuración por fuente, distribución de las 56 categorías y 7 dominios, validación |
-| **`kg-gen/README.md`** | Demo KG-Gen: subset, pipeline, tiempos medidos, extrapolaciones e implicancias para la tesis |
+| **`kg_gen/README.md`** | Demo KG-Gen: subset, pipeline, tiempos medidos, extrapolaciones e implicancias para la tesis |
 
 ## Resumen rápido
 
@@ -73,5 +73,5 @@ La **raíz** contiene solo **README.md** y este **ESTRUCTURA.md**. El resto se r
 - **Manifiestos:** `manifestos/processed/` (correr con API key de MARPOR).
 - **BERTopic** (no supervisado): `bertopic_analysis/<fuente>/run.py` para cada uno de los 5 corpus.
 - **ManifestoBERTa** (supervisado, MARPOR): `manifestoberta_analysis/<fuente>/run.py` + `validate_against_marpor.py`.
-- **KG-Gen** (demo experimental): `kg-gen/scripts/01_build_sample.py` → `02_extract_triples.py` → `03_analyze.py`, con Ollama + `qwen2.5:3b` en local.
+- **KG-Gen** (demo experimental): `kg_gen/scripts/01_build_sample.py` → `02_extract_triples.py` → `03_analyze.py`, con Ollama + `qwen2.5:3b` en local.
 - **Reproducir todo:** primero los 5 corpus en orden (datos_diputados → twitter_zeeschuimer → lois_votes → hemicycle → manifestos), después los módulos de análisis (cualquiera, son independientes).

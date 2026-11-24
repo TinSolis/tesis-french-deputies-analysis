@@ -159,7 +159,7 @@ Así, **declarada** y **revelada** son las dos caras del mismo partido; CHES val
 - **Correlaciones por partido como secundarias:** con n=6 dominios y 7–11 partidos, los coeficientes son ruidosos; se reportan con IC para mostrar fragilidad, no para concluir → el peso recae en la **tipología** y los **signos por celda**.
 - **FN/RN como familia analítica:** los diputados FN/RN figuran como `NI` en los datos (no formaron grupo); se reagrupan como **`FN`** vía override por **11 `deputy_id`** (`party_analysis/common/families.py`), **sin convertir todo `NI`** (el resto queda residual, **no proxy de FN/RN**). Caveats: base parlamentaria pequeña; Houplain y Évrard sin tweets; Évrard dejó el FN en nov-2017 (atribución posterior con cautela); `MIN_EXPRESSED=3` limita sus scrutins; soporte relativo negativo ≠ rechazo absoluto; sin causalidad.
 - **Manejo de escala/ruido/muestra:** bootstrap (multinomial y por clúster), umbral de fiabilidad (≥100 frases; ≥3 diputados expresando voto), descarte de *External Relations* por bajo leverage (5 leyes / 16 enmiendas), y marcado explícito de muestras chicas (PCF 39, PS 79).
-- **Carpetas/artefactos experimentales o secundarios:** `kg-gen/` (sin contexto entre los 9; usa `interventions_xv_sample5000.csv`); en `datos_diputados/` hay exports fuera del pipeline (`deputes_2017_2022_an.csv`, `nosdeputes.fr_*.csv`).
+- **Carpetas/artefactos experimentales o secundarios:** `kg_gen/` (sin contexto entre los 9; usa `interventions_xv_sample5000.csv`); en `datos_diputados/` hay exports fuera del pipeline (`deputes_2017_2022_an.csv`, `nosdeputes.fr_*.csv`).
 - **Reproducibilidad:** raw masivo (ZIP, XML, `.ndjson`, `results/`) **no versionado** en Git; se regenera con los scripts. Cifras canónicas embebidas en los README.
 
 ---
@@ -198,7 +198,7 @@ Así, **declarada** y **revelada** son las dos caras del mismo partido; CHES val
 
 ## 11. Qué falta revisar antes de escribir
 
-1. **`kg-gen/`** no tiene contexto entre los 9: documentar qué hace, qué consume y qué produce, o decidir si queda fuera de la memoria **(por verificar)**.
+1. **`kg_gen/`** no tiene contexto entre los 9: documentar qué hace, qué consume y qué produce, o decidir si queda fuera de la memoria **(por verificar)**.
 2. **Reproducibilidad de fechas/versiones:** fecha de descarga del ZIP AN, del CSV twitter-parlementaires, de PISTE y del TSV del hemiciclo; versiones de `transformers`/`torch`. No están centralizadas.
 3. **Cobertura de manifiestos — RESUELTO.** La cifra reproducible es **628/668 = 94,0 %**; quedan fuera exactamente **40 diputados** (LT 13, grupo vacío 13, EDS 9, AGIR-E 5 — los 4 grupos sin `party_name_marpor`). El "85 %" del README es aproximado (subconjunto de "partidos principales"), no contradictorio. **Usar 94 % en la memoria.** Pendiente menor: encoding `EÃLV` en `party_positions.csv`.
 4. **LR = UDI — RESUELTO (no es bug del proyecto).** `LR_31626_201706.txt` y `UDI_31430_201706.txt` son **byte-idénticos** (282 quasi-frases cada uno, 31.438 caracteres = 33.032 bytes) y `party_positions.csv` les da métricas idénticas (rile 13.619, etc.): es **MARPOR** quien asignó el mismo documento a los IDs 31626 y 31430. En el análisis cuentan como uno; sus 282+282 frases idénticas son parte del corpus de 3.801.

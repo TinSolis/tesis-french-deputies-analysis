@@ -191,7 +191,7 @@ Enfoque de **integración de fuentes heterogéneas** (open data parlamentario + 
 - **Assemblée nationale — open data (15e législature, acteurs/députés):** [Archives 15e — députés, sénateurs et ministres](https://data.assemblee-nationale.fr/archives-anterieures/archives-15e/deputes-senateurs-et-ministres); archivo usado: `AMO20_dep_sen_min_tous_mandats_et_organes_XV.json.zip` (URL en `scripts/fetch_an_15e_deputes.py`).
 - **Regards Citoyens — twitter-parlementaires:** repositorio GitHub [regardscitoyens/twitter-parlementaires](https://github.com/regardscitoyens/twitter-parlementaires) (fuente de `deputes_twitter_rd.csv`).
 - **Regards Citoyens / NosDéputés.fr:** sitio [nosdeputes.fr](https://www.nosdeputes.fr/) — posible origen del snapshot `nosdeputes.fr_deputes_2026-02-19.csv` (no integrado al pipeline actual).
-- **Documentación interna del proyecto:** `french_deputies/datos_diputados/README.md`, `french_deputies/ESTRUCTURA.md`, `french_deputies/README.md`.
+- **Documentación interna del proyecto:** `french_deputies/datos_diputados/README.md`, `french_deputies/estructura.md`, `french_deputies/README.md`.
 
 ---
 

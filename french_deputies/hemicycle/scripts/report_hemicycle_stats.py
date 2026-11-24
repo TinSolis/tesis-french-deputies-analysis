@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Lee salidas en hemicycle/processed/ y escribe RESUMEN_CUANTITATIVO.md
+Lee salidas en hemicycle/processed/ y escribe resumen_cuantitativo.md
 (narrativa + tablas breves). Ejecutar desde francia_deputies:
 
   python3 hemicycle/scripts/report_hemicycle_stats.py
@@ -26,7 +26,7 @@ LEYSES = (
     / "processed"
     / "leyes_votadas_2017_2022.csv"
 )
-OUT_MD = HEMICYCLE_DIR / "RESUMEN_CUANTITATIVO.md"
+OUT_MD = HEMICYCLE_DIR / "resumen_cuantitativo.md"
 
 
 def count_rows_gz(path: Path) -> int:

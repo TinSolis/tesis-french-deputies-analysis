@@ -12,7 +12,7 @@ Esta carpeta construye el corpus de **actividad legislativa y votaciones nominal
 
 | Archivo | Rol |
 |---------|-----|
-| `README_LOIS_VOTES.md` | Documentación principal: fuentes, flujo de reproducción, columnas, metodología. |
+| `README.md` | Documentación principal: fuentes, flujo de reproducción, columnas, metodología. |
 | `votes_rd/README.md` | Estructura de raw data y estado del dataset. |
 | `.env.example` | Plantilla `PISTE_CLIENT_ID` / `PISTE_CLIENT_SECRET` para Légifrance (`.env` en `.gitignore`). |
 
@@ -131,7 +131,7 @@ Enfoque de **ETL multi-fuente** con entity linking parlamentario y recuperación
 | **Introducción** | Fuentes oficiales francesas (AN + Légifrance); votación nominal como señal de preferencia revelada. |
 | **Metodología — recolección** | Open data + API PISTE; dos granularidades (ley completa vs. enmienda). |
 | **Metodología — agenda revelada** | Contraste con manifiestos/tweets (declarada) en `party_analysis/`. |
-| **Implementación** | Pipeline de 9 scripts, orden en `README_LOIS_VOTES.md`, configuración `.env`. |
+| **Implementación** | Pipeline de 9 scripts, orden en `README.md`, configuración `.env`. |
 | **Experimentos / resultados** | Volúmenes de scrutins y votos; cobertura de texto; distribución temática vía NLP downstream. |
 | **Discusión / limitaciones** | 28 dossiers sin texto; 7 % enmiendas sin link; confianza media/baja; leyes constitucionales/CMP. |
 | **Anexos** | Esquema de columnas; ejemplos `EJEMPLO_*.txt`; URLs de ZIP AN. |
@@ -177,7 +177,7 @@ Enfoque de **ETL multi-fuente** con entity linking parlamentario y recuperación
 1. **Discrepancia enmiendas con texto — RESUELTO (criterios distintos + desfase menor):** **2 575** = entran al análisis NLP (`match_confianza` alta/media + ≥10 palabras, verificado); **2 886** = con `dispositif` o `expose_sommaire` (reproducible hoy); **2 689** = solo `dispositif`. El **2 904 (93 %) del README** está levemente desactualizado: desfase real de **18 filas** vs. 2 886 (probable regeneración del dataset). `match_confianza` verificado: alta 2 155 / media 565 / baja 304 / ninguna 102 (suma 3 126). **Usar 2 575 (análisis) y 2 886 (con texto).**
 2. **Votos leyes:** `votos_por_diputado` y `_cohorte` tienen el mismo número de filas (**78 116**) — confirmar si implica que todos los votantes están en la cohorte o si el filtro no reduce.
 3. **`amendements_textos.csv`:** gitignored (~496 MB); no está en el clone sin regenerar.
-4. **Ruta README en `ESTRUCTURA.md`:** apunta a `lois_votes/votes_rd/README.md`; la guía completa está en `README_LOIS_VOTES.md`.
+4. **Ruta README en `estructura.md`:** apunta a `lois_votes/votes_rd/README.md`; la guía completa está en `README.md`.
 5. **Reproducibilidad PISTE:** fechas de descarga y versión de API no quedan en metadatos centralizados.
 6. **`bertopic_analysis/lois/run.py`** menciona `articles_lois_xv.csv.gz` en un comentario del README de BERTopic — verificar si es alias o archivo distinto de `leyes_texto_oficial.csv`.
 
@@ -195,7 +195,7 @@ Enfoque de **ETL multi-fuente** con entity linking parlamentario y recuperación
 - **PISTE / Légifrance:** [piste.gouv.fr](https://piste.gouv.fr); registro [piste.gouv.fr/registration](https://piste.gouv.fr/registration).
 - **Cohorte diputados:** `french_deputies/datos_diputados/processed/deputes_2017_2022.csv`.
 - **Análisis downstream:** `french_deputies/bertopic_analysis/README.md`, `french_deputies/manifestoberta_analysis/README.md`, `french_deputies/party_analysis/README.md`.
-- **Documentación interna:** `french_deputies/lois_votes/README_LOIS_VOTES.md`, `french_deputies/lois_votes/votes_rd/README.md`, `french_deputies/ESTRUCTURA.md`.
+- **Documentación interna:** `french_deputies/lois_votes/README.md`, `french_deputies/lois_votes/votes_rd/README.md`, `french_deputies/estructura.md`.
 
 ---
 

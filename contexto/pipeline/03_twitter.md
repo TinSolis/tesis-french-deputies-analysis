@@ -174,7 +174,7 @@ Enfoque de **recolección por captura de tráfico web** (web scraping pasivo en 
 - **FoxScroller** (autoscroll Firefox, citado en `README.md`): [addons.mozilla.org — FoxScroller](https://addons.mozilla.org/en-US/firefox/addon/foxscroller/).
 - **Lista de diputados y handles:** `french_deputies/datos_diputados/processed/deputes_2017_2022.csv` (fuente: AN + [twitter-parlementaires](https://github.com/regardscitoyens/twitter-parlementaires)).
 - **Análisis downstream:** `french_deputies/bertopic_analysis/README.md`, `french_deputies/manifestoberta_analysis/README.md`; scripts `bertopic_analysis/tweets/run.py`, `manifestoberta_analysis/tweets/run.py`.
-- **Documentación interna:** `french_deputies/twitter_zeeschuimer/README.md`, `french_deputies/ESTRUCTURA.md`.
+- **Documentación interna:** `french_deputies/twitter_zeeschuimer/README.md`, `french_deputies/estructura.md`.
 
 ---
 

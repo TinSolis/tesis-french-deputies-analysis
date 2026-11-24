@@ -13,15 +13,15 @@ Esta carpeta procesa el **corpus de intervenciones en el hemiciclo** de la Assem
 | Archivo | Contenido |
 |---------|-----------|
 | `README.md` | Estructura, columnas clave, comandos, orden de magnitud del corpus. |
-| `GUIA_IDENTIFICADORES_TESIS.md` | Diccionario de columnas y enlaces con diputados, Twitter y votos. |
-| `RESUMEN_CUANTITATIVO.md` | Métricas regenerables (949 718 intervenciones, tipos, ejemplos). |
+| `guia_identificadores.md` | Diccionario de columnas y enlaces con diputados, Twitter y votos. |
+| `resumen_cuantitativo.md` | Métricas regenerables (949 718 intervenciones, tipos, ejemplos). |
 
 ### Scripts (`scripts/`)
 
 | Archivo | Función |
 |---------|---------|
 | `build_interventions_with_deputies.py` | Lee TSV.gz en `fuente/`, limpia HTML, parsea URLs CRI, cruza ND15 con diputados por nombre, escribe tablas en `processed/`. |
-| `report_hemicycle_stats.py` | Lee `interventions_xv_2017_2022_meta.csv.gz` y regenera `RESUMEN_CUANTITATIVO.md`. |
+| `report_hemicycle_stats.py` | Lee `interventions_xv_2017_2022_meta.csv.gz` y regenera `resumen_cuantitativo.md`. |
 
 ### Entrada manual (`fuente/`)
 
@@ -36,7 +36,7 @@ Esta carpeta procesa el **corpus de intervenciones en el hemiciclo** de la Assem
 | **`interventions_xv_2017_2022_with_deputies.csv.gz`** | Tabla maestra (~139 MB): texto + metadatos + columnas `deputy_*`. Entrada de BERTopic/ManifestoBERTa. |
 | **`interventions_xv_2017_2022_meta.csv.gz`** | Igual sin `intervention_plain` (~24 MB). |
 | **`interventions_xv_2017_2022_texts.csv.gz`** | `intervention_id` + texto (~100 MB). |
-| **`interventions_xv_sample5000.csv`** | Muestra de 5 000 filas sin comprimir (versionada; usada por `kg-gen/`). |
+| **`interventions_xv_sample5000.csv`** | Muestra de 5 000 filas sin comprimir (versionada; usada por `kg_gen/`). |
 | `interventions_xiii_xiv_xvi_speaker_text.csv.gz` | Agregado ND13/14/16 **solo si** hay esos TSV en `fuente/`; no se sobrescribe si solo hay ND15. |
 
 ---
@@ -54,11 +54,11 @@ build_interventions_with_deputies.py
 processed/interventions_xv_2017_2022_*.csv.gz  +  sample5000.csv
          │
          ▼
-report_hemicycle_stats.py  →  RESUMEN_CUANTITATIVO.md
+report_hemicycle_stats.py  →  resumen_cuantitativo.md
          │
          ▼
 bertopic_analysis/interventions/  |  manifestoberta_analysis/interventions/
-party_analysis/interventions/     |  kg-gen/ (muestra)
+party_analysis/interventions/     |  kg_gen/ (muestra)
 ```
 
 **Entrada upstream:** `datos_diputados/processed/deputes_2017_2022.csv`.
@@ -114,13 +114,13 @@ Enfoque de **ETL sobre export tabular** + **entity linking por nombre**. **No ha
 | **Implementación** | Dos scripts Python; separación meta/texto; regeneración de estadísticas. |
 | **Resultados** | Volumen (~950k intervenciones); dominancia `type=loi` (839 970); análisis por partido en `party_analysis/`. |
 | **Discusión** | Sesgo hacia meta-política (dominio Political System en NLP); límite de enlace con votos/leyes. |
-| **Anexos** | `GUIA_IDENTIFICADORES_TESIS.md`; ejemplos en `RESUMEN_CUANTITATIVO.md`; `source_url` para citar acta. |
+| **Anexos** | `guia_identificadores.md`; ejemplos en `resumen_cuantitativo.md`; `source_url` para citar acta. |
 
 ---
 
 ## Resultados, decisiones o detalles relevantes
 
-**Cifras (ND15, `RESUMEN_CUANTITATIVO.md`):**
+**Cifras (ND15, `resumen_cuantitativo.md`):**
 
 | Métrica | Valor |
 |---------|-------|
@@ -146,13 +146,13 @@ Enfoque de **ETL sobre export tabular** + **entity linking por nombre**. **No ha
 - Granularidad distinta a votos (turno de palabra vs. scrutin).
 - `party_analysis`: dominio dominante Political System; oposición sobre-enfatiza 305 Autoridad Política (documentado en `party_analysis/README.md`).
 
-**Consumidores:** `bertopic_analysis/interventions/`, `manifestoberta_analysis/interventions/`, `party_analysis/interventions/`, `kg-gen/scripts/01_build_sample.py`.
+**Consumidores:** `bertopic_analysis/interventions/`, `manifestoberta_analysis/interventions/`, `party_analysis/interventions/`, `kg_gen/scripts/01_build_sample.py`.
 
 ---
 
 ## Dudas o cosas a revisar
 
-1. **Conteo exacto sin match:** el build imprime aviso de `parlementaire` sin match; no está consolidado en `RESUMEN_CUANTITATIVO.md`.
+1. **Conteo exacto sin match:** el build imprime aviso de `parlementaire` sin match; no está consolidado en `resumen_cuantitativo.md`.
 2. **BERTopic docstring** menciona ~508k docs tras filtros iniciales vs. **338 192** finales tras regex procedimental — usar cifra de `manifestoberta_analysis/README.md` para la memoria.
 3. **URL de descarga** del TSV Regards Citoyens no está documentada en el repo (solo nombre de archivo `20250916_ND15_…`).
 4. **Enlace hemiciclo ↔ ley:** heurística de `section` (5 132 títulos con palabras clave) no sustituye cruce con `dossier_uid` de `lois_votes/`.
@@ -173,8 +173,8 @@ Enfoque de **ETL sobre export tabular** + **entity linking por nombre**. **No ha
 - **Assemblée nationale — Compte rendu intégral (CRI):** URLs en `source_url` / campos `cri_*` (ej. `assemblee-nationale.fr/15/cri/...`).
 - **Cohorte diputados:** `french_deputies/datos_diputados/processed/deputes_2017_2022.csv`.
 - **Votos (comparación):** `french_deputies/lois_votes/votes_rd/processed/leyes_votadas_2017_2022.csv`.
-- **Análisis downstream:** `french_deputies/bertopic_analysis/README.md`, `french_deputies/manifestoberta_analysis/README.md`, `french_deputies/party_analysis/README.md`, `french_deputies/kg-gen/README.md`.
-- **Documentación interna:** `french_deputies/hemicycle/README.md`, `GUIA_IDENTIFICADORES_TESIS.md`, `RESUMEN_CUANTITATIVO.md`.
+- **Análisis downstream:** `french_deputies/bertopic_analysis/README.md`, `french_deputies/manifestoberta_analysis/README.md`, `french_deputies/party_analysis/README.md`, `french_deputies/kg_gen/README.md`.
+- **Documentación interna:** `french_deputies/hemicycle/README.md`, `guia_identificadores.md`, `resumen_cuantitativo.md`.
 
 ---
 
@@ -191,7 +191,7 @@ Enfoque de **ETL sobre export tabular** + **entity linking por nombre**. **No ha
 | **Implementación** | 2 scripts; limpieza HTML; separación meta/texto; regeneración de estadísticas. |
 | **Resultados** | Volumen y dominancia de *Political System* (meta-política) por canal. |
 | **Discusión / limitaciones** | Sesgo meta-político; sin enlace automático intervención↔ley. |
-| **Anexos** | `GUIA_IDENTIFICADORES_TESIS.md`; ejemplos; `source_url` para citar el acta. |
+| **Anexos** | `guia_identificadores.md`; ejemplos; `source_url` para citar el acta. |
 
 **Información concreta a extraer:**
 - **949.718** intervenciones; **661.690** con `deputy_id` (**~70 %**); **646** diputados distintos.
@@ -199,7 +199,7 @@ Enfoque de **ETL sobre export tabular** + **entity linking por nombre**. **No ha
 - Composición por tipo: `type=loi` 839.970, `type=question` 109.748.
 
 **Figuras, tablas o métricas que contiene/menciona:**
-- Tabla de cifras de `RESUMEN_CUANTITATIVO.md` (intervenciones, `seance_id`, días con actividad, títulos `section`, tipos). **Sin figuras propias** (heatmaps por grupo salen de BERTopic/`party_analysis/`).
+- Tabla de cifras de `resumen_cuantitativo.md` (intervenciones, `seance_id`, días con actividad, títulos `section`, tipos). **Sin figuras propias** (heatmaps por grupo salen de BERTopic/`party_analysis/`).
 
 **Limitaciones / dudas a trasladar:**
 - **~30 %** de intervenciones **sin `deputy_id`** (ministros, presidencia, no-cohorte, errores de match por nombre sin fuzzy).

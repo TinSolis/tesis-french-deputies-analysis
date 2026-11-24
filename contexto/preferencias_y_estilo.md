@@ -4,7 +4,7 @@
 > Cubre: quién soy y cómo pido las cosas, mis preferencias y lo que corrijo,
 > qué hemos hecho, y la estructura/lógica del repositorio.
 > Para el detalle técnico del proyecto empírico ver `memoria/context/general_context.md`
-> (síntesis completa) y `french_deputies/ESTRUCTURA.md`. Para el estilo LaTeX ver
+> (síntesis completa) y `french_deputies/estructura.md`. Para el estilo LaTeX ver
 > `memoria/manual/Manual-de-normalizacion.md`.
 
 ---
@@ -69,7 +69,7 @@ Fuente autoritativa: `memoria/manual/Manual-de-normalizacion.md`. Lo esencial qu
 ```
 /Users/agustin.solis/Tesis
 ├── README.md                      # README raíz del repo (proyecto de datos)
-├── REFERENCIAS.md
+├── contexto/referencias.md
 ├── Context.md                     # ESTE documento (contexto conversacional)
 ├── memoria/                       # LA TESIS (LaTeX)
 │   ├── main.tex                   # preámbulo, portada, resumen (\begin{resumen}), agradecimientos
@@ -86,7 +86,7 @@ Fuente autoritativa: `memoria/manual/Manual-de-normalizacion.md`. Lo esencial qu
 │   ├── context/                   # 9 contextos de módulo + general_context.md
 │   └── propuesta/                 # "Propuesta Memoria .pdf" y "Propuesta_Memoria.txt" (propuesta original)
 └── french_deputies/               # TODO el trabajo empírico (datos + análisis)
-    ├── README.md, ESTRUCTURA.md
+    ├── README.md, estructura.md
     ├── datos_diputados/           # cohorte única -> processed/deputes_2017_2022.csv (668 diputados)
     ├── twitter_zeeschuimer/       # captura de tuits (Zeeschuimer) + merge con cohorte
     ├── lois_votes/                # leyes+enmiendas (open data AN + Légifrance/PISTE) + votos
@@ -96,7 +96,7 @@ Fuente autoritativa: `memoria/manual/Manual-de-normalizacion.md`. Lo esencial qu
     ├── manifestoberta_analysis/   # clasificación supervisada MARPOR (núcleo)
     ├── ches_analysis/             # validación RILE vs CHES 2019
     ├── party_analysis/            # 3 análisis: declarada / revelada / cruce
-    └── kg-gen/                    # demo experimental acotado (LLM local), fuera del pipeline
+    └── kg_gen/                    # demo experimental acotado (LLM local), fuera del pipeline
 ```
 
 - **Lógica del pipeline:** `datos_diputados/` (cohorte, clave `id`) → {tweets, manifiestos, hemiciclo, leyes/enmiendas} → {BERTopic, ManifestoBERTa} → {ches_analysis, party_analysis}. Nada aguas abajo funciona sin la cohorte ni sin `predictions.csv`.

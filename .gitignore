@@ -18,9 +18,6 @@ env/
 # Opcional: descomenta si no quieres versionar estos (pesados)
 # *.zip
 
-# Capturas Zeeschuimer: suelen superar el límite de 100 MB de GitHub
-french_deputies/zeeschuimer/captures/*.ndjson
-
 # Datos masivos (descargar de nuevo con los scripts si hace falta)
 french_deputies/datos_diputados/data/*.zip
 french_deputies/lois_votes/votes_rd/*.json.zip
@@ -45,9 +42,7 @@ french_deputies/hemicycle/processed/interventions_xv_2017_2022_with_deputies.csv
 french_deputies/hemicycle/processed/interventions_xv_2017_2022_texts.csv.gz
 french_deputies/hemicycle/processed/interventions_xv_2017_2022_meta.csv.gz
 
-# Zeeschuimer: CSVs procesados pesados (regenerar con merge_zeeschuimer_with_deputies.py)
-french_deputies/zeeschuimer/processed/tweets_with_deputies.csv
-french_deputies/zeeschuimer/processed/tweets_text_only.csv
+# Twitter (Zeeschuimer): capturas .ndjson (superan los 100 MB de GitHub) y CSVs procesados pesados (regenerar con merge_zeeschuimer_with_deputies.py)
 french_deputies/twitter_zeeschuimer/processed/tweets_with_deputies.csv
 french_deputies/twitter_zeeschuimer/processed/tweets_text_only.csv
 french_deputies/twitter_zeeschuimer/captures/*.ndjson
@@ -65,11 +60,11 @@ french_deputies/manifestoberta_analysis/**/results/
 french_deputies/manifestoberta_analysis/validation/
 
 # KG-Gen: outputs del demo (regenerar con scripts/01..03 + Ollama local)
-french_deputies/kg-gen/data/
-french_deputies/kg-gen/results/
+french_deputies/kg_gen/data/
+french_deputies/kg_gen/results/
 
 # LaTeX de la memoria: repo aparte (TinSolis/memoria_french_deputies, sincronizado con Overleaf)
-memoria_latex/
+manuscrito/
 
 # Respaldos y duplicados locales
 archivo/
@@ -77,4 +72,4 @@ archivo/
 # Defensa: el repo es público; solo se versiona la presentación final
 defensa/*
 !defensa/README.md
-!defensa/Presentacion_Defensa.pdf
+!defensa/presentacion_defensa.pdf

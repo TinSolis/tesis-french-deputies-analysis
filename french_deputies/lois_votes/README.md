@@ -1,6 +1,6 @@
 # Leyes, enmiendas y votos — Assemblée nationale, XVe législature (2017–2022)
 
-Este bloque conecta **qué se votó** con **cómo votó cada diputado** y **cuál es el texto de la ley o de la enmienda**. Todos los datos provienen de fuentes oficiales con licencia ouverte. El marco general de la investigación está en la memoria final (`Memoria_Agustin_Solis_Meza.pdf`) y en la propuesta original (`docs/propuesta_memoria/`).
+Este bloque conecta **qué se votó** con **cómo votó cada diputado** y **cuál es el texto de la ley o de la enmienda**. Todos los datos provienen de fuentes oficiales con licencia ouverte. El marco general de la investigación está en la memoria final (`memoria_agustin_solis_meza.pdf`) y en la propuesta original (`documentos/propuesta_memoria/`).
 
 ---
 
@@ -68,7 +68,7 @@ ZIP directos de la AN:
 ```
 lois_votes/
 ├── .env.example              ← plantilla de credenciales PISTE (copiar como .env)
-├── README_LOIS_VOTES.md      ← este archivo
+├── README.md      ← este archivo
 ├── scripts/
 │   ├── download_an_scrutins_and_dossiers.py   ← Paso 1: scrutins + dossiers
 │   ├── download_amendements.py                ← Paso 1b: zip de enmiendas (con reanudación)

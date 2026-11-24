@@ -10,31 +10,35 @@ Proyecto de datos: diputados de la Assemblée nationale (XV legislatura, 2017-20
 
 **Documentos de referencia:**
 
-- **Memoria final (PDF defendido):** [`Memoria_Agustin_Solis_Meza.pdf`](Memoria_Agustin_Solis_Meza.pdf)
-- **Fuente LaTeX de la memoria** (repo aparte, sincronizado con Overleaf): [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies). Localmente vive clonado en `memoria_latex/`, que este repo ignora.
-- **Presentación de la defensa:** [`defensa/Presentacion_Defensa.pdf`](defensa/Presentacion_Defensa.pdf)
-- **Propuesta original** que encuadra la investigación: [`docs/propuesta_memoria/Propuesta_Memoria.pdf`](docs/propuesta_memoria/Propuesta_Memoria.pdf)
-- **Contexto completo del proyecto** (para retomar o pasarle a otra IA): [`Context/`](Context/README.md)
+- **Memoria final (PDF defendido):** [`memoria_agustin_solis_meza.pdf`](memoria_agustin_solis_meza.pdf)
+- **Fuente LaTeX de la memoria** (repo aparte, sincronizado con Overleaf): [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies). Localmente vive clonado en `manuscrito/`, que este repo ignora.
+- **Presentación de la defensa:** [`defensa/presentacion_defensa.pdf`](defensa/presentacion_defensa.pdf)
+- **Propuesta original** que encuadra la investigación: [`documentos/propuesta_memoria/propuesta_memoria.pdf`](documentos/propuesta_memoria/propuesta_memoria.pdf)
+- **Contexto completo del proyecto** (para retomar o pasarle a otra IA): [`contexto/`](contexto/README.md)
 
 ## Estructura del repositorio
 
 ```
-1_Memoria_Ing_Civil/
+memoria_ing_civil/
 ├── README.md                              ← estás aquí
-├── Memoria_Agustin_Solis_Meza.pdf         ← memoria final defendida
-├── REFERENCIAS.md                         ← papers y recursos, con qué rol cumplen
-├── Context/                               ← hub de contexto (visión general, tesis escrita, módulos)
-├── docs/
+├── memoria_agustin_solis_meza.pdf         ← memoria final defendida
+├── contexto/                              ← hub de contexto (empezar por contexto/README.md)
+│   ├── contexto_general.md                ← visión integral del proyecto
+│   ├── preferencias_y_estilo.md           ← cómo trabajo y cómo me gusta que me ayuden
+│   ├── referencias.md                     ← papers y recursos, con qué rol cumplen
+│   ├── manuscrito/                        ← estructura final de la memoria y planificación histórica
+│   └── pipeline/01_… a 09_…               ← un documento por módulo de french_deputies/
+├── documentos/
 │   ├── propuesta_memoria/                 ← propuesta original (PDF, TXT, MD)
 │   ├── manual_normalizacion/              ← manual de formato FCFM
 │   └── feedback_coguia_franziska.txt      ← feedback de la co-guía sobre el borrador
 ├── defensa/                               ← presentación final (los borradores y notas no se versionan)
-├── memoria_latex/                         ← (local, ignorado) clon del repo LaTeX/Overleaf
+├── manuscrito/                            ← (local, ignorado) clon del repo LaTeX/Overleaf
 ├── archivo/                               ← (local, ignorado) respaldos y duplicados
 │
 └── french_deputies/
     ├── README.md
-    ├── ESTRUCTURA.md
+    ├── estructura.md
     │
     ├── datos_diputados/                   ← CSV maestro de 668 diputados (id, grupo, Twitter)
     ├── hemicycle/                         ← ~950k intervenciones del hemiciclo (Regards Citoyens)
@@ -61,7 +65,7 @@ Proyecto de datos: diputados de la Assemblée nationale (XV legislatura, 2017-20
     │   ├── tweets/run.py
     │   └── interventions/run.py
     │
-    └── kg-gen/                            ← demo acotado de extracción de triples (Ollama + qwen2.5:3b)
+    └── kg_gen/                            ← demo acotado de extracción de triples (Ollama + qwen2.5:3b)
         ├── README.md
         └── scripts/01_build_sample.py … 03_analyze.py
 ```
@@ -88,7 +92,7 @@ Los tres módulos toman los **mismos cinco corpus** (manifestos, amendements, lo
 |---|---|---|---|
 | **`bertopic_analysis/`** | No supervisado: descubre tópicos por embeddings + UMAP + HDBSCAN, los reduce a 25 con c-TF-IDF | Por fuente: `topic_info.csv`, `top_words_per_topic.csv`, `topics_per_<class>.csv`, `summary.json`, HTMLs interactivos | [link](french_deputies/bertopic_analysis/README.md) |
 | **`manifestoberta_analysis/`** | Supervisado: clasifica cada doc en una de las 56 categorías MARPOR + 7 dominios (xlm-roberta-large fine-tuneado por el Manifesto Project) | Por fuente: `predictions.csv` (top-1/2/3 + probs), `topic_distribution.csv`, `domain_distribution.csv`, `summary.json` + reporte de validación contra `cmp_code` humano | [link](french_deputies/manifestoberta_analysis/README.md) |
-| **`kg-gen/`** | Demo acotado: extracción de triples (sujeto, predicado, objeto) con LLM local sobre 25 intervenciones de un debate emblemático | `triples.csv`, `stats.json`, `timing.json`, `graph.png` | [link](french_deputies/kg-gen/README.md) |
+| **`kg_gen/`** | Demo acotado: extracción de triples (sujeto, predicado, objeto) con LLM local sobre 25 intervenciones de un debate emblemático | `triples.csv`, `stats.json`, `timing.json`, `graph.png` | [link](french_deputies/kg_gen/README.md) |
 
 > BERTopic y ManifestoBERTa son complementarios: el primero muestra **qué temáticas emergen del corpus** con su vocabulario propio (`macron`, `ukraine`, `covid`); el segundo muestra **dónde caen esos tópicos en la grilla MARPOR** que la ciencia política comparada usa desde 1979. KG-Gen quedó documentado como referencia empírica de lo que costaría aplicar extracción de grafos sobre el corpus completo (~31 días de cómputo solo para intervenciones), no como un módulo del pipeline final.
 
@@ -105,7 +109,7 @@ deputes_2017_2022.csv (id, grupo político, Twitter)
               ▼
     bertopic_analysis/            → tópicos emergentes por fuente
     manifestoberta_analysis/      → categorías MARPOR por fuente
-    kg-gen/                       → triples (sujeto, predicado, objeto) sobre una muestra
+    kg_gen/                       → triples (sujeto, predicado, objeto) sobre una muestra
 ```
 
 La triangulación cruzada permite ver si los temas que un partido **promete** (manifesto) coinciden con lo que sus diputados **dicen en el hemiciclo**, **votan en leyes** y **publican en Twitter**.
@@ -115,7 +119,7 @@ La triangulación cruzada permite ver si los temas que un partido **promete** (m
 | Necesito… | Abro… |
 |---|---|
 | Visión general de `french_deputies/` | [`french_deputies/README.md`](french_deputies/README.md) |
-| Estructura completa de archivos | [`french_deputies/ESTRUCTURA.md`](french_deputies/ESTRUCTURA.md) |
+| Estructura completa de archivos | [`french_deputies/estructura.md`](french_deputies/estructura.md) |
 | Cómo armé la lista de diputados | [`french_deputies/datos_diputados/README.md`](french_deputies/datos_diputados/README.md) |
 | Intervenciones en el hemiciclo | [`french_deputies/hemicycle/README.md`](french_deputies/hemicycle/README.md) |
 | Leyes y votaciones | [`french_deputies/lois_votes/votes_rd/README.md`](french_deputies/lois_votes/votes_rd/README.md) |
@@ -125,5 +129,5 @@ La triangulación cruzada permite ver si los temas que un partido **promete** (m
 | Clasificación ManifestoBERTa (5 fuentes) | [`french_deputies/manifestoberta_analysis/README.md`](french_deputies/manifestoberta_analysis/README.md) |
 | Validación RILE vs CHES 2019 | [`french_deputies/ches_analysis/README.md`](french_deputies/ches_analysis/README.md) |
 | Agenda declarada, revelada y el cruce | [`french_deputies/party_analysis/README.md`](french_deputies/party_analysis/README.md) |
-| Demo KG-Gen sobre intervenciones | [`french_deputies/kg-gen/README.md`](french_deputies/kg-gen/README.md) |
-| Contexto completo (para retomar o para otra IA) | [`Context/README.md`](Context/README.md) |
+| Demo KG-Gen sobre intervenciones | [`french_deputies/kg_gen/README.md`](french_deputies/kg_gen/README.md) |
+| Contexto completo (para retomar o para otra IA) | [`contexto/README.md`](contexto/README.md) |

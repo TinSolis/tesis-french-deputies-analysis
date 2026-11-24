@@ -13,8 +13,8 @@ La **XVe legislatura (2017–2022)** es la que coincide con `datos_diputados/pro
 | **`fuente/`** | Contiene los `*_ND##_interventions_hemicycle_rich.tsv.gz` descargados de Regards Citoyens (ND13, ND14, ND15, ND16 según disponibilidad). No se versionan en Git por su peso. Si **solo** hay ND15 en `fuente/`, el script **no sobrescribe** el agregado de otras legislaturas (`interventions_xiii_xiv_xvi_speaker_text.csv.gz`), para no borrar trabajo previo por accidente. |
 | **`processed/`** | Salidas listas para analizar (CSV o `.csv.gz`). |
 | **`scripts/`** | `build_interventions_with_deputies.py` y `report_hemicycle_stats.py`. |
-| **`GUIA_IDENTIFICADORES_TESIS.md`** | Diccionario de columnas y explicación de cómo se cruzan con votos y Twitter. |
-| **`RESUMEN_CUANTITATIVO.md`** | Cifras y tabla de tipos; se **regenera** con el script de reporte cada vez que cambia la fuente. |
+| **`guia_identificadores.md`** | Diccionario de columnas y explicación de cómo se cruzan con votos y Twitter. |
+| **`resumen_cuantitativo.md`** | Cifras y tabla de tipos; se **regenera** con el script de reporte cada vez que cambia la fuente. |
 
 ---
 
@@ -27,7 +27,7 @@ La **XVe legislatura (2017–2022)** es la que coincide con `datos_diputados/pro
 - **Rol:** **`fonction`** (presidente, ponente, etc.), útil para filtrar protocolo vs. argumentación.
 - **Citación al acta:** **`source_url`** y los campos **`cri_*`**.
 
-Más detalle en **[GUIA_IDENTIFICADORES_TESIS.md](GUIA_IDENTIFICADORES_TESIS.md)**.
+Más detalle en **[guia_identificadores.md](guia_identificadores.md)**.
 
 ---
 
@@ -66,7 +66,7 @@ with gzip.open(path, "rt", encoding="utf-8") as f:
 
 ## Resumen cuantitativo (orden de magnitud)
 
-Las cifras exactas y la tabla de **`type`** están en **[RESUMEN_CUANTITATIVO.md](RESUMEN_CUANTITATIVO.md)**, que se actualiza con `report_hemicycle_stats.py` en cada regeneración de las tablas.
+Las cifras exactas y la tabla de **`type`** están en **[resumen_cuantitativo.md](resumen_cuantitativo.md)**, que se actualiza con `report_hemicycle_stats.py` en cada regeneración de las tablas.
 
 En términos generales: ND15 tiene del orden de **~950 000** intervenciones (turnos en el acta, no “discursos” de campaña). Casi **dos tercios** se pueden enlazar a un diputado de la lista (**`deputy_id`**), lo que cubre del orden de **650** diputados distintos (el número preciso está en el resumen). El acta separa sobre todo tramos de tipo **`loi`** y **`question`**; los títulos de **`section`** sirven como proxy de tema, no como lista de leyes numeradas.
 
@@ -78,7 +78,7 @@ Los votos en **`leyes_votadas_2017_2022.csv`** están en otra granularidad (una 
 
 | Para… | Consultar… |
 |-----------|--------|
-| Diccionario de columnas | [GUIA_IDENTIFICADORES_TESIS.md](GUIA_IDENTIFICADORES_TESIS.md) |
-| Cifras | [RESUMEN_CUANTITATIVO.md](RESUMEN_CUANTITATIVO.md) |
+| Diccionario de columnas | [guia_identificadores.md](guia_identificadores.md) |
+| Cifras | [resumen_cuantitativo.md](resumen_cuantitativo.md) |
 | Diputados | `../datos_diputados/processed/deputes_2017_2022.csv` |
-| Leyes y votos | `../lois_votes/README_LOIS_VOTES.md` |
+| Leyes y votos | `../lois_votes/README.md` |
