@@ -1,71 +1,61 @@
-# Memoria de Ingeniería Civil en Computación — Diputados franceses, discursos, votos, Twitter y manifiestos (2017-2022)
+# Memoria de Ingeniería Civil en Computación
 
-> **Estado: cerrada.** Defendida el 16 de noviembre de 2026 y aprobada por la comisión (Claudio Gutiérrez Gallardo, Nicolás Varas Cortés). Guía: Valentin Clement Barriere. Co-guía: Franziska Christl Wagner. Título obtenido: Ingeniero Civil en Computación, Universidad de Chile.
->
-> Este repositorio queda congelado como registro de la memoria. El trabajo nuevo continúa en la tesis de Magíster en Ciencia de Datos, en un repositorio aparte.
+*Clasificación temática y análisis de la relación entre el discurso político y las votaciones parlamentarias: aplicación a la Asamblea Nacional francesa.*
 
-**Título:** *Clasificación temática y análisis de la relación entre el discurso político y las votaciones parlamentarias: aplicación a la Asamblea Nacional francesa.*
+Este es el repo de mi memoria de Ingeniería Civil en Computación en la Universidad de Chile. La defendí el 16 de noviembre de 2026 ante la comisión (Claudio Gutiérrez Gallardo y Nicolás Varas Cortés) y me aprobaron, así que el repo queda tal como estaba al momento de la defensa. Mi profesor guía fue Valentin Barriere y mi profesora co-guía, Franziska Wagner.
 
-Proyecto de datos: diputados de la Assemblée nationale (XV legislatura, 2017-2022), sus intervenciones en el hemiciclo, votaciones sobre leyes, actividad en Twitter y programas electorales de sus partidos. Sobre esos cinco corpus se aplican tres módulos de análisis: **BERTopic** (no supervisado), **ManifestoBERTa** (supervisado, taxonomía MARPOR) y un demo acotado de **KG-Gen** (extracción de triples con LLM local).
+En la memoria trabajé con los diputados de la Asamblea Nacional francesa de la XV legislatura (2017-2022): sus intervenciones en el hemiciclo, sus votos en leyes y enmiendas, lo que publicaban en Twitter y los programas electorales de sus partidos. Sobre esos cinco corpus apliqué BERTopic (no supervisado), ManifestoBERTa (supervisado, con la taxonomía MARPOR) y una prueba acotada de KG-Gen para extraer triples con un LLM local.
 
-**Documentos de referencia:**
+Lo más importante para revisar:
 
-- **Memoria final (PDF defendido):** [`memoria_agustin_solis_meza.pdf`](memoria_agustin_solis_meza.pdf)
-- **Fuente LaTeX de la memoria** (repo aparte, sincronizado con Overleaf): [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies). Localmente vive clonado en `manuscrito/`, que este repo ignora.
-- **Presentación de la defensa:** [`defensa/presentacion_defensa.pdf`](defensa/presentacion_defensa.pdf)
-- **Propuesta original** que encuadra la investigación: [`documentos/propuesta_memoria/propuesta_memoria.pdf`](documentos/propuesta_memoria/propuesta_memoria.pdf)
-- **Contexto completo del proyecto** (para retomar o pasarle a otra IA): [`contexto/`](contexto/README.md)
+- La memoria final que defendí: [`memoria_agustin_solis_meza.pdf`](memoria_agustin_solis_meza.pdf)
+- La presentación de la defensa: [`defensa/presentacion_defensa.pdf`](defensa/presentacion_defensa.pdf)
+- La propuesta con que partí: [`documentos/propuesta_memoria/propuesta_memoria.pdf`](documentos/propuesta_memoria/propuesta_memoria.pdf)
+- El LaTeX, que está en otro repo sincronizado con Overleaf: [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies)
+- Mis notas de trabajo, por si quiero retomar algo: [`contexto/`](contexto/README.md)
 
 ## Estructura del repositorio
 
 ```
 memoria_ing_civil/
-├── README.md                              ← estás aquí
-├── memoria_agustin_solis_meza.pdf         ← memoria final defendida
-├── contexto/                              ← hub de contexto (empezar por contexto/README.md)
-│   ├── contexto_general.md                ← visión integral del proyecto
-│   ├── preferencias_y_estilo.md           ← cómo trabajo y cómo me gusta que me ayuden
-│   ├── referencias.md                     ← papers y recursos, con qué rol cumplen
-│   ├── manuscrito/                        ← estructura final de la memoria y planificación histórica
-│   └── pipeline/01_… a 09_…               ← un documento por módulo de french_deputies/
-├── documentos/
-│   ├── propuesta_memoria/                 ← propuesta original (PDF, TXT, MD)
-│   ├── manual_normalizacion/              ← manual de formato FCFM
-│   └── feedback_coguia_franziska.txt      ← feedback de la co-guía sobre el borrador
-├── defensa/                               ← presentación final (los borradores y notas no se versionan)
-├── manuscrito/                            ← (local, ignorado) clon del repo LaTeX/Overleaf
-├── archivo/                               ← (local, ignorado) respaldos y duplicados
+├── README.md
+├── memoria_agustin_solis_meza.pdf         memoria final defendida
+├── contexto/                              mis notas de trabajo (partir por contexto_general.md)
+├── documentos/                            propuesta, manual de formato FCFM y feedback de la co-guía
+├── defensa/                               presentación final (los borradores quedan en local)
+├── manuscrito/                            clon local del repo LaTeX (este repo lo ignora)
+├── archivo/                               respaldos locales (no se suben)
 │
 └── french_deputies/
     ├── README.md
     ├── estructura.md
     │
-    ├── datos_diputados/                   ← CSV maestro de 668 diputados (id, grupo, Twitter)
-    ├── hemicycle/                         ← ~950k intervenciones del hemiciclo (Regards Citoyens)
-    ├── lois_votes/                        ← 373 leyes XV con texto JORF + votos por diputado
-    ├── twitter_zeeschuimer/               ← tweets capturados con Zeeschuimer y cruzados con la cohorte
-    ├── manifestos/                        ← programas electorales 2017 (MARPOR + texto completo)
+    ├── datos_diputados/                   CSV maestro de 668 diputados (id, grupo, Twitter)
+    ├── hemicycle/                         ~950k intervenciones del hemiciclo (Regards Citoyens)
+    ├── lois_votes/                        373 leyes XV con texto JORF + votos por diputado
+    ├── twitter_zeeschuimer/               tweets capturados con Zeeschuimer y cruzados con la cohorte
+    ├── manifestos/                        programas electorales 2017 (MARPOR + texto completo)
     │
-    ├── bertopic_analysis/                 ← topic modeling no supervisado sobre los 5 corpus
+    ├── bertopic_analysis/                 topic modeling no supervisado sobre los 5 corpus
     │   ├── README.md
-    │   ├── common/bertopic_runner.py      ← pipeline compartido (embed → UMAP → HDBSCAN → c-TF-IDF)
+    │   ├── common/bertopic_runner.py      pipeline compartido (embed → UMAP → HDBSCAN → c-TF-IDF)
     │   ├── manifestos/run.py
     │   ├── amendements/run.py
     │   ├── lois/run.py
     │   ├── tweets/run.py
     │   └── interventions/run.py
     │
-    ├── manifestoberta_analysis/           ← clasificación supervisada MARPOR (56 categorías) sobre los 5 corpus
+    ├── manifestoberta_analysis/           clasificación supervisada MARPOR (56 categorías) sobre los 5 corpus
     │   ├── README.md
     │   ├── common/classifier_runner.py
-    │   ├── validate_against_marpor.py     ← accuracy top-1/3 + confusion matrix vs cmp_code humano
+    │   ├── validate_against_marpor.py     accuracy top-1/3 + confusion matrix vs cmp_code humano
     │   ├── manifestos/run.py
     │   ├── amendements/run.py
     │   ├── lois/run.py
     │   ├── tweets/run.py
     │   └── interventions/run.py
     │
-    └── kg_gen/                            ← demo acotado de extracción de triples (Ollama + qwen2.5:3b)
+    └── kg_gen/                            demo acotado de extracción de triples (Ollama + qwen2.5:3b)
         ├── README.md
         └── scripts/01_build_sample.py … 03_analyze.py
 ```
