@@ -1,6 +1,6 @@
 # Francia – diputados 2017-2022
 
-Esta carpeta reúne **todo el trabajo empírico** de la tesis sobre la XV legislatura francesa: la lista de diputados (Assemblée nationale + Twitter), la captura de timelines con Zeeschuimer, las leyes y votos del hemiciclo, las intervenciones parlamentarias, los manifiestos electorales y los tres módulos de análisis que se aplican sobre esos datos. La **memoria final** que documenta la investigación está en [`memoria/`](../memoria/); la **propuesta original** que la encuadra está en [`memoria/propuesta/`](../memoria/propuesta/).
+Esta carpeta reúne **todo el trabajo empírico** de la tesis sobre la XV legislatura francesa: la lista de diputados (Assemblée nationale + Twitter), la captura de timelines con Zeeschuimer, las leyes y votos del hemiciclo, las intervenciones parlamentarias, los manifiestos electorales y los tres módulos de análisis que se aplican sobre esos datos. La **memoria final** que documenta la investigación está en [`Memoria_Agustin_Solis_Meza.pdf`](../Memoria_Agustin_Solis_Meza.pdf) (fuente LaTeX en [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies)); la **propuesta original** que la encuadra está en [`docs/propuesta_memoria/`](../docs/propuesta_memoria/).
 
 La raíz de **french_deputies** contiene solo este **README** y **ESTRUCTURA.md** (índice de archivos); el resto se organiza en subcarpetas que separan fuentes, procesamiento y análisis.
 

@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Documenta cómo se obtuvieron los tweets de las cuentas de los diputados para la tesis. La captura se hace con **Zeeschuimer**, una extensión de navegador (Firefox) del [Digital Methods Initiative](https://github.com/digitalmethodsinitiative/zeeschuimer) que registra el tráfico que recibe el navegador durante la navegación. No es una API: se guarda lo que se muestra al hacer scroll en cada perfil. Luego los datos se procesan con scripts para quedarse con el texto de los tweets, que es el insumo principal del análisis de la memoria (ver `memoria/`; propuesta original en `memoria/propuesta/`).
+Documenta cómo se obtuvieron los tweets de las cuentas de los diputados para la tesis. La captura se hace con **Zeeschuimer**, una extensión de navegador (Firefox) del [Digital Methods Initiative](https://github.com/digitalmethodsinitiative/zeeschuimer) que registra el tráfico que recibe el navegador durante la navegación. No es una API: se guarda lo que se muestra al hacer scroll en cada perfil. Luego los datos se procesan con scripts para quedarse con el texto de los tweets, que es el insumo principal del análisis de la memoria (ver `Memoria_Agustin_Solis_Meza.pdf`; propuesta original en `docs/propuesta_memoria/`).
 
 ---
 
@@ -72,4 +72,4 @@ El script lee todos los `.ndjson`, extrae texto y metadatos de cada tweet, cruza
 | Lista de diputados con Twitter | `datos_diputados/processed/deputes_2017_2022.csv` |
 | Captura | Cuenta por cuenta: autoscroller ~15 min (~400 tweets), export ndjson a `captures/` |
 | Procesar | `merge_zeeschuimer_with_deputies.py` → `processed/*.csv` |
-| Para la tesis | Se usa el texto de los tweets a partir de esos CSV; ver la memoria en `memoria/`. |
+| Para la tesis | Se usa el texto de los tweets a partir de esos CSV; ver `Memoria_Agustin_Solis_Meza.pdf`. |

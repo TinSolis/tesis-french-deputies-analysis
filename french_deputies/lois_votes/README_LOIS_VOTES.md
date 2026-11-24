@@ -1,6 +1,6 @@
 # Leyes, enmiendas y votos — Assemblée nationale, XVe législature (2017–2022)
 
-Este bloque conecta **qué se votó** con **cómo votó cada diputado** y **cuál es el texto de la ley o de la enmienda**. Todos los datos provienen de fuentes oficiales con licencia ouverte. El marco general de la investigación está en la memoria final (`memoria/`) y en la propuesta original (`memoria/propuesta/`).
+Este bloque conecta **qué se votó** con **cómo votó cada diputado** y **cuál es el texto de la ley o de la enmienda**. Todos los datos provienen de fuentes oficiales con licencia ouverte. El marco general de la investigación está en la memoria final (`Memoria_Agustin_Solis_Meza.pdf`) y en la propuesta original (`docs/propuesta_memoria/`).
 
 ---
 

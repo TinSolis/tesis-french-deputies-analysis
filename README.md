@@ -1,19 +1,36 @@
-# Tesis — Diputados franceses, discursos, votos, Twitter y manifiestos (2017-2022)
+# Memoria de Ingeniería Civil en Computación — Diputados franceses, discursos, votos, Twitter y manifiestos (2017-2022)
 
-Proyecto de datos para la tesis: diputados de la Assemblée nationale (XV legislatura, 2017-2022), sus intervenciones en el hemiciclo, votaciones sobre leyes, actividad en Twitter y programas electorales de sus partidos. Sobre esos cinco corpus se aplican tres módulos de análisis: **BERTopic** (no supervisado), **ManifestoBERTa** (supervisado, taxonomía MARPOR) y un demo acotado de **KG-Gen** (extracción de triples con LLM local).
+> **Estado: cerrada.** Defendida el 16 de noviembre de 2026 y aprobada por la comisión (Claudio Gutiérrez Gallardo, Nicolás Varas Cortés). Guía: Valentin Clement Barriere. Co-guía: Franziska Christl Wagner. Título obtenido: Ingeniero Civil en Computación, Universidad de Chile.
+>
+> Este repositorio queda congelado como registro de la memoria. El trabajo nuevo continúa en la tesis de Magíster en Ciencia de Datos, en un repositorio aparte.
+
+**Título:** *Clasificación temática y análisis de la relación entre el discurso político y las votaciones parlamentarias: aplicación a la Asamblea Nacional francesa.*
+
+Proyecto de datos: diputados de la Assemblée nationale (XV legislatura, 2017-2022), sus intervenciones en el hemiciclo, votaciones sobre leyes, actividad en Twitter y programas electorales de sus partidos. Sobre esos cinco corpus se aplican tres módulos de análisis: **BERTopic** (no supervisado), **ManifestoBERTa** (supervisado, taxonomía MARPOR) y un demo acotado de **KG-Gen** (extracción de triples con LLM local).
 
 **Documentos de referencia:**
 
-- **Memoria final** (tesis escrita en LaTeX): [`memoria/`](memoria/)
-- **Propuesta original** que encuadra la investigación: [`memoria/propuesta/Propuesta Memoria .pdf`](memoria/propuesta/Propuesta%20Memoria%20.pdf)
+- **Memoria final (PDF defendido):** [`Memoria_Agustin_Solis_Meza.pdf`](Memoria_Agustin_Solis_Meza.pdf)
+- **Fuente LaTeX de la memoria** (repo aparte, sincronizado con Overleaf): [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies). Localmente vive clonado en `memoria_latex/`, que este repo ignora.
+- **Presentación de la defensa:** [`defensa/Presentacion_Defensa.pdf`](defensa/Presentacion_Defensa.pdf)
+- **Propuesta original** que encuadra la investigación: [`docs/propuesta_memoria/Propuesta_Memoria.pdf`](docs/propuesta_memoria/Propuesta_Memoria.pdf)
+- **Contexto completo del proyecto** (para retomar o pasarle a otra IA): [`Context/`](Context/README.md)
 
 ## Estructura del repositorio
 
 ```
-Tesis/
+1_Memoria_Ing_Civil/
 ├── README.md                              ← estás aquí
-├── memoria/                               ← memoria final (tesis escrita en LaTeX)
-│   └── propuesta/Propuesta Memoria .pdf   ← propuesta original de la investigación
+├── Memoria_Agustin_Solis_Meza.pdf         ← memoria final defendida
+├── REFERENCIAS.md                         ← papers y recursos, con qué rol cumplen
+├── Context/                               ← hub de contexto (visión general, tesis escrita, módulos)
+├── docs/
+│   ├── propuesta_memoria/                 ← propuesta original (PDF, TXT, MD)
+│   ├── manual_normalizacion/              ← manual de formato FCFM
+│   └── feedback_coguia_franziska.txt      ← feedback de la co-guía sobre el borrador
+├── defensa/                               ← presentación final (los borradores y notas no se versionan)
+├── memoria_latex/                         ← (local, ignorado) clon del repo LaTeX/Overleaf
+├── archivo/                               ← (local, ignorado) respaldos y duplicados
 │
 └── french_deputies/
     ├── README.md
@@ -106,4 +123,7 @@ La triangulación cruzada permite ver si los temas que un partido **promete** (m
 | Manifiestos electorales (MARPOR) | [`french_deputies/manifestos/README.md`](french_deputies/manifestos/README.md) |
 | Análisis BERTopic (5 fuentes) | [`french_deputies/bertopic_analysis/README.md`](french_deputies/bertopic_analysis/README.md) |
 | Clasificación ManifestoBERTa (5 fuentes) | [`french_deputies/manifestoberta_analysis/README.md`](french_deputies/manifestoberta_analysis/README.md) |
+| Validación RILE vs CHES 2019 | [`french_deputies/ches_analysis/README.md`](french_deputies/ches_analysis/README.md) |
+| Agenda declarada, revelada y el cruce | [`french_deputies/party_analysis/README.md`](french_deputies/party_analysis/README.md) |
 | Demo KG-Gen sobre intervenciones | [`french_deputies/kg-gen/README.md`](french_deputies/kg-gen/README.md) |
+| Contexto completo (para retomar o para otra IA) | [`Context/README.md`](Context/README.md) |

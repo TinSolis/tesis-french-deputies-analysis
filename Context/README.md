@@ -1,11 +1,24 @@
 # Context — hub de contexto de la tesis
 
-Carpeta externa que reúne **todo el contexto** del proyecto de tesis (diputados franceses, XV legislatura 2017–2022) en un solo lugar y ordenado. Sirve para: retomar el trabajo, pasarle contexto a otro chat/IA, o entender el proyecto de cero.
+Reúne **todo el contexto** de la memoria de Ingeniería Civil en Computación (diputados franceses, XV legislatura 2017–2022) en un solo lugar. Sirve para retomar el trabajo, pasarle contexto a otro chat/IA o entender el proyecto de cero.
 
-> Es una **copia consolidada** para consulta. Los originales "vivos" siguen en
-> `memoria/context/` (contextos del proyecto) y en el propio repo. Si edito mucho aquí
-> y quiero que sea la fuente de verdad, conviene decidir una sola ubicación para no
-> duplicar.
+> **Estado: memoria cerrada.** Defendida el 16-nov-2026 y aprobada por la comisión. Este hub es la **única fuente de verdad** del contexto de la memoria (la antigua carpeta `memoria/context/` se eliminó del repo por ser un duplicado exacto).
+>
+> La tesis de Magíster (MDS) tiene su propio hub de contexto en `../2_Tesis_Magister_MDS/Context/`.
+
+## Rutas antiguas que aparecen dentro de los documentos
+
+Los documentos se escribieron antes de reordenar el repo y citan rutas viejas. Equivalencias:
+
+| Ruta citada en los textos | Ruta actual |
+|---|---|
+| `memoria/` (LaTeX) | `memoria_latex/` (repo aparte [TinSolis/memoria_french_deputies](https://github.com/TinSolis/memoria_french_deputies)) |
+| `memoria/main.pdf` | `Memoria_Agustin_Solis_Meza.pdf` (versión final defendida) |
+| `memoria/context/<nombre>.md` | `Context/…` (ver el mapa de nombres más abajo) |
+| `memoria/propuesta/` | `docs/propuesta_memoria/` |
+| `memoria/manual/Manual-de-normalizacion.md` | `docs/manual_normalizacion/Manual-de-normalizacion.md` |
+| `Context.md` | `Context/0_como_trabajo/preferencias_y_estilo.md` |
+| `feedback.txt` | `docs/feedback_coguia_franziska.txt` |
 
 ## Por dónde empezar
 
@@ -64,7 +77,3 @@ Los documentos se **renombraron** para que sean más intuitivos. Ojo: las refere
 | `3_modulos_del_pipeline/7_manifestoberta.md` | `manifestoberta_analysis_context.md` |
 | `3_modulos_del_pipeline/8_validacion_ches.md` | `ches_analysis_context.md` |
 | `3_modulos_del_pipeline/9_party_analysis.md` | `party_analysis_context.md` |
-
-## Nota sobre duplicación
-
-Estos archivos son una copia de `memoria/context/` (más el `Context.md` de preferencias). Si querés que `Context/` sea la **única** fuente de verdad, se pueden borrar los de `memoria/context/` y dejar solo este hub (o viceversa). Hoy conviven ambos.

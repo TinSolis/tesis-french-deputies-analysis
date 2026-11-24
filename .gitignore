@@ -68,16 +68,13 @@ french_deputies/manifestoberta_analysis/validation/
 french_deputies/kg-gen/data/
 french_deputies/kg-gen/results/
 
-# LaTeX: artefactos de compilación de la memoria (Overleaf los regenera)
-memoria/*.aux
-memoria/*.log
-memoria/*.out
-memoria/*.toc
-memoria/*.lof
-memoria/*.lot
-memoria/*.bbl
-memoria/*.blg
-memoria/*.synctex.gz
-memoria/*.fls
-memoria/*.fdb_latexmk
-memoria/main.pdf
+# LaTeX de la memoria: repo aparte (TinSolis/memoria_french_deputies, sincronizado con Overleaf)
+memoria_latex/
+
+# Respaldos y duplicados locales
+archivo/
+
+# Defensa: el repo es público; solo se versiona la presentación final
+defensa/*
+!defensa/README.md
+!defensa/Presentacion_Defensa.pdf
